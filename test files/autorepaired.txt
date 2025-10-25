@@ -1,0 +1,328 @@
+
+≡ƒöº LAUNCHING FIXED GLYPHWHEEL ENGINE ≡ƒöº
+
+This version fixes the entropy oscillation problem!
+No more endless stress test loops.
+
+Starting in 3 seconds...
+
+[13:06:05.209] GLYPH_CREATED: {'name': 'RootVerse', 'initial_gsi': 0.87, 'type': 'anchor'}
+[13:06:05.209] GLYPH_CREATED: {'name': 'Aegis-Σ', 'initial_gsi': 0.85, 'type': 'anchor'}
+Warning: Could not write to log file: 'charmap' codec can't encode character '\u03a3' in position 46: character maps to <undefined>
+[13:06:05.210] GLYPH_CREATED: {'name': 'CoreStability', 'initial_gsi': 0.82, 'type': 'anchor'}
+[13:06:05.210] GLYPH_CREATED: {'name': 'ConsentGlyph', 'initial_gsi': 0.95, 'type': 'consent'}
+🔄 Initializing FIXED Glyphwheel with Full Interface...
+[13:06:05.211] GLYPH_CREATED: {'name': 'unstable_Φ', 'initial_gsi': 0.45, 'type': 'dynamic'}
+Warning: Could not write to log file: 'charmap' codec can't encode character '\u03a6' in position 49: character maps to <undefined>
+[13:06:05.211] GLYPH_CREATED: {'name': 'chaos_Ξ', 'initial_gsi': 0.38, 'type': 'dynamic'}
+Warning: Could not write to log file: 'charmap' codec can't encode character '\u039e' in position 46: character maps to <undefined>
+[13:06:05.212] GLYPH_CREATED: {'name': 'harmony_Ψ', 'initial_gsi': 0.62, 'type': 'dynamic'}
+Warning: Could not write to log file: 'charmap' codec can't encode character '\u03a8' in position 48: character maps to <undefined>
+✅ Fixed system initialized with full UI - no more decision loops!
+🚀 Starting web server...
+
+🔧 FIXED GLYPHWHEEL ENGINE WITH FULL UI! 🔧
+
+Your IMPROVED Glyphwheel system is now live at:
+👉 http://localhost:8080
+
+FIXES APPLIED:
+✅ Smarter entropy thresholds with hysteresis
+✅ Better action scoring prevents loops
+✅ 'ignore_threshold' now works reasonably
+✅ Anti-repetition logic breaks decision loops
+✅ New 'gentle_stabilization' option
+✅ Reduced intervention cooldowns
+✅ Pattern recognition prevents stuck states
+✅ FULL RICH UI with all controls and visualizations
+
+NO MORE OSCILLATION LOOPS! 🎉
+
+Press Ctrl+C to stop the server
+
+[13:07:51.230] ENTROPY_THRESHOLD_EVALUATION: {'entropy': 0.413605352667373, 'base_threshold': 0.15, 'effective_threshold': 0.15, 'margin': 0.26360535266737306}
+[13:07:51.230] IMPROVED_IDLE_MONITORING_STARTED: {'monitor_interval': 30, 'decay_rate': 0.0001}
+[13:07:51.232] IMPROVED_DECISION_EVALUATION_START: {'entropy_situation': {'level': 0.413605352667373, 'original_threshold': 0.15, 'effective_threshold': 0.15, 'margin': 0.26360535266737306, 'severity': 'well_above'}, 'context': {'entropy_level': 0.413605352667373, 'entropy_threshold': 0.15, 'effective_threshold': 0.15, 'entropy_margin': 0.26360535266737306, 'idle_duration_minutes': 4.128615061442057e-06, 'current_coherence': 0.4939999999999999, 'glyph_count': 7, 'total_connections': 0, 'time_since_last_intervention': 1758740871.2327695, 'recent_decision_pattern': 'no_history', 'consecutive_same_decisions': 0}}
+[13:07:51.233] IMPROVED_AUTONOMOUS_DECISION_MADE: {'timestamp': '13:07:51.232', 'context': {'entropy_level': 0.413605352667373, 'entropy_threshold': 0.15, 'effective_threshold': 0.15, 'entropy_margin': 0.26360535266737306, 'idle_duration_minutes': 4.128615061442057e-06, 'current_coherence': 0.4939999999999999, 'glyph_count': 7, 'total_connections': 0, 'time_since_last_intervention': 1758740871.2327695, 'recent_decision_pattern': 'no_history', 'consecutive_same_decisions': 0}, 'chosen_action': 'recovery_cycle', 'reasoning': 'Best choice: recovery_cycle (score: 85)', 'hysteresis_applied': False, 'decision_confidence': 85}
+[13:07:51.233] IMPROVED_AUTONOMOUS_ACTION_EXECUTION: {'action': 'recovery_cycle', 'reasoning': 'Best choice: recovery_cycle (score: 85)', 'entropy_level': 0.413605352667373}
+[13:07:51.233] GLYPH_CHANGE: {'name': 'unstable_Φ', 'old_gsi': 0.45, 'new_gsi': 0.478661, 'change': 0.028661, 'cause': 'recovery_cycle_0'}
+Warning: Could not write to log file: 'charmap' codec can't encode character '\u03a6' in position 48: character maps to <undefined>
+[13:07:51.234] GLYPH_CHANGE: {'name': 'chaos_Ξ', 'old_gsi': 0.38, 'new_gsi': 0.398475, 'change': 0.018475, 'cause': 'recovery_cycle_0'}
+Warning: Could not write to log file: 'charmap' codec can't encode character '\u039e' in position 45: character maps to <undefined>
+[13:07:51.234] GLYPH_CHANGE: {'name': 'harmony_Ψ', 'old_gsi': 0.62, 'new_gsi': 0.64197, 'change': 0.02197, 'cause': 'recovery_cycle_0'}
+Warning: Could not write to log file: 'charmap' codec can't encode character '\u03a8' in position 47: character maps to <undefined>
+[13:07:51.235] GLYPH_CHANGE: {'name': 'unstable_Φ', 'old_gsi': 0.478661, 'new_gsi': 0.503034, 'change': 0.024373, 'cause': 'recovery_cycle_1'}
+Warning: Could not write to log file: 'charmap' codec can't encode character '\u03a6' in position 48: character maps to <undefined>
+[13:07:51.235] GLYPH_CHANGE: {'name': 'chaos_Ξ', 'old_gsi': 0.398475, 'new_gsi': 0.424939, 'change': 0.026464, 'cause': 'recovery_cycle_1'}
+Warning: Could not write to log file: 'charmap' codec can't encode character '\u039e' in position 45: character maps to <undefined>
+[13:07:51.236] GLYPH_CHANGE: {'name': 'harmony_Ψ', 'old_gsi': 0.64197, 'new_gsi': 0.667179, 'change': 0.02521, 'cause': 'recovery_cycle_1'}
+Warning: Could not write to log file: 'charmap' codec can't encode character '\u03a8' in position 47: character maps to <undefined>
+[13:07:51.236] GLYPH_CHANGE: {'name': 'unstable_Φ', 'old_gsi': 0.503034, 'new_gsi': 0.51411, 'change': 0.011076, 'cause': 'recovery_cycle_2'}
+Warning: Could not write to log file: 'charmap' codec can't encode character '\u03a6' in position 48: character maps to <undefined>
+[13:07:51.236] GLYPH_CHANGE: {'name': 'chaos_Ξ', 'old_gsi': 0.424939, 'new_gsi': 0.45238, 'change': 0.027441, 'cause': 'recovery_cycle_2'}
+Warning: Could not write to log file: 'charmap' codec can't encode character '\u039e' in position 45: character maps to <undefined>
+[13:07:51.237] GLYPH_CHANGE: {'name': 'harmony_Ψ', 'old_gsi': 0.667179, 'new_gsi': 0.679915, 'change': 0.012735, 'cause': 'recovery_cycle_2'}
+Warning: Could not write to log file: 'charmap' codec can't encode character '\u03a8' in position 47: character maps to <undefined>
+[13:07:51.237] GLYPH_CHANGE: {'name': 'unstable_Φ', 'old_gsi': 0.51411, 'new_gsi': 0.543778, 'change': 0.029668, 'cause': 'recovery_cycle_3'}
+Warning: Could not write to log file: 'charmap' codec can't encode character '\u03a6' in position 48: character maps to <undefined>
+[13:07:51.237] GLYPH_CHANGE: {'name': 'chaos_Ξ', 'old_gsi': 0.45238, 'new_gsi': 0.466805, 'change': 0.014425, 'cause': 'recovery_cycle_3'}
+Warning: Could not write to log file: 'charmap' codec can't encode character '\u039e' in position 45: character maps to <undefined>
+[13:07:51.238] GLYPH_CHANGE: {'name': 'harmony_Ψ', 'old_gsi': 0.679915, 'new_gsi': 0.696988, 'change': 0.017073, 'cause': 'recovery_cycle_3'}
+Warning: Could not write to log file: 'charmap' codec can't encode character '\u03a8' in position 47: character maps to <undefined>
+[13:07:51.238] GLYPH_CHANGE: {'name': 'unstable_Φ', 'old_gsi': 0.543778, 'new_gsi': 0.566834, 'change': 0.023056, 'cause': 'recovery_cycle_4'}
+Warning: Could not write to log file: 'charmap' codec can't encode character '\u03a6' in position 48: character maps to <undefined>
+[13:07:51.238] GLYPH_CHANGE: {'name': 'chaos_Ξ', 'old_gsi': 0.466805, 'new_gsi': 0.483304, 'change': 0.016498, 'cause': 'recovery_cycle_4'}
+Warning: Could not write to log file: 'charmap' codec can't encode character '\u039e' in position 45: character maps to <undefined>
+[13:07:51.239] GLYPH_CHANGE: {'name': 'harmony_Ψ', 'old_gsi': 0.696988, 'new_gsi': 0.721113, 'change': 0.024125, 'cause': 'recovery_cycle_4'}
+Warning: Could not write to log file: 'charmap' codec can't encode character '\u03a8' in position 47: character maps to <undefined>
+[13:07:51.239] GLYPH_CHANGE: {'name': 'unstable_Φ', 'old_gsi': 0.566834, 'new_gsi': 0.579699, 'change': 0.012865, 'cause': 'recovery_cycle_5'}
+Warning: Could not write to log file: 'charmap' codec can't encode character '\u03a6' in position 48: character maps to <undefined>
+[13:07:51.239] GLYPH_CHANGE: {'name': 'chaos_Ξ', 'old_gsi': 0.483304, 'new_gsi': 0.505665, 'change': 0.022361, 'cause': 'recovery_cycle_5'}
+Warning: Could not write to log file: 'charmap' codec can't encode character '\u039e' in position 45: character maps to <undefined>
+[13:07:51.239] GLYPH_CHANGE: {'name': 'harmony_Ψ', 'old_gsi': 0.721113, 'new_gsi': 0.733386, 'change': 0.012273, 'cause': 'recovery_cycle_5'}
+Warning: Could not write to log file: 'charmap' codec can't encode character '\u03a8' in position 47: character maps to <undefined>
+[13:07:51.240] GLYPH_CHANGE: {'name': 'unstable_Φ', 'old_gsi': 0.579699, 'new_gsi': 0.592619, 'change': 0.01292, 'cause': 'recovery_cycle_6'}
+Warning: Could not write to log file: 'charmap' codec can't encode character '\u03a6' in position 48: character maps to <undefined>
+[13:07:51.240] GLYPH_CHANGE: {'name': 'chaos_Ξ', 'old_gsi': 0.505665, 'new_gsi': 0.524655, 'change': 0.01899, 'cause': 'recovery_cycle_6'}
+Warning: Could not write to log file: 'charmap' codec can't encode character '\u039e' in position 45: character maps to <undefined>
+[13:07:51.240] GLYPH_CHANGE: {'name': 'harmony_Ψ', 'old_gsi': 0.733386, 'new_gsi': 0.751322, 'change': 0.017936, 'cause': 'recovery_cycle_6'}
+Warning: Could not write to log file: 'charmap' codec can't encode character '\u03a8' in position 47: character maps to <undefined>
+[13:07:51.241] GLYPH_CHANGE: {'name': 'unstable_Φ', 'old_gsi': 0.592619, 'new_gsi': 0.620039, 'change': 0.02742, 'cause': 'recovery_cycle_7'}
+Warning: Could not write to log file: 'charmap' codec can't encode character '\u03a6' in position 48: character maps to <undefined>
+[13:07:51.241] GLYPH_CHANGE: {'name': 'chaos_Ξ', 'old_gsi': 0.524655, 'new_gsi': 0.547945, 'change': 0.02329, 'cause': 'recovery_cycle_7'}
+Warning: Could not write to log file: 'charmap' codec can't encode character '\u039e' in position 45: character maps to <undefined>
+[13:07:51.241] GLYPH_CHANGE: {'name': 'harmony_Ψ', 'old_gsi': 0.751322, 'new_gsi': 0.766648, 'change': 0.015326, 'cause': 'recovery_cycle_7'}
+Warning: Could not write to log file: 'charmap' codec can't encode character '\u03a8' in position 47: character maps to <undefined>
+[13:07:51.243] GLYPH_CHANGE: {'name': 'unstable_Φ', 'old_gsi': 0.620039, 'new_gsi': 0.640784, 'change': 0.020746, 'cause': 'recovery_cycle_8'}
+Warning: Could not write to log file: 'charmap' codec can't encode character '\u03a6' in position 48: character maps to <undefined>
+[13:07:51.243] GLYPH_CHANGE: {'name': 'chaos_Ξ', 'old_gsi': 0.547945, 'new_gsi': 0.55946, 'change': 0.011515, 'cause': 'recovery_cycle_8'}
+Warning: Could not write to log file: 'charmap' codec can't encode character '\u039e' in position 45: character maps to <undefined>
+[13:07:51.244] GLYPH_CHANGE: {'name': 'harmony_Ψ', 'old_gsi': 0.766648, 'new_gsi': 0.787839, 'change': 0.02119, 'cause': 'recovery_cycle_8'}
+Warning: Could not write to log file: 'charmap' codec can't encode character '\u03a8' in position 47: character maps to <undefined>
+[13:07:51.244] GLYPH_CHANGE: {'name': 'unstable_Φ', 'old_gsi': 0.640784, 'new_gsi': 0.660011, 'change': 0.019226, 'cause': 'recovery_cycle_9'}
+Warning: Could not write to log file: 'charmap' codec can't encode character '\u03a6' in position 48: character maps to <undefined>
+[13:07:51.244] GLYPH_CHANGE: {'name': 'chaos_Ξ', 'old_gsi': 0.55946, 'new_gsi': 0.58256, 'change': 0.0231, 'cause': 'recovery_cycle_9'}
+Warning: Could not write to log file: 'charmap' codec can't encode character '\u039e' in position 45: character maps to <undefined>
+[13:07:51.245] GLYPH_CHANGE: {'name': 'harmony_Ψ', 'old_gsi': 0.787839, 'new_gsi': 0.806945, 'change': 0.019107, 'cause': 'recovery_cycle_9'}
+Warning: Could not write to log file: 'charmap' codec can't encode character '\u03a8' in position 47: character maps to <undefined>
+[13:07:51.245] GLYPH_CHANGE: {'name': 'unstable_Φ', 'old_gsi': 0.660011, 'new_gsi': 0.686298, 'change': 0.026287, 'cause': 'recovery_cycle_10'}
+Warning: Could not write to log file: 'charmap' codec can't encode character '\u03a6' in position 48: character maps to <undefined>
+[13:07:51.245] GLYPH_CHANGE: {'name': 'chaos_Ξ', 'old_gsi': 0.58256, 'new_gsi': 0.592603, 'change': 0.010043, 'cause': 'recovery_cycle_10'}
+Warning: Could not write to log file: 'charmap' codec can't encode character '\u039e' in position 45: character maps to <undefined>
+[13:07:51.246] GLYPH_CHANGE: {'name': 'harmony_Ψ', 'old_gsi': 0.806945, 'new_gsi': 0.824833, 'change': 0.017888, 'cause': 'recovery_cycle_10'}
+Warning: Could not write to log file: 'charmap' codec can't encode character '\u03a8' in position 47: character maps to <undefined>
+[13:07:51.246] GLYPH_CHANGE: {'name': 'unstable_Φ', 'old_gsi': 0.686298, 'new_gsi': 0.715212, 'change': 0.028914, 'cause': 'recovery_cycle_11'}
+Warning: Could not write to log file: 'charmap' codec can't encode character '\u03a6' in position 48: character maps to <undefined>
+[13:07:51.246] GLYPH_CHANGE: {'name': 'chaos_Ξ', 'old_gsi': 0.592603, 'new_gsi': 0.614061, 'change': 0.021458, 'cause': 'recovery_cycle_11'}
+Warning: Could not write to log file: 'charmap' codec can't encode character '\u039e' in position 45: character maps to <undefined>
+[13:07:51.247] GLYPH_CHANGE: {'name': 'harmony_Ψ', 'old_gsi': 0.824833, 'new_gsi': 0.845231, 'change': 0.020398, 'cause': 'recovery_cycle_11'}
+Warning: Could not write to log file: 'charmap' codec can't encode character '\u03a8' in position 47: character maps to <undefined>
+[13:07:51.247] GLYPH_CHANGE: {'name': 'unstable_Φ', 'old_gsi': 0.715212, 'new_gsi': 0.732347, 'change': 0.017135, 'cause': 'recovery_cycle_12'}
+Warning: Could not write to log file: 'charmap' codec can't encode character '\u03a6' in position 48: character maps to <undefined>
+[13:07:51.247] GLYPH_CHANGE: {'name': 'chaos_Ξ', 'old_gsi': 0.614061, 'new_gsi': 0.637685, 'change': 0.023624, 'cause': 'recovery_cycle_12'}
+Warning: Could not write to log file: 'charmap' codec can't encode character '\u039e' in position 45: character maps to <undefined>
+[13:07:51.248] GLYPH_CHANGE: {'name': 'harmony_Ψ', 'old_gsi': 0.845231, 'new_gsi': 0.868769, 'change': 0.023539, 'cause': 'recovery_cycle_12'}
+Warning: Could not write to log file: 'charmap' codec can't encode character '\u03a8' in position 47: character maps to <undefined>
+[13:07:51.248] GLYPH_CHANGE: {'name': 'unstable_Φ', 'old_gsi': 0.732347, 'new_gsi': 0.74789, 'change': 0.015543, 'cause': 'recovery_cycle_13'}
+Warning: Could not write to log file: 'charmap' codec can't encode character '\u03a6' in position 48: character maps to <undefined>
+[13:07:51.248] GLYPH_CHANGE: {'name': 'chaos_Ξ', 'old_gsi': 0.637685, 'new_gsi': 0.666143, 'change': 0.028459, 'cause': 'recovery_cycle_13'}
+Warning: Could not write to log file: 'charmap' codec can't encode character '\u039e' in position 45: character maps to <undefined>
+[13:07:51.248] GLYPH_CHANGE: {'name': 'harmony_Ψ', 'old_gsi': 0.868769, 'new_gsi': 0.8972, 'change': 0.02843, 'cause': 'recovery_cycle_13'}
+Warning: Could not write to log file: 'charmap' codec can't encode character '\u03a8' in position 47: character maps to <undefined>
+[13:07:51.249] GLYPH_CHANGE: {'name': 'unstable_Φ', 'old_gsi': 0.74789, 'new_gsi': 0.760111, 'change': 0.012221, 'cause': 'recovery_cycle_14'}
+Warning: Could not write to log file: 'charmap' codec can't encode character '\u03a6' in position 48: character maps to <undefined>
+[13:07:51.249] GLYPH_CHANGE: {'name': 'chaos_Ξ', 'old_gsi': 0.666143, 'new_gsi': 0.678184, 'change': 0.01204, 'cause': 'recovery_cycle_14'}
+Warning: Could not write to log file: 'charmap' codec can't encode character '\u039e' in position 45: character maps to <undefined>
+[13:07:51.249] GLYPH_CHANGE: {'name': 'harmony_Ψ', 'old_gsi': 0.8972, 'new_gsi': 0.924427, 'change': 0.027227, 'cause': 'recovery_cycle_14'}
+Warning: Could not write to log file: 'charmap' codec can't encode character '\u03a8' in position 47: character maps to <undefined>
+[13:07:51.250] GLYPH_CHANGE: {'name': 'unstable_Φ', 'old_gsi': 0.760111, 'new_gsi': 0.787097, 'change': 0.026986, 'cause': 'recovery_cycle_15'}
+Warning: Could not write to log file: 'charmap' codec can't encode character '\u03a6' in position 48: character maps to <undefined>
+[13:07:51.250] GLYPH_CHANGE: {'name': 'chaos_Ξ', 'old_gsi': 0.678184, 'new_gsi': 0.701378, 'change': 0.023195, 'cause': 'recovery_cycle_15'}
+Warning: Could not write to log file: 'charmap' codec can't encode character '\u039e' in position 45: character maps to <undefined>
+[13:07:51.250] GLYPH_CHANGE: {'name': 'harmony_Ψ', 'old_gsi': 0.924427, 'new_gsi': 0.941144, 'change': 0.016717, 'cause': 'recovery_cycle_15'}
+Warning: Could not write to log file: 'charmap' codec can't encode character '\u03a8' in position 47: character maps to <undefined>
+[13:07:51.250] GLYPH_CHANGE: {'name': 'unstable_Φ', 'old_gsi': 0.787097, 'new_gsi': 0.802626, 'change': 0.015529, 'cause': 'recovery_cycle_16'}
+Warning: Could not write to log file: 'charmap' codec can't encode character '\u03a6' in position 48: character maps to <undefined>
+[13:07:51.251] GLYPH_CHANGE: {'name': 'chaos_Ξ', 'old_gsi': 0.701378, 'new_gsi': 0.723477, 'change': 0.022099, 'cause': 'recovery_cycle_16'}
+Warning: Could not write to log file: 'charmap' codec can't encode character '\u039e' in position 45: character maps to <undefined>
+[13:07:51.251] GLYPH_CHANGE: {'name': 'harmony_Ψ', 'old_gsi': 0.941144, 'new_gsi': 0.95973, 'change': 0.018586, 'cause': 'recovery_cycle_16'}
+Warning: Could not write to log file: 'charmap' codec can't encode character '\u03a8' in position 47: character maps to <undefined>
+[13:07:51.252] GLYPH_CHANGE: {'name': 'unstable_Φ', 'old_gsi': 0.802626, 'new_gsi': 0.827535, 'change': 0.024909, 'cause': 'recovery_cycle_17'}
+Warning: Could not write to log file: 'charmap' codec can't encode character '\u03a6' in position 48: character maps to <undefined>
+[13:07:51.252] GLYPH_CHANGE: {'name': 'chaos_Ξ', 'old_gsi': 0.723477, 'new_gsi': 0.746412, 'change': 0.022935, 'cause': 'recovery_cycle_17'}
+Warning: Could not write to log file: 'charmap' codec can't encode character '\u039e' in position 45: character maps to <undefined>
+[13:07:51.253] GLYPH_CHANGE: {'name': 'harmony_Ψ', 'old_gsi': 0.95973, 'new_gsi': 0.980689, 'change': 0.020959, 'cause': 'recovery_cycle_17'}
+Warning: Could not write to log file: 'charmap' codec can't encode character '\u03a8' in position 47: character maps to <undefined>
+[13:07:51.253] GLYPH_CHANGE: {'name': 'unstable_Φ', 'old_gsi': 0.827535, 'new_gsi': 0.838897, 'change': 0.011362, 'cause': 'recovery_cycle_18'}
+Warning: Could not write to log file: 'charmap' codec can't encode character '\u03a6' in position 48: character maps to <undefined>
+[13:07:51.253] GLYPH_CHANGE: {'name': 'chaos_Ξ', 'old_gsi': 0.746412, 'new_gsi': 0.770061, 'change': 0.023649, 'cause': 'recovery_cycle_18'}
+Warning: Could not write to log file: 'charmap' codec can't encode character '\u039e' in position 45: character maps to <undefined>
+[13:07:51.254] GLYPH_CHANGE: {'name': 'harmony_Ψ', 'old_gsi': 0.980689, 'new_gsi': 1.0, 'change': 0.019311, 'cause': 'recovery_cycle_18'}
+Warning: Could not write to log file: 'charmap' codec can't encode character '\u03a8' in position 47: character maps to <undefined>
+[13:07:51.254] GLYPH_CHANGE: {'name': 'unstable_Φ', 'old_gsi': 0.838897, 'new_gsi': 0.86421, 'change': 0.025313, 'cause': 'recovery_cycle_19'}
+Warning: Could not write to log file: 'charmap' codec can't encode character '\u03a6' in position 48: character maps to <undefined>
+[13:07:51.254] GLYPH_CHANGE: {'name': 'chaos_Ξ', 'old_gsi': 0.770061, 'new_gsi': 0.790822, 'change': 0.020761, 'cause': 'recovery_cycle_19'}
+Warning: Could not write to log file: 'charmap' codec can't encode character '\u039e' in position 45: character maps to <undefined>
+[13:07:51.255] GLYPH_CHANGE: {'name': 'unstable_Φ', 'old_gsi': 0.86421, 'new_gsi': 0.89278, 'change': 0.02857, 'cause': 'recovery_cycle_20'}
+Warning: Could not write to log file: 'charmap' codec can't encode character '\u03a6' in position 48: character maps to <undefined>
+[13:07:51.255] GLYPH_CHANGE: {'name': 'chaos_Ξ', 'old_gsi': 0.790822, 'new_gsi': 0.811192, 'change': 0.020369, 'cause': 'recovery_cycle_20'}
+Warning: Could not write to log file: 'charmap' codec can't encode character '\u039e' in position 45: character maps to <undefined>
+[13:07:51.255] GLYPH_CHANGE: {'name': 'unstable_Φ', 'old_gsi': 0.89278, 'new_gsi': 0.914014, 'change': 0.021234, 'cause': 'recovery_cycle_21'}
+Warning: Could not write to log file: 'charmap' codec can't encode character '\u03a6' in position 48: character maps to <undefined>
+[13:07:51.255] GLYPH_CHANGE: {'name': 'chaos_Ξ', 'old_gsi': 0.811192, 'new_gsi': 0.824007, 'change': 0.012815, 'cause': 'recovery_cycle_21'}
+Warning: Could not write to log file: 'charmap' codec can't encode character '\u039e' in position 45: character maps to <undefined>
+[13:07:51.256] GLYPH_CHANGE: {'name': 'unstable_Φ', 'old_gsi': 0.914014, 'new_gsi': 0.925223, 'change': 0.011209, 'cause': 'recovery_cycle_22'}
+Warning: Could not write to log file: 'charmap' codec can't encode character '\u03a6' in position 48: character maps to <undefined>
+[13:07:51.256] GLYPH_CHANGE: {'name': 'chaos_Ξ', 'old_gsi': 0.824007, 'new_gsi': 0.834773, 'change': 0.010767, 'cause': 'recovery_cycle_22'}
+Warning: Could not write to log file: 'charmap' codec can't encode character '\u039e' in position 45: character maps to <undefined>
+[13:07:51.257] GLYPH_CHANGE: {'name': 'unstable_Φ', 'old_gsi': 0.925223, 'new_gsi': 0.952228, 'change': 0.027005, 'cause': 'recovery_cycle_23'}
+Warning: Could not write to log file: 'charmap' codec can't encode character '\u03a6' in position 48: character maps to <undefined>
+[13:07:51.257] GLYPH_CHANGE: {'name': 'chaos_Ξ', 'old_gsi': 0.834773, 'new_gsi': 0.849703, 'change': 0.01493, 'cause': 'recovery_cycle_23'}
+Warning: Could not write to log file: 'charmap' codec can't encode character '\u039e' in position 45: character maps to <undefined>
+[13:07:51.259] GLYPH_CHANGE: {'name': 'unstable_Φ', 'old_gsi': 0.952228, 'new_gsi': 0.966726, 'change': 0.014498, 'cause': 'recovery_cycle_24'}
+Warning: Could not write to log file: 'charmap' codec can't encode character '\u03a6' in position 48: character maps to <undefined>
+[13:07:51.260] GLYPH_CHANGE: {'name': 'chaos_Ξ', 'old_gsi': 0.849703, 'new_gsi': 0.868764, 'change': 0.019061, 'cause': 'recovery_cycle_24'}
+Warning: Could not write to log file: 'charmap' codec can't encode character '\u039e' in position 45: character maps to <undefined>
+[13:07:51.260] GLYPH_CHANGE: {'name': 'unstable_Φ', 'old_gsi': 0.966726, 'new_gsi': 0.990832, 'change': 0.024106, 'cause': 'recovery_cycle_25'}
+Warning: Could not write to log file: 'charmap' codec can't encode character '\u03a6' in position 48: character maps to <undefined>
+[13:07:51.261] GLYPH_CHANGE: {'name': 'chaos_Ξ', 'old_gsi': 0.868764, 'new_gsi': 0.88384, 'change': 0.015075, 'cause': 'recovery_cycle_25'}
+Warning: Could not write to log file: 'charmap' codec can't encode character '\u039e' in position 45: character maps to <undefined>
+[13:07:51.261] GLYPH_CHANGE: {'name': 'unstable_Φ', 'old_gsi': 0.990832, 'new_gsi': 1.0, 'change': 0.009168, 'cause': 'recovery_cycle_26'}
+Warning: Could not write to log file: 'charmap' codec can't encode character '\u03a6' in position 48: character maps to <undefined>
+[13:07:51.261] GLYPH_CHANGE: {'name': 'chaos_Ξ', 'old_gsi': 0.88384, 'new_gsi': 0.897109, 'change': 0.013269, 'cause': 'recovery_cycle_26'}
+Warning: Could not write to log file: 'charmap' codec can't encode character '\u039e' in position 45: character maps to <undefined>
+[13:07:51.262] GLYPH_CHANGE: {'name': 'chaos_Ξ', 'old_gsi': 0.897109, 'new_gsi': 0.907621, 'change': 0.010512, 'cause': 'recovery_cycle_27'}
+Warning: Could not write to log file: 'charmap' codec can't encode character '\u039e' in position 45: character maps to <undefined>
+[13:07:51.262] GLYPH_CHANGE: {'name': 'chaos_Ξ', 'old_gsi': 0.907621, 'new_gsi': 0.9261, 'change': 0.018479, 'cause': 'recovery_cycle_28'}
+Warning: Could not write to log file: 'charmap' codec can't encode character '\u039e' in position 45: character maps to <undefined>
+[13:07:51.262] GLYPH_CHANGE: {'name': 'chaos_Ξ', 'old_gsi': 0.9261, 'new_gsi': 0.942954, 'change': 0.016854, 'cause': 'recovery_cycle_29'}
+Warning: Could not write to log file: 'charmap' codec can't encode character '\u039e' in position 45: character maps to <undefined>
+[13:07:51.263] AUTONOMOUS_RECOVERY_COMPLETED: {'result': {'final_state': {'coherence': 0.6432953830369099, 'entropy': 0.13441893081988615, 'recovery_effectiveness': 'partial'}}}
+[13:15:01.252] IMPROVED_IDLE_MONITORING_STOPPED: {}
+[13:15:40.326] DEEP_RECALIBRATION_INITIATED: {'reason': 'ethical_debt_resolution'}
+[13:15:40.326] GLYPH_CHANGE: {'name': 'ConsentGlyph', 'old_gsi': 0.95, 'new_gsi': 1.0, 'change': 0.05, 'cause': 'deep_recalibration'}
+[13:15:40.327] DEEP_RECALIBRATION_SUCCESS: {'old_consent_gsi': 0.95, 'new_consent_gsi': 1.0, 'gsi_change': 0.05, 'new_coherence': 0.648295, 'new_entropy': 0.145137}
+[13:16:08.225] GLYPH_CHANGE: {'name': 'RootVerse', 'old_gsi': 0.87, 'new_gsi': 0.96, 'change': 0.09, 'cause': 'stress_processing(level=0.9)'}
+[13:16:08.226] GLYPH_CHANGE: {'name': 'CoreStability', 'old_gsi': 0.82, 'new_gsi': 0.91, 'change': 0.09, 'cause': 'stress_processing(level=0.9)'}
+[13:16:08.226] CONNECTION_FORMED: {'glyph1': 'chaos_Ξ', 'glyph2': 'harmony_Ψ', 'connection_strength': 0.971477}
+Warning: Could not write to log file: 'charmap' codec can't encode character '\u039e' in position 52: character maps to <undefined>
+[13:16:08.227] CONNECTION_FORMED: {'glyph1': 'CoreStability', 'glyph2': 'harmony_Ψ', 'connection_strength': 0.955}
+Warning: Could not write to log file: 'charmap' codec can't encode character '\u03a8' in position 81: character maps to <undefined>
+[13:16:08.227] CONNECTION_FORMED: {'glyph1': 'CoreStability', 'glyph2': 'harmony_Ψ', 'connection_strength': 0.955}
+Warning: Could not write to log file: 'charmap' codec can't encode character '\u03a8' in position 81: character maps to <undefined>
+[13:16:08.227] CONNECTION_FORMED: {'glyph1': 'chaos_Ξ', 'glyph2': 'ConsentGlyph', 'connection_strength': 0.971477}
+Warning: Could not write to log file: 'charmap' codec can't encode character '\u039e' in position 52: character maps to <undefined>
+[13:16:08.228] CONNECTION_FORMED: {'glyph1': 'Aegis-Σ', 'glyph2': 'unstable_Φ', 'connection_strength': 0.925}
+Warning: Could not write to log file: 'charmap' codec can't encode character '\u03a3' in position 52: character maps to <undefined>
+[13:16:08.228] GLYPH_CHANGE: {'name': 'chaos_Ξ', 'old_gsi': 0.942954, 'new_gsi': 1.0, 'change': 0.057046, 'cause': 'stress_processing(level=0.9)'}
+Warning: Could not write to log file: 'charmap' codec can't encode character '\u039e' in position 45: character maps to <undefined>
+[13:16:08.229] GLYPH_CHANGE: {'name': 'Aegis-Σ', 'old_gsi': 0.85, 'new_gsi': 0.94, 'change': 0.09, 'cause': 'stress_processing(level=0.9)'}
+Warning: Could not write to log file: 'charmap' codec can't encode character '\u03a3' in position 45: character maps to <undefined>
+[13:16:08.229] GLYPH_CHANGE: {'name': 'CoreStability', 'old_gsi': 0.91, 'new_gsi': 1.0, 'change': 0.09, 'cause': 'stress_processing(level=0.9)'}
+[13:16:08.229] GLYPH_CHANGE: {'name': 'RootVerse', 'old_gsi': 0.96, 'new_gsi': 1.0, 'change': 0.04, 'cause': 'stress_processing(level=0.9)'}
+[13:16:08.230] GLYPH_CHANGE: {'name': 'Aegis-Σ', 'old_gsi': 0.94, 'new_gsi': 1.0, 'change': 0.06, 'cause': 'stress_processing(level=0.9)'}
+Warning: Could not write to log file: 'charmap' codec can't encode character '\u03a3' in position 45: character maps to <undefined>
+[13:16:08.230] CONNECTION_FORMED: {'glyph1': 'ConsentGlyph', 'glyph2': 'RootVerse', 'connection_strength': 1.0}
+[13:16:08.231] CONNECTION_FORMED: {'glyph1': 'unstable_Φ', 'glyph2': 'chaos_Ξ', 'connection_strength': 1.0}
+Warning: Could not write to log file: 'charmap' codec can't encode character '\u03a6' in position 55: character maps to <undefined>
+[13:16:08.231] CONNECTION_FORMED: {'glyph1': 'unstable_Φ', 'glyph2': 'chaos_Ξ', 'connection_strength': 1.0}
+Warning: Could not write to log file: 'charmap' codec can't encode character '\u03a6' in position 55: character maps to <undefined>
+[13:16:08.231] CONNECTION_FORMED: {'glyph1': 'Aegis-Σ', 'glyph2': 'chaos_Ξ', 'connection_strength': 1.0}
+Warning: Could not write to log file: 'charmap' codec can't encode character '\u03a3' in position 52: character maps to <undefined>
+[13:16:08.231] CONNECTION_FORMED: {'glyph1': 'Aegis-Σ', 'glyph2': 'CoreStability', 'connection_strength': 1.0}
+Warning: Could not write to log file: 'charmap' codec can't encode character '\u03a3' in position 52: character maps to <undefined>
+[13:16:08.232] CONNECTION_FORMED: {'glyph1': 'Aegis-Σ', 'glyph2': 'RootVerse', 'connection_strength': 1.0}
+Warning: Could not write to log file: 'charmap' codec can't encode character '\u03a3' in position 52: character maps to <undefined>
+[13:16:08.232] CONNECTION_FORMED: {'glyph1': 'RootVerse', 'glyph2': 'Aegis-Σ', 'connection_strength': 1.0}
+Warning: Could not write to log file: 'charmap' codec can't encode character '\u03a3' in position 75: character maps to <undefined>
+[13:16:08.232] CONNECTION_FORMED: {'glyph1': 'ConsentGlyph', 'glyph2': 'CoreStability', 'connection_strength': 1.0}
+[13:16:08.233] CONNECTION_FORMED: {'glyph1': 'unstable_Φ', 'glyph2': 'Aegis-Σ', 'connection_strength': 1.0}
+Warning: Could not write to log file: 'charmap' codec can't encode character '\u03a6' in position 55: character maps to <undefined>
+[13:16:08.233] CONNECTION_FORMED: {'glyph1': 'harmony_Ψ', 'glyph2': 'ConsentGlyph', 'connection_strength': 1.0}
+Warning: Could not write to log file: 'charmap' codec can't encode character '\u03a8' in position 54: character maps to <undefined>
+[13:16:08.233] CONNECTION_FORMED: {'glyph1': 'RootVerse', 'glyph2': 'ConsentGlyph', 'connection_strength': 1.0}
+[13:16:08.234] CONNECTION_FORMED: {'glyph1': 'RootVerse', 'glyph2': 'CoreStability', 'connection_strength': 1.0}
+[13:16:08.234] CONNECTION_FORMED: {'glyph1': 'RootVerse', 'glyph2': 'CoreStability', 'connection_strength': 1.0}
+[13:16:08.234] CONNECTION_FORMED: {'glyph1': 'Aegis-Σ', 'glyph2': 'chaos_Ξ', 'connection_strength': 1.0}
+Warning: Could not write to log file: 'charmap' codec can't encode character '\u03a3' in position 52: character maps to <undefined>
+[13:16:08.235] CONNECTION_FORMED: {'glyph1': 'unstable_Φ', 'glyph2': 'Aegis-Σ', 'connection_strength': 1.0}
+Warning: Could not write to log file: 'charmap' codec can't encode character '\u03a6' in position 55: character maps to <undefined>
+[13:16:08.235] CONNECTION_FORMED: {'glyph1': 'ConsentGlyph', 'glyph2': 'RootVerse', 'connection_strength': 1.0}
+[13:16:08.235] CONNECTION_FORMED: {'glyph1': 'ConsentGlyph', 'glyph2': 'chaos_Ξ', 'connection_strength': 1.0}
+Warning: Could not write to log file: 'charmap' codec can't encode character '\u039e' in position 78: character maps to <undefined>
+[13:16:08.236] CONNECTION_FORMED: {'glyph1': 'harmony_Ψ', 'glyph2': 'RootVerse', 'connection_strength': 1.0}
+Warning: Could not write to log file: 'charmap' codec can't encode character '\u03a8' in position 54: character maps to <undefined>
+[13:16:08.236] CONNECTION_FORMED: {'glyph1': 'chaos_Ξ', 'glyph2': 'harmony_Ψ', 'connection_strength': 1.0}
+Warning: Could not write to log file: 'charmap' codec can't encode character '\u039e' in position 52: character maps to <undefined>
+[13:16:08.236] CONNECTION_FORMED: {'glyph1': 'Aegis-Σ', 'glyph2': 'ConsentGlyph', 'connection_strength': 1.0}
+Warning: Could not write to log file: 'charmap' codec can't encode character '\u03a3' in position 52: character maps to <undefined>
+[13:16:08.237] CONNECTION_FORMED: {'glyph1': 'RootVerse', 'glyph2': 'CoreStability', 'connection_strength': 1.0}
+[13:16:08.237] CONNECTION_FORMED: {'glyph1': 'Aegis-Σ', 'glyph2': 'RootVerse', 'connection_strength': 1.0}
+Warning: Could not write to log file: 'charmap' codec can't encode character '\u03a3' in position 52: character maps to <undefined>
+[13:16:08.237] CONNECTION_FORMED: {'glyph1': 'unstable_Φ', 'glyph2': 'chaos_Ξ', 'connection_strength': 1.0}
+Warning: Could not write to log file: 'charmap' codec can't encode character '\u03a6' in position 55: character maps to <undefined>
+[13:16:08.238] CONNECTION_FORMED: {'glyph1': 'Aegis-Σ', 'glyph2': 'CoreStability', 'connection_strength': 1.0}
+Warning: Could not write to log file: 'charmap' codec can't encode character '\u03a3' in position 52: character maps to <undefined>
+[13:16:08.238] CONNECTION_FORMED: {'glyph1': 'unstable_Φ', 'glyph2': 'ConsentGlyph', 'connection_strength': 1.0}
+Warning: Could not write to log file: 'charmap' codec can't encode character '\u03a6' in position 55: character maps to <undefined>
+[13:16:08.238] CONNECTION_FORMED: {'glyph1': 'chaos_Ξ', 'glyph2': 'RootVerse', 'connection_strength': 1.0}
+Warning: Could not write to log file: 'charmap' codec can't encode character '\u039e' in position 52: character maps to <undefined>
+[13:16:08.239] CONNECTION_FORMED: {'glyph1': 'ConsentGlyph', 'glyph2': 'CoreStability', 'connection_strength': 1.0}
+[13:16:08.239] CONNECTION_FORMED: {'glyph1': 'RootVerse', 'glyph2': 'CoreStability', 'connection_strength': 1.0}
+[13:16:08.239] CONNECTION_FORMED: {'glyph1': 'unstable_Φ', 'glyph2': 'ConsentGlyph', 'connection_strength': 1.0}
+Warning: Could not write to log file: 'charmap' codec can't encode character '\u03a6' in position 55: character maps to <undefined>
+[13:16:08.240] CONNECTION_FORMED: {'glyph1': 'unstable_Φ', 'glyph2': 'CoreStability', 'connection_strength': 1.0}
+Warning: Could not write to log file: 'charmap' codec can't encode character '\u03a6' in position 55: character maps to <undefined>
+[13:16:08.240] CONNECTION_FORMED: {'glyph1': 'ConsentGlyph', 'glyph2': 'harmony_Ψ', 'connection_strength': 1.0}
+Warning: Could not write to log file: 'charmap' codec can't encode character '\u03a8' in position 80: character maps to <undefined>
+[13:16:08.241] CONNECTION_FORMED: {'glyph1': 'Aegis-Σ', 'glyph2': 'RootVerse', 'connection_strength': 1.0}
+Warning: Could not write to log file: 'charmap' codec can't encode character '\u03a3' in position 52: character maps to <undefined>
+[13:16:08.242] CONNECTION_FORMED: {'glyph1': 'RootVerse', 'glyph2': 'CoreStability', 'connection_strength': 1.0}
+[13:16:08.242] CONNECTION_FORMED: {'glyph1': 'unstable_Φ', 'glyph2': 'harmony_Ψ', 'connection_strength': 1.0}
+Warning: Could not write to log file: 'charmap' codec can't encode character '\u03a6' in position 55: character maps to <undefined>
+[13:16:08.242] CONNECTION_FORMED: {'glyph1': 'RootVerse', 'glyph2': 'ConsentGlyph', 'connection_strength': 1.0}
+[13:16:08.243] CONNECTION_FORMED: {'glyph1': 'unstable_Φ', 'glyph2': 'CoreStability', 'connection_strength': 1.0}
+Warning: Could not write to log file: 'charmap' codec can't encode character '\u03a6' in position 55: character maps to <undefined>
+[13:16:08.243] CONNECTION_FORMED: {'glyph1': 'ConsentGlyph', 'glyph2': 'CoreStability', 'connection_strength': 1.0}
+[13:16:08.243] CONNECTION_FORMED: {'glyph1': 'CoreStability', 'glyph2': 'unstable_Φ', 'connection_strength': 1.0}
+Warning: Could not write to log file: 'charmap' codec can't encode character '\u03a6' in position 82: character maps to <undefined>
+[13:16:08.244] CONNECTION_FORMED: {'glyph1': 'RootVerse', 'glyph2': 'ConsentGlyph', 'connection_strength': 1.0}
+[13:16:08.244] CONNECTION_FORMED: {'glyph1': 'chaos_Ξ', 'glyph2': 'Aegis-Σ', 'connection_strength': 1.0}
+Warning: Could not write to log file: 'charmap' codec can't encode character '\u039e' in position 52: character maps to <undefined>
+[13:16:08.244] CONNECTION_FORMED: {'glyph1': 'ConsentGlyph', 'glyph2': 'harmony_Ψ', 'connection_strength': 1.0}
+Warning: Could not write to log file: 'charmap' codec can't encode character '\u03a8' in position 80: character maps to <undefined>
+[13:16:08.245] CONNECTION_FORMED: {'glyph1': 'harmony_Ψ', 'glyph2': 'CoreStability', 'connection_strength': 1.0}
+Warning: Could not write to log file: 'charmap' codec can't encode character '\u03a8' in position 54: character maps to <undefined>
+[13:16:08.245] CONNECTION_FORMED: {'glyph1': 'harmony_Ψ', 'glyph2': 'RootVerse', 'connection_strength': 1.0}
+Warning: Could not write to log file: 'charmap' codec can't encode character '\u03a8' in position 54: character maps to <undefined>
+[13:16:08.245] CONNECTION_FORMED: {'glyph1': 'unstable_Φ', 'glyph2': 'RootVerse', 'connection_strength': 1.0}
+Warning: Could not write to log file: 'charmap' codec can't encode character '\u03a6' in position 55: character maps to <undefined>
+[13:16:08.246] CONNECTION_FORMED: {'glyph1': 'unstable_Φ', 'glyph2': 'chaos_Ξ', 'connection_strength': 1.0}
+Warning: Could not write to log file: 'charmap' codec can't encode character '\u03a6' in position 55: character maps to <undefined>
+[13:17:56.210] GLYPH_CREATED: {'name': 'Void_Î”_340', 'initial_gsi': 0.700348, 'type': 'dynamic'}
+[13:19:05.181] ENTROPY_THRESHOLD_EVALUATION: {'entropy': 0.19820143872182366, 'base_threshold': 0.15, 'effective_threshold': 0.16999999999999998, 'margin': 0.02820143872182368}
+[13:19:05.181] IMPROVED_IDLE_MONITORING_STARTED: {'monitor_interval': 30, 'decay_rate': 0.0001}
+[13:19:05.181] IMPROVED_DECISION_EVALUATION_START: {'entropy_situation': {'level': 0.19820143872182366, 'original_threshold': 0.15, 'effective_threshold': 0.16999999999999998, 'margin': 0.02820143872182368, 'severity': 'significantly_above'}, 'context': {'entropy_level': 0.19820143872182366, 'entropy_threshold': 0.15, 'effective_threshold': 0.16999999999999998, 'entropy_margin': 0.02820143872182368, 'idle_duration_minutes': 3.127257029215495e-06, 'current_coherence': 0.9737804141823423, 'glyph_count': 8, 'total_connections': 50, 'time_since_last_intervention': 673.918493270874, 'recent_decision_pattern': 'consistent_recovery_cycle', 'consecutive_same_decisions': 1}}
+[13:19:05.182] IMPROVED_AUTONOMOUS_DECISION_MADE: {'timestamp': '13:19:05.181', 'context': {'entropy_level': 0.19820143872182366, 'entropy_threshold': 0.15, 'effective_threshold': 0.16999999999999998, 'entropy_margin': 0.02820143872182368, 'idle_duration_minutes': 3.127257029215495e-06, 'current_coherence': 0.9737804141823423, 'glyph_count': 8, 'total_connections': 50, 'time_since_last_intervention': 673.918493270874, 'recent_decision_pattern': 'consistent_recovery_cycle', 'consecutive_same_decisions': 1}, 'chosen_action': 'wait_and_monitor', 'reasoning': 'Best choice: wait_and_monitor (score: 60)', 'hysteresis_applied': True, 'decision_confidence': 95}
+[13:19:05.182] IMPROVED_AUTONOMOUS_ACTION_EXECUTION: {'action': 'wait_and_monitor', 'reasoning': 'Best choice: wait_and_monitor (score: 60)', 'entropy_level': 0.19820143872182366}
+[13:19:35.183] ENTROPY_THRESHOLD_EVALUATION: {'entropy': 0.19820143872182366, 'base_threshold': 0.15, 'effective_threshold': 0.16999999999999998, 'margin': 0.02820143872182368}
+[13:19:35.183] IMPROVED_DECISION_EVALUATION_START: {'entropy_situation': {'level': 0.19820143872182366, 'original_threshold': 0.15, 'effective_threshold': 0.16999999999999998, 'margin': 0.02820143872182368, 'severity': 'significantly_above'}, 'context': {'entropy_level': 0.19820143872182366, 'entropy_threshold': 0.15, 'effective_threshold': 0.16999999999999998, 'entropy_margin': 0.02820143872182368, 'idle_duration_minutes': 0.5000358104705811, 'current_coherence': 0.9737804141823423, 'glyph_count': 8, 'total_connections': 50, 'time_since_last_intervention': 703.9205231666565, 'recent_decision_pattern': 'mixed_responses', 'consecutive_same_decisions': 1}}
+[13:19:35.185] IMPROVED_AUTONOMOUS_DECISION_MADE: {'timestamp': '13:19:35.183', 'context': {'entropy_level': 0.19820143872182366, 'entropy_threshold': 0.15, 'effective_threshold': 0.16999999999999998, 'entropy_margin': 0.02820143872182368, 'idle_duration_minutes': 0.5000358104705811, 'current_coherence': 0.9737804141823423, 'glyph_count': 8, 'total_connections': 50, 'time_since_last_intervention': 703.9205231666565, 'recent_decision_pattern': 'mixed_responses', 'consecutive_same_decisions': 1}, 'chosen_action': 'recovery_cycle', 'reasoning': 'Best choice: recovery_cycle (score: 55)', 'hysteresis_applied': True, 'decision_confidence': 85}
+[13:19:35.186] IMPROVED_AUTONOMOUS_ACTION_EXECUTION: {'action': 'recovery_cycle', 'reasoning': 'Best choice: recovery_cycle (score: 55)', 'entropy_level': 0.19820143872182366}
+[13:19:35.186] GLYPH_CHANGE: {'name': 'Void_Î”_340', 'old_gsi': 0.700348, 'new_gsi': 0.729031, 'change': 0.028683, 'cause': 'recovery_cycle_0'}
+[13:19:35.186] GLYPH_CHANGE: {'name': 'Void_Î”_340', 'old_gsi': 0.729031, 'new_gsi': 0.741059, 'change': 0.012028, 'cause': 'recovery_cycle_1'}
+[13:19:35.187] GLYPH_CHANGE: {'name': 'Void_Î”_340', 'old_gsi': 0.741059, 'new_gsi': 0.761304, 'change': 0.020244, 'cause': 'recovery_cycle_2'}
+[13:19:35.187] GLYPH_CHANGE: {'name': 'Void_Î”_340', 'old_gsi': 0.761304, 'new_gsi': 0.774921, 'change': 0.013617, 'cause': 'recovery_cycle_3'}
+[13:19:35.188] GLYPH_CHANGE: {'name': 'Void_Î”_340', 'old_gsi': 0.774921, 'new_gsi': 0.787505, 'change': 0.012584, 'cause': 'recovery_cycle_4'}
+[13:19:35.188] GLYPH_CHANGE: {'name': 'Void_Î”_340', 'old_gsi': 0.787505, 'new_gsi': 0.813144, 'change': 0.025639, 'cause': 'recovery_cycle_5'}
+[13:19:35.188] GLYPH_CHANGE: {'name': 'Void_Î”_340', 'old_gsi': 0.813144, 'new_gsi': 0.828344, 'change': 0.0152, 'cause': 'recovery_cycle_6'}
+[13:19:35.188] GLYPH_CHANGE: {'name': 'Void_Î”_340', 'old_gsi': 0.828344, 'new_gsi': 0.83866, 'change': 0.010316, 'cause': 'recovery_cycle_7'}
+[13:19:35.189] GLYPH_CHANGE: {'name': 'Void_Î”_340', 'old_gsi': 0.83866, 'new_gsi': 0.862174, 'change': 0.023514, 'cause': 'recovery_cycle_8'}
+[13:19:35.189] GLYPH_CHANGE: {'name': 'Void_Î”_340', 'old_gsi': 0.862174, 'new_gsi': 0.887991, 'change': 0.025817, 'cause': 'recovery_cycle_9'}
+[13:19:35.189] GLYPH_CHANGE: {'name': 'Void_Î”_340', 'old_gsi': 0.887991, 'new_gsi': 0.908289, 'change': 0.020298, 'cause': 'recovery_cycle_10'}
+[13:19:35.190] GLYPH_CHANGE: {'name': 'Void_Î”_340', 'old_gsi': 0.908289, 'new_gsi': 0.933282, 'change': 0.024993, 'cause': 'recovery_cycle_11'}
+[13:19:35.190] GLYPH_CHANGE: {'name': 'Void_Î”_340', 'old_gsi': 0.933282, 'new_gsi': 0.952776, 'change': 0.019494, 'cause': 'recovery_cycle_12'}
+[13:19:35.190] GLYPH_CHANGE: {'name': 'Void_Î”_340', 'old_gsi': 0.952776, 'new_gsi': 0.97377, 'change': 0.020994, 'cause': 'recovery_cycle_13'}
+[13:19:35.191] GLYPH_CHANGE: {'name': 'Void_Î”_340', 'old_gsi': 0.97377, 'new_gsi': 0.989415, 'change': 0.015646, 'cause': 'recovery_cycle_14'}
+[13:19:35.191] GLYPH_CHANGE: {'name': 'Void_Î”_340', 'old_gsi': 0.989415, 'new_gsi': 1.0, 'change': 0.010585, 'cause': 'recovery_cycle_15'}
+[13:19:35.191] AUTONOMOUS_RECOVERY_COMPLETED: {'result': {'final_state': {'coherence': 1.0, 'entropy': 0.0, 'recovery_effectiveness': 'complete'}}}

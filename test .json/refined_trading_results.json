@@ -1,0 +1,3314 @@
+{
+  "metadata": {
+    "strategy": "Refined Pattern Reinforcement",
+    "start_date": "2015-01-01",
+    "end_date": "2019-12-19",
+    "starting_cash": 1000.0,
+    "light_retrain_freq": 20,
+    "deep_retrain_freq": 60,
+    "holding_period": 40,
+    "tickers_traded": 49
+  },
+  "final_performance": {
+    "initial_value": 1000.0,
+    "final_value": 2471.789585709572,
+    "total_return": 1471.7895857095718,
+    "return_pct": 147.17895857095718,
+    "total_trades": 240,
+    "buy_trades": 123,
+    "sell_trades": 117,
+    "final_holdings": 6,
+    "final_cash": 59.554059624671936
+  },
+  "trading_log": [
+    {
+      "date": "2015-01-26",
+      "action": "BUY",
+      "ticker": "NFLX",
+      "shares": 6,
+      "price": 63.79428482055664,
+      "reasoning": "Rebalancing: strong prediction (gap: $400.00)"
+    },
+    {
+      "date": "2015-01-26",
+      "action": "BUY",
+      "ticker": "UNP",
+      "shares": 2,
+      "price": 121.33000183105469,
+      "reasoning": "Rebalancing: strong prediction (gap: $300.00)"
+    },
+    {
+      "date": "2015-01-26",
+      "action": "BUY",
+      "ticker": "UNH",
+      "shares": 1,
+      "price": 111.61000061035156,
+      "reasoning": "Rebalancing: strong prediction (gap: $180.16)"
+    },
+    {
+      "date": "2015-01-26",
+      "action": "BUY",
+      "ticker": "GOOGL",
+      "shares": 2,
+      "price": 26.836000442504883,
+      "reasoning": "Rebalancing: strong prediction (gap: $69.84)"
+    },
+    {
+      "date": "2015-02-17",
+      "action": "BUY",
+      "ticker": "CSCO",
+      "shares": 6,
+      "price": 29.309999465942383,
+      "reasoning": "Rebalancing: strong prediction (gap: $204.29)"
+    },
+    {
+      "date": "2015-02-17",
+      "action": "BUY",
+      "ticker": "PFE",
+      "shares": 1,
+      "price": 32.808349609375,
+      "reasoning": "Rebalancing: strong prediction (gap: $51.07)"
+    },
+    {
+      "date": "2015-03-31",
+      "action": "SELL",
+      "ticker": "NFLX",
+      "shares": 6,
+      "price": 59.52714157104492,
+      "days_held": 45,
+      "reasoning": "Rebalancing: no longer in top predictions or overweight"
+    },
+    {
+      "date": "2015-03-31",
+      "action": "SELL",
+      "ticker": "UNP",
+      "shares": 2,
+      "price": 108.30999755859375,
+      "days_held": 45,
+      "reasoning": "Rebalancing: no longer in top predictions or overweight"
+    },
+    {
+      "date": "2015-03-31",
+      "action": "SELL",
+      "ticker": "UNH",
+      "shares": 1,
+      "price": 118.29000091552734,
+      "days_held": 45,
+      "reasoning": "Rebalancing: no longer in top predictions or overweight"
+    },
+    {
+      "date": "2015-03-31",
+      "action": "SELL",
+      "ticker": "GOOGL",
+      "shares": 2,
+      "price": 27.735000610351562,
+      "days_held": 45,
+      "reasoning": "Rebalancing: no longer in top predictions or overweight"
+    },
+    {
+      "date": "2015-03-31",
+      "action": "BUY",
+      "ticker": "ACN",
+      "shares": 2,
+      "price": 93.69000244140625,
+      "reasoning": "Rebalancing: strong prediction (gap: $193.37)"
+    },
+    {
+      "date": "2015-04-22",
+      "action": "SELL",
+      "ticker": "CSCO",
+      "shares": 6,
+      "price": 28.6200008392334,
+      "days_held": 45,
+      "reasoning": "Rebalancing: no longer in top predictions or overweight"
+    },
+    {
+      "date": "2015-04-22",
+      "action": "SELL",
+      "ticker": "PFE",
+      "shares": 1,
+      "price": 33.14041519165039,
+      "days_held": 45,
+      "reasoning": "Rebalancing: no longer in top predictions or overweight"
+    },
+    {
+      "date": "2015-04-22",
+      "action": "BUY",
+      "ticker": "NFLX",
+      "shares": 4,
+      "price": 79.66857147216797,
+      "reasoning": "Rebalancing: strong prediction (gap: $380.96)"
+    },
+    {
+      "date": "2015-04-22",
+      "action": "BUY",
+      "ticker": "PM",
+      "shares": 3,
+      "price": 83.69000244140625,
+      "reasoning": "Rebalancing: strong prediction (gap: $285.72)"
+    },
+    {
+      "date": "2015-04-22",
+      "action": "BUY",
+      "ticker": "BMY",
+      "shares": 1,
+      "price": 66.5999984741211,
+      "reasoning": "Rebalancing: strong prediction (gap: $82.92)"
+    },
+    {
+      "date": "2015-05-13",
+      "action": "BUY",
+      "ticker": "LOW",
+      "shares": 1,
+      "price": 73.11000061035156,
+      "reasoning": "Rebalancing: strong prediction (gap: $116.85)"
+    },
+    {
+      "date": "2015-05-13",
+      "action": "BUY",
+      "ticker": "AMZN",
+      "shares": 2,
+      "price": 21.3435001373291,
+      "reasoning": "Rebalancing: strong prediction (gap: $53.08)"
+    },
+    {
+      "date": "2015-06-04",
+      "action": "SELL",
+      "ticker": "ACN",
+      "shares": 2,
+      "price": 95.93000030517578,
+      "days_held": 45,
+      "reasoning": "Rebalancing: no longer in top predictions or overweight"
+    },
+    {
+      "date": "2015-06-04",
+      "action": "BUY",
+      "ticker": "LLY",
+      "shares": 1,
+      "price": 77.68000030517578,
+      "reasoning": "Rebalancing: strong prediction (gap: $133.95)"
+    },
+    {
+      "date": "2015-06-25",
+      "action": "SELL",
+      "ticker": "NFLX",
+      "shares": 4,
+      "price": 94.89142608642578,
+      "days_held": 45,
+      "reasoning": "Rebalancing: no longer in top predictions or overweight"
+    },
+    {
+      "date": "2015-06-25",
+      "action": "SELL",
+      "ticker": "PM",
+      "shares": 3,
+      "price": 81.30000305175781,
+      "days_held": 45,
+      "reasoning": "Rebalancing: no longer in top predictions or overweight"
+    },
+    {
+      "date": "2015-06-25",
+      "action": "SELL",
+      "ticker": "BMY",
+      "shares": 1,
+      "price": 66.83999633789062,
+      "days_held": 45,
+      "reasoning": "Rebalancing: no longer in top predictions or overweight"
+    },
+    {
+      "date": "2015-06-25",
+      "action": "BUY",
+      "ticker": "META",
+      "shares": 4,
+      "price": 87.9800033569336,
+      "reasoning": "Rebalancing: strong prediction (gap: $381.24)"
+    },
+    {
+      "date": "2015-06-25",
+      "action": "BUY",
+      "ticker": "ADBE",
+      "shares": 2,
+      "price": 83.94000244140625,
+      "reasoning": "Rebalancing: strong prediction (gap: $200.28)"
+    },
+    {
+      "date": "2015-06-25",
+      "action": "BUY",
+      "ticker": "TSLA",
+      "shares": 6,
+      "price": 17.91933250427246,
+      "reasoning": "Rebalancing: strong prediction (gap: $117.15)"
+    },
+    {
+      "date": "2015-07-17",
+      "action": "SELL",
+      "ticker": "LOW",
+      "shares": 1,
+      "price": 67.52999877929688,
+      "days_held": 45,
+      "reasoning": "Rebalancing: no longer in top predictions or overweight"
+    },
+    {
+      "date": "2015-07-17",
+      "action": "BUY",
+      "ticker": "NFLX",
+      "shares": 2,
+      "price": 114.7699966430664,
+      "reasoning": "Rebalancing: strong prediction (gap: $314.35)"
+    },
+    {
+      "date": "2015-08-07",
+      "action": "SELL",
+      "ticker": "AMZN",
+      "shares": 2,
+      "price": 26.131000518798828,
+      "days_held": 60,
+      "reasoning": "Rebalancing: no longer in top predictions or overweight"
+    },
+    {
+      "date": "2015-08-07",
+      "action": "SELL",
+      "ticker": "LLY",
+      "shares": 1,
+      "price": 82.2699966430664,
+      "days_held": 45,
+      "reasoning": "Rebalancing: no longer in top predictions or overweight"
+    },
+    {
+      "date": "2015-08-07",
+      "action": "BUY",
+      "ticker": "KO",
+      "shares": 2,
+      "price": 41.77000045776367,
+      "reasoning": "Rebalancing: strong prediction (gap: $93.10)"
+    },
+    {
+      "date": "2015-08-28",
+      "action": "SELL",
+      "ticker": "META",
+      "shares": 4,
+      "price": 91.01000213623047,
+      "days_held": 45,
+      "reasoning": "Rebalancing: no longer in top predictions or overweight"
+    },
+    {
+      "date": "2015-08-28",
+      "action": "SELL",
+      "ticker": "ADBE",
+      "shares": 2,
+      "price": 79.4000015258789,
+      "days_held": 45,
+      "reasoning": "Rebalancing: no longer in top predictions or overweight"
+    },
+    {
+      "date": "2015-08-28",
+      "action": "SELL",
+      "ticker": "TSLA",
+      "shares": 6,
+      "price": 16.565332412719727,
+      "days_held": 45,
+      "reasoning": "Rebalancing: no longer in top predictions or overweight"
+    },
+    {
+      "date": "2015-09-21",
+      "action": "BUY",
+      "ticker": "LLY",
+      "shares": 4,
+      "price": 87.58999633789062,
+      "reasoning": "Rebalancing: strong prediction (gap: $392.35)"
+    },
+    {
+      "date": "2015-09-21",
+      "action": "BUY",
+      "ticker": "BMY",
+      "shares": 3,
+      "price": 62.720001220703125,
+      "reasoning": "Rebalancing: strong prediction (gap: $196.17)"
+    },
+    {
+      "date": "2015-09-21",
+      "action": "BUY",
+      "ticker": "TSLA",
+      "shares": 2,
+      "price": 17.613332748413086,
+      "reasoning": "Rebalancing: strong prediction (gap: $49.04)"
+    },
+    {
+      "date": "2015-10-12",
+      "action": "SELL",
+      "ticker": "KO",
+      "shares": 2,
+      "price": 42.0,
+      "days_held": 45,
+      "reasoning": "Rebalancing: no longer in top predictions or overweight"
+    },
+    {
+      "date": "2015-10-12",
+      "action": "BUY",
+      "ticker": "CSCO",
+      "shares": 6,
+      "price": 27.959999084472656,
+      "reasoning": "Rebalancing: strong prediction (gap: $194.74)"
+    },
+    {
+      "date": "2015-11-23",
+      "action": "SELL",
+      "ticker": "LLY",
+      "shares": 4,
+      "price": 84.73999786376953,
+      "days_held": 45,
+      "reasoning": "Rebalancing: no longer in top predictions or overweight"
+    },
+    {
+      "date": "2015-11-23",
+      "action": "SELL",
+      "ticker": "BMY",
+      "shares": 3,
+      "price": 67.98999786376953,
+      "days_held": 45,
+      "reasoning": "Rebalancing: no longer in top predictions or overweight"
+    },
+    {
+      "date": "2015-11-23",
+      "action": "SELL",
+      "ticker": "TSLA",
+      "shares": 2,
+      "price": 14.516667366027832,
+      "days_held": 45,
+      "reasoning": "Rebalancing: no longer in top predictions or overweight"
+    },
+    {
+      "date": "2015-11-23",
+      "action": "BUY",
+      "ticker": "AVGO",
+      "shares": 24,
+      "price": 12.440999984741211,
+      "reasoning": "Rebalancing: strong prediction (gap: $309.30)"
+    },
+    {
+      "date": "2015-11-23",
+      "action": "BUY",
+      "ticker": "WMT",
+      "shares": 8,
+      "price": 20.086666107177734,
+      "reasoning": "Rebalancing: strong prediction (gap: $170.16)"
+    },
+    {
+      "date": "2015-12-15",
+      "action": "SELL",
+      "ticker": "NFLX",
+      "shares": 2,
+      "price": 118.5999984741211,
+      "days_held": 105,
+      "reasoning": "Rebalancing: no longer in top predictions or overweight"
+    },
+    {
+      "date": "2015-12-15",
+      "action": "SELL",
+      "ticker": "CSCO",
+      "shares": 6,
+      "price": 26.850000381469727,
+      "days_held": 45,
+      "reasoning": "Rebalancing: no longer in top predictions or overweight"
+    },
+    {
+      "date": "2016-01-29",
+      "action": "SELL",
+      "ticker": "AVGO",
+      "shares": 24,
+      "price": 13.371000289916992,
+      "days_held": 45,
+      "reasoning": "Rebalancing: no longer in top predictions or overweight"
+    },
+    {
+      "date": "2016-01-29",
+      "action": "SELL",
+      "ticker": "WMT",
+      "shares": 8,
+      "price": 22.1200008392334,
+      "days_held": 45,
+      "reasoning": "Rebalancing: no longer in top predictions or overweight"
+    },
+    {
+      "date": "2016-01-29",
+      "action": "BUY",
+      "ticker": "META",
+      "shares": 3,
+      "price": 112.20999908447266,
+      "reasoning": "Rebalancing: strong prediction (gap: $421.29)"
+    },
+    {
+      "date": "2016-01-29",
+      "action": "BUY",
+      "ticker": "AMZN",
+      "shares": 10,
+      "price": 29.350000381469727,
+      "reasoning": "Rebalancing: strong prediction (gap: $315.97)"
+    },
+    {
+      "date": "2016-01-29",
+      "action": "BUY",
+      "ticker": "NVDA",
+      "shares": 230,
+      "price": 0.7322499752044678,
+      "reasoning": "Rebalancing: strong prediction (gap: $168.95)"
+    },
+    {
+      "date": "2016-02-22",
+      "action": "BUY",
+      "ticker": "QCOM",
+      "shares": 4,
+      "price": 51.279998779296875,
+      "reasoning": "Rebalancing: strong prediction (gap: $207.43)"
+    },
+    {
+      "date": "2016-02-22",
+      "action": "BUY",
+      "ticker": "CSCO",
+      "shares": 1,
+      "price": 26.6299991607666,
+      "reasoning": "Rebalancing: strong prediction (gap: $51.86)"
+    },
+    {
+      "date": "2016-04-05",
+      "action": "SELL",
+      "ticker": "META",
+      "shares": 3,
+      "price": 112.22000122070312,
+      "days_held": 45,
+      "reasoning": "Rebalancing: no longer in top predictions or overweight"
+    },
+    {
+      "date": "2016-04-05",
+      "action": "SELL",
+      "ticker": "AMZN",
+      "shares": 10,
+      "price": 29.30699920654297,
+      "days_held": 45,
+      "reasoning": "Rebalancing: no longer in top predictions or overweight"
+    },
+    {
+      "date": "2016-04-05",
+      "action": "SELL",
+      "ticker": "NVDA",
+      "shares": 230,
+      "price": 0.893750011920929,
+      "days_held": 45,
+      "reasoning": "Rebalancing: no longer in top predictions or overweight"
+    },
+    {
+      "date": "2016-04-05",
+      "action": "BUY",
+      "ticker": "TSLA",
+      "shares": 25,
+      "price": 17.031333923339844,
+      "reasoning": "Rebalancing: strong prediction (gap: $434.44)"
+    },
+    {
+      "date": "2016-04-05",
+      "action": "BUY",
+      "ticker": "V",
+      "shares": 2,
+      "price": 76.97000122070312,
+      "reasoning": "Rebalancing: strong prediction (gap: $194.86)"
+    },
+    {
+      "date": "2016-04-05",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 4,
+      "price": 27.452499389648438,
+      "reasoning": "Rebalancing: strong prediction (gap: $118.38)"
+    },
+    {
+      "date": "2016-04-26",
+      "action": "SELL",
+      "ticker": "QCOM",
+      "shares": 4,
+      "price": 52.90999984741211,
+      "days_held": 45,
+      "reasoning": "Rebalancing: no longer in top predictions or overweight"
+    },
+    {
+      "date": "2016-04-26",
+      "action": "SELL",
+      "ticker": "CSCO",
+      "shares": 1,
+      "price": 28.450000762939453,
+      "days_held": 45,
+      "reasoning": "Rebalancing: no longer in top predictions or overweight"
+    },
+    {
+      "date": "2016-04-26",
+      "action": "BUY",
+      "ticker": "UNP",
+      "shares": 4,
+      "price": 88.76000213623047,
+      "reasoning": "Rebalancing: strong prediction (gap: $437.24)"
+    },
+    {
+      "date": "2016-06-08",
+      "action": "SELL",
+      "ticker": "TSLA",
+      "shares": 25,
+      "price": 15.701333045959473,
+      "days_held": 45,
+      "reasoning": "Rebalancing: no longer in top predictions or overweight"
+    },
+    {
+      "date": "2016-06-08",
+      "action": "SELL",
+      "ticker": "V",
+      "shares": 2,
+      "price": 81.6500015258789,
+      "days_held": 45,
+      "reasoning": "Rebalancing: no longer in top predictions or overweight"
+    },
+    {
+      "date": "2016-06-08",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 4,
+      "price": 24.735000610351562,
+      "days_held": 45,
+      "reasoning": "Rebalancing: no longer in top predictions or overweight"
+    },
+    {
+      "date": "2016-06-08",
+      "action": "BUY",
+      "ticker": "AVGO",
+      "shares": 21,
+      "price": 16.3700008392334,
+      "reasoning": "Rebalancing: strong prediction (gap: $348.36)"
+    },
+    {
+      "date": "2016-06-08",
+      "action": "BUY",
+      "ticker": "BMY",
+      "shares": 1,
+      "price": 73.41000366210938,
+      "reasoning": "Rebalancing: strong prediction (gap: $103.95)"
+    },
+    {
+      "date": "2016-06-29",
+      "action": "SELL",
+      "ticker": "UNP",
+      "shares": 4,
+      "price": 86.27999877929688,
+      "days_held": 45,
+      "reasoning": "Rebalancing: no longer in top predictions or overweight"
+    },
+    {
+      "date": "2016-07-21",
+      "action": "BUY",
+      "ticker": "BAC",
+      "shares": 29,
+      "price": 14.270000457763672,
+      "reasoning": "Rebalancing: strong prediction (gap: $419.53)"
+    },
+    {
+      "date": "2016-07-21",
+      "action": "BUY",
+      "ticker": "QCOM",
+      "shares": 3,
+      "price": 59.93000030517578,
+      "reasoning": "Rebalancing: strong prediction (gap: $230.35)"
+    },
+    {
+      "date": "2016-08-11",
+      "action": "SELL",
+      "ticker": "AVGO",
+      "shares": 21,
+      "price": 17.208999633789062,
+      "days_held": 45,
+      "reasoning": "Rebalancing: no longer in top predictions or overweight"
+    },
+    {
+      "date": "2016-08-11",
+      "action": "SELL",
+      "ticker": "BMY",
+      "shares": 1,
+      "price": 60.970001220703125,
+      "days_held": 45,
+      "reasoning": "Rebalancing: no longer in top predictions or overweight"
+    },
+    {
+      "date": "2016-08-11",
+      "action": "BUY",
+      "ticker": "MRK",
+      "shares": 7,
+      "price": 60.71564865112305,
+      "reasoning": "Rebalancing: strong prediction (gap: $432.77)"
+    },
+    {
+      "date": "2016-09-23",
+      "action": "SELL",
+      "ticker": "BAC",
+      "shares": 29,
+      "price": 15.520000457763672,
+      "days_held": 45,
+      "reasoning": "Rebalancing: no longer in top predictions or overweight"
+    },
+    {
+      "date": "2016-09-23",
+      "action": "SELL",
+      "ticker": "QCOM",
+      "shares": 3,
+      "price": 62.75,
+      "days_held": 45,
+      "reasoning": "Rebalancing: no longer in top predictions or overweight"
+    },
+    {
+      "date": "2016-09-23",
+      "action": "BUY",
+      "ticker": "ADBE",
+      "shares": 3,
+      "price": 107.47000122070312,
+      "reasoning": "Rebalancing: strong prediction (gap: $379.09)"
+    },
+    {
+      "date": "2016-09-23",
+      "action": "BUY",
+      "ticker": "NVDA",
+      "shares": 157,
+      "price": 1.6237499713897705,
+      "reasoning": "Rebalancing: strong prediction (gap: $255.08)"
+    },
+    {
+      "date": "2016-09-23",
+      "action": "BUY",
+      "ticker": "TSLA",
+      "shares": 4,
+      "price": 13.829999923706055,
+      "reasoning": "Rebalancing: strong prediction (gap: $57.17)"
+    },
+    {
+      "date": "2016-09-23",
+      "action": "BUY",
+      "ticker": "NEE",
+      "shares": 1,
+      "price": 31.6875,
+      "reasoning": "Rebalancing: strong prediction (gap: $55.60)"
+    },
+    {
+      "date": "2016-10-14",
+      "action": "SELL",
+      "ticker": "MRK",
+      "shares": 7,
+      "price": 59.29389190673828,
+      "days_held": 45,
+      "reasoning": "Rebalancing: no longer in top predictions or overweight"
+    },
+    {
+      "date": "2016-10-14",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 7,
+      "price": 29.407499313354492,
+      "reasoning": "Rebalancing: strong prediction (gap: $219.06)"
+    },
+    {
+      "date": "2016-11-04",
+      "action": "BUY",
+      "ticker": "CVX",
+      "shares": 2,
+      "price": 104.77999877929688,
+      "reasoning": "Rebalancing: strong prediction (gap: $282.41)"
+    },
+    {
+      "date": "2016-11-28",
+      "action": "SELL",
+      "ticker": "ADBE",
+      "shares": 3,
+      "price": 104.5,
+      "days_held": 45,
+      "reasoning": "Rebalancing: no longer in top predictions or overweight"
+    },
+    {
+      "date": "2016-11-28",
+      "action": "SELL",
+      "ticker": "NEE",
+      "shares": 1,
+      "price": 29.075000762939453,
+      "days_held": 45,
+      "reasoning": "Rebalancing: no longer in top predictions or overweight"
+    },
+    {
+      "date": "2016-11-28",
+      "action": "BUY",
+      "ticker": "AVGO",
+      "shares": 12,
+      "price": 17.46500015258789,
+      "reasoning": "Rebalancing: strong prediction (gap: $212.50)"
+    },
+    {
+      "date": "2016-12-19",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 7,
+      "price": 29.15999984741211,
+      "days_held": 45,
+      "reasoning": "Rebalancing: no longer in top predictions or overweight"
+    },
+    {
+      "date": "2016-12-19",
+      "action": "BUY",
+      "ticker": "BMY",
+      "shares": 1,
+      "price": 59.41999816894531,
+      "reasoning": "Rebalancing: strong prediction (gap: $62.79)"
+    },
+    {
+      "date": "2017-01-11",
+      "action": "SELL",
+      "ticker": "NVDA",
+      "shares": 157,
+      "price": 2.628999948501587,
+      "days_held": 75,
+      "reasoning": "Rebalancing: no longer in top predictions or overweight"
+    },
+    {
+      "date": "2017-01-11",
+      "action": "SELL",
+      "ticker": "CVX",
+      "shares": 2,
+      "price": 115.93000030517578,
+      "days_held": 45,
+      "reasoning": "Rebalancing: no longer in top predictions or overweight"
+    },
+    {
+      "date": "2017-01-11",
+      "action": "BUY",
+      "ticker": "META",
+      "shares": 4,
+      "price": 126.08999633789062,
+      "reasoning": "Rebalancing: strong prediction (gap: $507.80)"
+    },
+    {
+      "date": "2017-01-11",
+      "action": "BUY",
+      "ticker": "ABT",
+      "shares": 8,
+      "price": 41.08000183105469,
+      "reasoning": "Rebalancing: strong prediction (gap: $334.05)"
+    },
+    {
+      "date": "2017-01-11",
+      "action": "BUY",
+      "ticker": "AMZN",
+      "shares": 2,
+      "price": 39.95100021362305,
+      "reasoning": "Rebalancing: strong prediction (gap: $92.99)"
+    },
+    {
+      "date": "2017-02-02",
+      "action": "SELL",
+      "ticker": "TSLA",
+      "shares": 4,
+      "price": 16.770000457763672,
+      "days_held": 90,
+      "reasoning": "Rebalancing: no longer in top predictions or overweight"
+    },
+    {
+      "date": "2017-02-02",
+      "action": "SELL",
+      "ticker": "AVGO",
+      "shares": 12,
+      "price": 20.405000686645508,
+      "days_held": 45,
+      "reasoning": "Rebalancing: no longer in top predictions or overweight"
+    },
+    {
+      "date": "2017-02-02",
+      "action": "BUY",
+      "ticker": "TMO",
+      "shares": 1,
+      "price": 151.6699981689453,
+      "reasoning": "Rebalancing: strong prediction (gap: $303.23)"
+    },
+    {
+      "date": "2017-02-02",
+      "action": "BUY",
+      "ticker": "NEE",
+      "shares": 2,
+      "price": 30.864999771118164,
+      "reasoning": "Rebalancing: strong prediction (gap: $68.05)"
+    },
+    {
+      "date": "2017-02-24",
+      "action": "BUY",
+      "ticker": "ORCL",
+      "shares": 1,
+      "price": 43.16999816894531,
+      "reasoning": "Rebalancing: strong prediction (gap: $75.73)"
+    },
+    {
+      "date": "2017-03-17",
+      "action": "SELL",
+      "ticker": "BMY",
+      "shares": 1,
+      "price": 56.290000915527344,
+      "days_held": 60,
+      "reasoning": "Rebalancing: no longer in top predictions or overweight"
+    },
+    {
+      "date": "2017-03-17",
+      "action": "SELL",
+      "ticker": "META",
+      "shares": 4,
+      "price": 139.83999633789062,
+      "days_held": 45,
+      "reasoning": "Rebalancing: no longer in top predictions or overweight"
+    },
+    {
+      "date": "2017-03-17",
+      "action": "SELL",
+      "ticker": "ABT",
+      "shares": 8,
+      "price": 45.189998626708984,
+      "days_held": 45,
+      "reasoning": "Rebalancing: no longer in top predictions or overweight"
+    },
+    {
+      "date": "2017-03-17",
+      "action": "SELL",
+      "ticker": "AMZN",
+      "shares": 2,
+      "price": 42.615501403808594,
+      "days_held": 45,
+      "reasoning": "Rebalancing: no longer in top predictions or overweight"
+    },
+    {
+      "date": "2017-03-17",
+      "action": "BUY",
+      "ticker": "NVDA",
+      "shares": 212,
+      "price": 2.651750087738037,
+      "reasoning": "Rebalancing: strong prediction (gap: $563.86)"
+    },
+    {
+      "date": "2017-03-17",
+      "action": "BUY",
+      "ticker": "TSLA",
+      "shares": 21,
+      "price": 17.433332443237305,
+      "reasoning": "Rebalancing: strong prediction (gap: $376.19)"
+    },
+    {
+      "date": "2017-04-07",
+      "action": "SELL",
+      "ticker": "TMO",
+      "shares": 1,
+      "price": 153.11000061035156,
+      "days_held": 45,
+      "reasoning": "Rebalancing: no longer in top predictions or overweight"
+    },
+    {
+      "date": "2017-04-07",
+      "action": "SELL",
+      "ticker": "NEE",
+      "shares": 2,
+      "price": 32.23249816894531,
+      "days_held": 45,
+      "reasoning": "Rebalancing: no longer in top predictions or overweight"
+    },
+    {
+      "date": "2017-04-07",
+      "action": "BUY",
+      "ticker": "AMZN",
+      "shares": 5,
+      "price": 44.74399948120117,
+      "reasoning": "Rebalancing: strong prediction (gap: $236.88)"
+    },
+    {
+      "date": "2017-05-01",
+      "action": "SELL",
+      "ticker": "ORCL",
+      "shares": 1,
+      "price": 45.04999923706055,
+      "days_held": 45,
+      "reasoning": "Rebalancing: no longer in top predictions or overweight"
+    },
+    {
+      "date": "2017-05-01",
+      "action": "BUY",
+      "ticker": "GOOGL",
+      "shares": 1,
+      "price": 46.64099884033203,
+      "reasoning": "Rebalancing: strong prediction (gap: $90.60)"
+    },
+    {
+      "date": "2017-05-22",
+      "action": "SELL",
+      "ticker": "TSLA",
+      "shares": 21,
+      "price": 20.690000534057617,
+      "days_held": 45,
+      "reasoning": "Rebalancing: no longer in top predictions or overweight"
+    },
+    {
+      "date": "2017-05-22",
+      "action": "BUY",
+      "ticker": "QCOM",
+      "shares": 4,
+      "price": 59.279998779296875,
+      "reasoning": "Rebalancing: strong prediction (gap: $245.15)"
+    },
+    {
+      "date": "2017-05-22",
+      "action": "BUY",
+      "ticker": "JNJ",
+      "shares": 1,
+      "price": 127.26000213623047,
+      "reasoning": "Rebalancing: strong prediction (gap: $134.14)"
+    },
+    {
+      "date": "2017-06-13",
+      "action": "SELL",
+      "ticker": "AMZN",
+      "shares": 5,
+      "price": 49.03950119018555,
+      "days_held": 45,
+      "reasoning": "Rebalancing: no longer in top predictions or overweight"
+    },
+    {
+      "date": "2017-06-13",
+      "action": "BUY",
+      "ticker": "JPM",
+      "shares": 2,
+      "price": 87.2699966430664,
+      "reasoning": "Rebalancing: strong prediction (gap: $223.33)"
+    },
+    {
+      "date": "2017-06-13",
+      "action": "BUY",
+      "ticker": "BAC",
+      "shares": 4,
+      "price": 23.770000457763672,
+      "reasoning": "Rebalancing: strong prediction (gap: $109.14)"
+    },
+    {
+      "date": "2017-07-05",
+      "action": "SELL",
+      "ticker": "NVDA",
+      "shares": 212,
+      "price": 3.5762500762939453,
+      "days_held": 75,
+      "reasoning": "Rebalancing: no longer in top predictions or overweight"
+    },
+    {
+      "date": "2017-07-05",
+      "action": "SELL",
+      "ticker": "GOOGL",
+      "shares": 1,
+      "price": 46.612998962402344,
+      "days_held": 45,
+      "reasoning": "Rebalancing: no longer in top predictions or overweight"
+    },
+    {
+      "date": "2017-07-05",
+      "action": "BUY",
+      "ticker": "NKE",
+      "shares": 11,
+      "price": 57.560001373291016,
+      "reasoning": "Rebalancing: strong prediction (gap: $679.17)"
+    },
+    {
+      "date": "2017-07-26",
+      "action": "SELL",
+      "ticker": "QCOM",
+      "shares": 4,
+      "price": 53.13999938964844,
+      "days_held": 45,
+      "reasoning": "Rebalancing: no longer in top predictions or overweight"
+    },
+    {
+      "date": "2017-07-26",
+      "action": "SELL",
+      "ticker": "JNJ",
+      "shares": 1,
+      "price": 130.9499969482422,
+      "days_held": 45,
+      "reasoning": "Rebalancing: no longer in top predictions or overweight"
+    },
+    {
+      "date": "2017-07-26",
+      "action": "BUY",
+      "ticker": "NFLX",
+      "shares": 3,
+      "price": 189.0800018310547,
+      "reasoning": "Rebalancing: strong prediction (gap: $675.38)"
+    },
+    {
+      "date": "2017-08-16",
+      "action": "SELL",
+      "ticker": "JPM",
+      "shares": 2,
+      "price": 92.08999633789062,
+      "days_held": 45,
+      "reasoning": "Rebalancing: no longer in top predictions or overweight"
+    },
+    {
+      "date": "2017-08-16",
+      "action": "SELL",
+      "ticker": "BAC",
+      "shares": 4,
+      "price": 24.190000534057617,
+      "days_held": 45,
+      "reasoning": "Rebalancing: no longer in top predictions or overweight"
+    },
+    {
+      "date": "2017-09-07",
+      "action": "SELL",
+      "ticker": "NKE",
+      "shares": 11,
+      "price": 52.38999938964844,
+      "days_held": 45,
+      "reasoning": "Rebalancing: no longer in top predictions or overweight"
+    },
+    {
+      "date": "2017-09-07",
+      "action": "BUY",
+      "ticker": "TMO",
+      "shares": 2,
+      "price": 190.58999633789062,
+      "reasoning": "Rebalancing: strong prediction (gap: $484.84)"
+    },
+    {
+      "date": "2017-09-07",
+      "action": "BUY",
+      "ticker": "ABBV",
+      "shares": 4,
+      "price": 81.77999877929688,
+      "reasoning": "Rebalancing: strong prediction (gap: $336.11)"
+    },
+    {
+      "date": "2017-09-07",
+      "action": "BUY",
+      "ticker": "BMY",
+      "shares": 1,
+      "price": 62.84000015258789,
+      "reasoning": "Rebalancing: strong prediction (gap: $82.72)"
+    },
+    {
+      "date": "2017-09-07",
+      "action": "BUY",
+      "ticker": "LOW",
+      "shares": 1,
+      "price": 77.68000030517578,
+      "reasoning": "Rebalancing: strong prediction (gap: $82.13)"
+    },
+    {
+      "date": "2017-09-28",
+      "action": "SELL",
+      "ticker": "NFLX",
+      "shares": 3,
+      "price": 180.6999969482422,
+      "days_held": 45,
+      "reasoning": "Rebalancing: no longer in top predictions or overweight"
+    },
+    {
+      "date": "2017-09-28",
+      "action": "BUY",
+      "ticker": "CSCO",
+      "shares": 9,
+      "price": 33.349998474121094,
+      "reasoning": "Rebalancing: strong prediction (gap: $312.22)"
+    },
+    {
+      "date": "2017-09-28",
+      "action": "BUY",
+      "ticker": "TXN",
+      "shares": 2,
+      "price": 89.6500015258789,
+      "reasoning": "Rebalancing: strong prediction (gap: $201.50)"
+    },
+    {
+      "date": "2017-10-19",
+      "action": "BUY",
+      "ticker": "ADBE",
+      "shares": 1,
+      "price": 171.72999572753906,
+      "reasoning": "Rebalancing: strong prediction (gap: $183.68)"
+    },
+    {
+      "date": "2017-11-09",
+      "action": "SELL",
+      "ticker": "TMO",
+      "shares": 2,
+      "price": 191.88999938964844,
+      "days_held": 45,
+      "reasoning": "Rebalancing: no longer in top predictions or overweight"
+    },
+    {
+      "date": "2017-11-09",
+      "action": "SELL",
+      "ticker": "ABBV",
+      "shares": 4,
+      "price": 95.88999938964844,
+      "days_held": 45,
+      "reasoning": "Rebalancing: no longer in top predictions or overweight"
+    },
+    {
+      "date": "2017-11-09",
+      "action": "SELL",
+      "ticker": "BMY",
+      "shares": 1,
+      "price": 61.9900016784668,
+      "days_held": 45,
+      "reasoning": "Rebalancing: no longer in top predictions or overweight"
+    },
+    {
+      "date": "2017-11-09",
+      "action": "SELL",
+      "ticker": "LOW",
+      "shares": 1,
+      "price": 78.08000183105469,
+      "days_held": 45,
+      "reasoning": "Rebalancing: no longer in top predictions or overweight"
+    },
+    {
+      "date": "2017-11-09",
+      "action": "BUY",
+      "ticker": "QCOM",
+      "shares": 10,
+      "price": 64.5999984741211,
+      "reasoning": "Rebalancing: strong prediction (gap: $675.11)"
+    },
+    {
+      "date": "2017-11-09",
+      "action": "BUY",
+      "ticker": "AVGO",
+      "shares": 13,
+      "price": 26.56399917602539,
+      "reasoning": "Rebalancing: strong prediction (gap: $367.32)"
+    },
+    {
+      "date": "2017-12-01",
+      "action": "SELL",
+      "ticker": "CSCO",
+      "shares": 9,
+      "price": 37.599998474121094,
+      "days_held": 45,
+      "reasoning": "Rebalancing: no longer in top predictions or overweight"
+    },
+    {
+      "date": "2017-12-01",
+      "action": "SELL",
+      "ticker": "TXN",
+      "shares": 2,
+      "price": 97.18000030517578,
+      "days_held": 45,
+      "reasoning": "Rebalancing: no longer in top predictions or overweight"
+    },
+    {
+      "date": "2017-12-01",
+      "action": "BUY",
+      "ticker": "UNH",
+      "shares": 2,
+      "price": 226.77999877929688,
+      "reasoning": "Rebalancing: strong prediction (gap: $480.30)"
+    },
+    {
+      "date": "2017-12-01",
+      "action": "BUY",
+      "ticker": "BAC",
+      "shares": 3,
+      "price": 28.100000381469727,
+      "reasoning": "Rebalancing: strong prediction (gap: $105.14)"
+    },
+    {
+      "date": "2017-12-22",
+      "action": "SELL",
+      "ticker": "ADBE",
+      "shares": 1,
+      "price": 175.0,
+      "days_held": 45,
+      "reasoning": "Rebalancing: no longer in top predictions or overweight"
+    },
+    {
+      "date": "2017-12-22",
+      "action": "BUY",
+      "ticker": "LOW",
+      "shares": 2,
+      "price": 91.19000244140625,
+      "reasoning": "Rebalancing: strong prediction (gap: $241.82)"
+    },
+    {
+      "date": "2018-01-17",
+      "action": "SELL",
+      "ticker": "QCOM",
+      "shares": 10,
+      "price": 68.0199966430664,
+      "days_held": 45,
+      "reasoning": "Rebalancing: no longer in top predictions or overweight"
+    },
+    {
+      "date": "2018-01-17",
+      "action": "SELL",
+      "ticker": "AVGO",
+      "shares": 13,
+      "price": 26.58099937438965,
+      "days_held": 45,
+      "reasoning": "Rebalancing: no longer in top predictions or overweight"
+    },
+    {
+      "date": "2018-01-17",
+      "action": "BUY",
+      "ticker": "TSLA",
+      "shares": 31,
+      "price": 23.143999099731445,
+      "reasoning": "Rebalancing: strong prediction (gap: $720.40)"
+    },
+    {
+      "date": "2018-01-17",
+      "action": "BUY",
+      "ticker": "AMZN",
+      "shares": 1,
+      "price": 64.75,
+      "reasoning": "Rebalancing: strong prediction (gap: $128.70)"
+    },
+    {
+      "date": "2018-02-07",
+      "action": "SELL",
+      "ticker": "UNH",
+      "shares": 2,
+      "price": 225.82000732421875,
+      "days_held": 45,
+      "reasoning": "Rebalancing: no longer in top predictions or overweight"
+    },
+    {
+      "date": "2018-02-07",
+      "action": "SELL",
+      "ticker": "BAC",
+      "shares": 3,
+      "price": 31.25,
+      "days_held": 45,
+      "reasoning": "Rebalancing: no longer in top predictions or overweight"
+    },
+    {
+      "date": "2018-03-01",
+      "action": "SELL",
+      "ticker": "LOW",
+      "shares": 2,
+      "price": 87.95999908447266,
+      "days_held": 45,
+      "reasoning": "Rebalancing: no longer in top predictions or overweight"
+    },
+    {
+      "date": "2018-03-01",
+      "action": "BUY",
+      "ticker": "INTC",
+      "shares": 14,
+      "price": 47.84000015258789,
+      "reasoning": "Rebalancing: strong prediction (gap: $689.97)"
+    },
+    {
+      "date": "2018-03-01",
+      "action": "BUY",
+      "ticker": "NFLX",
+      "shares": 1,
+      "price": 290.3900146484375,
+      "reasoning": "Rebalancing: strong prediction (gap: $451.92)"
+    },
+    {
+      "date": "2018-03-22",
+      "action": "SELL",
+      "ticker": "TSLA",
+      "shares": 31,
+      "price": 20.606666564941406,
+      "days_held": 45,
+      "reasoning": "Rebalancing: no longer in top predictions or overweight"
+    },
+    {
+      "date": "2018-03-22",
+      "action": "SELL",
+      "ticker": "AMZN",
+      "shares": 1,
+      "price": 77.24600219726562,
+      "days_held": 45,
+      "reasoning": "Rebalancing: no longer in top predictions or overweight"
+    },
+    {
+      "date": "2018-03-22",
+      "action": "BUY",
+      "ticker": "NEE",
+      "shares": 7,
+      "price": 40.47249984741211,
+      "reasoning": "Rebalancing: strong prediction (gap: $320.37)"
+    },
+    {
+      "date": "2018-04-13",
+      "action": "BUY",
+      "ticker": "META",
+      "shares": 2,
+      "price": 164.52000427246094,
+      "reasoning": "Rebalancing: strong prediction (gap: $351.40)"
+    },
+    {
+      "date": "2018-04-13",
+      "action": "BUY",
+      "ticker": "MRK",
+      "shares": 1,
+      "price": 54.5515251159668,
+      "reasoning": "Rebalancing: strong prediction (gap: $87.85)"
+    },
+    {
+      "date": "2018-05-04",
+      "action": "SELL",
+      "ticker": "INTC",
+      "shares": 14,
+      "price": 52.779998779296875,
+      "days_held": 45,
+      "reasoning": "Rebalancing: no longer in top predictions or overweight"
+    },
+    {
+      "date": "2018-05-04",
+      "action": "SELL",
+      "ticker": "NFLX",
+      "shares": 1,
+      "price": 320.0899963378906,
+      "days_held": 45,
+      "reasoning": "Rebalancing: no longer in top predictions or overweight"
+    },
+    {
+      "date": "2018-05-04",
+      "action": "BUY",
+      "ticker": "ABBV",
+      "shares": 7,
+      "price": 100.16999816894531,
+      "reasoning": "Rebalancing: strong prediction (gap: $723.93)"
+    },
+    {
+      "date": "2018-05-04",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 7,
+      "price": 45.95750045776367,
+      "reasoning": "Rebalancing: strong prediction (gap: $361.97)"
+    },
+    {
+      "date": "2018-05-25",
+      "action": "SELL",
+      "ticker": "NEE",
+      "shares": 7,
+      "price": 40.60499954223633,
+      "days_held": 45,
+      "reasoning": "Rebalancing: no longer in top predictions or overweight"
+    },
+    {
+      "date": "2018-05-25",
+      "action": "BUY",
+      "ticker": "NFLX",
+      "shares": 1,
+      "price": 351.2900085449219,
+      "reasoning": "Rebalancing: strong prediction (gap: $378.38)"
+    },
+    {
+      "date": "2018-06-18",
+      "action": "SELL",
+      "ticker": "META",
+      "shares": 2,
+      "price": 198.30999755859375,
+      "days_held": 45,
+      "reasoning": "Rebalancing: no longer in top predictions or overweight"
+    },
+    {
+      "date": "2018-06-18",
+      "action": "SELL",
+      "ticker": "MRK",
+      "shares": 1,
+      "price": 58.196563720703125,
+      "days_held": 45,
+      "reasoning": "Rebalancing: no longer in top predictions or overweight"
+    },
+    {
+      "date": "2018-06-18",
+      "action": "BUY",
+      "ticker": "PEP",
+      "shares": 2,
+      "price": 105.37999725341797,
+      "reasoning": "Rebalancing: strong prediction (gap: $240.19)"
+    },
+    {
+      "date": "2018-06-18",
+      "action": "BUY",
+      "ticker": "DIS",
+      "shares": 1,
+      "price": 107.05999755859375,
+      "reasoning": "Rebalancing: strong prediction (gap: $117.99)"
+    },
+    {
+      "date": "2018-07-10",
+      "action": "SELL",
+      "ticker": "ABBV",
+      "shares": 7,
+      "price": 98.83999633789062,
+      "days_held": 45,
+      "reasoning": "Rebalancing: no longer in top predictions or overweight"
+    },
+    {
+      "date": "2018-07-10",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 7,
+      "price": 47.587501525878906,
+      "days_held": 45,
+      "reasoning": "Rebalancing: no longer in top predictions or overweight"
+    },
+    {
+      "date": "2018-07-10",
+      "action": "BUY",
+      "ticker": "ORCL",
+      "shares": 16,
+      "price": 46.9900016784668,
+      "reasoning": "Rebalancing: strong prediction (gap: $762.81)"
+    },
+    {
+      "date": "2018-07-10",
+      "action": "BUY",
+      "ticker": "NKE",
+      "shares": 4,
+      "price": 77.56999969482422,
+      "reasoning": "Rebalancing: strong prediction (gap: $380.98)"
+    },
+    {
+      "date": "2018-07-10",
+      "action": "BUY",
+      "ticker": "NVDA",
+      "shares": 17,
+      "price": 6.331250190734863,
+      "reasoning": "Rebalancing: strong prediction (gap: $113.55)"
+    },
+    {
+      "date": "2018-07-31",
+      "action": "SELL",
+      "ticker": "NFLX",
+      "shares": 1,
+      "price": 337.45001220703125,
+      "days_held": 45,
+      "reasoning": "Rebalancing: no longer in top predictions or overweight"
+    },
+    {
+      "date": "2018-07-31",
+      "action": "BUY",
+      "ticker": "LLY",
+      "shares": 3,
+      "price": 98.80999755859375,
+      "reasoning": "Rebalancing: strong prediction (gap: $374.45)"
+    },
+    {
+      "date": "2018-08-21",
+      "action": "SELL",
+      "ticker": "PEP",
+      "shares": 2,
+      "price": 113.72000122070312,
+      "days_held": 45,
+      "reasoning": "Rebalancing: no longer in top predictions or overweight"
+    },
+    {
+      "date": "2018-08-21",
+      "action": "SELL",
+      "ticker": "DIS",
+      "shares": 1,
+      "price": 112.38999938964844,
+      "days_held": 45,
+      "reasoning": "Rebalancing: no longer in top predictions or overweight"
+    },
+    {
+      "date": "2018-08-21",
+      "action": "BUY",
+      "ticker": "MRK",
+      "shares": 5,
+      "price": 66.00190734863281,
+      "reasoning": "Rebalancing: strong prediction (gap: $332.43)"
+    },
+    {
+      "date": "2018-09-12",
+      "action": "SELL",
+      "ticker": "ORCL",
+      "shares": 16,
+      "price": 49.34000015258789,
+      "days_held": 45,
+      "reasoning": "Rebalancing: no longer in top predictions or overweight"
+    },
+    {
+      "date": "2018-09-12",
+      "action": "SELL",
+      "ticker": "NKE",
+      "shares": 4,
+      "price": 83.0,
+      "days_held": 45,
+      "reasoning": "Rebalancing: no longer in top predictions or overweight"
+    },
+    {
+      "date": "2018-09-12",
+      "action": "SELL",
+      "ticker": "NVDA",
+      "shares": 17,
+      "price": 6.704999923706055,
+      "days_held": 45,
+      "reasoning": "Rebalancing: no longer in top predictions or overweight"
+    },
+    {
+      "date": "2018-09-12",
+      "action": "BUY",
+      "ticker": "AVGO",
+      "shares": 34,
+      "price": 22.98900032043457,
+      "reasoning": "Rebalancing: strong prediction (gap: $781.65)"
+    },
+    {
+      "date": "2018-09-12",
+      "action": "BUY",
+      "ticker": "COST",
+      "shares": 1,
+      "price": 242.44000244140625,
+      "reasoning": "Rebalancing: strong prediction (gap: $317.69)"
+    },
+    {
+      "date": "2018-10-03",
+      "action": "SELL",
+      "ticker": "LLY",
+      "shares": 3,
+      "price": 108.62000274658203,
+      "days_held": 45,
+      "reasoning": "Rebalancing: no longer in top predictions or overweight"
+    },
+    {
+      "date": "2018-10-03",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 5,
+      "price": 58.01750183105469,
+      "reasoning": "Rebalancing: strong prediction (gap: $335.19)"
+    },
+    {
+      "date": "2018-10-03",
+      "action": "BUY",
+      "ticker": "ABT",
+      "shares": 1,
+      "price": 72.04000091552734,
+      "reasoning": "Rebalancing: strong prediction (gap: $101.87)"
+    },
+    {
+      "date": "2018-10-24",
+      "action": "SELL",
+      "ticker": "MRK",
+      "shares": 5,
+      "price": 67.30915832519531,
+      "days_held": 45,
+      "reasoning": "Rebalancing: no longer in top predictions or overweight"
+    },
+    {
+      "date": "2018-10-24",
+      "action": "BUY",
+      "ticker": "TSLA",
+      "shares": 29,
+      "price": 19.233333587646484,
+      "reasoning": "Rebalancing: strong prediction (gap: $564.69)"
+    },
+    {
+      "date": "2018-11-14",
+      "action": "SELL",
+      "ticker": "AVGO",
+      "shares": 34,
+      "price": 22.6200008392334,
+      "days_held": 45,
+      "reasoning": "Rebalancing: no longer in top predictions or overweight"
+    },
+    {
+      "date": "2018-11-14",
+      "action": "SELL",
+      "ticker": "COST",
+      "shares": 1,
+      "price": 233.30999755859375,
+      "days_held": 45,
+      "reasoning": "Rebalancing: no longer in top predictions or overweight"
+    },
+    {
+      "date": "2018-11-14",
+      "action": "BUY",
+      "ticker": "ABBV",
+      "shares": 9,
+      "price": 88.30999755859375,
+      "reasoning": "Rebalancing: strong prediction (gap: $796.69)"
+    },
+    {
+      "date": "2018-11-14",
+      "action": "BUY",
+      "ticker": "LLY",
+      "shares": 1,
+      "price": 109.80999755859375,
+      "reasoning": "Rebalancing: strong prediction (gap: $197.59)"
+    },
+    {
+      "date": "2018-12-07",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 5,
+      "price": 42.122501373291016,
+      "days_held": 45,
+      "reasoning": "Rebalancing: no longer in top predictions or overweight"
+    },
+    {
+      "date": "2018-12-07",
+      "action": "SELL",
+      "ticker": "ABT",
+      "shares": 1,
+      "price": 69.94999694824219,
+      "days_held": 45,
+      "reasoning": "Rebalancing: no longer in top predictions or overweight"
+    },
+    {
+      "date": "2018-12-07",
+      "action": "BUY",
+      "ticker": "MA",
+      "shares": 2,
+      "price": 196.5,
+      "reasoning": "Rebalancing: strong prediction (gap: $397.60)"
+    },
+    {
+      "date": "2018-12-31",
+      "action": "SELL",
+      "ticker": "TSLA",
+      "shares": 29,
+      "price": 22.18666648864746,
+      "days_held": 45,
+      "reasoning": "Rebalancing: no longer in top predictions or overweight"
+    },
+    {
+      "date": "2018-12-31",
+      "action": "BUY",
+      "ticker": "NKE",
+      "shares": 7,
+      "price": 74.13999938964844,
+      "reasoning": "Rebalancing: strong prediction (gap: $563.06)"
+    },
+    {
+      "date": "2019-01-23",
+      "action": "SELL",
+      "ticker": "ABBV",
+      "shares": 9,
+      "price": 88.44999694824219,
+      "days_held": 45,
+      "reasoning": "Rebalancing: no longer in top predictions or overweight"
+    },
+    {
+      "date": "2019-01-23",
+      "action": "SELL",
+      "ticker": "LLY",
+      "shares": 1,
+      "price": 118.79000091552734,
+      "days_held": 45,
+      "reasoning": "Rebalancing: no longer in top predictions or overweight"
+    },
+    {
+      "date": "2019-01-23",
+      "action": "BUY",
+      "ticker": "BAC",
+      "shares": 27,
+      "price": 28.920000076293945,
+      "reasoning": "Rebalancing: strong prediction (gap: $802.47)"
+    },
+    {
+      "date": "2019-01-23",
+      "action": "BUY",
+      "ticker": "PM",
+      "shares": 1,
+      "price": 74.0,
+      "reasoning": "Rebalancing: strong prediction (gap: $133.74)"
+    },
+    {
+      "date": "2019-02-13",
+      "action": "SELL",
+      "ticker": "MA",
+      "shares": 2,
+      "price": 220.5399932861328,
+      "days_held": 45,
+      "reasoning": "Rebalancing: no longer in top predictions or overweight"
+    },
+    {
+      "date": "2019-02-13",
+      "action": "BUY",
+      "ticker": "TXN",
+      "shares": 3,
+      "price": 107.1500015258789,
+      "reasoning": "Rebalancing: strong prediction (gap: $364.30)"
+    },
+    {
+      "date": "2019-02-13",
+      "action": "BUY",
+      "ticker": "RTX",
+      "shares": 2,
+      "price": 78.30081939697266,
+      "reasoning": "Rebalancing: strong prediction (gap: $176.38)"
+    },
+    {
+      "date": "2019-03-07",
+      "action": "SELL",
+      "ticker": "NKE",
+      "shares": 7,
+      "price": 85.26000213623047,
+      "days_held": 45,
+      "reasoning": "Rebalancing: no longer in top predictions or overweight"
+    },
+    {
+      "date": "2019-03-07",
+      "action": "BUY",
+      "ticker": "BMY",
+      "shares": 10,
+      "price": 51.5099983215332,
+      "reasoning": "Rebalancing: strong prediction (gap: $532.59)"
+    },
+    {
+      "date": "2019-03-07",
+      "action": "BUY",
+      "ticker": "GOOGL",
+      "shares": 3,
+      "price": 57.54249954223633,
+      "reasoning": "Rebalancing: strong prediction (gap: $215.16)"
+    },
+    {
+      "date": "2019-03-28",
+      "action": "SELL",
+      "ticker": "BAC",
+      "shares": 27,
+      "price": 27.329999923706055,
+      "days_held": 45,
+      "reasoning": "Rebalancing: no longer in top predictions or overweight"
+    },
+    {
+      "date": "2019-03-28",
+      "action": "SELL",
+      "ticker": "PM",
+      "shares": 1,
+      "price": 87.27999877929688,
+      "days_held": 45,
+      "reasoning": "Rebalancing: no longer in top predictions or overweight"
+    },
+    {
+      "date": "2019-03-28",
+      "action": "BUY",
+      "ticker": "LOW",
+      "shares": 3,
+      "price": 108.37000274658203,
+      "reasoning": "Rebalancing: strong prediction (gap: $418.99)"
+    },
+    {
+      "date": "2019-03-28",
+      "action": "BUY",
+      "ticker": "PEP",
+      "shares": 2,
+      "price": 121.83999633789062,
+      "reasoning": "Rebalancing: strong prediction (gap: $301.86)"
+    },
+    {
+      "date": "2019-04-18",
+      "action": "SELL",
+      "ticker": "TXN",
+      "shares": 3,
+      "price": 115.51000213623047,
+      "days_held": 45,
+      "reasoning": "Rebalancing: no longer in top predictions or overweight"
+    },
+    {
+      "date": "2019-04-18",
+      "action": "SELL",
+      "ticker": "RTX",
+      "shares": 2,
+      "price": 86.2177505493164,
+      "days_held": 45,
+      "reasoning": "Rebalancing: no longer in top predictions or overweight"
+    },
+    {
+      "date": "2019-04-18",
+      "action": "BUY",
+      "ticker": "QCOM",
+      "shares": 10,
+      "price": 79.88999938964844,
+      "reasoning": "Rebalancing: strong prediction (gap: $830.18)"
+    },
+    {
+      "date": "2019-05-10",
+      "action": "SELL",
+      "ticker": "BMY",
+      "shares": 10,
+      "price": 47.0099983215332,
+      "days_held": 45,
+      "reasoning": "Rebalancing: no longer in top predictions or overweight"
+    },
+    {
+      "date": "2019-05-10",
+      "action": "SELL",
+      "ticker": "GOOGL",
+      "shares": 3,
+      "price": 58.38199996948242,
+      "days_held": 45,
+      "reasoning": "Rebalancing: no longer in top predictions or overweight"
+    },
+    {
+      "date": "2019-06-03",
+      "action": "SELL",
+      "ticker": "LOW",
+      "shares": 3,
+      "price": 93.83999633789062,
+      "days_held": 45,
+      "reasoning": "Rebalancing: no longer in top predictions or overweight"
+    },
+    {
+      "date": "2019-06-03",
+      "action": "SELL",
+      "ticker": "PEP",
+      "shares": 2,
+      "price": 128.97999572753906,
+      "days_held": 45,
+      "reasoning": "Rebalancing: no longer in top predictions or overweight"
+    },
+    {
+      "date": "2019-06-03",
+      "action": "BUY",
+      "ticker": "MDT",
+      "shares": 3,
+      "price": 93.33000183105469,
+      "reasoning": "Rebalancing: strong prediction (gap: $335.38)"
+    },
+    {
+      "date": "2019-06-24",
+      "action": "SELL",
+      "ticker": "QCOM",
+      "shares": 10,
+      "price": 73.16000366210938,
+      "days_held": 45,
+      "reasoning": "Rebalancing: no longer in top predictions or overweight"
+    },
+    {
+      "date": "2019-06-24",
+      "action": "BUY",
+      "ticker": "ADBE",
+      "shares": 2,
+      "price": 299.8699951171875,
+      "reasoning": "Rebalancing: strong prediction (gap: $789.42)"
+    },
+    {
+      "date": "2019-06-24",
+      "action": "BUY",
+      "ticker": "META",
+      "shares": 3,
+      "price": 192.60000610351562,
+      "reasoning": "Rebalancing: strong prediction (gap: $592.06)"
+    },
+    {
+      "date": "2019-06-24",
+      "action": "BUY",
+      "ticker": "NVDA",
+      "shares": 101,
+      "price": 3.816499948501587,
+      "reasoning": "Rebalancing: strong prediction (gap: $388.86)"
+    },
+    {
+      "date": "2019-08-06",
+      "action": "SELL",
+      "ticker": "MDT",
+      "shares": 3,
+      "price": 101.23999786376953,
+      "days_held": 45,
+      "reasoning": "Rebalancing: no longer in top predictions or overweight"
+    },
+    {
+      "date": "2019-08-27",
+      "action": "SELL",
+      "ticker": "ADBE",
+      "shares": 2,
+      "price": 289.45001220703125,
+      "days_held": 45,
+      "reasoning": "Rebalancing: no longer in top predictions or overweight"
+    },
+    {
+      "date": "2019-08-27",
+      "action": "SELL",
+      "ticker": "META",
+      "shares": 3,
+      "price": 181.3000030517578,
+      "days_held": 45,
+      "reasoning": "Rebalancing: no longer in top predictions or overweight"
+    },
+    {
+      "date": "2019-08-27",
+      "action": "BUY",
+      "ticker": "LOW",
+      "shares": 7,
+      "price": 106.04000091552734,
+      "reasoning": "Rebalancing: strong prediction (gap: $779.25)"
+    },
+    {
+      "date": "2019-08-27",
+      "action": "BUY",
+      "ticker": "HD",
+      "shares": 1,
+      "price": 218.2100067138672,
+      "reasoning": "Rebalancing: strong prediction (gap: $355.72)"
+    },
+    {
+      "date": "2019-08-27",
+      "action": "BUY",
+      "ticker": "MDT",
+      "shares": 1,
+      "price": 107.54000091552734,
+      "reasoning": "Rebalancing: strong prediction (gap: $111.86)"
+    },
+    {
+      "date": "2019-09-18",
+      "action": "SELL",
+      "ticker": "NVDA",
+      "shares": 101,
+      "price": 4.499499797821045,
+      "days_held": 60,
+      "reasoning": "Rebalancing: no longer in top predictions or overweight"
+    },
+    {
+      "date": "2019-09-18",
+      "action": "BUY",
+      "ticker": "TSLA",
+      "shares": 49,
+      "price": 16.232667922973633,
+      "reasoning": "Rebalancing: strong prediction (gap: $800.62)"
+    },
+    {
+      "date": "2019-10-30",
+      "action": "SELL",
+      "ticker": "LOW",
+      "shares": 7,
+      "price": 111.27999877929688,
+      "days_held": 45,
+      "reasoning": "Rebalancing: no longer in top predictions or overweight"
+    },
+    {
+      "date": "2019-10-30",
+      "action": "SELL",
+      "ticker": "HD",
+      "shares": 1,
+      "price": 236.24000549316406,
+      "days_held": 45,
+      "reasoning": "Rebalancing: no longer in top predictions or overweight"
+    },
+    {
+      "date": "2019-10-30",
+      "action": "SELL",
+      "ticker": "MDT",
+      "shares": 1,
+      "price": 108.55000305175781,
+      "days_held": 45,
+      "reasoning": "Rebalancing: no longer in top predictions or overweight"
+    },
+    {
+      "date": "2019-10-30",
+      "action": "BUY",
+      "ticker": "INTC",
+      "shares": 12,
+      "price": 56.599998474121094,
+      "reasoning": "Rebalancing: strong prediction (gap: $685.01)"
+    },
+    {
+      "date": "2019-10-30",
+      "action": "BUY",
+      "ticker": "TMO",
+      "shares": 1,
+      "price": 301.8599853515625,
+      "reasoning": "Rebalancing: strong prediction (gap: $456.68)"
+    },
+    {
+      "date": "2019-10-30",
+      "action": "BUY",
+      "ticker": "NVDA",
+      "shares": 22,
+      "price": 5.074999809265137,
+      "reasoning": "Rebalancing: strong prediction (gap: $114.17)"
+    },
+    {
+      "date": "2019-11-20",
+      "action": "SELL",
+      "ticker": "TSLA",
+      "shares": 49,
+      "price": 23.481332778930664,
+      "days_held": 45,
+      "reasoning": "Rebalancing: no longer in top predictions or overweight"
+    },
+    {
+      "date": "2019-11-20",
+      "action": "BUY",
+      "ticker": "DIS",
+      "shares": 6,
+      "price": 146.92999267578125,
+      "reasoning": "Rebalancing: strong prediction (gap: $972.20)"
+    },
+    {
+      "date": "2019-11-20",
+      "action": "BUY",
+      "ticker": "DHR",
+      "shares": 2,
+      "price": 126.73758697509766,
+      "reasoning": "Rebalancing: strong prediction (gap: $340.47)"
+    },
+    {
+      "date": "2019-11-20",
+      "action": "BUY",
+      "ticker": "NEE",
+      "shares": 2,
+      "price": 58.80500030517578,
+      "reasoning": "Rebalancing: strong prediction (gap: $150.09)"
+    }
+  ],
+  "performance_history": [
+    {
+      "initial_value": 1000.0,
+      "current_value": 1000.0,
+      "total_return": 0.0,
+      "return_percentage": 0.0,
+      "cash": 1000.0,
+      "holdings_count": 0,
+      "total_transactions": 0,
+      "date": "2015-01-16"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 985.8822822570801,
+      "total_return": -14.117717742919922,
+      "return_percentage": -1.4117717742919922,
+      "cash": 209.29228591918945,
+      "holdings_count": 4,
+      "total_transactions": 4,
+      "date": "2015-02-02"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 1021.4561653137207,
+      "total_return": 21.456165313720703,
+      "return_percentage": 2.1456165313720703,
+      "cash": 0.6239395141601562,
+      "holdings_count": 6,
+      "total_transactions": 6,
+      "date": "2015-02-17"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 1025.2065925598145,
+      "total_return": 25.206592559814453,
+      "return_percentage": 2.520659255981445,
+      "cash": 0.6239395141601562,
+      "holdings_count": 6,
+      "total_transactions": 6,
+      "date": "2015-03-03"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 966.8757095336914,
+      "total_return": -33.124290466308594,
+      "return_percentage": -3.3124290466308595,
+      "cash": 0.6239395141601562,
+      "holdings_count": 6,
+      "total_transactions": 6,
+      "date": "2015-03-17"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 946.3543815612793,
+      "total_return": -53.6456184387207,
+      "return_percentage": -5.36456184387207,
+      "cash": 560.7867813110352,
+      "holdings_count": 3,
+      "total_transactions": 11,
+      "date": "2015-03-31"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 952.0128593444824,
+      "total_return": -47.98714065551758,
+      "return_percentage": -4.798714065551757,
+      "cash": 560.7867813110352,
+      "holdings_count": 3,
+      "total_transactions": 11,
+      "date": "2015-04-15"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 950.7114944458008,
+      "total_return": -49.28850555419922,
+      "return_percentage": -4.928850555419921,
+      "cash": 129.30290985107422,
+      "holdings_count": 4,
+      "total_transactions": 16,
+      "date": "2015-04-29"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 973.1443328857422,
+      "total_return": -26.855667114257812,
+      "return_percentage": -2.685566711425781,
+      "cash": 13.505908966064453,
+      "holdings_count": 6,
+      "total_transactions": 18,
+      "date": "2015-05-13"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 1000.391487121582,
+      "total_return": 0.39148712158203125,
+      "return_percentage": 0.039148712158203126,
+      "cash": 13.505908966064453,
+      "holdings_count": 6,
+      "total_transactions": 18,
+      "date": "2015-05-28"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 1019.5900421142578,
+      "total_return": 19.590042114257812,
+      "return_percentage": 1.9590042114257813,
+      "cash": 127.68590927124023,
+      "holdings_count": 6,
+      "total_transactions": 20,
+      "date": "2015-06-11"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 1016.4616241455078,
+      "total_return": 16.461624145507812,
+      "return_percentage": 1.6461624145507812,
+      "cash": 190.67560577392578,
+      "holdings_count": 6,
+      "total_transactions": 26,
+      "date": "2015-06-25"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 1007.8065872192383,
+      "total_return": 7.806587219238281,
+      "return_percentage": 0.7806587219238281,
+      "cash": 190.67560577392578,
+      "holdings_count": 6,
+      "total_transactions": 26,
+      "date": "2015-07-10"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 1040.9316024780273,
+      "total_return": 40.931602478027344,
+      "return_percentage": 4.093160247802734,
+      "cash": 28.665611267089844,
+      "holdings_count": 6,
+      "total_transactions": 28,
+      "date": "2015-07-24"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 1049.821620941162,
+      "total_return": 49.82162094116211,
+      "return_percentage": 4.9821620941162115,
+      "cash": 79.65760803222656,
+      "holdings_count": 5,
+      "total_transactions": 31,
+      "date": "2015-08-07"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 960.9256038665771,
+      "total_return": -39.07439613342285,
+      "return_percentage": -3.9074396133422855,
+      "cash": 79.65760803222656,
+      "holdings_count": 5,
+      "total_transactions": 31,
+      "date": "2015-08-21"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 976.5096168518066,
+      "total_return": -23.49038314819336,
+      "return_percentage": -2.349038314819336,
+      "cash": 701.8896141052246,
+      "holdings_count": 2,
+      "total_transactions": 34,
+      "date": "2015-09-04"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 980.8696174621582,
+      "total_return": -19.130382537841797,
+      "return_percentage": -1.9130382537841797,
+      "cash": 128.14295959472656,
+      "holdings_count": 5,
+      "total_transactions": 37,
+      "date": "2015-09-21"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 997.6729583740234,
+      "total_return": -2.3270416259765625,
+      "return_percentage": -0.23270416259765625,
+      "cash": 128.14295959472656,
+      "holdings_count": 5,
+      "total_transactions": 37,
+      "date": "2015-10-05"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 963.9163093566895,
+      "total_return": -36.08369064331055,
+      "return_percentage": -3.6083690643310544,
+      "cash": 44.382965087890625,
+      "holdings_count": 5,
+      "total_transactions": 39,
+      "date": "2015-10-19"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 986.1983051300049,
+      "total_return": -13.801694869995117,
+      "return_percentage": -1.3801694869995118,
+      "cash": 44.382965087890625,
+      "holdings_count": 5,
+      "total_transactions": 39,
+      "date": "2015-11-02"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 976.3776359558105,
+      "total_return": -23.622364044189453,
+      "return_percentage": -2.3622364044189452,
+      "cash": 44.382965087890625,
+      "holdings_count": 5,
+      "total_transactions": 39,
+      "date": "2015-11-16"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 1049.4716205596924,
+      "total_return": 49.47162055969238,
+      "return_percentage": 4.947162055969239,
+      "cash": 157.06895637512207,
+      "holdings_count": 4,
+      "total_transactions": 44,
+      "date": "2015-12-01"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 1058.2569408416748,
+      "total_return": 58.256940841674805,
+      "return_percentage": 5.8256940841674805,
+      "cash": 555.3689556121826,
+      "holdings_count": 2,
+      "total_transactions": 46,
+      "date": "2015-12-15"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 1073.5369625091553,
+      "total_return": 73.53696250915527,
+      "return_percentage": 7.353696250915527,
+      "cash": 555.3689556121826,
+      "holdings_count": 2,
+      "total_transactions": 46,
+      "date": "2015-12-30"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 1023.9849605560303,
+      "total_return": 23.984960556030273,
+      "return_percentage": 2.3984960556030273,
+      "cash": 555.3689556121826,
+      "holdings_count": 2,
+      "total_transactions": 46,
+      "date": "2016-01-14"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 1053.2329692840576,
+      "total_return": 53.23296928405762,
+      "return_percentage": 5.323296928405761,
+      "cash": 254.6854739189148,
+      "holdings_count": 3,
+      "total_transactions": 51,
+      "date": "2016-01-29"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 962.2029786109924,
+      "total_return": -37.79702138900757,
+      "return_percentage": -3.779702138900757,
+      "cash": 254.6854739189148,
+      "holdings_count": 3,
+      "total_transactions": 51,
+      "date": "2016-02-12"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 1029.6154679059982,
+      "total_return": 29.61546790599823,
+      "return_percentage": 2.961546790599823,
+      "cash": 22.935479640960693,
+      "holdings_count": 5,
+      "total_transactions": 53,
+      "date": "2016-02-29"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 1061.075489282608,
+      "total_return": 61.07548928260803,
+      "return_percentage": 6.107548928260803,
+      "cash": 22.935479640960693,
+      "holdings_count": 5,
+      "total_transactions": 53,
+      "date": "2016-03-14"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 1102.6379826068878,
+      "total_return": 102.63798260688782,
+      "return_percentage": 10.263798260688782,
+      "cash": 22.935479640960693,
+      "holdings_count": 5,
+      "total_transactions": 53,
+      "date": "2016-03-29"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 1080.127966284752,
+      "total_return": 80.12796628475189,
+      "return_percentage": 8.01279662847519,
+      "cash": 168.69463002681732,
+      "holdings_count": 5,
+      "total_transactions": 59,
+      "date": "2016-04-12"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 1093.0946353673935,
+      "total_return": 93.0946353673935,
+      "return_percentage": 9.30946353673935,
+      "cash": 53.74462163448334,
+      "holdings_count": 4,
+      "total_transactions": 62,
+      "date": "2016-04-26"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 997.7812894582748,
+      "total_return": -2.2187105417251587,
+      "return_percentage": -0.22187105417251587,
+      "cash": 53.74462163448334,
+      "holdings_count": 4,
+      "total_transactions": 62,
+      "date": "2016-05-10"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 998.7479528188705,
+      "total_return": -1.2520471811294556,
+      "return_percentage": -0.12520471811294556,
+      "cash": 53.74462163448334,
+      "holdings_count": 4,
+      "total_transactions": 62,
+      "date": "2016-05-24"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 1064.6779569387436,
+      "total_return": 64.67795693874359,
+      "return_percentage": 6.4677956938743595,
+      "cash": 291.3379319906235,
+      "holdings_count": 3,
+      "total_transactions": 67,
+      "date": "2016-06-08"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 1039.401919722557,
+      "total_return": 39.40191972255707,
+      "return_percentage": 3.940191972255707,
+      "cash": 291.3379319906235,
+      "holdings_count": 3,
+      "total_transactions": 67,
+      "date": "2016-06-22"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 1027.6169284582138,
+      "total_return": 27.616928458213806,
+      "return_percentage": 2.7616928458213805,
+      "cash": 636.457927107811,
+      "holdings_count": 2,
+      "total_transactions": 68,
+      "date": "2016-07-07"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 1048.8189347982407,
+      "total_return": 48.81893479824066,
+      "return_percentage": 4.8818934798240665,
+      "cash": 42.837912917137146,
+      "holdings_count": 4,
+      "total_transactions": 70,
+      "date": "2016-07-21"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 1071.6968854665756,
+      "total_return": 71.69688546657562,
+      "return_percentage": 7.169688546657563,
+      "cash": 42.837912917137146,
+      "holdings_count": 4,
+      "total_transactions": 70,
+      "date": "2016-08-04"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 1093.9569047689438,
+      "total_return": 93.95690476894379,
+      "return_percentage": 9.395690476894378,
+      "cash": 40.187365889549255,
+      "holdings_count": 3,
+      "total_transactions": 73,
+      "date": "2016-08-18"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 1114.1509507894516,
+      "total_return": 114.1509507894516,
+      "return_percentage": 11.41509507894516,
+      "cash": 40.187365889549255,
+      "holdings_count": 3,
+      "total_transactions": 73,
+      "date": "2016-09-01"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 1094.3597425222397,
+      "total_return": 94.35974252223969,
+      "return_percentage": 9.435974252223968,
+      "cash": 40.187365889549255,
+      "holdings_count": 3,
+      "total_transactions": 73,
+      "date": "2016-09-16"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 1110.5808190107346,
+      "total_return": 110.58081901073456,
+      "return_percentage": 11.058081901073455,
+      "cash": 14.171130299568176,
+      "holdings_count": 5,
+      "total_transactions": 79,
+      "date": "2016-09-30"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 1095.1692794561386,
+      "total_return": 95.16927945613861,
+      "return_percentage": 9.51692794561386,
+      "cash": 223.3758784532547,
+      "holdings_count": 5,
+      "total_transactions": 81,
+      "date": "2016-10-14"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 1106.8917186260223,
+      "total_return": 106.89171862602234,
+      "return_percentage": 10.689171862602235,
+      "cash": 223.3758784532547,
+      "holdings_count": 5,
+      "total_transactions": 81,
+      "date": "2016-10-28"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 1151.8382977247238,
+      "total_return": 151.83829772472382,
+      "return_percentage": 15.183829772472382,
+      "cash": 13.81588089466095,
+      "holdings_count": 6,
+      "total_transactions": 82,
+      "date": "2016-11-11"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 1194.318808913231,
+      "total_return": 194.3188089132309,
+      "return_percentage": 19.43188089132309,
+      "cash": 146.81087982654572,
+      "holdings_count": 5,
+      "total_transactions": 85,
+      "date": "2016-11-28"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 1196.1332904100418,
+      "total_return": 196.1332904100418,
+      "return_percentage": 19.61332904100418,
+      "cash": 146.81087982654572,
+      "holdings_count": 5,
+      "total_transactions": 85,
+      "date": "2016-12-12"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 1325.0752416849136,
+      "total_return": 325.07524168491364,
+      "return_percentage": 32.507524168491365,
+      "cash": 291.51088058948517,
+      "holdings_count": 5,
+      "total_transactions": 87,
+      "date": "2016-12-27"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 1269.4891990423203,
+      "total_return": 269.48919904232025,
+      "return_percentage": 26.948919904232028,
+      "cash": 23.221872687339783,
+      "holdings_count": 6,
+      "total_transactions": 92,
+      "date": "2017-01-11"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 1325.0968574285507,
+      "total_return": 325.0968574285507,
+      "return_percentage": 32.50968574285507,
+      "cash": 23.221872687339783,
+      "holdings_count": 6,
+      "total_transactions": 92,
+      "date": "2017-01-26"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 1349.3528960943222,
+      "total_return": 349.3528960943222,
+      "return_percentage": 34.93528960943222,
+      "cash": 121.76188504695892,
+      "holdings_count": 6,
+      "total_transactions": 96,
+      "date": "2017-02-09"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 1394.3858970403671,
+      "total_return": 394.3858970403671,
+      "return_percentage": 39.438589704036715,
+      "cash": 78.59188687801361,
+      "holdings_count": 7,
+      "total_transactions": 97,
+      "date": "2017-02-24"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 1410.117872595787,
+      "total_return": 410.11787259578705,
+      "return_percentage": 41.0117872595787,
+      "cash": 78.59188687801361,
+      "holdings_count": 7,
+      "total_transactions": 97,
+      "date": "2017-03-10"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 1415.8268607854843,
+      "total_return": 415.8268607854843,
+      "return_percentage": 41.582686078548434,
+      "cash": 212.72186505794525,
+      "holdings_count": 5,
+      "total_transactions": 103,
+      "date": "2017-03-24"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 1429.8918451070786,
+      "total_return": 429.89184510707855,
+      "return_percentage": 42.98918451070786,
+      "cash": 206.57686460018158,
+      "holdings_count": 4,
+      "total_transactions": 106,
+      "date": "2017-04-07"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 1455.1463683843613,
+      "total_return": 455.14636838436127,
+      "return_percentage": 45.51463683843613,
+      "cash": 206.57686460018158,
+      "holdings_count": 4,
+      "total_transactions": 106,
+      "date": "2017-04-24"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 1464.9273990392685,
+      "total_return": 464.9273990392685,
+      "return_percentage": 46.49273990392685,
+      "cash": 204.9858649969101,
+      "holdings_count": 4,
+      "total_transactions": 108,
+      "date": "2017-05-08"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 1666.5168966054916,
+      "total_return": 666.5168966054916,
+      "return_percentage": 66.65168966054917,
+      "cash": 275.0958789587021,
+      "holdings_count": 5,
+      "total_transactions": 111,
+      "date": "2017-05-22"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 1720.2119020223618,
+      "total_return": 720.2119020223618,
+      "return_percentage": 72.02119020223617,
+      "cash": 275.0958789587021,
+      "holdings_count": 5,
+      "total_transactions": 111,
+      "date": "2017-06-06"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 1762.0798686742783,
+      "total_return": 762.0798686742783,
+      "return_percentage": 76.20798686742782,
+      "cash": 250.67338979244232,
+      "holdings_count": 6,
+      "total_transactions": 114,
+      "date": "2017-06-20"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 1697.9314082860947,
+      "total_return": 697.9314082860947,
+      "return_percentage": 69.79314082860947,
+      "cash": 422.2913898229599,
+      "holdings_count": 5,
+      "total_transactions": 117,
+      "date": "2017-07-05"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 1698.7313884496689,
+      "total_return": 698.7313884496689,
+      "return_percentage": 69.87313884496689,
+      "cash": 422.2913898229599,
+      "holdings_count": 5,
+      "total_transactions": 117,
+      "date": "2017-07-19"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 1683.0514072179794,
+      "total_return": 683.0514072179794,
+      "return_percentage": 68.30514072179794,
+      "cash": 198.56137883663177,
+      "holdings_count": 4,
+      "total_transactions": 120,
+      "date": "2017-08-02"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 1633.3813709020615,
+      "total_return": 633.3813709020615,
+      "return_percentage": 63.338137090206146,
+      "cash": 479.5013736486435,
+      "holdings_count": 2,
+      "total_transactions": 122,
+      "date": "2017-08-16"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 1581.7313960790634,
+      "total_return": 581.7313960790634,
+      "return_percentage": 58.17313960790634,
+      "cash": 479.5013736486435,
+      "holdings_count": 2,
+      "total_transactions": 122,
+      "date": "2017-08-30"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 1636.271400809288,
+      "total_return": 636.271400809288,
+      "return_percentage": 63.627140080928804,
+      "cash": 206.97137868404388,
+      "holdings_count": 5,
+      "total_transactions": 127,
+      "date": "2017-09-14"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 1620.2713550329208,
+      "total_return": 620.2713550329208,
+      "return_percentage": 62.02713550329209,
+      "cash": 269.6213802099228,
+      "holdings_count": 6,
+      "total_transactions": 130,
+      "date": "2017-09-28"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 1653.5813602209091,
+      "total_return": 653.5813602209091,
+      "return_percentage": 65.3581360220909,
+      "cash": 269.6213802099228,
+      "holdings_count": 6,
+      "total_transactions": 130,
+      "date": "2017-10-12"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 1673.831371665001,
+      "total_return": 673.8313716650009,
+      "return_percentage": 67.38313716650009,
+      "cash": 97.89138448238373,
+      "holdings_count": 7,
+      "total_transactions": 131,
+      "date": "2017-10-26"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 1687.7713817358017,
+      "total_return": 687.7713817358017,
+      "return_percentage": 68.77713817358017,
+      "cash": 13.969410300254822,
+      "holdings_count": 5,
+      "total_transactions": 137,
+      "date": "2017-11-09"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 1781.6334861516953,
+      "total_return": 781.6334861516953,
+      "return_percentage": 78.16334861516953,
+      "cash": 13.969410300254822,
+      "holdings_count": 5,
+      "total_transactions": 137,
+      "date": "2017-11-24"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 1697.6923793554306,
+      "total_return": 697.6923793554306,
+      "return_percentage": 69.76923793554306,
+      "cash": 8.869398474693298,
+      "holdings_count": 5,
+      "total_transactions": 141,
+      "date": "2017-12-08"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 1701.8644374608994,
+      "total_return": 701.8644374608994,
+      "return_percentage": 70.18644374608994,
+      "cash": 1.4893935918807983,
+      "holdings_count": 5,
+      "total_transactions": 143,
+      "date": "2017-12-22"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 1734.909382224083,
+      "total_return": 734.909382224083,
+      "return_percentage": 73.4909382224083,
+      "cash": 1.4893935918807983,
+      "holdings_count": 5,
+      "total_transactions": 143,
+      "date": "2018-01-09"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 1827.1532462835312,
+      "total_return": 827.1532462835312,
+      "return_percentage": 82.71532462835312,
+      "cash": 245.0283797979355,
+      "holdings_count": 5,
+      "total_transactions": 147,
+      "date": "2018-01-24"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 1774.0973876714706,
+      "total_return": 774.0973876714706,
+      "return_percentage": 77.40973876714706,
+      "cash": 790.418394446373,
+      "holdings_count": 3,
+      "total_transactions": 149,
+      "date": "2018-02-07"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 1773.8833640813828,
+      "total_return": 773.8833640813828,
+      "return_percentage": 77.38833640813827,
+      "cash": 790.418394446373,
+      "holdings_count": 3,
+      "total_transactions": 149,
+      "date": "2018-02-22"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 1791.2814182043076,
+      "total_return": 791.2814182043076,
+      "return_percentage": 79.12814182043076,
+      "cash": 6.18837583065033,
+      "holdings_count": 4,
+      "total_transactions": 152,
+      "date": "2018-03-08"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 1740.5610793828964,
+      "total_return": 740.5610793828964,
+      "return_percentage": 74.05610793828964,
+      "cash": 438.9335426092148,
+      "holdings_count": 3,
+      "total_transactions": 155,
+      "date": "2018-03-22"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 1695.6560615301132,
+      "total_return": 695.6560615301132,
+      "return_percentage": 69.56560615301132,
+      "cash": 438.9335426092148,
+      "holdings_count": 3,
+      "total_transactions": 155,
+      "date": "2018-04-06"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 1774.6099609136581,
+      "total_return": 774.6099609136581,
+      "return_percentage": 77.46099609136581,
+      "cash": 55.34200894832611,
+      "holdings_count": 5,
+      "total_transactions": 157,
+      "date": "2018-04-20"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 1809.8344444036484,
+      "total_return": 809.8344444036484,
+      "return_percentage": 80.98344444036483,
+      "cash": 91.4594978094101,
+      "holdings_count": 5,
+      "total_transactions": 161,
+      "date": "2018-05-04"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 1854.9407943487167,
+      "total_return": 854.9407943487167,
+      "return_percentage": 85.49407943487168,
+      "cash": 91.4594978094101,
+      "holdings_count": 5,
+      "total_transactions": 161,
+      "date": "2018-05-18"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 1861.3563636541367,
+      "total_return": 861.3563636541367,
+      "return_percentage": 86.13563636541367,
+      "cash": 24.404486060142517,
+      "holdings_count": 5,
+      "total_transactions": 163,
+      "date": "2018-06-04"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 1889.2760719060898,
+      "total_return": 889.2760719060898,
+      "return_percentage": 88.92760719060898,
+      "cash": 161.40105283260345,
+      "holdings_count": 5,
+      "total_transactions": 167,
+      "date": "2018-06-18"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 1863.3060363531113,
+      "total_return": 863.3060363531113,
+      "return_percentage": 86.33060363531114,
+      "cash": 161.40105283260345,
+      "holdings_count": 5,
+      "total_transactions": 167,
+      "date": "2018-07-02"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 1936.2805446386337,
+      "total_return": 936.2805446386337,
+      "return_percentage": 93.62805446386338,
+      "cash": 16.642259001731873,
+      "holdings_count": 6,
+      "total_transactions": 172,
+      "date": "2018-07-17"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 1872.2377885580063,
+      "total_return": 872.2377885580063,
+      "return_percentage": 87.22377885580063,
+      "cash": 57.66227853298187,
+      "holdings_count": 6,
+      "total_transactions": 174,
+      "date": "2018-07-31"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 1907.2800215482712,
+      "total_return": 907.2800215482712,
+      "return_percentage": 90.72800215482711,
+      "cash": 57.66227853298187,
+      "holdings_count": 6,
+      "total_transactions": 174,
+      "date": "2018-08-14"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 1935.6274455785751,
+      "total_return": 935.6274455785751,
+      "return_percentage": 93.56274455785751,
+      "cash": 67.4827436208725,
+      "holdings_count": 5,
+      "total_transactions": 177,
+      "date": "2018-08-28"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 1954.1192544698715,
+      "total_return": 954.1192544698715,
+      "return_percentage": 95.41192544698715,
+      "cash": 278.84173142910004,
+      "holdings_count": 4,
+      "total_transactions": 182,
+      "date": "2018-09-12"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 2001.587596297264,
+      "total_return": 1001.5875962972641,
+      "return_percentage": 100.1587596297264,
+      "cash": 278.84173142910004,
+      "holdings_count": 4,
+      "total_transactions": 182,
+      "date": "2018-09-26"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 1927.3326600790024,
+      "total_return": 927.3326600790024,
+      "return_percentage": 92.73326600790024,
+      "cash": 242.57422959804535,
+      "holdings_count": 5,
+      "total_transactions": 185,
+      "date": "2018-10-10"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 1882.2965234518051,
+      "total_return": 882.2965234518051,
+      "return_percentage": 88.22965234518051,
+      "cash": 21.353347182273865,
+      "holdings_count": 5,
+      "total_transactions": 187,
+      "date": "2018-10-24"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 2066.730189681053,
+      "total_return": 1066.7301896810532,
+      "return_percentage": 106.67301896810532,
+      "cash": 21.353347182273865,
+      "holdings_count": 5,
+      "total_transactions": 187,
+      "date": "2018-11-07"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 1950.062398314476,
+      "total_return": 950.062398314476,
+      "return_percentage": 95.0062398314476,
+      "cash": 119.14339768886566,
+      "holdings_count": 5,
+      "total_transactions": 191,
+      "date": "2018-11-21"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 1988.001263976097,
+      "total_return": 988.0012639760971,
+      "return_percentage": 98.80012639760972,
+      "cash": 6.705901503562927,
+      "holdings_count": 4,
+      "total_transactions": 194,
+      "date": "2018-12-07"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 1849.0079110860825,
+      "total_return": 849.0079110860825,
+      "return_percentage": 84.90079110860825,
+      "cash": 6.705901503562927,
+      "holdings_count": 4,
+      "total_transactions": 194,
+      "date": "2018-12-21"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 1986.2592595815659,
+      "total_return": 986.2592595815659,
+      "return_percentage": 98.62592595815659,
+      "cash": 131.13923394680023,
+      "holdings_count": 4,
+      "total_transactions": 196,
+      "date": "2019-01-08"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 2006.1792196035385,
+      "total_return": 1006.1792196035385,
+      "return_percentage": 100.61792196035387,
+      "cash": 191.13920533657074,
+      "holdings_count": 4,
+      "total_transactions": 200,
+      "date": "2019-01-23"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 2051.9291948080063,
+      "total_return": 1051.9291948080063,
+      "return_percentage": 105.19291948080063,
+      "cash": 191.13920533657074,
+      "holdings_count": 4,
+      "total_transactions": 200,
+      "date": "2019-02-06"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 2097.1406244039536,
+      "total_return": 1097.1406244039536,
+      "return_percentage": 109.71406244039537,
+      "cash": 154.16754853725433,
+      "holdings_count": 5,
+      "total_transactions": 203,
+      "date": "2019-02-21"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 2080.3095124959946,
+      "total_return": 1080.3095124959946,
+      "return_percentage": 108.03095124959945,
+      "cash": 63.2600816488266,
+      "holdings_count": 6,
+      "total_transactions": 206,
+      "date": "2019-03-07"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 2087.0074990987778,
+      "total_return": 1087.0074990987778,
+      "return_percentage": 108.70074990987777,
+      "cash": 63.2600816488266,
+      "holdings_count": 6,
+      "total_transactions": 206,
+      "date": "2019-03-21"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 2058.920838713646,
+      "total_return": 1058.920838713646,
+      "return_percentage": 105.89208387136459,
+      "cash": 319.6600774526596,
+      "holdings_count": 6,
+      "total_transactions": 210,
+      "date": "2019-04-04"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 2075.4460805654526,
+      "total_return": 1075.4460805654526,
+      "return_percentage": 107.54460805654527,
+      "cash": 39.72559106349945,
+      "holdings_count": 5,
+      "total_transactions": 213,
+      "date": "2019-04-18"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 2189.678090453148,
+      "total_return": 1189.678090453148,
+      "return_percentage": 118.9678090453148,
+      "cash": 39.72559106349945,
+      "holdings_count": 5,
+      "total_transactions": 213,
+      "date": "2019-05-03"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 2088.05155313015,
+      "total_return": 1088.0515531301498,
+      "return_percentage": 108.80515531301498,
+      "cash": 684.9715741872787,
+      "holdings_count": 3,
+      "total_transactions": 215,
+      "date": "2019-05-17"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 1891.0515912771225,
+      "total_return": 891.0515912771225,
+      "return_percentage": 89.10515912771226,
+      "cash": 944.4615491628647,
+      "holdings_count": 2,
+      "total_transactions": 218,
+      "date": "2019-06-03"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 1927.521554350853,
+      "total_return": 927.521554350853,
+      "return_percentage": 92.7521554350853,
+      "cash": 944.4615491628647,
+      "holdings_count": 2,
+      "total_transactions": 218,
+      "date": "2019-06-17"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 2007.874344944954,
+      "total_return": 1007.8743449449539,
+      "return_percentage": 100.78743449449539,
+      "cash": 113.05508244037628,
+      "holdings_count": 4,
+      "total_transactions": 222,
+      "date": "2019-07-01"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 2057.46210873127,
+      "total_return": 1057.4621087312698,
+      "return_percentage": 105.74621087312698,
+      "cash": 113.05508244037628,
+      "holdings_count": 4,
+      "total_transactions": 222,
+      "date": "2019-07-16"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 2065.716343522072,
+      "total_return": 1065.7163435220718,
+      "return_percentage": 106.57163435220718,
+      "cash": 113.05508244037628,
+      "holdings_count": 4,
+      "total_transactions": 222,
+      "date": "2019-07-30"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 1962.4913321733475,
+      "total_return": 962.4913321733475,
+      "return_percentage": 96.24913321733474,
+      "cash": 416.7750760316849,
+      "holdings_count": 3,
+      "total_transactions": 223,
+      "date": "2019-08-13"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 1948.1201173067093,
+      "total_return": 948.1201173067093,
+      "return_percentage": 94.81201173067093,
+      "cash": 471.5450955629349,
+      "holdings_count": 4,
+      "total_transactions": 228,
+      "date": "2019-08-27"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 2072.6983457803726,
+      "total_return": 1072.6983457803726,
+      "return_percentage": 107.26983457803728,
+      "cash": 471.5450955629349,
+      "holdings_count": 4,
+      "total_transactions": 228,
+      "date": "2019-09-11"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 1988.650534272194,
+      "total_return": 988.6505342721939,
+      "return_percentage": 98.8650534272194,
+      "cash": 130.5938469171524,
+      "holdings_count": 4,
+      "total_transactions": 230,
+      "date": "2019-09-25"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 2009.1818729639053,
+      "total_return": 1009.1818729639053,
+      "return_percentage": 100.91818729639053,
+      "cash": 130.5938469171524,
+      "holdings_count": 4,
+      "total_transactions": 230,
+      "date": "2019-10-09"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 2083.0085102319717,
+      "total_return": 1083.0085102319717,
+      "return_percentage": 108.30085102319717,
+      "cash": 130.5938469171524,
+      "holdings_count": 4,
+      "total_transactions": 230,
+      "date": "2019-10-23"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 2328.4283443689346,
+      "total_return": 1328.4283443689346,
+      "return_percentage": 132.84283443689347,
+      "cash": 161.63388407230377,
+      "holdings_count": 4,
+      "total_transactions": 236,
+      "date": "2019-11-06"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 2430.4981952905655,
+      "total_return": 1430.4981952905655,
+      "return_percentage": 143.04981952905655,
+      "cash": 59.554059624671936,
+      "holdings_count": 6,
+      "total_transactions": 240,
+      "date": "2019-11-20"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 2426.216287255287,
+      "total_return": 1426.2162872552872,
+      "return_percentage": 142.62162872552872,
+      "cash": 59.554059624671936,
+      "holdings_count": 6,
+      "total_transactions": 240,
+      "date": "2019-12-05"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 2471.789585709572,
+      "total_return": 1471.7895857095718,
+      "return_percentage": 147.17895857095718,
+      "cash": 59.554059624671936,
+      "holdings_count": 6,
+      "total_transactions": 240,
+      "date": "2019-12-19"
+    }
+  ]
+}

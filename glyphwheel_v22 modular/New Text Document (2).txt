@@ -1,0 +1,1201 @@
+
+≡ƒºá LAUNCHING OPTIMIZED GLYPHWHEEL WITH PERSISTENT MEMORY! ≡ƒºá
+
+NEW FEATURES:
+Γ£à SQLite database for learning from past decisions
+Γ£à Performance optimized (5000 recursion, 15s monitoring)
+Γ£à Enhanced stress tests (intensive + optimization modes)
+Γ£à Memory-influenced decision making
+Γ£à Pattern recognition across sessions
+Γ£à Optimized connection building (20 attempts vs 10)
+
+Database will be created: glyphwheel_memory.db
+Session tracking and learning active
+
+Starting in 3 seconds...
+
+[12:06:53.328] OPTIMIZED_GLYPH_CREATED: {'name': 'RootVerse', 'initial_gsi': 0.87, 'type': 'anchor'}
+[12:06:53.328] OPTIMIZED_GLYPH_CREATED: {'name': 'Aegis-Σ', 'initial_gsi': 0.85, 'type': 'anchor'}
+[12:06:53.329] OPTIMIZED_GLYPH_CREATED: {'name': 'CoreStability', 'initial_gsi': 0.82, 'type': 'anchor'}
+[12:06:53.329] OPTIMIZED_GLYPH_CREATED: {'name': 'ConsentGlyph', 'initial_gsi': 0.95, 'type': 'consent'}
+🔄 Initializing OPTIMIZED Glyphwheel with Persistent Memory...
+[12:06:53.330] OPTIMIZED_GLYPH_CREATED: {'name': 'unstable_Φ', 'initial_gsi': 0.45, 'type': 'dynamic'}
+[12:06:53.330] OPTIMIZED_GLYPH_CREATED: {'name': 'chaos_Ξ', 'initial_gsi': 0.38, 'type': 'dynamic'}
+[12:06:53.330] OPTIMIZED_GLYPH_CREATED: {'name': 'harmony_Ψ', 'initial_gsi': 0.62, 'type': 'dynamic'}
+✅ Optimized system with persistent memory initialized!
+🧠 Decision learning and pattern recognition active
+🚀 Starting web server...
+
+🧠 GLYPHWHEEL PERSISTENT INTELLIGENCE v3.0! 🧠
+
+Your OPTIMIZED Glyphwheel system with learning is live at:
+👉 http://localhost:8080
+
+NEW FEATURES:
+🧠 Persistent Memory System:
+   ✅ SQLite database for decision history
+   ✅ Learning from past successful interventions
+   ✅ System state snapshots for analysis
+   ✅ Pattern recognition across sessions
+
+⚡ Performance Optimizations:
+   ✅ Intensive stress test (0.8 intensity, 200 duration)
+   ✅ Enhanced connection building (20 attempts vs 10)
+   ✅ Faster monitoring (15s intervals vs 30s)
+   ✅ Higher recursion limits (5000 vs 3000)
+   ✅ Optimized decay and stabilization
+
+🎯 Enhanced Intelligence:
+   ✅ 7 system states with context-aware scoring
+   ✅ Learning bonuses from successful past decisions
+   ✅ Performance metrics and success tracking
+   ✅ Memory-influenced decision making
+
+💾 Database: glyphwheel_memory.db (persistent between sessions)
+📊 Status reports every 5 minutes regardless of activity
+
+LEARNING AUTONOMOUS INTELLIGENCE ACTIVE! 🎉
+
+Press Ctrl+C to stop the server
+
+[12:07:02.813] DEEP_RECALIBRATION_INITIATED: {'reason': 'ethical_debt_resolution'}
+[12:07:02.813] GLYPH_CHANGE: {'name': 'ConsentGlyph', 'old_gsi': 0.95, 'new_gsi': 1.0, 'change': 0.05, 'cause': 'deep_recalibration'}
+[12:07:02.823] DEEP_RECALIBRATION_SUCCESS: {'old_consent_gsi': 0.95, 'new_consent_gsi': 1.0, 'gsi_change': 0.05, 'new_coherence': 0.499, 'new_entropy': 0.43157}
+[12:07:08.223] GLYPH_CHANGE: {'name': 'unstable_Φ', 'old_gsi': 0.45, 'new_gsi': 0.480275, 'change': 0.030275, 'cause': 'enhanced_recovery_0'}
+[12:07:08.224] GLYPH_CHANGE: {'name': 'chaos_Ξ', 'old_gsi': 0.38, 'new_gsi': 0.402169, 'change': 0.022169, 'cause': 'enhanced_recovery_0'}
+[12:07:08.224] GLYPH_CHANGE: {'name': 'harmony_Ψ', 'old_gsi': 0.62, 'new_gsi': 0.64284, 'change': 0.02284, 'cause': 'enhanced_recovery_0'}
+[12:07:08.225] GLYPH_CHANGE: {'name': 'unstable_Φ', 'old_gsi': 0.480275, 'new_gsi': 0.512774, 'change': 0.032499, 'cause': 'enhanced_recovery_1'}
+[12:07:08.225] GLYPH_CHANGE: {'name': 'chaos_Ξ', 'old_gsi': 0.402169, 'new_gsi': 0.41925, 'change': 0.017081, 'cause': 'enhanced_recovery_1'}
+[12:07:08.226] GLYPH_CHANGE: {'name': 'harmony_Ψ', 'old_gsi': 0.64284, 'new_gsi': 0.672603, 'change': 0.029763, 'cause': 'enhanced_recovery_1'}
+[12:07:08.226] GLYPH_CHANGE: {'name': 'unstable_Φ', 'old_gsi': 0.512774, 'new_gsi': 0.552391, 'change': 0.039616, 'cause': 'enhanced_recovery_2'}
+[12:07:08.227] GLYPH_CHANGE: {'name': 'chaos_Ξ', 'old_gsi': 0.41925, 'new_gsi': 0.44235, 'change': 0.0231, 'cause': 'enhanced_recovery_2'}
+[12:07:08.227] GLYPH_CHANGE: {'name': 'harmony_Ψ', 'old_gsi': 0.672603, 'new_gsi': 0.694182, 'change': 0.021579, 'cause': 'enhanced_recovery_2'}
+[12:07:08.228] GLYPH_CHANGE: {'name': 'unstable_Φ', 'old_gsi': 0.552391, 'new_gsi': 0.580184, 'change': 0.027794, 'cause': 'enhanced_recovery_3'}
+[12:07:08.228] GLYPH_CHANGE: {'name': 'chaos_Ξ', 'old_gsi': 0.44235, 'new_gsi': 0.460719, 'change': 0.018369, 'cause': 'enhanced_recovery_3'}
+[12:07:08.228] GLYPH_CHANGE: {'name': 'harmony_Ψ', 'old_gsi': 0.694182, 'new_gsi': 0.733321, 'change': 0.039139, 'cause': 'enhanced_recovery_3'}
+[12:07:08.229] GLYPH_CHANGE: {'name': 'unstable_Φ', 'old_gsi': 0.580184, 'new_gsi': 0.615722, 'change': 0.035537, 'cause': 'enhanced_recovery_4'}
+[12:07:08.229] GLYPH_CHANGE: {'name': 'chaos_Ξ', 'old_gsi': 0.460719, 'new_gsi': 0.476313, 'change': 0.015594, 'cause': 'enhanced_recovery_4'}
+[12:07:08.230] GLYPH_CHANGE: {'name': 'harmony_Ψ', 'old_gsi': 0.733321, 'new_gsi': 0.767988, 'change': 0.034667, 'cause': 'enhanced_recovery_4'}
+[12:07:08.230] GLYPH_CHANGE: {'name': 'unstable_Φ', 'old_gsi': 0.615722, 'new_gsi': 0.634713, 'change': 0.018991, 'cause': 'enhanced_recovery_5'}
+[12:07:08.230] GLYPH_CHANGE: {'name': 'chaos_Ξ', 'old_gsi': 0.476313, 'new_gsi': 0.50007, 'change': 0.023757, 'cause': 'enhanced_recovery_5'}
+[12:07:08.231] GLYPH_CHANGE: {'name': 'harmony_Ψ', 'old_gsi': 0.767988, 'new_gsi': 0.80047, 'change': 0.032482, 'cause': 'enhanced_recovery_5'}
+[12:07:08.231] GLYPH_CHANGE: {'name': 'unstable_Φ', 'old_gsi': 0.634713, 'new_gsi': 0.655663, 'change': 0.02095, 'cause': 'enhanced_recovery_6'}
+[12:07:08.231] GLYPH_CHANGE: {'name': 'chaos_Ξ', 'old_gsi': 0.50007, 'new_gsi': 0.538899, 'change': 0.038829, 'cause': 'enhanced_recovery_6'}
+[12:07:08.232] GLYPH_CHANGE: {'name': 'harmony_Ψ', 'old_gsi': 0.80047, 'new_gsi': 0.825803, 'change': 0.025333, 'cause': 'enhanced_recovery_6'}
+[12:07:08.232] GLYPH_CHANGE: {'name': 'unstable_Φ', 'old_gsi': 0.655663, 'new_gsi': 0.676067, 'change': 0.020404, 'cause': 'enhanced_recovery_7'}
+[12:07:08.232] GLYPH_CHANGE: {'name': 'chaos_Ξ', 'old_gsi': 0.538899, 'new_gsi': 0.572925, 'change': 0.034025, 'cause': 'enhanced_recovery_7'}
+[12:07:08.233] GLYPH_CHANGE: {'name': 'harmony_Ψ', 'old_gsi': 0.825803, 'new_gsi': 0.854138, 'change': 0.028334, 'cause': 'enhanced_recovery_7'}
+[12:07:08.233] GLYPH_CHANGE: {'name': 'unstable_Φ', 'old_gsi': 0.676067, 'new_gsi': 0.706166, 'change': 0.030099, 'cause': 'enhanced_recovery_8'}
+[12:07:08.233] GLYPH_CHANGE: {'name': 'chaos_Ξ', 'old_gsi': 0.572925, 'new_gsi': 0.598858, 'change': 0.025933, 'cause': 'enhanced_recovery_8'}
+[12:07:08.234] GLYPH_CHANGE: {'name': 'harmony_Ψ', 'old_gsi': 0.854138, 'new_gsi': 0.870519, 'change': 0.016381, 'cause': 'enhanced_recovery_8'}
+[12:07:08.234] GLYPH_CHANGE: {'name': 'unstable_Φ', 'old_gsi': 0.706166, 'new_gsi': 0.744935, 'change': 0.038769, 'cause': 'enhanced_recovery_9'}
+[12:07:08.234] GLYPH_CHANGE: {'name': 'chaos_Ξ', 'old_gsi': 0.598858, 'new_gsi': 0.629543, 'change': 0.030686, 'cause': 'enhanced_recovery_9'}
+[12:07:08.235] GLYPH_CHANGE: {'name': 'harmony_Ψ', 'old_gsi': 0.870519, 'new_gsi': 0.893832, 'change': 0.023312, 'cause': 'enhanced_recovery_9'}
+[12:07:08.235] GLYPH_CHANGE: {'name': 'unstable_Φ', 'old_gsi': 0.744935, 'new_gsi': 0.778868, 'change': 0.033933, 'cause': 'enhanced_recovery_10'}
+[12:07:08.235] GLYPH_CHANGE: {'name': 'chaos_Ξ', 'old_gsi': 0.629543, 'new_gsi': 0.665985, 'change': 0.036442, 'cause': 'enhanced_recovery_10'}
+[12:07:08.236] GLYPH_CHANGE: {'name': 'harmony_Ψ', 'old_gsi': 0.893832, 'new_gsi': 0.920894, 'change': 0.027063, 'cause': 'enhanced_recovery_10'}
+[12:07:08.236] GLYPH_CHANGE: {'name': 'unstable_Φ', 'old_gsi': 0.778868, 'new_gsi': 0.814817, 'change': 0.035949, 'cause': 'enhanced_recovery_11'}
+[12:07:08.237] GLYPH_CHANGE: {'name': 'chaos_Ξ', 'old_gsi': 0.665985, 'new_gsi': 0.694479, 'change': 0.028494, 'cause': 'enhanced_recovery_11'}
+[12:07:08.237] GLYPH_CHANGE: {'name': 'harmony_Ψ', 'old_gsi': 0.920894, 'new_gsi': 0.941021, 'change': 0.020126, 'cause': 'enhanced_recovery_11'}
+[12:07:08.237] GLYPH_CHANGE: {'name': 'unstable_Φ', 'old_gsi': 0.814817, 'new_gsi': 0.849764, 'change': 0.034947, 'cause': 'enhanced_recovery_12'}
+[12:07:08.239] GLYPH_CHANGE: {'name': 'chaos_Ξ', 'old_gsi': 0.694479, 'new_gsi': 0.710977, 'change': 0.016498, 'cause': 'enhanced_recovery_12'}
+[12:07:08.240] GLYPH_CHANGE: {'name': 'harmony_Ψ', 'old_gsi': 0.941021, 'new_gsi': 0.980144, 'change': 0.039123, 'cause': 'enhanced_recovery_12'}
+[12:07:08.240] GLYPH_CHANGE: {'name': 'unstable_Φ', 'old_gsi': 0.849764, 'new_gsi': 0.887818, 'change': 0.038054, 'cause': 'enhanced_recovery_13'}
+[12:07:08.240] GLYPH_CHANGE: {'name': 'chaos_Ξ', 'old_gsi': 0.710977, 'new_gsi': 0.728109, 'change': 0.017132, 'cause': 'enhanced_recovery_13'}
+[12:07:08.240] GLYPH_CHANGE: {'name': 'harmony_Ψ', 'old_gsi': 0.980144, 'new_gsi': 0.995177, 'change': 0.015033, 'cause': 'enhanced_recovery_13'}
+[12:07:08.241] GLYPH_CHANGE: {'name': 'unstable_Φ', 'old_gsi': 0.887818, 'new_gsi': 0.90885, 'change': 0.021032, 'cause': 'enhanced_recovery_14'}
+[12:07:08.241] GLYPH_CHANGE: {'name': 'chaos_Ξ', 'old_gsi': 0.728109, 'new_gsi': 0.760073, 'change': 0.031964, 'cause': 'enhanced_recovery_14'}
+[12:07:08.241] GLYPH_CHANGE: {'name': 'harmony_Ψ', 'old_gsi': 0.995177, 'new_gsi': 1.0, 'change': 0.004823, 'cause': 'enhanced_recovery_14'}
+[12:07:08.242] GLYPH_CHANGE: {'name': 'unstable_Φ', 'old_gsi': 0.90885, 'new_gsi': 0.945601, 'change': 0.036751, 'cause': 'enhanced_recovery_15'}
+[12:07:08.242] GLYPH_CHANGE: {'name': 'chaos_Ξ', 'old_gsi': 0.760073, 'new_gsi': 0.793995, 'change': 0.033921, 'cause': 'enhanced_recovery_15'}
+[12:07:08.242] GLYPH_CHANGE: {'name': 'unstable_Φ', 'old_gsi': 0.945601, 'new_gsi': 0.974312, 'change': 0.028711, 'cause': 'enhanced_recovery_16'}
+[12:07:08.242] GLYPH_CHANGE: {'name': 'chaos_Ξ', 'old_gsi': 0.793995, 'new_gsi': 0.83184, 'change': 0.037845, 'cause': 'enhanced_recovery_16'}
+[12:07:08.243] GLYPH_CHANGE: {'name': 'unstable_Φ', 'old_gsi': 0.974312, 'new_gsi': 0.994701, 'change': 0.020389, 'cause': 'enhanced_recovery_17'}
+[12:07:08.243] GLYPH_CHANGE: {'name': 'chaos_Ξ', 'old_gsi': 0.83184, 'new_gsi': 0.855025, 'change': 0.023186, 'cause': 'enhanced_recovery_17'}
+[12:07:08.243] GLYPH_CHANGE: {'name': 'unstable_Φ', 'old_gsi': 0.994701, 'new_gsi': 1.0, 'change': 0.005299, 'cause': 'enhanced_recovery_18'}
+[12:07:08.244] GLYPH_CHANGE: {'name': 'chaos_Ξ', 'old_gsi': 0.855025, 'new_gsi': 0.887388, 'change': 0.032362, 'cause': 'enhanced_recovery_18'}
+[12:07:08.244] GLYPH_CHANGE: {'name': 'chaos_Ξ', 'old_gsi': 0.887388, 'new_gsi': 0.9222, 'change': 0.034812, 'cause': 'enhanced_recovery_19'}
+[12:07:08.244] GLYPH_CHANGE: {'name': 'chaos_Ξ', 'old_gsi': 0.9222, 'new_gsi': 0.96088, 'change': 0.03868, 'cause': 'enhanced_recovery_20'}
+[12:07:08.245] GLYPH_CHANGE: {'name': 'chaos_Ξ', 'old_gsi': 0.96088, 'new_gsi': 0.978385, 'change': 0.017505, 'cause': 'enhanced_recovery_21'}
+[12:07:08.245] GLYPH_CHANGE: {'name': 'chaos_Ξ', 'old_gsi': 0.978385, 'new_gsi': 0.997117, 'change': 0.018732, 'cause': 'enhanced_recovery_22'}
+[12:07:08.246] GLYPH_CHANGE: {'name': 'chaos_Ξ', 'old_gsi': 0.997117, 'new_gsi': 1.0, 'change': 0.002883, 'cause': 'enhanced_recovery_23'}
+[12:09:08.895] OPTIMIZED_GLYPH_CREATED: {'name': 'Echo_Anchor_146', 'initial_gsi': 1, 'type': 'dynamic'}
+[12:09:23.235] OPTIMIZED_GLYPH_CREATED: {'name': 'Pulse_Weaver_146', 'initial_gsi': 1, 'type': 'dynamic'}
+[12:09:34.191] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Echo_Anchor_146', 'glyph2': 'Pulse_Weaver_146', 'connection_strength': 1.0}
+[12:09:34.191] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'harmony_Ψ', 'glyph2': 'ConsentGlyph', 'connection_strength': 1.0}
+[12:09:34.192] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Aegis-Σ', 'glyph2': 'unstable_Φ', 'connection_strength': 0.925}
+[12:09:34.192] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'harmony_Ψ', 'glyph2': 'unstable_Φ', 'connection_strength': 1.0}
+[12:09:34.193] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'harmony_Ψ', 'glyph2': 'chaos_Ξ', 'connection_strength': 1.0}
+[12:09:34.193] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Echo_Anchor_146', 'glyph2': 'harmony_Ψ', 'connection_strength': 1.0}
+[12:09:34.193] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Pulse_Weaver_146', 'glyph2': 'ConsentGlyph', 'connection_strength': 1.0}
+[12:09:34.194] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'CoreStability', 'glyph2': 'unstable_Φ', 'connection_strength': 0.91}
+[12:09:34.194] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'RootVerse', 'glyph2': 'Echo_Anchor_146', 'connection_strength': 0.935}
+[12:09:34.195] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'ConsentGlyph', 'glyph2': 'harmony_Ψ', 'connection_strength': 1.0}
+[12:09:34.195] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'unstable_Φ', 'glyph2': 'Echo_Anchor_146', 'connection_strength': 1.0}
+[12:09:34.195] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'chaos_Ξ', 'glyph2': 'harmony_Ψ', 'connection_strength': 1.0}
+[12:09:34.196] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Echo_Anchor_146', 'glyph2': 'chaos_Ξ', 'connection_strength': 1.0}
+[12:09:34.196] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'ConsentGlyph', 'glyph2': 'chaos_Ξ', 'connection_strength': 1.0}
+[12:09:34.196] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'harmony_Ψ', 'glyph2': 'Pulse_Weaver_146', 'connection_strength': 1.0}
+[12:09:34.197] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Pulse_Weaver_146', 'glyph2': 'harmony_Ψ', 'connection_strength': 1.0}
+[12:09:34.197] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'CoreStability', 'glyph2': 'ConsentGlyph', 'connection_strength': 0.91}
+[12:09:34.198] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'unstable_Φ', 'glyph2': 'harmony_Ψ', 'connection_strength': 1.0}
+[12:09:34.198] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Aegis-Σ', 'glyph2': 'ConsentGlyph', 'connection_strength': 0.925}
+[12:09:34.198] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Aegis-Σ', 'glyph2': 'harmony_Ψ', 'connection_strength': 0.925}
+[12:09:34.199] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'unstable_Φ', 'glyph2': 'CoreStability', 'connection_strength': 0.91}
+[12:09:34.199] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'harmony_Ψ', 'glyph2': 'RootVerse', 'connection_strength': 0.935}
+[12:09:34.199] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'CoreStability', 'glyph2': 'Aegis-Σ', 'connection_strength': 0.835}
+[12:09:34.200] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Aegis-Σ', 'glyph2': 'chaos_Ξ', 'connection_strength': 0.925}
+[12:09:34.200] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'ConsentGlyph', 'glyph2': 'Echo_Anchor_146', 'connection_strength': 1.0}
+[12:09:34.201] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'RootVerse', 'glyph2': 'unstable_Φ', 'connection_strength': 0.935}
+[12:09:34.201] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'chaos_Ξ', 'glyph2': 'ConsentGlyph', 'connection_strength': 1.0}
+[12:09:34.201] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'ConsentGlyph', 'glyph2': 'CoreStability', 'connection_strength': 0.91}
+[12:09:34.202] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'chaos_Ξ', 'glyph2': 'Aegis-Σ', 'connection_strength': 0.925}
+[12:09:34.202] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'RootVerse', 'glyph2': 'Aegis-Σ', 'connection_strength': 0.86}
+[12:09:34.202] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'CoreStability', 'glyph2': 'Pulse_Weaver_146', 'connection_strength': 0.91}
+[12:09:34.203] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'unstable_Φ', 'glyph2': 'ConsentGlyph', 'connection_strength': 1.0}
+[12:09:34.203] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Pulse_Weaver_146', 'glyph2': 'Echo_Anchor_146', 'connection_strength': 1.0}
+[12:09:34.204] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Aegis-Σ', 'glyph2': 'Echo_Anchor_146', 'connection_strength': 0.925}
+[12:09:34.204] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'ConsentGlyph', 'glyph2': 'Aegis-Σ', 'connection_strength': 0.925}
+[12:09:34.204] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Echo_Anchor_146', 'glyph2': 'unstable_Φ', 'connection_strength': 1.0}
+[12:09:34.205] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Pulse_Weaver_146', 'glyph2': 'Aegis-Σ', 'connection_strength': 0.925}
+[12:09:34.205] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'CoreStability', 'glyph2': 'Echo_Anchor_146', 'connection_strength': 0.91}
+[12:09:34.205] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'chaos_Ξ', 'glyph2': 'Pulse_Weaver_146', 'connection_strength': 1.0}
+[12:09:34.207] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Pulse_Weaver_146', 'glyph2': 'RootVerse', 'connection_strength': 0.935}
+[12:09:34.207] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'RootVerse', 'glyph2': 'ConsentGlyph', 'connection_strength': 0.935}
+[12:09:34.208] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Echo_Anchor_146', 'glyph2': 'CoreStability', 'connection_strength': 0.91}
+[12:09:34.208] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Echo_Anchor_146', 'glyph2': 'Aegis-Σ', 'connection_strength': 0.925}
+[12:09:34.209] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'unstable_Φ', 'glyph2': 'Pulse_Weaver_146', 'connection_strength': 1.0}
+[12:09:34.209] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'CoreStability', 'glyph2': 'chaos_Ξ', 'connection_strength': 0.91}
+[12:09:34.209] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Aegis-Σ', 'glyph2': 'CoreStability', 'connection_strength': 0.835}
+[12:09:34.210] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'unstable_Φ', 'glyph2': 'RootVerse', 'connection_strength': 0.935}
+[12:09:34.210] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'ConsentGlyph', 'glyph2': 'Pulse_Weaver_146', 'connection_strength': 1.0}
+[12:09:34.211] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'chaos_Ξ', 'glyph2': 'Echo_Anchor_146', 'connection_strength': 1.0}
+[12:09:34.211] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Aegis-Σ', 'glyph2': 'RootVerse', 'connection_strength': 0.86}
+[12:09:34.211] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Aegis-Σ', 'glyph2': 'Pulse_Weaver_146', 'connection_strength': 0.925}
+[12:09:34.212] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'RootVerse', 'glyph2': 'CoreStability', 'connection_strength': 0.845}
+[12:09:34.212] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'RootVerse', 'glyph2': 'chaos_Ξ', 'connection_strength': 0.935}
+[12:09:34.213] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'RootVerse', 'glyph2': 'Pulse_Weaver_146', 'connection_strength': 0.935}
+[12:09:34.213] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'CoreStability', 'glyph2': 'RootVerse', 'connection_strength': 0.845}
+[12:09:34.213] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Pulse_Weaver_146', 'glyph2': 'unstable_Φ', 'connection_strength': 1.0}
+[12:09:34.214] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'harmony_Ψ', 'glyph2': 'CoreStability', 'connection_strength': 0.91}
+[12:09:34.214] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'CoreStability', 'glyph2': 'harmony_Ψ', 'connection_strength': 0.91}
+[12:09:34.215] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'unstable_Φ', 'glyph2': 'Aegis-Σ', 'connection_strength': 0.925}
+[12:09:34.215] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'chaos_Ξ', 'glyph2': 'CoreStability', 'connection_strength': 0.91}
+[12:09:34.215] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'chaos_Ξ', 'glyph2': 'unstable_Φ', 'connection_strength': 1.0}
+[12:09:34.216] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Echo_Anchor_146', 'glyph2': 'RootVerse', 'connection_strength': 0.935}
+[12:09:34.216] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'harmony_Ψ', 'glyph2': 'Aegis-Σ', 'connection_strength': 0.925}
+[12:09:34.217] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'ConsentGlyph', 'glyph2': 'RootVerse', 'connection_strength': 0.935}
+[12:09:34.217] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'RootVerse', 'glyph2': 'harmony_Ψ', 'connection_strength': 0.935}
+[12:09:34.218] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Echo_Anchor_146', 'glyph2': 'ConsentGlyph', 'connection_strength': 1.0}
+[12:09:34.218] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Pulse_Weaver_146', 'glyph2': 'chaos_Ξ', 'connection_strength': 1.0}
+[12:09:34.219] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'chaos_Ξ', 'glyph2': 'RootVerse', 'connection_strength': 0.935}
+[12:09:34.219] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Pulse_Weaver_146', 'glyph2': 'CoreStability', 'connection_strength': 0.91}
+[12:09:34.220] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'ConsentGlyph', 'glyph2': 'unstable_Φ', 'connection_strength': 1.0}
+[12:09:42.129] OPTIMIZED_MONITORING_STARTED: {'monitor_interval': 15, 'decay_rate': 5e-05, 'session_id': '20250928_120653'}
+[12:09:42.137] LEARNING_DECISION_EVALUATION: {'context': {'entropy_level': 0.14649821976755123, 'entropy_threshold': 0.15, 'current_coherence': 0.9642222222222221, 'glyph_count': 9, 'total_connections': 70, 'avg_connections_per_glyph': 7.777777777777778, 'imperfect_glyphs': 0, 'unconnected_glyphs': 0, 'perfect_glyphs': 5, 'well_connected_glyphs': 5, 'recursive_depth': 5000, 'idle_duration_minutes': 3.266334533691406e-06, 'time_since_last_intervention': 1759082982.1370957, 'recent_decision_pattern': 'no_history', 'consecutive_same_decisions': 0}, 'system_state': 'stable_moderate', 'similar_past_decisions': 0, 'learning_influence': 0.0}
+[12:09:42.145] OPTIMIZED_ACTION_EXECUTION: {'action': 'emergency_recovery', 'reasoning': 'Enhanced decision: emergency_recovery (score: 80.0) for stable_moderate state', 'entropy_level': 0.14649821976755123}
+[12:09:42.146] ACTION_COMPLETED: {'action': 'emergency_recovery', 'success': False}
+[12:09:57.147] LEARNING_DECISION_EVALUATION: {'context': {'entropy_level': 0.14649821976755123, 'entropy_threshold': 0.15, 'current_coherence': 0.9642222222222221, 'glyph_count': 9, 'total_connections': 70, 'avg_connections_per_glyph': 7.777777777777778, 'imperfect_glyphs': 0, 'unconnected_glyphs': 0, 'perfect_glyphs': 5, 'well_connected_glyphs': 5, 'recursive_depth': 5000, 'idle_duration_minutes': 0.25029802322387695, 'time_since_last_intervention': 15.000584840774536, 'recent_decision_pattern': 'no_history', 'consecutive_same_decisions': 1}, 'system_state': 'stable_moderate', 'similar_past_decisions': 0, 'learning_influence': 0.0}
+[12:09:57.156] OPTIMIZED_ACTION_EXECUTION: {'action': 'emergency_recovery', 'reasoning': 'Enhanced decision: emergency_recovery (score: 75.0) for stable_moderate state', 'entropy_level': 0.14649821976755123}
+[12:09:57.157] ACTION_COMPLETED: {'action': 'emergency_recovery', 'success': False}
+[12:10:12.157] LEARNING_DECISION_EVALUATION: {'context': {'entropy_level': 0.14649821976755123, 'entropy_threshold': 0.15, 'current_coherence': 0.9642222222222221, 'glyph_count': 9, 'total_connections': 70, 'avg_connections_per_glyph': 7.777777777777778, 'imperfect_glyphs': 0, 'unconnected_glyphs': 0, 'perfect_glyphs': 5, 'well_connected_glyphs': 5, 'recursive_depth': 5000, 'idle_duration_minutes': 0.5004791339238485, 'time_since_last_intervention': 15.00059723854065, 'recent_decision_pattern': 'no_history', 'consecutive_same_decisions': 2}, 'system_state': 'stable_moderate', 'similar_past_decisions': 0, 'learning_influence': 0.0}
+[12:10:12.167] OPTIMIZED_ACTION_EXECUTION: {'action': 'emergency_recovery', 'reasoning': 'Enhanced decision: emergency_recovery (score: 70.0) for stable_moderate state', 'entropy_level': 0.14649821976755123}
+[12:10:12.168] ACTION_COMPLETED: {'action': 'emergency_recovery', 'success': False}
+[12:10:27.169] LEARNING_DECISION_EVALUATION: {'context': {'entropy_level': 0.14649821976755123, 'entropy_threshold': 0.15, 'current_coherence': 0.9642222222222221, 'glyph_count': 9, 'total_connections': 70, 'avg_connections_per_glyph': 7.777777777777778, 'imperfect_glyphs': 0, 'unconnected_glyphs': 0, 'perfect_glyphs': 5, 'well_connected_glyphs': 5, 'recursive_depth': 5000, 'idle_duration_minutes': 0.7506642381350199, 'time_since_last_intervention': 15.000646591186523, 'recent_decision_pattern': 'no_history', 'consecutive_same_decisions': 3}, 'system_state': 'stable_moderate', 'similar_past_decisions': 0, 'learning_influence': 0.0}
+[12:10:27.177] OPTIMIZED_ACTION_EXECUTION: {'action': 'intensive_stress_test', 'reasoning': 'Enhanced decision: intensive_stress_test (score: 70.0) for stable_moderate state', 'entropy_level': 0.14649821976755123}
+[12:10:27.178] GLYPH_CHANGE: {'name': 'Aegis-Σ', 'old_gsi': 0.85, 'new_gsi': 0.946, 'change': 0.096, 'cause': 'stress_processing(level=0.8)'}
+[12:10:27.178] GLYPH_CHANGE: {'name': 'RootVerse', 'old_gsi': 0.87, 'new_gsi': 0.966, 'change': 0.096, 'cause': 'stress_processing(level=0.8)'}
+[12:10:27.179] GLYPH_CHANGE: {'name': 'Aegis-Σ', 'old_gsi': 0.946, 'new_gsi': 1.0, 'change': 0.054, 'cause': 'stress_processing(level=0.8)'}
+[12:10:27.179] GLYPH_CHANGE: {'name': 'RootVerse', 'old_gsi': 0.966, 'new_gsi': 1.0, 'change': 0.034, 'cause': 'stress_processing(level=0.8)'}
+[12:10:27.180] GLYPH_CHANGE: {'name': 'CoreStability', 'old_gsi': 0.82, 'new_gsi': 0.916, 'change': 0.096, 'cause': 'stress_processing(level=0.8)'}
+[12:10:27.180] GLYPH_CHANGE: {'name': 'CoreStability', 'old_gsi': 0.916, 'new_gsi': 1.0, 'change': 0.084, 'cause': 'stress_processing(level=0.8)'}
+[12:10:27.181] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'unstable_Φ', 'glyph2': 'chaos_Ξ', 'connection_strength': 1.0}
+[12:10:27.181] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'harmony_Ψ', 'glyph2': 'Echo_Anchor_146', 'connection_strength': 1.0}
+[12:10:27.183] ACTION_COMPLETED: {'action': 'intensive_stress_test', 'success': True}
+[12:12:30.559] OPTIMIZED_GLYPH_CREATED: {'name': 'Quantum_Î¨_607', 'initial_gsi': 0.331709, 'type': 'dynamic'}
+[12:12:31.056] OPTIMIZED_GLYPH_CREATED: {'name': 'Spiral_Îž_606', 'initial_gsi': 0.733456, 'type': 'dynamic'}
+[12:12:31.241] OPTIMIZED_GLYPH_CREATED: {'name': 'Echo_Î›_63', 'initial_gsi': 0.750079, 'type': 'dynamic'}
+[12:12:31.303] OPTIMIZED_GLYPH_CREATED: {'name': 'Nexus_Î¦_624', 'initial_gsi': 0.291266, 'type': 'dynamic'}
+[12:12:31.442] OPTIMIZED_GLYPH_CREATED: {'name': 'Void_Î”_600', 'initial_gsi': 0.673716, 'type': 'dynamic'}
+[12:12:31.643] OPTIMIZED_GLYPH_CREATED: {'name': 'Quantum_Î¨_328', 'initial_gsi': 0.553419, 'type': 'dynamic'}
+[12:12:42.187] LEARNING_DECISION_EVALUATION: {'context': {'entropy_level': 0.49378966239066796, 'entropy_threshold': 0.15, 'current_coherence': 0.8755700918529787, 'glyph_count': 15, 'total_connections': 72, 'avg_connections_per_glyph': 4.8, 'imperfect_glyphs': 6, 'unconnected_glyphs': 6, 'perfect_glyphs': 5, 'well_connected_glyphs': 5, 'recursive_depth': 5000, 'idle_duration_minutes': 3.00096968015035, 'time_since_last_intervention': 135.00327277183533, 'recent_decision_pattern': 'no_history', 'consecutive_same_decisions': 1}, 'system_state': 'emergency', 'similar_past_decisions': 0, 'learning_influence': 0.0}
+[12:12:42.197] OPTIMIZED_ACTION_EXECUTION: {'action': 'emergency_recovery', 'reasoning': 'Enhanced decision: emergency_recovery (score: 110.0) for emergency state', 'entropy_level': 0.49378966239066796}
+[12:12:42.197] GLYPH_CHANGE: {'name': 'Quantum_Î¨_607', 'old_gsi': 0.331709, 'new_gsi': 0.359245, 'change': 0.027536, 'cause': 'enhanced_recovery_0'}
+[12:12:42.197] GLYPH_CHANGE: {'name': 'Spiral_Îž_606', 'old_gsi': 0.733456, 'new_gsi': 0.770939, 'change': 0.037483, 'cause': 'enhanced_recovery_0'}
+[12:12:42.198] GLYPH_CHANGE: {'name': 'Echo_Î›_63', 'old_gsi': 0.750079, 'new_gsi': 0.769627, 'change': 0.019548, 'cause': 'enhanced_recovery_0'}
+[12:12:42.198] GLYPH_CHANGE: {'name': 'Nexus_Î¦_624', 'old_gsi': 0.291266, 'new_gsi': 0.315642, 'change': 0.024376, 'cause': 'enhanced_recovery_0'}
+[12:12:42.198] GLYPH_CHANGE: {'name': 'Void_Î”_600', 'old_gsi': 0.673716, 'new_gsi': 0.705515, 'change': 0.031799, 'cause': 'enhanced_recovery_0'}
+[12:12:42.199] GLYPH_CHANGE: {'name': 'Quantum_Î¨_328', 'old_gsi': 0.553419, 'new_gsi': 0.576945, 'change': 0.023526, 'cause': 'enhanced_recovery_0'}
+[12:12:42.199] GLYPH_CHANGE: {'name': 'Quantum_Î¨_607', 'old_gsi': 0.359245, 'new_gsi': 0.384061, 'change': 0.024816, 'cause': 'enhanced_recovery_1'}
+[12:12:42.199] GLYPH_CHANGE: {'name': 'Spiral_Îž_606', 'old_gsi': 0.770939, 'new_gsi': 0.808825, 'change': 0.037886, 'cause': 'enhanced_recovery_1'}
+[12:12:42.200] GLYPH_CHANGE: {'name': 'Echo_Î›_63', 'old_gsi': 0.769627, 'new_gsi': 0.786617, 'change': 0.016991, 'cause': 'enhanced_recovery_1'}
+[12:12:42.200] GLYPH_CHANGE: {'name': 'Nexus_Î¦_624', 'old_gsi': 0.315642, 'new_gsi': 0.33531, 'change': 0.019668, 'cause': 'enhanced_recovery_1'}
+[12:12:42.200] GLYPH_CHANGE: {'name': 'Void_Î”_600', 'old_gsi': 0.705515, 'new_gsi': 0.729513, 'change': 0.023997, 'cause': 'enhanced_recovery_1'}
+[12:12:42.200] GLYPH_CHANGE: {'name': 'Quantum_Î¨_328', 'old_gsi': 0.576945, 'new_gsi': 0.602182, 'change': 0.025237, 'cause': 'enhanced_recovery_1'}
+[12:12:42.201] GLYPH_CHANGE: {'name': 'Quantum_Î¨_607', 'old_gsi': 0.384061, 'new_gsi': 0.411418, 'change': 0.027357, 'cause': 'enhanced_recovery_2'}
+[12:12:42.201] GLYPH_CHANGE: {'name': 'Spiral_Îž_606', 'old_gsi': 0.808825, 'new_gsi': 0.847234, 'change': 0.03841, 'cause': 'enhanced_recovery_2'}
+[12:12:42.201] GLYPH_CHANGE: {'name': 'Echo_Î›_63', 'old_gsi': 0.786617, 'new_gsi': 0.812883, 'change': 0.026265, 'cause': 'enhanced_recovery_2'}
+[12:12:42.202] GLYPH_CHANGE: {'name': 'Nexus_Î¦_624', 'old_gsi': 0.33531, 'new_gsi': 0.372171, 'change': 0.036861, 'cause': 'enhanced_recovery_2'}
+[12:12:42.202] GLYPH_CHANGE: {'name': 'Void_Î”_600', 'old_gsi': 0.729513, 'new_gsi': 0.763073, 'change': 0.033561, 'cause': 'enhanced_recovery_2'}
+[12:12:42.203] GLYPH_CHANGE: {'name': 'Quantum_Î¨_328', 'old_gsi': 0.602182, 'new_gsi': 0.630344, 'change': 0.028162, 'cause': 'enhanced_recovery_2'}
+[12:12:42.203] GLYPH_CHANGE: {'name': 'Quantum_Î¨_607', 'old_gsi': 0.411418, 'new_gsi': 0.440919, 'change': 0.029501, 'cause': 'enhanced_recovery_3'}
+[12:12:42.203] GLYPH_CHANGE: {'name': 'Spiral_Îž_606', 'old_gsi': 0.847234, 'new_gsi': 0.86527, 'change': 0.018036, 'cause': 'enhanced_recovery_3'}
+[12:12:42.203] GLYPH_CHANGE: {'name': 'Echo_Î›_63', 'old_gsi': 0.812883, 'new_gsi': 0.838073, 'change': 0.02519, 'cause': 'enhanced_recovery_3'}
+[12:12:42.204] GLYPH_CHANGE: {'name': 'Nexus_Î¦_624', 'old_gsi': 0.372171, 'new_gsi': 0.398326, 'change': 0.026155, 'cause': 'enhanced_recovery_3'}
+[12:12:42.204] GLYPH_CHANGE: {'name': 'Void_Î”_600', 'old_gsi': 0.763073, 'new_gsi': 0.790978, 'change': 0.027905, 'cause': 'enhanced_recovery_3'}
+[12:12:42.204] GLYPH_CHANGE: {'name': 'Quantum_Î¨_328', 'old_gsi': 0.630344, 'new_gsi': 0.669728, 'change': 0.039384, 'cause': 'enhanced_recovery_3'}
+[12:12:42.205] GLYPH_CHANGE: {'name': 'Quantum_Î¨_607', 'old_gsi': 0.440919, 'new_gsi': 0.475139, 'change': 0.03422, 'cause': 'enhanced_recovery_4'}
+[12:12:42.206] GLYPH_CHANGE: {'name': 'Spiral_Îž_606', 'old_gsi': 0.86527, 'new_gsi': 0.882161, 'change': 0.01689, 'cause': 'enhanced_recovery_4'}
+[12:12:42.206] GLYPH_CHANGE: {'name': 'Echo_Î›_63', 'old_gsi': 0.838073, 'new_gsi': 0.856113, 'change': 0.01804, 'cause': 'enhanced_recovery_4'}
+[12:12:42.207] GLYPH_CHANGE: {'name': 'Nexus_Î¦_624', 'old_gsi': 0.398326, 'new_gsi': 0.431204, 'change': 0.032878, 'cause': 'enhanced_recovery_4'}
+[12:12:42.207] GLYPH_CHANGE: {'name': 'Void_Î”_600', 'old_gsi': 0.790978, 'new_gsi': 0.820312, 'change': 0.029334, 'cause': 'enhanced_recovery_4'}
+[12:12:42.207] GLYPH_CHANGE: {'name': 'Quantum_Î¨_328', 'old_gsi': 0.669728, 'new_gsi': 0.693527, 'change': 0.023799, 'cause': 'enhanced_recovery_4'}
+[12:12:42.208] GLYPH_CHANGE: {'name': 'Quantum_Î¨_607', 'old_gsi': 0.475139, 'new_gsi': 0.503748, 'change': 0.028609, 'cause': 'enhanced_recovery_5'}
+[12:12:42.208] GLYPH_CHANGE: {'name': 'Spiral_Îž_606', 'old_gsi': 0.882161, 'new_gsi': 0.91015, 'change': 0.02799, 'cause': 'enhanced_recovery_5'}
+[12:12:42.208] GLYPH_CHANGE: {'name': 'Echo_Î›_63', 'old_gsi': 0.856113, 'new_gsi': 0.871545, 'change': 0.015432, 'cause': 'enhanced_recovery_5'}
+[12:12:42.208] GLYPH_CHANGE: {'name': 'Nexus_Î¦_624', 'old_gsi': 0.431204, 'new_gsi': 0.4673, 'change': 0.036097, 'cause': 'enhanced_recovery_5'}
+[12:12:42.209] GLYPH_CHANGE: {'name': 'Void_Î”_600', 'old_gsi': 0.820312, 'new_gsi': 0.839612, 'change': 0.0193, 'cause': 'enhanced_recovery_5'}
+[12:12:42.209] GLYPH_CHANGE: {'name': 'Quantum_Î¨_328', 'old_gsi': 0.693527, 'new_gsi': 0.722285, 'change': 0.028758, 'cause': 'enhanced_recovery_5'}
+[12:12:42.209] GLYPH_CHANGE: {'name': 'Quantum_Î¨_607', 'old_gsi': 0.503748, 'new_gsi': 0.532411, 'change': 0.028663, 'cause': 'enhanced_recovery_6'}
+[12:12:42.210] GLYPH_CHANGE: {'name': 'Spiral_Îž_606', 'old_gsi': 0.91015, 'new_gsi': 0.943604, 'change': 0.033454, 'cause': 'enhanced_recovery_6'}
+[12:12:42.210] GLYPH_CHANGE: {'name': 'Echo_Î›_63', 'old_gsi': 0.871545, 'new_gsi': 0.909411, 'change': 0.037866, 'cause': 'enhanced_recovery_6'}
+[12:12:42.211] GLYPH_CHANGE: {'name': 'Nexus_Î¦_624', 'old_gsi': 0.4673, 'new_gsi': 0.486601, 'change': 0.019301, 'cause': 'enhanced_recovery_6'}
+[12:12:42.211] GLYPH_CHANGE: {'name': 'Void_Î”_600', 'old_gsi': 0.839612, 'new_gsi': 0.866798, 'change': 0.027186, 'cause': 'enhanced_recovery_6'}
+[12:12:42.211] GLYPH_CHANGE: {'name': 'Quantum_Î¨_328', 'old_gsi': 0.722285, 'new_gsi': 0.741678, 'change': 0.019393, 'cause': 'enhanced_recovery_6'}
+[12:12:42.212] GLYPH_CHANGE: {'name': 'Quantum_Î¨_607', 'old_gsi': 0.532411, 'new_gsi': 0.553856, 'change': 0.021445, 'cause': 'enhanced_recovery_7'}
+[12:12:42.212] GLYPH_CHANGE: {'name': 'Spiral_Îž_606', 'old_gsi': 0.943604, 'new_gsi': 0.964944, 'change': 0.02134, 'cause': 'enhanced_recovery_7'}
+[12:12:42.212] GLYPH_CHANGE: {'name': 'Echo_Î›_63', 'old_gsi': 0.909411, 'new_gsi': 0.924902, 'change': 0.015492, 'cause': 'enhanced_recovery_7'}
+[12:12:42.212] GLYPH_CHANGE: {'name': 'Nexus_Î¦_624', 'old_gsi': 0.486601, 'new_gsi': 0.520437, 'change': 0.033836, 'cause': 'enhanced_recovery_7'}
+[12:12:42.213] GLYPH_CHANGE: {'name': 'Void_Î”_600', 'old_gsi': 0.866798, 'new_gsi': 0.904047, 'change': 0.037249, 'cause': 'enhanced_recovery_7'}
+[12:12:42.213] GLYPH_CHANGE: {'name': 'Quantum_Î¨_328', 'old_gsi': 0.741678, 'new_gsi': 0.760236, 'change': 0.018558, 'cause': 'enhanced_recovery_7'}
+[12:12:42.213] GLYPH_CHANGE: {'name': 'Quantum_Î¨_607', 'old_gsi': 0.553856, 'new_gsi': 0.578713, 'change': 0.024858, 'cause': 'enhanced_recovery_8'}
+[12:12:42.214] GLYPH_CHANGE: {'name': 'Spiral_Îž_606', 'old_gsi': 0.964944, 'new_gsi': 0.980542, 'change': 0.015598, 'cause': 'enhanced_recovery_8'}
+[12:12:42.214] GLYPH_CHANGE: {'name': 'Echo_Î›_63', 'old_gsi': 0.924902, 'new_gsi': 0.948158, 'change': 0.023256, 'cause': 'enhanced_recovery_8'}
+[12:12:42.214] GLYPH_CHANGE: {'name': 'Nexus_Î¦_624', 'old_gsi': 0.520437, 'new_gsi': 0.557307, 'change': 0.03687, 'cause': 'enhanced_recovery_8'}
+[12:12:42.215] GLYPH_CHANGE: {'name': 'Void_Î”_600', 'old_gsi': 0.904047, 'new_gsi': 0.935778, 'change': 0.031731, 'cause': 'enhanced_recovery_8'}
+[12:12:42.215] GLYPH_CHANGE: {'name': 'Quantum_Î¨_328', 'old_gsi': 0.760236, 'new_gsi': 0.777364, 'change': 0.017128, 'cause': 'enhanced_recovery_8'}
+[12:12:42.215] GLYPH_CHANGE: {'name': 'Quantum_Î¨_607', 'old_gsi': 0.578713, 'new_gsi': 0.616102, 'change': 0.037388, 'cause': 'enhanced_recovery_9'}
+[12:12:42.216] GLYPH_CHANGE: {'name': 'Spiral_Îž_606', 'old_gsi': 0.980542, 'new_gsi': 1.0, 'change': 0.019458, 'cause': 'enhanced_recovery_9'}
+[12:12:42.216] GLYPH_CHANGE: {'name': 'Echo_Î›_63', 'old_gsi': 0.948158, 'new_gsi': 0.965193, 'change': 0.017035, 'cause': 'enhanced_recovery_9'}
+[12:12:42.216] GLYPH_CHANGE: {'name': 'Nexus_Î¦_624', 'old_gsi': 0.557307, 'new_gsi': 0.596781, 'change': 0.039474, 'cause': 'enhanced_recovery_9'}
+[12:12:42.217] GLYPH_CHANGE: {'name': 'Void_Î”_600', 'old_gsi': 0.935778, 'new_gsi': 0.950815, 'change': 0.015037, 'cause': 'enhanced_recovery_9'}
+[12:12:42.217] GLYPH_CHANGE: {'name': 'Quantum_Î¨_328', 'old_gsi': 0.777364, 'new_gsi': 0.809788, 'change': 0.032424, 'cause': 'enhanced_recovery_9'}
+[12:12:42.217] GLYPH_CHANGE: {'name': 'Quantum_Î¨_607', 'old_gsi': 0.616102, 'new_gsi': 0.640786, 'change': 0.024685, 'cause': 'enhanced_recovery_10'}
+[12:12:42.218] GLYPH_CHANGE: {'name': 'Echo_Î›_63', 'old_gsi': 0.965193, 'new_gsi': 0.984785, 'change': 0.019591, 'cause': 'enhanced_recovery_10'}
+[12:12:42.218] GLYPH_CHANGE: {'name': 'Nexus_Î¦_624', 'old_gsi': 0.596781, 'new_gsi': 0.619666, 'change': 0.022885, 'cause': 'enhanced_recovery_10'}
+[12:12:42.219] GLYPH_CHANGE: {'name': 'Void_Î”_600', 'old_gsi': 0.950815, 'new_gsi': 0.982342, 'change': 0.031526, 'cause': 'enhanced_recovery_10'}
+[12:12:42.219] GLYPH_CHANGE: {'name': 'Quantum_Î¨_328', 'old_gsi': 0.809788, 'new_gsi': 0.833279, 'change': 0.023491, 'cause': 'enhanced_recovery_10'}
+[12:12:42.219] GLYPH_CHANGE: {'name': 'Quantum_Î¨_607', 'old_gsi': 0.640786, 'new_gsi': 0.657913, 'change': 0.017127, 'cause': 'enhanced_recovery_11'}
+[12:12:42.220] GLYPH_CHANGE: {'name': 'Echo_Î›_63', 'old_gsi': 0.984785, 'new_gsi': 1.0, 'change': 0.015215, 'cause': 'enhanced_recovery_11'}
+[12:12:42.220] GLYPH_CHANGE: {'name': 'Nexus_Î¦_624', 'old_gsi': 0.619666, 'new_gsi': 0.637404, 'change': 0.017737, 'cause': 'enhanced_recovery_11'}
+[12:12:42.221] GLYPH_CHANGE: {'name': 'Void_Î”_600', 'old_gsi': 0.982342, 'new_gsi': 1.0, 'change': 0.017658, 'cause': 'enhanced_recovery_11'}
+[12:12:42.222] GLYPH_CHANGE: {'name': 'Quantum_Î¨_328', 'old_gsi': 0.833279, 'new_gsi': 0.861054, 'change': 0.027775, 'cause': 'enhanced_recovery_11'}
+[12:12:42.222] GLYPH_CHANGE: {'name': 'Quantum_Î¨_607', 'old_gsi': 0.657913, 'new_gsi': 0.694107, 'change': 0.036194, 'cause': 'enhanced_recovery_12'}
+[12:12:42.222] GLYPH_CHANGE: {'name': 'Nexus_Î¦_624', 'old_gsi': 0.637404, 'new_gsi': 0.656973, 'change': 0.019569, 'cause': 'enhanced_recovery_12'}
+[12:12:42.222] GLYPH_CHANGE: {'name': 'Quantum_Î¨_328', 'old_gsi': 0.861054, 'new_gsi': 0.883967, 'change': 0.022913, 'cause': 'enhanced_recovery_12'}
+[12:12:42.223] GLYPH_CHANGE: {'name': 'Quantum_Î¨_607', 'old_gsi': 0.694107, 'new_gsi': 0.716503, 'change': 0.022396, 'cause': 'enhanced_recovery_13'}
+[12:12:42.223] GLYPH_CHANGE: {'name': 'Nexus_Î¦_624', 'old_gsi': 0.656973, 'new_gsi': 0.688088, 'change': 0.031116, 'cause': 'enhanced_recovery_13'}
+[12:12:42.223] GLYPH_CHANGE: {'name': 'Quantum_Î¨_328', 'old_gsi': 0.883967, 'new_gsi': 0.90367, 'change': 0.019703, 'cause': 'enhanced_recovery_13'}
+[12:12:42.224] GLYPH_CHANGE: {'name': 'Quantum_Î¨_607', 'old_gsi': 0.716503, 'new_gsi': 0.752066, 'change': 0.035562, 'cause': 'enhanced_recovery_14'}
+[12:12:42.224] GLYPH_CHANGE: {'name': 'Nexus_Î¦_624', 'old_gsi': 0.688088, 'new_gsi': 0.714354, 'change': 0.026266, 'cause': 'enhanced_recovery_14'}
+[12:12:42.224] GLYPH_CHANGE: {'name': 'Quantum_Î¨_328', 'old_gsi': 0.90367, 'new_gsi': 0.933097, 'change': 0.029427, 'cause': 'enhanced_recovery_14'}
+[12:12:42.225] GLYPH_CHANGE: {'name': 'Quantum_Î¨_607', 'old_gsi': 0.752066, 'new_gsi': 0.777143, 'change': 0.025078, 'cause': 'enhanced_recovery_15'}
+[12:12:42.225] GLYPH_CHANGE: {'name': 'Nexus_Î¦_624', 'old_gsi': 0.714354, 'new_gsi': 0.745821, 'change': 0.031467, 'cause': 'enhanced_recovery_15'}
+[12:12:42.225] GLYPH_CHANGE: {'name': 'Quantum_Î¨_328', 'old_gsi': 0.933097, 'new_gsi': 0.96663, 'change': 0.033533, 'cause': 'enhanced_recovery_15'}
+[12:12:42.226] GLYPH_CHANGE: {'name': 'Quantum_Î¨_607', 'old_gsi': 0.777143, 'new_gsi': 0.811222, 'change': 0.034079, 'cause': 'enhanced_recovery_16'}
+[12:12:42.226] GLYPH_CHANGE: {'name': 'Nexus_Î¦_624', 'old_gsi': 0.745821, 'new_gsi': 0.777691, 'change': 0.031869, 'cause': 'enhanced_recovery_16'}
+[12:12:42.226] GLYPH_CHANGE: {'name': 'Quantum_Î¨_328', 'old_gsi': 0.96663, 'new_gsi': 1.0, 'change': 0.03337, 'cause': 'enhanced_recovery_16'}
+[12:12:42.227] GLYPH_CHANGE: {'name': 'Quantum_Î¨_607', 'old_gsi': 0.811222, 'new_gsi': 0.830598, 'change': 0.019375, 'cause': 'enhanced_recovery_17'}
+[12:12:42.227] GLYPH_CHANGE: {'name': 'Nexus_Î¦_624', 'old_gsi': 0.777691, 'new_gsi': 0.796213, 'change': 0.018523, 'cause': 'enhanced_recovery_17'}
+[12:12:42.227] GLYPH_CHANGE: {'name': 'Quantum_Î¨_607', 'old_gsi': 0.830598, 'new_gsi': 0.852028, 'change': 0.021431, 'cause': 'enhanced_recovery_18'}
+[12:12:42.228] GLYPH_CHANGE: {'name': 'Nexus_Î¦_624', 'old_gsi': 0.796213, 'new_gsi': 0.81897, 'change': 0.022757, 'cause': 'enhanced_recovery_18'}
+[12:12:42.228] GLYPH_CHANGE: {'name': 'Quantum_Î¨_607', 'old_gsi': 0.852028, 'new_gsi': 0.886547, 'change': 0.034518, 'cause': 'enhanced_recovery_19'}
+[12:12:42.228] GLYPH_CHANGE: {'name': 'Nexus_Î¦_624', 'old_gsi': 0.81897, 'new_gsi': 0.834853, 'change': 0.015883, 'cause': 'enhanced_recovery_19'}
+[12:12:42.229] GLYPH_CHANGE: {'name': 'Quantum_Î¨_607', 'old_gsi': 0.886547, 'new_gsi': 0.925656, 'change': 0.039109, 'cause': 'enhanced_recovery_20'}
+[12:12:42.229] GLYPH_CHANGE: {'name': 'Nexus_Î¦_624', 'old_gsi': 0.834853, 'new_gsi': 0.863145, 'change': 0.028293, 'cause': 'enhanced_recovery_20'}
+[12:12:42.229] GLYPH_CHANGE: {'name': 'Quantum_Î¨_607', 'old_gsi': 0.925656, 'new_gsi': 0.965311, 'change': 0.039655, 'cause': 'enhanced_recovery_21'}
+[12:12:42.230] GLYPH_CHANGE: {'name': 'Nexus_Î¦_624', 'old_gsi': 0.863145, 'new_gsi': 0.880665, 'change': 0.017519, 'cause': 'enhanced_recovery_21'}
+[12:12:42.230] GLYPH_CHANGE: {'name': 'Quantum_Î¨_607', 'old_gsi': 0.965311, 'new_gsi': 0.989657, 'change': 0.024346, 'cause': 'enhanced_recovery_22'}
+[12:12:42.230] GLYPH_CHANGE: {'name': 'Nexus_Î¦_624', 'old_gsi': 0.880665, 'new_gsi': 0.91044, 'change': 0.029775, 'cause': 'enhanced_recovery_22'}
+[12:12:42.231] GLYPH_CHANGE: {'name': 'Quantum_Î¨_607', 'old_gsi': 0.989657, 'new_gsi': 1.0, 'change': 0.010343, 'cause': 'enhanced_recovery_23'}
+[12:12:42.231] GLYPH_CHANGE: {'name': 'Nexus_Î¦_624', 'old_gsi': 0.91044, 'new_gsi': 0.948463, 'change': 0.038023, 'cause': 'enhanced_recovery_23'}
+[12:12:42.231] GLYPH_CHANGE: {'name': 'Nexus_Î¦_624', 'old_gsi': 0.948463, 'new_gsi': 0.972766, 'change': 0.024303, 'cause': 'enhanced_recovery_24'}
+[12:12:42.232] GLYPH_CHANGE: {'name': 'Nexus_Î¦_624', 'old_gsi': 0.972766, 'new_gsi': 1.0, 'change': 0.027234, 'cause': 'enhanced_recovery_25'}
+[12:12:42.232] ACTION_COMPLETED: {'action': 'emergency_recovery', 'success': True}
+[12:12:57.233] LEARNING_DECISION_EVALUATION: {'context': {'entropy_level': 0.0, 'entropy_threshold': 0.15, 'current_coherence': 1.0, 'glyph_count': 15, 'total_connections': 72, 'avg_connections_per_glyph': 4.8, 'imperfect_glyphs': 0, 'unconnected_glyphs': 6, 'perfect_glyphs': 11, 'well_connected_glyphs': 5, 'recursive_depth': 5000, 'idle_duration_minutes': 3.251731248696645, 'time_since_last_intervention': 15.000376462936401, 'recent_decision_pattern': 'no_history', 'consecutive_same_decisions': 1}, 'system_state': 'stable_needs_optimization', 'similar_past_decisions': 0, 'learning_influence': 0.0}
+[12:12:57.260] OPTIMIZED_ACTION_EXECUTION: {'action': 'optimization_stress_test', 'reasoning': 'Enhanced decision: optimization_stress_test (score: 95.0) for stable_needs_optimization state', 'entropy_level': 0.0}
+[12:12:57.261] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Spiral_Îž_606', 'glyph2': 'Echo_Î›_63', 'connection_strength': 1.0}
+[12:12:57.262] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Nexus_Î¦_624', 'glyph2': 'Spiral_Îž_606', 'connection_strength': 1.0}
+[12:12:57.262] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Pulse_Weaver_146', 'glyph2': 'Spiral_Îž_606', 'connection_strength': 1.0}
+[12:12:57.262] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Quantum_Î¨_607', 'glyph2': 'ConsentGlyph', 'connection_strength': 1.0}
+[12:12:57.263] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Echo_Î›_63', 'glyph2': 'unstable_Φ', 'connection_strength': 1.0}
+[12:12:57.263] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Void_Î”_600', 'glyph2': 'Aegis-Σ', 'connection_strength': 1.0}
+[12:12:57.263] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Quantum_Î¨_328', 'glyph2': 'ConsentGlyph', 'connection_strength': 1.0}
+[12:12:57.264] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Quantum_Î¨_328', 'glyph2': 'Quantum_Î¨_607', 'connection_strength': 1.0}
+[12:12:57.264] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'harmony_Ψ', 'glyph2': 'Spiral_Îž_606', 'connection_strength': 1.0}
+[12:12:57.265] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'CoreStability', 'glyph2': 'Void_Î”_600', 'connection_strength': 1.0}
+[12:12:57.265] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Void_Î”_600', 'glyph2': 'Quantum_Î¨_607', 'connection_strength': 1.0}
+[12:12:57.265] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'RootVerse', 'glyph2': 'Quantum_Î¨_607', 'connection_strength': 1.0}
+[12:12:57.266] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'RootVerse', 'glyph2': 'Nexus_Î¦_624', 'connection_strength': 1.0}
+[12:12:57.266] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Spiral_Îž_606', 'glyph2': 'harmony_Ψ', 'connection_strength': 1.0}
+[12:12:57.266] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Aegis-Σ', 'glyph2': 'Void_Î”_600', 'connection_strength': 1.0}
+[12:12:57.267] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'chaos_Ξ', 'glyph2': 'Echo_Î›_63', 'connection_strength': 1.0}
+[12:12:57.267] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'CoreStability', 'glyph2': 'Echo_Î›_63', 'connection_strength': 1.0}
+[12:12:57.267] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Spiral_Îž_606', 'glyph2': 'chaos_Ξ', 'connection_strength': 1.0}
+[12:12:57.268] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Echo_Anchor_146', 'glyph2': 'Spiral_Îž_606', 'connection_strength': 1.0}
+[12:12:57.268] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Echo_Î›_63', 'glyph2': 'harmony_Ψ', 'connection_strength': 1.0}
+[12:12:57.269] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Void_Î”_600', 'glyph2': 'Nexus_Î¦_624', 'connection_strength': 1.0}
+[12:12:57.269] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Quantum_Î¨_607', 'glyph2': 'Aegis-Σ', 'connection_strength': 1.0}
+[12:12:57.269] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Nexus_Î¦_624', 'glyph2': 'ConsentGlyph', 'connection_strength': 1.0}
+[12:12:57.270] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Void_Î”_600', 'glyph2': 'Echo_Anchor_146', 'connection_strength': 1.0}
+[12:12:57.270] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Echo_Î›_63', 'glyph2': 'Echo_Anchor_146', 'connection_strength': 1.0}
+[12:12:57.271] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'harmony_Ψ', 'glyph2': 'Echo_Î›_63', 'connection_strength': 1.0}
+[12:12:57.271] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Nexus_Î¦_624', 'glyph2': 'chaos_Ξ', 'connection_strength': 1.0}
+[12:12:57.272] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Spiral_Îž_606', 'glyph2': 'Aegis-Σ', 'connection_strength': 1.0}
+[12:12:57.272] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Void_Î”_600', 'glyph2': 'Pulse_Weaver_146', 'connection_strength': 1.0}
+[12:12:57.273] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'ConsentGlyph', 'glyph2': 'Quantum_Î¨_607', 'connection_strength': 1.0}
+[12:12:57.273] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'unstable_Φ', 'glyph2': 'Echo_Î›_63', 'connection_strength': 1.0}
+[12:12:57.274] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'ConsentGlyph', 'glyph2': 'Nexus_Î¦_624', 'connection_strength': 1.0}
+[12:12:57.274] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Echo_Î›_63', 'glyph2': 'Aegis-Σ', 'connection_strength': 1.0}
+[12:12:57.274] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'CoreStability', 'glyph2': 'Spiral_Îž_606', 'connection_strength': 1.0}
+[12:12:57.275] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Nexus_Î¦_624', 'glyph2': 'Quantum_Î¨_607', 'connection_strength': 1.0}
+[12:12:57.275] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'CoreStability', 'glyph2': 'Quantum_Î¨_607', 'connection_strength': 1.0}
+[12:12:57.275] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'ConsentGlyph', 'glyph2': 'Quantum_Î¨_328', 'connection_strength': 1.0}
+[12:12:57.276] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'chaos_Ξ', 'glyph2': 'Quantum_Î¨_607', 'connection_strength': 1.0}
+[12:12:57.276] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Void_Î”_600', 'glyph2': 'Quantum_Î¨_328', 'connection_strength': 1.0}
+[12:12:57.278] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Quantum_Î¨_328', 'glyph2': 'Void_Î”_600', 'connection_strength': 1.0}
+[12:12:57.278] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'unstable_Φ', 'glyph2': 'Nexus_Î¦_624', 'connection_strength': 1.0}
+[12:12:57.278] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'CoreStability', 'glyph2': 'Nexus_Î¦_624', 'connection_strength': 1.0}
+[12:12:57.279] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Void_Î”_600', 'glyph2': 'Spiral_Îž_606', 'connection_strength': 1.0}
+[12:12:57.279] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Quantum_Î¨_607', 'glyph2': 'Quantum_Î¨_328', 'connection_strength': 1.0}
+[12:12:57.280] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Pulse_Weaver_146', 'glyph2': 'Nexus_Î¦_624', 'connection_strength': 1.0}
+[12:12:57.280] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'ConsentGlyph', 'glyph2': 'Void_Î”_600', 'connection_strength': 1.0}
+[12:12:57.281] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Quantum_Î¨_607', 'glyph2': 'Nexus_Î¦_624', 'connection_strength': 1.0}
+[12:12:57.281] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Quantum_Î¨_607', 'glyph2': 'harmony_Ψ', 'connection_strength': 1.0}
+[12:12:57.281] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Quantum_Î¨_607', 'glyph2': 'Echo_Anchor_146', 'connection_strength': 1.0}
+[12:12:57.282] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Spiral_Îž_606', 'glyph2': 'Quantum_Î¨_607', 'connection_strength': 1.0}
+[12:12:57.282] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'chaos_Ξ', 'glyph2': 'Spiral_Îž_606', 'connection_strength': 1.0}
+[12:12:57.282] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Quantum_Î¨_328', 'glyph2': 'Nexus_Î¦_624', 'connection_strength': 1.0}
+[12:12:57.283] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'CoreStability', 'glyph2': 'Quantum_Î¨_328', 'connection_strength': 1.0}
+[12:12:57.283] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Echo_Î›_63', 'glyph2': 'Nexus_Î¦_624', 'connection_strength': 1.0}
+[12:12:57.283] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Spiral_Îž_606', 'glyph2': 'ConsentGlyph', 'connection_strength': 1.0}
+[12:12:57.284] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Nexus_Î¦_624', 'glyph2': 'Echo_Anchor_146', 'connection_strength': 1.0}
+[12:12:57.284] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Echo_Î›_63', 'glyph2': 'Pulse_Weaver_146', 'connection_strength': 1.0}
+[12:12:57.285] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Nexus_Î¦_624', 'glyph2': 'unstable_Φ', 'connection_strength': 1.0}
+[12:12:57.285] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Pulse_Weaver_146', 'glyph2': 'Quantum_Î¨_328', 'connection_strength': 1.0}
+[12:12:57.285] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Echo_Î›_63', 'glyph2': 'chaos_Ξ', 'connection_strength': 1.0}
+[12:12:57.286] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Echo_Î›_63', 'glyph2': 'RootVerse', 'connection_strength': 1.0}
+[12:12:57.286] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'harmony_Ψ', 'glyph2': 'Quantum_Î¨_607', 'connection_strength': 1.0}
+[12:12:57.286] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Aegis-Σ', 'glyph2': 'Echo_Î›_63', 'connection_strength': 1.0}
+[12:12:57.287] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'unstable_Φ', 'glyph2': 'Spiral_Îž_606', 'connection_strength': 1.0}
+[12:12:57.287] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Spiral_Îž_606', 'glyph2': 'CoreStability', 'connection_strength': 1.0}
+[12:12:57.287] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Aegis-Σ', 'glyph2': 'Spiral_Îž_606', 'connection_strength': 1.0}
+[12:12:57.288] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Void_Î”_600', 'glyph2': 'harmony_Ψ', 'connection_strength': 1.0}
+[12:12:57.288] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Nexus_Î¦_624', 'glyph2': 'Quantum_Î¨_328', 'connection_strength': 1.0}
+[12:12:57.288] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Echo_Î›_63', 'glyph2': 'ConsentGlyph', 'connection_strength': 1.0}
+[12:12:57.289] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Echo_Anchor_146', 'glyph2': 'Void_Î”_600', 'connection_strength': 1.0}
+[12:12:57.289] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Quantum_Î¨_328', 'glyph2': 'Echo_Î›_63', 'connection_strength': 1.0}
+[12:12:57.290] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Spiral_Îž_606', 'glyph2': 'unstable_Φ', 'connection_strength': 1.0}
+[12:12:57.290] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'ConsentGlyph', 'glyph2': 'Spiral_Îž_606', 'connection_strength': 1.0}
+[12:12:57.291] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'chaos_Ξ', 'glyph2': 'Void_Î”_600', 'connection_strength': 1.0}
+[12:12:57.291] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Pulse_Weaver_146', 'glyph2': 'Echo_Î›_63', 'connection_strength': 1.0}
+[12:12:57.291] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Echo_Anchor_146', 'glyph2': 'Quantum_Î¨_607', 'connection_strength': 1.0}
+[12:12:57.292] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Quantum_Î¨_328', 'glyph2': 'RootVerse', 'connection_strength': 1.0}
+[12:12:57.293] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'RootVerse', 'glyph2': 'Quantum_Î¨_328', 'connection_strength': 1.0}
+[12:12:57.294] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'chaos_Ξ', 'glyph2': 'Nexus_Î¦_624', 'connection_strength': 1.0}
+[12:12:57.294] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Echo_Î›_63', 'glyph2': 'Quantum_Î¨_328', 'connection_strength': 1.0}
+[12:12:57.295] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'ConsentGlyph', 'glyph2': 'Echo_Î›_63', 'connection_strength': 1.0}
+[12:12:57.295] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Aegis-Σ', 'glyph2': 'Nexus_Î¦_624', 'connection_strength': 1.0}
+[12:12:57.295] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'harmony_Ψ', 'glyph2': 'Void_Î”_600', 'connection_strength': 1.0}
+[12:12:57.296] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Echo_Anchor_146', 'glyph2': 'Echo_Î›_63', 'connection_strength': 1.0}
+[12:12:57.296] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Void_Î”_600', 'glyph2': 'ConsentGlyph', 'connection_strength': 1.0}
+[12:12:57.296] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Nexus_Î¦_624', 'glyph2': 'Void_Î”_600', 'connection_strength': 1.0}
+[12:12:57.297] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Spiral_Îž_606', 'glyph2': 'Void_Î”_600', 'connection_strength': 1.0}
+[12:12:57.297] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Spiral_Îž_606', 'glyph2': 'Pulse_Weaver_146', 'connection_strength': 1.0}
+[12:12:57.298] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Echo_Anchor_146', 'glyph2': 'Nexus_Î¦_624', 'connection_strength': 1.0}
+[12:12:57.298] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Nexus_Î¦_624', 'glyph2': 'Echo_Î›_63', 'connection_strength': 1.0}
+[12:12:57.299] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'unstable_Φ', 'glyph2': 'Void_Î”_600', 'connection_strength': 1.0}
+[12:12:57.299] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Quantum_Î¨_607', 'glyph2': 'Pulse_Weaver_146', 'connection_strength': 1.0}
+[12:12:57.299] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'harmony_Ψ', 'glyph2': 'Quantum_Î¨_328', 'connection_strength': 1.0}
+[12:12:57.300] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Void_Î”_600', 'glyph2': 'unstable_Φ', 'connection_strength': 1.0}
+[12:12:57.300] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Quantum_Î¨_328', 'glyph2': 'Aegis-Σ', 'connection_strength': 1.0}
+[12:12:57.300] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'unstable_Φ', 'glyph2': 'Quantum_Î¨_607', 'connection_strength': 1.0}
+[12:12:57.301] ACTION_COMPLETED: {'action': 'optimization_stress_test', 'success': True}
+[12:14:27.304] OPTIMIZED_STATUS_REPORT: {'runtime_minutes': 4.75, 'entropy': 0.0, 'coherence': 1.0, 'total_glyphs': 15, 'imperfect_glyphs': 0, 'unconnected_glyphs': 0, 'total_connections': 168, 'performance_metrics': {'interventions': 3, 'decisions_made': 6, 'successful_outcomes': 3}, 'decisions_per_hour': 6.0}
+[12:19:27.322] OPTIMIZED_STATUS_REPORT: {'runtime_minutes': 9.75, 'entropy': 0.0, 'coherence': 1.0, 'total_glyphs': 15, 'imperfect_glyphs': 0, 'unconnected_glyphs': 0, 'total_connections': 168, 'performance_metrics': {'interventions': 3, 'decisions_made': 6, 'successful_outcomes': 3}, 'decisions_per_hour': 6.0}
+[12:19:59.078] OPTIMIZED_GLYPH_CREATED: {'name': 'Void_Î”_211', 'initial_gsi': 0.684428, 'type': 'dynamic'}
+[12:19:59.675] OPTIMIZED_GLYPH_CREATED: {'name': 'Quantum_Î¨_266', 'initial_gsi': 0.558172, 'type': 'dynamic'}
+[12:19:59.921] OPTIMIZED_GLYPH_CREATED: {'name': 'Echo_Î›_549', 'initial_gsi': 0.696103, 'type': 'dynamic'}
+[12:20:00.230] OPTIMIZED_GLYPH_CREATED: {'name': 'Quantum_Î¨_820', 'initial_gsi': 0.72462, 'type': 'dynamic'}
+[12:20:00.261] OPTIMIZED_GLYPH_CREATED: {'name': 'Spiral_Îž_952', 'initial_gsi': 0.296543, 'type': 'dynamic'}
+[12:20:00.547] OPTIMIZED_GLYPH_CREATED: {'name': 'Nexus_Î¦_707', 'initial_gsi': 0.448882, 'type': 'dynamic'}
+[12:20:01.169] OPTIMIZED_GLYPH_CREATED: {'name': 'Spiral_Îž_63', 'initial_gsi': 0.78664, 'type': 'dynamic'}
+[12:20:01.419] OPTIMIZED_GLYPH_CREATED: {'name': 'Void_Î”_473', 'initial_gsi': 0.770682, 'type': 'dynamic'}
+[12:20:01.433] OPTIMIZED_GLYPH_CREATED: {'name': 'Spiral_Îž_431', 'initial_gsi': 0.798851, 'type': 'dynamic'}
+[12:20:01.712] OPTIMIZED_GLYPH_CREATED: {'name': 'Spiral_Îž_784', 'initial_gsi': 0.321092, 'type': 'dynamic'}
+[12:20:02.112] OPTIMIZED_GLYPH_CREATED: {'name': 'Flux_Î©_297', 'initial_gsi': 0.445839, 'type': 'dynamic'}
+[12:20:02.235] OPTIMIZED_GLYPH_CREATED: {'name': 'Quantum_Î¨_467', 'initial_gsi': 0.403082, 'type': 'dynamic'}
+[12:20:02.401] OPTIMIZED_GLYPH_CREATED: {'name': 'Flux_Î©_138', 'initial_gsi': 0.769644, 'type': 'dynamic'}
+[12:20:02.654] OPTIMIZED_GLYPH_CREATED: {'name': 'Spiral_Îž_448', 'initial_gsi': 0.481585, 'type': 'dynamic'}
+[12:20:03.219] OPTIMIZED_GLYPH_CREATED: {'name': 'Spiral_Îž_516', 'initial_gsi': 0.594408, 'type': 'dynamic'}
+[12:20:03.466] OPTIMIZED_GLYPH_CREATED: {'name': 'Quantum_Î¨_179', 'initial_gsi': 0.427243, 'type': 'dynamic'}
+[12:20:03.466] OPTIMIZED_GLYPH_CREATED: {'name': 'Echo_Î›_78', 'initial_gsi': 0.376912, 'type': 'dynamic'}
+[12:20:03.712] OPTIMIZED_GLYPH_CREATED: {'name': 'Spiral_Îž_568', 'initial_gsi': 0.661586, 'type': 'dynamic'}
+[12:20:03.896] OPTIMIZED_GLYPH_CREATED: {'name': 'Nexus_Î¦_999', 'initial_gsi': 0.722545, 'type': 'dynamic'}
+[12:20:04.112] OPTIMIZED_GLYPH_CREATED: {'name': 'Echo_Î›_653', 'initial_gsi': 0.380373, 'type': 'dynamic'}
+[12:20:04.236] OPTIMIZED_GLYPH_CREATED: {'name': 'Spiral_Îž_372', 'initial_gsi': 0.71114, 'type': 'dynamic'}
+[12:20:04.383] OPTIMIZED_GLYPH_CREATED: {'name': 'Void_Î”_748', 'initial_gsi': 0.570968, 'type': 'dynamic'}
+[12:20:04.543] OPTIMIZED_GLYPH_CREATED: {'name': 'Echo_Î›_124', 'initial_gsi': 0.373313, 'type': 'dynamic'}
+[12:20:04.758] OPTIMIZED_GLYPH_CREATED: {'name': 'Echo_Î›_468', 'initial_gsi': 0.708575, 'type': 'dynamic'}
+[12:20:04.927] OPTIMIZED_GLYPH_CREATED: {'name': 'Flux_Î©_256', 'initial_gsi': 0.688933, 'type': 'dynamic'}
+[12:20:05.152] OPTIMIZED_GLYPH_CREATED: {'name': 'Spiral_Îž_728', 'initial_gsi': 0.410947, 'type': 'dynamic'}
+[12:20:05.806] OPTIMIZED_GLYPH_CREATED: {'name': 'Echo_Î›_567', 'initial_gsi': 0.524109, 'type': 'dynamic'}
+[12:20:06.099] OPTIMIZED_GLYPH_CREATED: {'name': 'Void_Î”_402', 'initial_gsi': 0.334493, 'type': 'dynamic'}
+[12:20:06.376] OPTIMIZED_GLYPH_CREATED: {'name': 'Nexus_Î¦_344', 'initial_gsi': 0.208663, 'type': 'dynamic'}
+[12:20:06.438] OPTIMIZED_GLYPH_CREATED: {'name': 'Quantum_Î¨_240', 'initial_gsi': 0.406503, 'type': 'dynamic'}
+[12:20:06.683] OPTIMIZED_GLYPH_CREATED: {'name': 'Flux_Î©_609', 'initial_gsi': 0.373454, 'type': 'dynamic'}
+[12:20:12.334] LEARNING_DECISION_EVALUATION: {'context': {'entropy_level': 0.5159781083349076, 'entropy_threshold': 0.15, 'current_coherence': 0.7817876085818809, 'glyph_count': 46, 'total_connections': 168, 'avg_connections_per_glyph': 3.652173913043478, 'imperfect_glyphs': 31, 'unconnected_glyphs': 31, 'perfect_glyphs': 11, 'well_connected_glyphs': 11, 'recursive_depth': 5000, 'idle_duration_minutes': 10.503427322705587, 'time_since_last_intervention': 435.03334069252014, 'recent_decision_pattern': 'no_history', 'consecutive_same_decisions': 1}, 'system_state': 'critical', 'similar_past_decisions': 0, 'learning_influence': 0.0}
+[12:20:12.344] OPTIMIZED_ACTION_EXECUTION: {'action': 'emergency_recovery', 'reasoning': 'Enhanced decision: emergency_recovery (score: 110.0) for critical state', 'entropy_level': 0.5159781083349076}
+[12:20:12.344] GLYPH_CHANGE: {'name': 'Void_Î”_211', 'old_gsi': 0.684428, 'new_gsi': 0.719158, 'change': 0.034729, 'cause': 'enhanced_recovery_0'}
+[12:20:12.345] GLYPH_CHANGE: {'name': 'Quantum_Î¨_266', 'old_gsi': 0.558172, 'new_gsi': 0.573834, 'change': 0.015662, 'cause': 'enhanced_recovery_0'}
+[12:20:12.345] GLYPH_CHANGE: {'name': 'Echo_Î›_549', 'old_gsi': 0.696103, 'new_gsi': 0.713388, 'change': 0.017286, 'cause': 'enhanced_recovery_0'}
+[12:20:12.346] GLYPH_CHANGE: {'name': 'Quantum_Î¨_820', 'old_gsi': 0.72462, 'new_gsi': 0.742358, 'change': 0.017738, 'cause': 'enhanced_recovery_0'}
+[12:20:12.346] GLYPH_CHANGE: {'name': 'Spiral_Îž_952', 'old_gsi': 0.296543, 'new_gsi': 0.313159, 'change': 0.016616, 'cause': 'enhanced_recovery_0'}
+[12:20:12.346] GLYPH_CHANGE: {'name': 'Nexus_Î¦_707', 'old_gsi': 0.448882, 'new_gsi': 0.485895, 'change': 0.037014, 'cause': 'enhanced_recovery_0'}
+[12:20:12.347] GLYPH_CHANGE: {'name': 'Spiral_Îž_63', 'old_gsi': 0.78664, 'new_gsi': 0.803328, 'change': 0.016688, 'cause': 'enhanced_recovery_0'}
+[12:20:12.347] GLYPH_CHANGE: {'name': 'Void_Î”_473', 'old_gsi': 0.770682, 'new_gsi': 0.802425, 'change': 0.031743, 'cause': 'enhanced_recovery_0'}
+[12:20:12.347] GLYPH_CHANGE: {'name': 'Spiral_Îž_431', 'old_gsi': 0.798851, 'new_gsi': 0.814303, 'change': 0.015452, 'cause': 'enhanced_recovery_0'}
+[12:20:12.348] GLYPH_CHANGE: {'name': 'Spiral_Îž_784', 'old_gsi': 0.321092, 'new_gsi': 0.343823, 'change': 0.022731, 'cause': 'enhanced_recovery_0'}
+[12:20:12.348] GLYPH_CHANGE: {'name': 'Flux_Î©_297', 'old_gsi': 0.445839, 'new_gsi': 0.476767, 'change': 0.030928, 'cause': 'enhanced_recovery_0'}
+[12:20:12.348] GLYPH_CHANGE: {'name': 'Quantum_Î¨_467', 'old_gsi': 0.403082, 'new_gsi': 0.432226, 'change': 0.029144, 'cause': 'enhanced_recovery_0'}
+[12:20:12.349] GLYPH_CHANGE: {'name': 'Flux_Î©_138', 'old_gsi': 0.769644, 'new_gsi': 0.809386, 'change': 0.039741, 'cause': 'enhanced_recovery_0'}
+[12:20:12.349] GLYPH_CHANGE: {'name': 'Spiral_Îž_448', 'old_gsi': 0.481585, 'new_gsi': 0.502868, 'change': 0.021284, 'cause': 'enhanced_recovery_0'}
+[12:20:12.349] GLYPH_CHANGE: {'name': 'Spiral_Îž_516', 'old_gsi': 0.594408, 'new_gsi': 0.628725, 'change': 0.034317, 'cause': 'enhanced_recovery_0'}
+[12:20:12.350] GLYPH_CHANGE: {'name': 'Quantum_Î¨_179', 'old_gsi': 0.427243, 'new_gsi': 0.448526, 'change': 0.021283, 'cause': 'enhanced_recovery_0'}
+[12:20:12.350] GLYPH_CHANGE: {'name': 'Echo_Î›_78', 'old_gsi': 0.376912, 'new_gsi': 0.410448, 'change': 0.033536, 'cause': 'enhanced_recovery_0'}
+[12:20:12.350] GLYPH_CHANGE: {'name': 'Spiral_Îž_568', 'old_gsi': 0.661586, 'new_gsi': 0.700559, 'change': 0.038973, 'cause': 'enhanced_recovery_0'}
+[12:20:12.351] GLYPH_CHANGE: {'name': 'Nexus_Î¦_999', 'old_gsi': 0.722545, 'new_gsi': 0.746602, 'change': 0.024057, 'cause': 'enhanced_recovery_0'}
+[12:20:12.351] GLYPH_CHANGE: {'name': 'Echo_Î›_653', 'old_gsi': 0.380373, 'new_gsi': 0.405474, 'change': 0.025101, 'cause': 'enhanced_recovery_0'}
+[12:20:12.351] GLYPH_CHANGE: {'name': 'Spiral_Îž_372', 'old_gsi': 0.71114, 'new_gsi': 0.742922, 'change': 0.031782, 'cause': 'enhanced_recovery_0'}
+[12:20:12.353] GLYPH_CHANGE: {'name': 'Void_Î”_748', 'old_gsi': 0.570968, 'new_gsi': 0.601973, 'change': 0.031004, 'cause': 'enhanced_recovery_0'}
+[12:20:12.353] GLYPH_CHANGE: {'name': 'Echo_Î›_124', 'old_gsi': 0.373313, 'new_gsi': 0.397755, 'change': 0.024442, 'cause': 'enhanced_recovery_0'}
+[12:20:12.353] GLYPH_CHANGE: {'name': 'Echo_Î›_468', 'old_gsi': 0.708575, 'new_gsi': 0.733785, 'change': 0.02521, 'cause': 'enhanced_recovery_0'}
+[12:20:12.354] GLYPH_CHANGE: {'name': 'Flux_Î©_256', 'old_gsi': 0.688933, 'new_gsi': 0.712777, 'change': 0.023844, 'cause': 'enhanced_recovery_0'}
+[12:20:12.354] GLYPH_CHANGE: {'name': 'Spiral_Îž_728', 'old_gsi': 0.410947, 'new_gsi': 0.441504, 'change': 0.030557, 'cause': 'enhanced_recovery_0'}
+[12:20:12.354] GLYPH_CHANGE: {'name': 'Echo_Î›_567', 'old_gsi': 0.524109, 'new_gsi': 0.554063, 'change': 0.029954, 'cause': 'enhanced_recovery_0'}
+[12:20:12.354] GLYPH_CHANGE: {'name': 'Void_Î”_402', 'old_gsi': 0.334493, 'new_gsi': 0.349888, 'change': 0.015395, 'cause': 'enhanced_recovery_0'}
+[12:20:12.355] GLYPH_CHANGE: {'name': 'Nexus_Î¦_344', 'old_gsi': 0.208663, 'new_gsi': 0.245716, 'change': 0.037053, 'cause': 'enhanced_recovery_0'}
+[12:20:12.355] GLYPH_CHANGE: {'name': 'Quantum_Î¨_240', 'old_gsi': 0.406503, 'new_gsi': 0.43962, 'change': 0.033117, 'cause': 'enhanced_recovery_0'}
+[12:20:12.355] GLYPH_CHANGE: {'name': 'Flux_Î©_609', 'old_gsi': 0.373454, 'new_gsi': 0.389753, 'change': 0.016299, 'cause': 'enhanced_recovery_0'}
+[12:20:12.355] GLYPH_CHANGE: {'name': 'Void_Î”_211', 'old_gsi': 0.719158, 'new_gsi': 0.738049, 'change': 0.018891, 'cause': 'enhanced_recovery_1'}
+[12:20:12.356] GLYPH_CHANGE: {'name': 'Quantum_Î¨_266', 'old_gsi': 0.573834, 'new_gsi': 0.612577, 'change': 0.038743, 'cause': 'enhanced_recovery_1'}
+[12:20:12.356] GLYPH_CHANGE: {'name': 'Echo_Î›_549', 'old_gsi': 0.713388, 'new_gsi': 0.745896, 'change': 0.032508, 'cause': 'enhanced_recovery_1'}
+[12:20:12.356] GLYPH_CHANGE: {'name': 'Quantum_Î¨_820', 'old_gsi': 0.742358, 'new_gsi': 0.777454, 'change': 0.035096, 'cause': 'enhanced_recovery_1'}
+[12:20:12.357] GLYPH_CHANGE: {'name': 'Spiral_Îž_952', 'old_gsi': 0.313159, 'new_gsi': 0.33342, 'change': 0.02026, 'cause': 'enhanced_recovery_1'}
+[12:20:12.357] GLYPH_CHANGE: {'name': 'Nexus_Î¦_707', 'old_gsi': 0.485895, 'new_gsi': 0.501258, 'change': 0.015363, 'cause': 'enhanced_recovery_1'}
+[12:20:12.357] GLYPH_CHANGE: {'name': 'Spiral_Îž_63', 'old_gsi': 0.803328, 'new_gsi': 0.841758, 'change': 0.03843, 'cause': 'enhanced_recovery_1'}
+[12:20:12.358] GLYPH_CHANGE: {'name': 'Void_Î”_473', 'old_gsi': 0.802425, 'new_gsi': 0.82679, 'change': 0.024365, 'cause': 'enhanced_recovery_1'}
+[12:20:12.358] GLYPH_CHANGE: {'name': 'Spiral_Îž_431', 'old_gsi': 0.814303, 'new_gsi': 0.841017, 'change': 0.026714, 'cause': 'enhanced_recovery_1'}
+[12:20:12.358] GLYPH_CHANGE: {'name': 'Spiral_Îž_784', 'old_gsi': 0.343823, 'new_gsi': 0.3602, 'change': 0.016377, 'cause': 'enhanced_recovery_1'}
+[12:20:12.359] GLYPH_CHANGE: {'name': 'Flux_Î©_297', 'old_gsi': 0.476767, 'new_gsi': 0.506505, 'change': 0.029738, 'cause': 'enhanced_recovery_1'}
+[12:20:12.359] GLYPH_CHANGE: {'name': 'Quantum_Î¨_467', 'old_gsi': 0.432226, 'new_gsi': 0.471492, 'change': 0.039266, 'cause': 'enhanced_recovery_1'}
+[12:20:12.359] GLYPH_CHANGE: {'name': 'Flux_Î©_138', 'old_gsi': 0.809386, 'new_gsi': 0.840508, 'change': 0.031122, 'cause': 'enhanced_recovery_1'}
+[12:20:12.359] GLYPH_CHANGE: {'name': 'Spiral_Îž_448', 'old_gsi': 0.502868, 'new_gsi': 0.522837, 'change': 0.019969, 'cause': 'enhanced_recovery_1'}
+[12:20:12.360] GLYPH_CHANGE: {'name': 'Spiral_Îž_516', 'old_gsi': 0.628725, 'new_gsi': 0.643998, 'change': 0.015273, 'cause': 'enhanced_recovery_1'}
+[12:20:12.360] GLYPH_CHANGE: {'name': 'Quantum_Î¨_179', 'old_gsi': 0.448526, 'new_gsi': 0.475138, 'change': 0.026611, 'cause': 'enhanced_recovery_1'}
+[12:20:12.360] GLYPH_CHANGE: {'name': 'Echo_Î›_78', 'old_gsi': 0.410448, 'new_gsi': 0.436667, 'change': 0.026219, 'cause': 'enhanced_recovery_1'}
+[12:20:12.361] GLYPH_CHANGE: {'name': 'Spiral_Îž_568', 'old_gsi': 0.700559, 'new_gsi': 0.725417, 'change': 0.024857, 'cause': 'enhanced_recovery_1'}
+[12:20:12.361] GLYPH_CHANGE: {'name': 'Nexus_Î¦_999', 'old_gsi': 0.746602, 'new_gsi': 0.786114, 'change': 0.039512, 'cause': 'enhanced_recovery_1'}
+[12:20:12.361] GLYPH_CHANGE: {'name': 'Echo_Î›_653', 'old_gsi': 0.405474, 'new_gsi': 0.442473, 'change': 0.036999, 'cause': 'enhanced_recovery_1'}
+[12:20:12.361] GLYPH_CHANGE: {'name': 'Spiral_Îž_372', 'old_gsi': 0.742922, 'new_gsi': 0.779719, 'change': 0.036797, 'cause': 'enhanced_recovery_1'}
+[12:20:12.362] GLYPH_CHANGE: {'name': 'Void_Î”_748', 'old_gsi': 0.601973, 'new_gsi': 0.635631, 'change': 0.033658, 'cause': 'enhanced_recovery_1'}
+[12:20:12.362] GLYPH_CHANGE: {'name': 'Echo_Î›_124', 'old_gsi': 0.397755, 'new_gsi': 0.436377, 'change': 0.038622, 'cause': 'enhanced_recovery_1'}
+[12:20:12.362] GLYPH_CHANGE: {'name': 'Echo_Î›_468', 'old_gsi': 0.733785, 'new_gsi': 0.750191, 'change': 0.016406, 'cause': 'enhanced_recovery_1'}
+[12:20:12.363] GLYPH_CHANGE: {'name': 'Flux_Î©_256', 'old_gsi': 0.712777, 'new_gsi': 0.746019, 'change': 0.033242, 'cause': 'enhanced_recovery_1'}
+[12:20:12.363] GLYPH_CHANGE: {'name': 'Spiral_Îž_728', 'old_gsi': 0.441504, 'new_gsi': 0.476856, 'change': 0.035352, 'cause': 'enhanced_recovery_1'}
+[12:20:12.363] GLYPH_CHANGE: {'name': 'Echo_Î›_567', 'old_gsi': 0.554063, 'new_gsi': 0.578221, 'change': 0.024158, 'cause': 'enhanced_recovery_1'}
+[12:20:12.363] GLYPH_CHANGE: {'name': 'Void_Î”_402', 'old_gsi': 0.349888, 'new_gsi': 0.378867, 'change': 0.028979, 'cause': 'enhanced_recovery_1'}
+[12:20:12.364] GLYPH_CHANGE: {'name': 'Nexus_Î¦_344', 'old_gsi': 0.245716, 'new_gsi': 0.282259, 'change': 0.036542, 'cause': 'enhanced_recovery_1'}
+[12:20:12.364] GLYPH_CHANGE: {'name': 'Quantum_Î¨_240', 'old_gsi': 0.43962, 'new_gsi': 0.466748, 'change': 0.027129, 'cause': 'enhanced_recovery_1'}
+[12:20:12.364] GLYPH_CHANGE: {'name': 'Flux_Î©_609', 'old_gsi': 0.389753, 'new_gsi': 0.411229, 'change': 0.021476, 'cause': 'enhanced_recovery_1'}
+[12:20:12.365] GLYPH_CHANGE: {'name': 'Void_Î”_211', 'old_gsi': 0.738049, 'new_gsi': 0.774364, 'change': 0.036315, 'cause': 'enhanced_recovery_2'}
+[12:20:12.365] GLYPH_CHANGE: {'name': 'Quantum_Î¨_266', 'old_gsi': 0.612577, 'new_gsi': 0.628829, 'change': 0.016252, 'cause': 'enhanced_recovery_2'}
+[12:20:12.365] GLYPH_CHANGE: {'name': 'Echo_Î›_549', 'old_gsi': 0.745896, 'new_gsi': 0.770662, 'change': 0.024766, 'cause': 'enhanced_recovery_2'}
+[12:20:12.366] GLYPH_CHANGE: {'name': 'Quantum_Î¨_820', 'old_gsi': 0.777454, 'new_gsi': 0.798333, 'change': 0.020878, 'cause': 'enhanced_recovery_2'}
+[12:20:12.366] GLYPH_CHANGE: {'name': 'Spiral_Îž_952', 'old_gsi': 0.33342, 'new_gsi': 0.350219, 'change': 0.016799, 'cause': 'enhanced_recovery_2'}
+[12:20:12.366] GLYPH_CHANGE: {'name': 'Nexus_Î¦_707', 'old_gsi': 0.501258, 'new_gsi': 0.528416, 'change': 0.027158, 'cause': 'enhanced_recovery_2'}
+[12:20:12.368] GLYPH_CHANGE: {'name': 'Spiral_Îž_63', 'old_gsi': 0.841758, 'new_gsi': 0.862527, 'change': 0.020769, 'cause': 'enhanced_recovery_2'}
+[12:20:12.368] GLYPH_CHANGE: {'name': 'Void_Î”_473', 'old_gsi': 0.82679, 'new_gsi': 0.862381, 'change': 0.035591, 'cause': 'enhanced_recovery_2'}
+[12:20:12.368] GLYPH_CHANGE: {'name': 'Spiral_Îž_431', 'old_gsi': 0.841017, 'new_gsi': 0.861438, 'change': 0.020421, 'cause': 'enhanced_recovery_2'}
+[12:20:12.369] GLYPH_CHANGE: {'name': 'Spiral_Îž_784', 'old_gsi': 0.3602, 'new_gsi': 0.381878, 'change': 0.021678, 'cause': 'enhanced_recovery_2'}
+[12:20:12.369] GLYPH_CHANGE: {'name': 'Flux_Î©_297', 'old_gsi': 0.506505, 'new_gsi': 0.543871, 'change': 0.037366, 'cause': 'enhanced_recovery_2'}
+[12:20:12.369] GLYPH_CHANGE: {'name': 'Quantum_Î¨_467', 'old_gsi': 0.471492, 'new_gsi': 0.495117, 'change': 0.023624, 'cause': 'enhanced_recovery_2'}
+[12:20:12.370] GLYPH_CHANGE: {'name': 'Flux_Î©_138', 'old_gsi': 0.840508, 'new_gsi': 0.860945, 'change': 0.020437, 'cause': 'enhanced_recovery_2'}
+[12:20:12.370] GLYPH_CHANGE: {'name': 'Spiral_Îž_448', 'old_gsi': 0.522837, 'new_gsi': 0.543142, 'change': 0.020305, 'cause': 'enhanced_recovery_2'}
+[12:20:12.370] GLYPH_CHANGE: {'name': 'Spiral_Îž_516', 'old_gsi': 0.643998, 'new_gsi': 0.669558, 'change': 0.02556, 'cause': 'enhanced_recovery_2'}
+[12:20:12.371] GLYPH_CHANGE: {'name': 'Quantum_Î¨_179', 'old_gsi': 0.475138, 'new_gsi': 0.495386, 'change': 0.020248, 'cause': 'enhanced_recovery_2'}
+[12:20:12.371] GLYPH_CHANGE: {'name': 'Echo_Î›_78', 'old_gsi': 0.436667, 'new_gsi': 0.457885, 'change': 0.021218, 'cause': 'enhanced_recovery_2'}
+[12:20:12.371] GLYPH_CHANGE: {'name': 'Spiral_Îž_568', 'old_gsi': 0.725417, 'new_gsi': 0.755333, 'change': 0.029916, 'cause': 'enhanced_recovery_2'}
+[12:20:12.372] GLYPH_CHANGE: {'name': 'Nexus_Î¦_999', 'old_gsi': 0.786114, 'new_gsi': 0.803672, 'change': 0.017558, 'cause': 'enhanced_recovery_2'}
+[12:20:12.372] GLYPH_CHANGE: {'name': 'Echo_Î›_653', 'old_gsi': 0.442473, 'new_gsi': 0.458855, 'change': 0.016381, 'cause': 'enhanced_recovery_2'}
+[12:20:12.372] GLYPH_CHANGE: {'name': 'Spiral_Îž_372', 'old_gsi': 0.779719, 'new_gsi': 0.810013, 'change': 0.030294, 'cause': 'enhanced_recovery_2'}
+[12:20:12.373] GLYPH_CHANGE: {'name': 'Void_Î”_748', 'old_gsi': 0.635631, 'new_gsi': 0.665411, 'change': 0.02978, 'cause': 'enhanced_recovery_2'}
+[12:20:12.373] GLYPH_CHANGE: {'name': 'Echo_Î›_124', 'old_gsi': 0.436377, 'new_gsi': 0.459828, 'change': 0.023451, 'cause': 'enhanced_recovery_2'}
+[12:20:12.374] GLYPH_CHANGE: {'name': 'Echo_Î›_468', 'old_gsi': 0.750191, 'new_gsi': 0.767516, 'change': 0.017325, 'cause': 'enhanced_recovery_2'}
+[12:20:12.374] GLYPH_CHANGE: {'name': 'Flux_Î©_256', 'old_gsi': 0.746019, 'new_gsi': 0.78228, 'change': 0.036261, 'cause': 'enhanced_recovery_2'}
+[12:20:12.374] GLYPH_CHANGE: {'name': 'Spiral_Îž_728', 'old_gsi': 0.476856, 'new_gsi': 0.508263, 'change': 0.031407, 'cause': 'enhanced_recovery_2'}
+[12:20:12.374] GLYPH_CHANGE: {'name': 'Echo_Î›_567', 'old_gsi': 0.578221, 'new_gsi': 0.5977, 'change': 0.019478, 'cause': 'enhanced_recovery_2'}
+[12:20:12.375] GLYPH_CHANGE: {'name': 'Void_Î”_402', 'old_gsi': 0.378867, 'new_gsi': 0.395765, 'change': 0.016898, 'cause': 'enhanced_recovery_2'}
+[12:20:12.375] GLYPH_CHANGE: {'name': 'Nexus_Î¦_344', 'old_gsi': 0.282259, 'new_gsi': 0.317411, 'change': 0.035153, 'cause': 'enhanced_recovery_2'}
+[12:20:12.375] GLYPH_CHANGE: {'name': 'Quantum_Î¨_240', 'old_gsi': 0.466748, 'new_gsi': 0.505161, 'change': 0.038412, 'cause': 'enhanced_recovery_2'}
+[12:20:12.376] GLYPH_CHANGE: {'name': 'Flux_Î©_609', 'old_gsi': 0.411229, 'new_gsi': 0.439077, 'change': 0.027848, 'cause': 'enhanced_recovery_2'}
+[12:20:12.376] GLYPH_CHANGE: {'name': 'Void_Î”_211', 'old_gsi': 0.774364, 'new_gsi': 0.797071, 'change': 0.022707, 'cause': 'enhanced_recovery_3'}
+[12:20:12.376] GLYPH_CHANGE: {'name': 'Quantum_Î¨_266', 'old_gsi': 0.628829, 'new_gsi': 0.647243, 'change': 0.018414, 'cause': 'enhanced_recovery_3'}
+[12:20:12.377] GLYPH_CHANGE: {'name': 'Echo_Î›_549', 'old_gsi': 0.770662, 'new_gsi': 0.794092, 'change': 0.02343, 'cause': 'enhanced_recovery_3'}
+[12:20:12.377] GLYPH_CHANGE: {'name': 'Quantum_Î¨_820', 'old_gsi': 0.798333, 'new_gsi': 0.823186, 'change': 0.024853, 'cause': 'enhanced_recovery_3'}
+[12:20:12.377] GLYPH_CHANGE: {'name': 'Spiral_Îž_952', 'old_gsi': 0.350219, 'new_gsi': 0.366087, 'change': 0.015868, 'cause': 'enhanced_recovery_3'}
+[12:20:12.377] GLYPH_CHANGE: {'name': 'Nexus_Î¦_707', 'old_gsi': 0.528416, 'new_gsi': 0.566049, 'change': 0.037633, 'cause': 'enhanced_recovery_3'}
+[12:20:12.378] GLYPH_CHANGE: {'name': 'Spiral_Îž_63', 'old_gsi': 0.862527, 'new_gsi': 0.900386, 'change': 0.037859, 'cause': 'enhanced_recovery_3'}
+[12:20:12.378] GLYPH_CHANGE: {'name': 'Void_Î”_473', 'old_gsi': 0.862381, 'new_gsi': 0.893788, 'change': 0.031407, 'cause': 'enhanced_recovery_3'}
+[12:20:12.378] GLYPH_CHANGE: {'name': 'Spiral_Îž_431', 'old_gsi': 0.861438, 'new_gsi': 0.899582, 'change': 0.038145, 'cause': 'enhanced_recovery_3'}
+[12:20:12.379] GLYPH_CHANGE: {'name': 'Spiral_Îž_784', 'old_gsi': 0.381878, 'new_gsi': 0.421429, 'change': 0.039551, 'cause': 'enhanced_recovery_3'}
+[12:20:12.379] GLYPH_CHANGE: {'name': 'Flux_Î©_297', 'old_gsi': 0.543871, 'new_gsi': 0.563067, 'change': 0.019196, 'cause': 'enhanced_recovery_3'}
+[12:20:12.379] GLYPH_CHANGE: {'name': 'Quantum_Î¨_467', 'old_gsi': 0.495117, 'new_gsi': 0.532007, 'change': 0.03689, 'cause': 'enhanced_recovery_3'}
+[12:20:12.379] GLYPH_CHANGE: {'name': 'Flux_Î©_138', 'old_gsi': 0.860945, 'new_gsi': 0.876479, 'change': 0.015535, 'cause': 'enhanced_recovery_3'}
+[12:20:12.380] GLYPH_CHANGE: {'name': 'Spiral_Îž_448', 'old_gsi': 0.543142, 'new_gsi': 0.558741, 'change': 0.015598, 'cause': 'enhanced_recovery_3'}
+[12:20:12.380] GLYPH_CHANGE: {'name': 'Spiral_Îž_516', 'old_gsi': 0.669558, 'new_gsi': 0.685305, 'change': 0.015747, 'cause': 'enhanced_recovery_3'}
+[12:20:12.380] GLYPH_CHANGE: {'name': 'Quantum_Î¨_179', 'old_gsi': 0.495386, 'new_gsi': 0.520242, 'change': 0.024856, 'cause': 'enhanced_recovery_3'}
+[12:20:12.381] GLYPH_CHANGE: {'name': 'Echo_Î›_78', 'old_gsi': 0.457885, 'new_gsi': 0.485419, 'change': 0.027534, 'cause': 'enhanced_recovery_3'}
+[12:20:12.381] GLYPH_CHANGE: {'name': 'Spiral_Îž_568', 'old_gsi': 0.755333, 'new_gsi': 0.780434, 'change': 0.025101, 'cause': 'enhanced_recovery_3'}
+[12:20:12.381] GLYPH_CHANGE: {'name': 'Nexus_Î¦_999', 'old_gsi': 0.803672, 'new_gsi': 0.827084, 'change': 0.023412, 'cause': 'enhanced_recovery_3'}
+[12:20:12.382] GLYPH_CHANGE: {'name': 'Echo_Î›_653', 'old_gsi': 0.458855, 'new_gsi': 0.487427, 'change': 0.028572, 'cause': 'enhanced_recovery_3'}
+[12:20:12.383] GLYPH_CHANGE: {'name': 'Spiral_Îž_372', 'old_gsi': 0.810013, 'new_gsi': 0.849324, 'change': 0.039311, 'cause': 'enhanced_recovery_3'}
+[12:20:12.383] GLYPH_CHANGE: {'name': 'Void_Î”_748', 'old_gsi': 0.665411, 'new_gsi': 0.693685, 'change': 0.028274, 'cause': 'enhanced_recovery_3'}
+[12:20:12.384] GLYPH_CHANGE: {'name': 'Echo_Î›_124', 'old_gsi': 0.459828, 'new_gsi': 0.497207, 'change': 0.037379, 'cause': 'enhanced_recovery_3'}
+[12:20:12.384] GLYPH_CHANGE: {'name': 'Echo_Î›_468', 'old_gsi': 0.767516, 'new_gsi': 0.794622, 'change': 0.027106, 'cause': 'enhanced_recovery_3'}
+[12:20:12.384] GLYPH_CHANGE: {'name': 'Flux_Î©_256', 'old_gsi': 0.78228, 'new_gsi': 0.812592, 'change': 0.030312, 'cause': 'enhanced_recovery_3'}
+[12:20:12.385] GLYPH_CHANGE: {'name': 'Spiral_Îž_728', 'old_gsi': 0.508263, 'new_gsi': 0.528013, 'change': 0.01975, 'cause': 'enhanced_recovery_3'}
+[12:20:12.385] GLYPH_CHANGE: {'name': 'Echo_Î›_567', 'old_gsi': 0.5977, 'new_gsi': 0.624435, 'change': 0.026736, 'cause': 'enhanced_recovery_3'}
+[12:20:12.385] GLYPH_CHANGE: {'name': 'Void_Î”_402', 'old_gsi': 0.395765, 'new_gsi': 0.417468, 'change': 0.021703, 'cause': 'enhanced_recovery_3'}
+[12:20:12.386] GLYPH_CHANGE: {'name': 'Nexus_Î¦_344', 'old_gsi': 0.317411, 'new_gsi': 0.339547, 'change': 0.022136, 'cause': 'enhanced_recovery_3'}
+[12:20:12.386] GLYPH_CHANGE: {'name': 'Quantum_Î¨_240', 'old_gsi': 0.505161, 'new_gsi': 0.523603, 'change': 0.018442, 'cause': 'enhanced_recovery_3'}
+[12:20:12.386] GLYPH_CHANGE: {'name': 'Flux_Î©_609', 'old_gsi': 0.439077, 'new_gsi': 0.464672, 'change': 0.025595, 'cause': 'enhanced_recovery_3'}
+[12:20:12.387] GLYPH_CHANGE: {'name': 'Void_Î”_211', 'old_gsi': 0.797071, 'new_gsi': 0.827872, 'change': 0.030801, 'cause': 'enhanced_recovery_4'}
+[12:20:12.387] GLYPH_CHANGE: {'name': 'Quantum_Î¨_266', 'old_gsi': 0.647243, 'new_gsi': 0.667818, 'change': 0.020574, 'cause': 'enhanced_recovery_4'}
+[12:20:12.387] GLYPH_CHANGE: {'name': 'Echo_Î›_549', 'old_gsi': 0.794092, 'new_gsi': 0.815601, 'change': 0.021508, 'cause': 'enhanced_recovery_4'}
+[12:20:12.388] GLYPH_CHANGE: {'name': 'Quantum_Î¨_820', 'old_gsi': 0.823186, 'new_gsi': 0.853973, 'change': 0.030787, 'cause': 'enhanced_recovery_4'}
+[12:20:12.388] GLYPH_CHANGE: {'name': 'Spiral_Îž_952', 'old_gsi': 0.366087, 'new_gsi': 0.386064, 'change': 0.019976, 'cause': 'enhanced_recovery_4'}
+[12:20:12.388] GLYPH_CHANGE: {'name': 'Nexus_Î¦_707', 'old_gsi': 0.566049, 'new_gsi': 0.604544, 'change': 0.038495, 'cause': 'enhanced_recovery_4'}
+[12:20:12.389] GLYPH_CHANGE: {'name': 'Spiral_Îž_63', 'old_gsi': 0.900386, 'new_gsi': 0.926839, 'change': 0.026453, 'cause': 'enhanced_recovery_4'}
+[12:20:12.389] GLYPH_CHANGE: {'name': 'Void_Î”_473', 'old_gsi': 0.893788, 'new_gsi': 0.925285, 'change': 0.031497, 'cause': 'enhanced_recovery_4'}
+[12:20:12.389] GLYPH_CHANGE: {'name': 'Spiral_Îž_431', 'old_gsi': 0.899582, 'new_gsi': 0.928339, 'change': 0.028756, 'cause': 'enhanced_recovery_4'}
+[12:20:12.390] GLYPH_CHANGE: {'name': 'Spiral_Îž_784', 'old_gsi': 0.421429, 'new_gsi': 0.455495, 'change': 0.034065, 'cause': 'enhanced_recovery_4'}
+[12:20:12.390] GLYPH_CHANGE: {'name': 'Flux_Î©_297', 'old_gsi': 0.563067, 'new_gsi': 0.589832, 'change': 0.026765, 'cause': 'enhanced_recovery_4'}
+[12:20:12.390] GLYPH_CHANGE: {'name': 'Quantum_Î¨_467', 'old_gsi': 0.532007, 'new_gsi': 0.561354, 'change': 0.029346, 'cause': 'enhanced_recovery_4'}
+[12:20:12.391] GLYPH_CHANGE: {'name': 'Flux_Î©_138', 'old_gsi': 0.876479, 'new_gsi': 0.89206, 'change': 0.015581, 'cause': 'enhanced_recovery_4'}
+[12:20:12.391] GLYPH_CHANGE: {'name': 'Spiral_Îž_448', 'old_gsi': 0.558741, 'new_gsi': 0.576795, 'change': 0.018054, 'cause': 'enhanced_recovery_4'}
+[12:20:12.391] GLYPH_CHANGE: {'name': 'Spiral_Îž_516', 'old_gsi': 0.685305, 'new_gsi': 0.714501, 'change': 0.029196, 'cause': 'enhanced_recovery_4'}
+[12:20:12.391] GLYPH_CHANGE: {'name': 'Quantum_Î¨_179', 'old_gsi': 0.520242, 'new_gsi': 0.558438, 'change': 0.038196, 'cause': 'enhanced_recovery_4'}
+[12:20:12.392] GLYPH_CHANGE: {'name': 'Echo_Î›_78', 'old_gsi': 0.485419, 'new_gsi': 0.513333, 'change': 0.027914, 'cause': 'enhanced_recovery_4'}
+[12:20:12.392] GLYPH_CHANGE: {'name': 'Spiral_Îž_568', 'old_gsi': 0.780434, 'new_gsi': 0.803465, 'change': 0.023031, 'cause': 'enhanced_recovery_4'}
+[12:20:12.392] GLYPH_CHANGE: {'name': 'Nexus_Î¦_999', 'old_gsi': 0.827084, 'new_gsi': 0.864653, 'change': 0.037569, 'cause': 'enhanced_recovery_4'}
+[12:20:12.393] GLYPH_CHANGE: {'name': 'Echo_Î›_653', 'old_gsi': 0.487427, 'new_gsi': 0.524828, 'change': 0.037401, 'cause': 'enhanced_recovery_4'}
+[12:20:12.393] GLYPH_CHANGE: {'name': 'Spiral_Îž_372', 'old_gsi': 0.849324, 'new_gsi': 0.872102, 'change': 0.022778, 'cause': 'enhanced_recovery_4'}
+[12:20:12.393] GLYPH_CHANGE: {'name': 'Void_Î”_748', 'old_gsi': 0.693685, 'new_gsi': 0.717896, 'change': 0.024211, 'cause': 'enhanced_recovery_4'}
+[12:20:12.393] GLYPH_CHANGE: {'name': 'Echo_Î›_124', 'old_gsi': 0.497207, 'new_gsi': 0.519061, 'change': 0.021854, 'cause': 'enhanced_recovery_4'}
+[12:20:12.394] GLYPH_CHANGE: {'name': 'Echo_Î›_468', 'old_gsi': 0.794622, 'new_gsi': 0.830706, 'change': 0.036084, 'cause': 'enhanced_recovery_4'}
+[12:20:12.394] GLYPH_CHANGE: {'name': 'Flux_Î©_256', 'old_gsi': 0.812592, 'new_gsi': 0.850318, 'change': 0.037726, 'cause': 'enhanced_recovery_4'}
+[12:20:12.394] GLYPH_CHANGE: {'name': 'Spiral_Îž_728', 'old_gsi': 0.528013, 'new_gsi': 0.559344, 'change': 0.031331, 'cause': 'enhanced_recovery_4'}
+[12:20:12.395] GLYPH_CHANGE: {'name': 'Echo_Î›_567', 'old_gsi': 0.624435, 'new_gsi': 0.656956, 'change': 0.03252, 'cause': 'enhanced_recovery_4'}
+[12:20:12.395] GLYPH_CHANGE: {'name': 'Void_Î”_402', 'old_gsi': 0.417468, 'new_gsi': 0.439353, 'change': 0.021885, 'cause': 'enhanced_recovery_4'}
+[12:20:12.395] GLYPH_CHANGE: {'name': 'Nexus_Î¦_344', 'old_gsi': 0.339547, 'new_gsi': 0.371703, 'change': 0.032156, 'cause': 'enhanced_recovery_4'}
+[12:20:12.395] GLYPH_CHANGE: {'name': 'Quantum_Î¨_240', 'old_gsi': 0.523603, 'new_gsi': 0.556727, 'change': 0.033124, 'cause': 'enhanced_recovery_4'}
+[12:20:12.396] GLYPH_CHANGE: {'name': 'Flux_Î©_609', 'old_gsi': 0.464672, 'new_gsi': 0.488493, 'change': 0.023821, 'cause': 'enhanced_recovery_4'}
+[12:20:12.396] GLYPH_CHANGE: {'name': 'Void_Î”_211', 'old_gsi': 0.827872, 'new_gsi': 0.843472, 'change': 0.0156, 'cause': 'enhanced_recovery_5'}
+[12:20:12.396] GLYPH_CHANGE: {'name': 'Quantum_Î¨_266', 'old_gsi': 0.667818, 'new_gsi': 0.686811, 'change': 0.018994, 'cause': 'enhanced_recovery_5'}
+[12:20:12.397] GLYPH_CHANGE: {'name': 'Echo_Î›_549', 'old_gsi': 0.815601, 'new_gsi': 0.843046, 'change': 0.027446, 'cause': 'enhanced_recovery_5'}
+[12:20:12.397] GLYPH_CHANGE: {'name': 'Quantum_Î¨_820', 'old_gsi': 0.853973, 'new_gsi': 0.882735, 'change': 0.028762, 'cause': 'enhanced_recovery_5'}
+[12:20:12.397] GLYPH_CHANGE: {'name': 'Spiral_Îž_952', 'old_gsi': 0.386064, 'new_gsi': 0.408648, 'change': 0.022585, 'cause': 'enhanced_recovery_5'}
+[12:20:12.399] GLYPH_CHANGE: {'name': 'Nexus_Î¦_707', 'old_gsi': 0.604544, 'new_gsi': 0.633695, 'change': 0.029151, 'cause': 'enhanced_recovery_5'}
+[12:20:12.399] GLYPH_CHANGE: {'name': 'Spiral_Îž_63', 'old_gsi': 0.926839, 'new_gsi': 0.951792, 'change': 0.024953, 'cause': 'enhanced_recovery_5'}
+[12:20:12.400] GLYPH_CHANGE: {'name': 'Void_Î”_473', 'old_gsi': 0.925285, 'new_gsi': 0.95802, 'change': 0.032735, 'cause': 'enhanced_recovery_5'}
+[12:20:12.400] GLYPH_CHANGE: {'name': 'Spiral_Îž_431', 'old_gsi': 0.928339, 'new_gsi': 0.952166, 'change': 0.023827, 'cause': 'enhanced_recovery_5'}
+[12:20:12.400] GLYPH_CHANGE: {'name': 'Spiral_Îž_784', 'old_gsi': 0.455495, 'new_gsi': 0.484401, 'change': 0.028907, 'cause': 'enhanced_recovery_5'}
+[12:20:12.401] GLYPH_CHANGE: {'name': 'Flux_Î©_297', 'old_gsi': 0.589832, 'new_gsi': 0.61598, 'change': 0.026148, 'cause': 'enhanced_recovery_5'}
+[12:20:12.401] GLYPH_CHANGE: {'name': 'Quantum_Î¨_467', 'old_gsi': 0.561354, 'new_gsi': 0.579748, 'change': 0.018394, 'cause': 'enhanced_recovery_5'}
+[12:20:12.401] GLYPH_CHANGE: {'name': 'Flux_Î©_138', 'old_gsi': 0.89206, 'new_gsi': 0.911577, 'change': 0.019517, 'cause': 'enhanced_recovery_5'}
+[12:20:12.401] GLYPH_CHANGE: {'name': 'Spiral_Îž_448', 'old_gsi': 0.576795, 'new_gsi': 0.595808, 'change': 0.019013, 'cause': 'enhanced_recovery_5'}
+[12:20:12.402] GLYPH_CHANGE: {'name': 'Spiral_Îž_516', 'old_gsi': 0.714501, 'new_gsi': 0.742083, 'change': 0.027581, 'cause': 'enhanced_recovery_5'}
+[12:20:12.402] GLYPH_CHANGE: {'name': 'Quantum_Î¨_179', 'old_gsi': 0.558438, 'new_gsi': 0.575508, 'change': 0.017071, 'cause': 'enhanced_recovery_5'}
+[12:20:12.402] GLYPH_CHANGE: {'name': 'Echo_Î›_78', 'old_gsi': 0.513333, 'new_gsi': 0.532942, 'change': 0.019609, 'cause': 'enhanced_recovery_5'}
+[12:20:12.403] GLYPH_CHANGE: {'name': 'Spiral_Îž_568', 'old_gsi': 0.803465, 'new_gsi': 0.823922, 'change': 0.020457, 'cause': 'enhanced_recovery_5'}
+[12:20:12.403] GLYPH_CHANGE: {'name': 'Nexus_Î¦_999', 'old_gsi': 0.864653, 'new_gsi': 0.880212, 'change': 0.015559, 'cause': 'enhanced_recovery_5'}
+[12:20:12.403] GLYPH_CHANGE: {'name': 'Echo_Î›_653', 'old_gsi': 0.524828, 'new_gsi': 0.558133, 'change': 0.033305, 'cause': 'enhanced_recovery_5'}
+[12:20:12.404] GLYPH_CHANGE: {'name': 'Spiral_Îž_372', 'old_gsi': 0.872102, 'new_gsi': 0.892615, 'change': 0.020512, 'cause': 'enhanced_recovery_5'}
+[12:20:12.404] GLYPH_CHANGE: {'name': 'Void_Î”_748', 'old_gsi': 0.717896, 'new_gsi': 0.7482, 'change': 0.030304, 'cause': 'enhanced_recovery_5'}
+[12:20:12.404] GLYPH_CHANGE: {'name': 'Echo_Î›_124', 'old_gsi': 0.519061, 'new_gsi': 0.544136, 'change': 0.025074, 'cause': 'enhanced_recovery_5'}
+[12:20:12.404] GLYPH_CHANGE: {'name': 'Echo_Î›_468', 'old_gsi': 0.830706, 'new_gsi': 0.870421, 'change': 0.039715, 'cause': 'enhanced_recovery_5'}
+[12:20:12.405] GLYPH_CHANGE: {'name': 'Flux_Î©_256', 'old_gsi': 0.850318, 'new_gsi': 0.873437, 'change': 0.023119, 'cause': 'enhanced_recovery_5'}
+[12:20:12.405] GLYPH_CHANGE: {'name': 'Spiral_Îž_728', 'old_gsi': 0.559344, 'new_gsi': 0.585119, 'change': 0.025775, 'cause': 'enhanced_recovery_5'}
+[12:20:12.405] GLYPH_CHANGE: {'name': 'Echo_Î›_567', 'old_gsi': 0.656956, 'new_gsi': 0.69268, 'change': 0.035724, 'cause': 'enhanced_recovery_5'}
+[12:20:12.406] GLYPH_CHANGE: {'name': 'Void_Î”_402', 'old_gsi': 0.439353, 'new_gsi': 0.477903, 'change': 0.03855, 'cause': 'enhanced_recovery_5'}
+[12:20:12.406] GLYPH_CHANGE: {'name': 'Nexus_Î¦_344', 'old_gsi': 0.371703, 'new_gsi': 0.393042, 'change': 0.021339, 'cause': 'enhanced_recovery_5'}
+[12:20:12.406] GLYPH_CHANGE: {'name': 'Quantum_Î¨_240', 'old_gsi': 0.556727, 'new_gsi': 0.579978, 'change': 0.023251, 'cause': 'enhanced_recovery_5'}
+[12:20:12.407] GLYPH_CHANGE: {'name': 'Flux_Î©_609', 'old_gsi': 0.488493, 'new_gsi': 0.503635, 'change': 0.015142, 'cause': 'enhanced_recovery_5'}
+[12:20:12.407] GLYPH_CHANGE: {'name': 'Void_Î”_211', 'old_gsi': 0.843472, 'new_gsi': 0.864363, 'change': 0.020891, 'cause': 'enhanced_recovery_6'}
+[12:20:12.407] GLYPH_CHANGE: {'name': 'Quantum_Î¨_266', 'old_gsi': 0.686811, 'new_gsi': 0.725318, 'change': 0.038507, 'cause': 'enhanced_recovery_6'}
+[12:20:12.408] GLYPH_CHANGE: {'name': 'Echo_Î›_549', 'old_gsi': 0.843046, 'new_gsi': 0.864666, 'change': 0.021619, 'cause': 'enhanced_recovery_6'}
+[12:20:12.408] GLYPH_CHANGE: {'name': 'Quantum_Î¨_820', 'old_gsi': 0.882735, 'new_gsi': 0.92162, 'change': 0.038885, 'cause': 'enhanced_recovery_6'}
+[12:20:12.408] GLYPH_CHANGE: {'name': 'Spiral_Îž_952', 'old_gsi': 0.408648, 'new_gsi': 0.438238, 'change': 0.02959, 'cause': 'enhanced_recovery_6'}
+[12:20:12.409] GLYPH_CHANGE: {'name': 'Nexus_Î¦_707', 'old_gsi': 0.633695, 'new_gsi': 0.672696, 'change': 0.039, 'cause': 'enhanced_recovery_6'}
+[12:20:12.409] GLYPH_CHANGE: {'name': 'Spiral_Îž_63', 'old_gsi': 0.951792, 'new_gsi': 0.974755, 'change': 0.022962, 'cause': 'enhanced_recovery_6'}
+[12:20:12.409] GLYPH_CHANGE: {'name': 'Void_Î”_473', 'old_gsi': 0.95802, 'new_gsi': 0.97647, 'change': 0.018449, 'cause': 'enhanced_recovery_6'}
+[12:20:12.409] GLYPH_CHANGE: {'name': 'Spiral_Îž_431', 'old_gsi': 0.952166, 'new_gsi': 0.977826, 'change': 0.025659, 'cause': 'enhanced_recovery_6'}
+[12:20:12.410] GLYPH_CHANGE: {'name': 'Spiral_Îž_784', 'old_gsi': 0.484401, 'new_gsi': 0.523069, 'change': 0.038667, 'cause': 'enhanced_recovery_6'}
+[12:20:12.410] GLYPH_CHANGE: {'name': 'Flux_Î©_297', 'old_gsi': 0.61598, 'new_gsi': 0.647051, 'change': 0.031071, 'cause': 'enhanced_recovery_6'}
+[12:20:12.410] GLYPH_CHANGE: {'name': 'Quantum_Î¨_467', 'old_gsi': 0.579748, 'new_gsi': 0.617653, 'change': 0.037905, 'cause': 'enhanced_recovery_6'}
+[12:20:12.411] GLYPH_CHANGE: {'name': 'Flux_Î©_138', 'old_gsi': 0.911577, 'new_gsi': 0.931775, 'change': 0.020198, 'cause': 'enhanced_recovery_6'}
+[12:20:12.411] GLYPH_CHANGE: {'name': 'Spiral_Îž_448', 'old_gsi': 0.595808, 'new_gsi': 0.6353, 'change': 0.039493, 'cause': 'enhanced_recovery_6'}
+[12:20:12.411] GLYPH_CHANGE: {'name': 'Spiral_Îž_516', 'old_gsi': 0.742083, 'new_gsi': 0.766867, 'change': 0.024784, 'cause': 'enhanced_recovery_6'}
+[12:20:12.411] GLYPH_CHANGE: {'name': 'Quantum_Î¨_179', 'old_gsi': 0.575508, 'new_gsi': 0.599889, 'change': 0.024381, 'cause': 'enhanced_recovery_6'}
+[12:20:12.412] GLYPH_CHANGE: {'name': 'Echo_Î›_78', 'old_gsi': 0.532942, 'new_gsi': 0.569513, 'change': 0.036571, 'cause': 'enhanced_recovery_6'}
+[12:20:12.412] GLYPH_CHANGE: {'name': 'Spiral_Îž_568', 'old_gsi': 0.823922, 'new_gsi': 0.845955, 'change': 0.022033, 'cause': 'enhanced_recovery_6'}
+[12:20:12.412] GLYPH_CHANGE: {'name': 'Nexus_Î¦_999', 'old_gsi': 0.880212, 'new_gsi': 0.903855, 'change': 0.023643, 'cause': 'enhanced_recovery_6'}
+[12:20:12.413] GLYPH_CHANGE: {'name': 'Echo_Î›_653', 'old_gsi': 0.558133, 'new_gsi': 0.593491, 'change': 0.035358, 'cause': 'enhanced_recovery_6'}
+[12:20:12.414] GLYPH_CHANGE: {'name': 'Spiral_Îž_372', 'old_gsi': 0.892615, 'new_gsi': 0.91597, 'change': 0.023355, 'cause': 'enhanced_recovery_6'}
+[12:20:12.414] GLYPH_CHANGE: {'name': 'Void_Î”_748', 'old_gsi': 0.7482, 'new_gsi': 0.766842, 'change': 0.018642, 'cause': 'enhanced_recovery_6'}
+[12:20:12.415] GLYPH_CHANGE: {'name': 'Echo_Î›_124', 'old_gsi': 0.544136, 'new_gsi': 0.5614, 'change': 0.017264, 'cause': 'enhanced_recovery_6'}
+[12:20:12.415] GLYPH_CHANGE: {'name': 'Echo_Î›_468', 'old_gsi': 0.870421, 'new_gsi': 0.887485, 'change': 0.017064, 'cause': 'enhanced_recovery_6'}
+[12:20:12.416] GLYPH_CHANGE: {'name': 'Flux_Î©_256', 'old_gsi': 0.873437, 'new_gsi': 0.903405, 'change': 0.029969, 'cause': 'enhanced_recovery_6'}
+[12:20:12.416] GLYPH_CHANGE: {'name': 'Spiral_Îž_728', 'old_gsi': 0.585119, 'new_gsi': 0.62068, 'change': 0.035561, 'cause': 'enhanced_recovery_6'}
+[12:20:12.416] GLYPH_CHANGE: {'name': 'Echo_Î›_567', 'old_gsi': 0.69268, 'new_gsi': 0.727656, 'change': 0.034977, 'cause': 'enhanced_recovery_6'}
+[12:20:12.417] GLYPH_CHANGE: {'name': 'Void_Î”_402', 'old_gsi': 0.477903, 'new_gsi': 0.509958, 'change': 0.032056, 'cause': 'enhanced_recovery_6'}
+[12:20:12.417] GLYPH_CHANGE: {'name': 'Nexus_Î¦_344', 'old_gsi': 0.393042, 'new_gsi': 0.414263, 'change': 0.021221, 'cause': 'enhanced_recovery_6'}
+[12:20:12.417] GLYPH_CHANGE: {'name': 'Quantum_Î¨_240', 'old_gsi': 0.579978, 'new_gsi': 0.599717, 'change': 0.019739, 'cause': 'enhanced_recovery_6'}
+[12:20:12.418] GLYPH_CHANGE: {'name': 'Flux_Î©_609', 'old_gsi': 0.503635, 'new_gsi': 0.542282, 'change': 0.038647, 'cause': 'enhanced_recovery_6'}
+[12:20:12.418] GLYPH_CHANGE: {'name': 'Void_Î”_211', 'old_gsi': 0.864363, 'new_gsi': 0.888987, 'change': 0.024624, 'cause': 'enhanced_recovery_7'}
+[12:20:12.418] GLYPH_CHANGE: {'name': 'Quantum_Î¨_266', 'old_gsi': 0.725318, 'new_gsi': 0.744448, 'change': 0.01913, 'cause': 'enhanced_recovery_7'}
+[12:20:12.419] GLYPH_CHANGE: {'name': 'Echo_Î›_549', 'old_gsi': 0.864666, 'new_gsi': 0.899983, 'change': 0.035317, 'cause': 'enhanced_recovery_7'}
+[12:20:12.419] GLYPH_CHANGE: {'name': 'Quantum_Î¨_820', 'old_gsi': 0.92162, 'new_gsi': 0.96129, 'change': 0.039669, 'cause': 'enhanced_recovery_7'}
+[12:20:12.419] GLYPH_CHANGE: {'name': 'Spiral_Îž_952', 'old_gsi': 0.438238, 'new_gsi': 0.461965, 'change': 0.023727, 'cause': 'enhanced_recovery_7'}
+[12:20:12.419] GLYPH_CHANGE: {'name': 'Nexus_Î¦_707', 'old_gsi': 0.672696, 'new_gsi': 0.702877, 'change': 0.030182, 'cause': 'enhanced_recovery_7'}
+[12:20:12.420] GLYPH_CHANGE: {'name': 'Spiral_Îž_63', 'old_gsi': 0.974755, 'new_gsi': 1.0, 'change': 0.025245, 'cause': 'enhanced_recovery_7'}
+[12:20:12.420] GLYPH_CHANGE: {'name': 'Void_Î”_473', 'old_gsi': 0.97647, 'new_gsi': 1.0, 'change': 0.02353, 'cause': 'enhanced_recovery_7'}
+[12:20:12.420] GLYPH_CHANGE: {'name': 'Spiral_Îž_431', 'old_gsi': 0.977826, 'new_gsi': 1.0, 'change': 0.022174, 'cause': 'enhanced_recovery_7'}
+[12:20:12.421] GLYPH_CHANGE: {'name': 'Spiral_Îž_784', 'old_gsi': 0.523069, 'new_gsi': 0.550878, 'change': 0.027809, 'cause': 'enhanced_recovery_7'}
+[12:20:12.421] GLYPH_CHANGE: {'name': 'Flux_Î©_297', 'old_gsi': 0.647051, 'new_gsi': 0.671769, 'change': 0.024718, 'cause': 'enhanced_recovery_7'}
+[12:20:12.421] GLYPH_CHANGE: {'name': 'Quantum_Î¨_467', 'old_gsi': 0.617653, 'new_gsi': 0.648397, 'change': 0.030744, 'cause': 'enhanced_recovery_7'}
+[12:20:12.422] GLYPH_CHANGE: {'name': 'Flux_Î©_138', 'old_gsi': 0.931775, 'new_gsi': 0.966684, 'change': 0.03491, 'cause': 'enhanced_recovery_7'}
+[12:20:12.422] GLYPH_CHANGE: {'name': 'Spiral_Îž_448', 'old_gsi': 0.6353, 'new_gsi': 0.654708, 'change': 0.019407, 'cause': 'enhanced_recovery_7'}
+[12:20:12.422] GLYPH_CHANGE: {'name': 'Spiral_Îž_516', 'old_gsi': 0.766867, 'new_gsi': 0.784466, 'change': 0.017599, 'cause': 'enhanced_recovery_7'}
+[12:20:12.423] GLYPH_CHANGE: {'name': 'Quantum_Î¨_179', 'old_gsi': 0.599889, 'new_gsi': 0.616541, 'change': 0.016652, 'cause': 'enhanced_recovery_7'}
+[12:20:12.423] GLYPH_CHANGE: {'name': 'Echo_Î›_78', 'old_gsi': 0.569513, 'new_gsi': 0.603185, 'change': 0.033672, 'cause': 'enhanced_recovery_7'}
+[12:20:12.423] GLYPH_CHANGE: {'name': 'Spiral_Îž_568', 'old_gsi': 0.845955, 'new_gsi': 0.865677, 'change': 0.019722, 'cause': 'enhanced_recovery_7'}
+[12:20:12.424] GLYPH_CHANGE: {'name': 'Nexus_Î¦_999', 'old_gsi': 0.903855, 'new_gsi': 0.929807, 'change': 0.025952, 'cause': 'enhanced_recovery_7'}
+[12:20:12.424] GLYPH_CHANGE: {'name': 'Echo_Î›_653', 'old_gsi': 0.593491, 'new_gsi': 0.621281, 'change': 0.02779, 'cause': 'enhanced_recovery_7'}
+[12:20:12.424] GLYPH_CHANGE: {'name': 'Spiral_Îž_372', 'old_gsi': 0.91597, 'new_gsi': 0.936926, 'change': 0.020956, 'cause': 'enhanced_recovery_7'}
+[12:20:12.425] GLYPH_CHANGE: {'name': 'Void_Î”_748', 'old_gsi': 0.766842, 'new_gsi': 0.783581, 'change': 0.016739, 'cause': 'enhanced_recovery_7'}
+[12:20:12.425] GLYPH_CHANGE: {'name': 'Echo_Î›_124', 'old_gsi': 0.5614, 'new_gsi': 0.576843, 'change': 0.015444, 'cause': 'enhanced_recovery_7'}
+[12:20:12.425] GLYPH_CHANGE: {'name': 'Echo_Î›_468', 'old_gsi': 0.887485, 'new_gsi': 0.92152, 'change': 0.034036, 'cause': 'enhanced_recovery_7'}
+[12:20:12.426] GLYPH_CHANGE: {'name': 'Flux_Î©_256', 'old_gsi': 0.903405, 'new_gsi': 0.932079, 'change': 0.028674, 'cause': 'enhanced_recovery_7'}
+[12:20:12.426] GLYPH_CHANGE: {'name': 'Spiral_Îž_728', 'old_gsi': 0.62068, 'new_gsi': 0.644294, 'change': 0.023614, 'cause': 'enhanced_recovery_7'}
+[12:20:12.426] GLYPH_CHANGE: {'name': 'Echo_Î›_567', 'old_gsi': 0.727656, 'new_gsi': 0.765936, 'change': 0.03828, 'cause': 'enhanced_recovery_7'}
+[12:20:12.427] GLYPH_CHANGE: {'name': 'Void_Î”_402', 'old_gsi': 0.509958, 'new_gsi': 0.547459, 'change': 0.0375, 'cause': 'enhanced_recovery_7'}
+[12:20:12.427] GLYPH_CHANGE: {'name': 'Nexus_Î¦_344', 'old_gsi': 0.414263, 'new_gsi': 0.436925, 'change': 0.022662, 'cause': 'enhanced_recovery_7'}
+[12:20:12.427] GLYPH_CHANGE: {'name': 'Quantum_Î¨_240', 'old_gsi': 0.599717, 'new_gsi': 0.634221, 'change': 0.034504, 'cause': 'enhanced_recovery_7'}
+[12:20:12.428] GLYPH_CHANGE: {'name': 'Flux_Î©_609', 'old_gsi': 0.542282, 'new_gsi': 0.562499, 'change': 0.020217, 'cause': 'enhanced_recovery_7'}
+[12:20:12.428] GLYPH_CHANGE: {'name': 'Void_Î”_211', 'old_gsi': 0.888987, 'new_gsi': 0.923352, 'change': 0.034365, 'cause': 'enhanced_recovery_8'}
+[12:20:12.429] GLYPH_CHANGE: {'name': 'Quantum_Î¨_266', 'old_gsi': 0.744448, 'new_gsi': 0.78213, 'change': 0.037682, 'cause': 'enhanced_recovery_8'}
+[12:20:12.430] GLYPH_CHANGE: {'name': 'Echo_Î›_549', 'old_gsi': 0.899983, 'new_gsi': 0.939929, 'change': 0.039946, 'cause': 'enhanced_recovery_8'}
+[12:20:12.430] GLYPH_CHANGE: {'name': 'Quantum_Î¨_820', 'old_gsi': 0.96129, 'new_gsi': 0.977227, 'change': 0.015937, 'cause': 'enhanced_recovery_8'}
+[12:20:12.430] GLYPH_CHANGE: {'name': 'Spiral_Îž_952', 'old_gsi': 0.461965, 'new_gsi': 0.479564, 'change': 0.017599, 'cause': 'enhanced_recovery_8'}
+[12:20:12.430] GLYPH_CHANGE: {'name': 'Nexus_Î¦_707', 'old_gsi': 0.702877, 'new_gsi': 0.72221, 'change': 0.019333, 'cause': 'enhanced_recovery_8'}
+[12:20:12.431] GLYPH_CHANGE: {'name': 'Spiral_Îž_784', 'old_gsi': 0.550878, 'new_gsi': 0.579971, 'change': 0.029093, 'cause': 'enhanced_recovery_8'}
+[12:20:12.431] GLYPH_CHANGE: {'name': 'Flux_Î©_297', 'old_gsi': 0.671769, 'new_gsi': 0.709992, 'change': 0.038223, 'cause': 'enhanced_recovery_8'}
+[12:20:12.431] GLYPH_CHANGE: {'name': 'Quantum_Î¨_467', 'old_gsi': 0.648397, 'new_gsi': 0.671421, 'change': 0.023024, 'cause': 'enhanced_recovery_8'}
+[12:20:12.432] GLYPH_CHANGE: {'name': 'Flux_Î©_138', 'old_gsi': 0.966684, 'new_gsi': 0.996153, 'change': 0.029469, 'cause': 'enhanced_recovery_8'}
+[12:20:12.432] GLYPH_CHANGE: {'name': 'Spiral_Îž_448', 'old_gsi': 0.654708, 'new_gsi': 0.689882, 'change': 0.035174, 'cause': 'enhanced_recovery_8'}
+[12:20:12.432] GLYPH_CHANGE: {'name': 'Spiral_Îž_516', 'old_gsi': 0.784466, 'new_gsi': 0.824364, 'change': 0.039897, 'cause': 'enhanced_recovery_8'}
+[12:20:12.433] GLYPH_CHANGE: {'name': 'Quantum_Î¨_179', 'old_gsi': 0.616541, 'new_gsi': 0.632726, 'change': 0.016185, 'cause': 'enhanced_recovery_8'}
+[12:20:12.433] GLYPH_CHANGE: {'name': 'Echo_Î›_78', 'old_gsi': 0.603185, 'new_gsi': 0.641363, 'change': 0.038178, 'cause': 'enhanced_recovery_8'}
+[12:20:12.433] GLYPH_CHANGE: {'name': 'Spiral_Îž_568', 'old_gsi': 0.865677, 'new_gsi': 0.89265, 'change': 0.026973, 'cause': 'enhanced_recovery_8'}
+[12:20:12.434] GLYPH_CHANGE: {'name': 'Nexus_Î¦_999', 'old_gsi': 0.929807, 'new_gsi': 0.967054, 'change': 0.037247, 'cause': 'enhanced_recovery_8'}
+[12:20:12.434] GLYPH_CHANGE: {'name': 'Echo_Î›_653', 'old_gsi': 0.621281, 'new_gsi': 0.641673, 'change': 0.020392, 'cause': 'enhanced_recovery_8'}
+[12:20:12.434] GLYPH_CHANGE: {'name': 'Spiral_Îž_372', 'old_gsi': 0.936926, 'new_gsi': 0.953393, 'change': 0.016467, 'cause': 'enhanced_recovery_8'}
+[12:20:12.434] GLYPH_CHANGE: {'name': 'Void_Î”_748', 'old_gsi': 0.783581, 'new_gsi': 0.818396, 'change': 0.034815, 'cause': 'enhanced_recovery_8'}
+[12:20:12.435] GLYPH_CHANGE: {'name': 'Echo_Î›_124', 'old_gsi': 0.576843, 'new_gsi': 0.60378, 'change': 0.026936, 'cause': 'enhanced_recovery_8'}
+[12:20:12.435] GLYPH_CHANGE: {'name': 'Echo_Î›_468', 'old_gsi': 0.92152, 'new_gsi': 0.956585, 'change': 0.035065, 'cause': 'enhanced_recovery_8'}
+[12:20:12.435] GLYPH_CHANGE: {'name': 'Flux_Î©_256', 'old_gsi': 0.932079, 'new_gsi': 0.948611, 'change': 0.016532, 'cause': 'enhanced_recovery_8'}
+[12:20:12.436] GLYPH_CHANGE: {'name': 'Spiral_Îž_728', 'old_gsi': 0.644294, 'new_gsi': 0.674882, 'change': 0.030588, 'cause': 'enhanced_recovery_8'}
+[12:20:12.436] GLYPH_CHANGE: {'name': 'Echo_Î›_567', 'old_gsi': 0.765936, 'new_gsi': 0.79152, 'change': 0.025584, 'cause': 'enhanced_recovery_8'}
+[12:20:12.436] GLYPH_CHANGE: {'name': 'Void_Î”_402', 'old_gsi': 0.547459, 'new_gsi': 0.584802, 'change': 0.037343, 'cause': 'enhanced_recovery_8'}
+[12:20:12.437] GLYPH_CHANGE: {'name': 'Nexus_Î¦_344', 'old_gsi': 0.436925, 'new_gsi': 0.455031, 'change': 0.018106, 'cause': 'enhanced_recovery_8'}
+[12:20:12.437] GLYPH_CHANGE: {'name': 'Quantum_Î¨_240', 'old_gsi': 0.634221, 'new_gsi': 0.653263, 'change': 0.019042, 'cause': 'enhanced_recovery_8'}
+[12:20:12.437] GLYPH_CHANGE: {'name': 'Flux_Î©_609', 'old_gsi': 0.562499, 'new_gsi': 0.594792, 'change': 0.032293, 'cause': 'enhanced_recovery_8'}
+[12:20:12.438] GLYPH_CHANGE: {'name': 'Void_Î”_211', 'old_gsi': 0.923352, 'new_gsi': 0.955419, 'change': 0.032067, 'cause': 'enhanced_recovery_9'}
+[12:20:12.438] GLYPH_CHANGE: {'name': 'Quantum_Î¨_266', 'old_gsi': 0.78213, 'new_gsi': 0.79988, 'change': 0.01775, 'cause': 'enhanced_recovery_9'}
+[12:20:12.438] GLYPH_CHANGE: {'name': 'Echo_Î›_549', 'old_gsi': 0.939929, 'new_gsi': 0.964218, 'change': 0.024289, 'cause': 'enhanced_recovery_9'}
+[12:20:12.438] GLYPH_CHANGE: {'name': 'Quantum_Î¨_820', 'old_gsi': 0.977227, 'new_gsi': 1.0, 'change': 0.022773, 'cause': 'enhanced_recovery_9'}
+[12:20:12.439] GLYPH_CHANGE: {'name': 'Spiral_Îž_952', 'old_gsi': 0.479564, 'new_gsi': 0.506216, 'change': 0.026652, 'cause': 'enhanced_recovery_9'}
+[12:20:12.439] GLYPH_CHANGE: {'name': 'Nexus_Î¦_707', 'old_gsi': 0.72221, 'new_gsi': 0.738519, 'change': 0.016308, 'cause': 'enhanced_recovery_9'}
+[12:20:12.439] GLYPH_CHANGE: {'name': 'Spiral_Îž_784', 'old_gsi': 0.579971, 'new_gsi': 0.601365, 'change': 0.021394, 'cause': 'enhanced_recovery_9'}
+[12:20:12.440] GLYPH_CHANGE: {'name': 'Flux_Î©_297', 'old_gsi': 0.709992, 'new_gsi': 0.737498, 'change': 0.027506, 'cause': 'enhanced_recovery_9'}
+[12:20:12.440] GLYPH_CHANGE: {'name': 'Quantum_Î¨_467', 'old_gsi': 0.671421, 'new_gsi': 0.695918, 'change': 0.024497, 'cause': 'enhanced_recovery_9'}
+[12:20:12.440] GLYPH_CHANGE: {'name': 'Flux_Î©_138', 'old_gsi': 0.996153, 'new_gsi': 1.0, 'change': 0.003847, 'cause': 'enhanced_recovery_9'}
+[12:20:12.441] GLYPH_CHANGE: {'name': 'Spiral_Îž_448', 'old_gsi': 0.689882, 'new_gsi': 0.722634, 'change': 0.032752, 'cause': 'enhanced_recovery_9'}
+[12:20:12.441] GLYPH_CHANGE: {'name': 'Spiral_Îž_516', 'old_gsi': 0.824364, 'new_gsi': 0.844042, 'change': 0.019679, 'cause': 'enhanced_recovery_9'}
+[12:20:12.441] GLYPH_CHANGE: {'name': 'Quantum_Î¨_179', 'old_gsi': 0.632726, 'new_gsi': 0.6678, 'change': 0.035074, 'cause': 'enhanced_recovery_9'}
+[12:20:12.442] GLYPH_CHANGE: {'name': 'Echo_Î›_78', 'old_gsi': 0.641363, 'new_gsi': 0.674379, 'change': 0.033015, 'cause': 'enhanced_recovery_9'}
+[12:20:12.442] GLYPH_CHANGE: {'name': 'Spiral_Îž_568', 'old_gsi': 0.89265, 'new_gsi': 0.928067, 'change': 0.035417, 'cause': 'enhanced_recovery_9'}
+[12:20:12.442] GLYPH_CHANGE: {'name': 'Nexus_Î¦_999', 'old_gsi': 0.967054, 'new_gsi': 1.0, 'change': 0.032946, 'cause': 'enhanced_recovery_9'}
+[12:20:12.443] GLYPH_CHANGE: {'name': 'Echo_Î›_653', 'old_gsi': 0.641673, 'new_gsi': 0.665252, 'change': 0.023579, 'cause': 'enhanced_recovery_9'}
+[12:20:12.443] GLYPH_CHANGE: {'name': 'Spiral_Îž_372', 'old_gsi': 0.953393, 'new_gsi': 0.972231, 'change': 0.018838, 'cause': 'enhanced_recovery_9'}
+[12:20:12.444] GLYPH_CHANGE: {'name': 'Void_Î”_748', 'old_gsi': 0.818396, 'new_gsi': 0.849193, 'change': 0.030797, 'cause': 'enhanced_recovery_9'}
+[12:20:12.445] GLYPH_CHANGE: {'name': 'Echo_Î›_124', 'old_gsi': 0.60378, 'new_gsi': 0.620606, 'change': 0.016826, 'cause': 'enhanced_recovery_9'}
+[12:20:12.445] GLYPH_CHANGE: {'name': 'Echo_Î›_468', 'old_gsi': 0.956585, 'new_gsi': 0.977584, 'change': 0.020999, 'cause': 'enhanced_recovery_9'}
+[12:20:12.445] GLYPH_CHANGE: {'name': 'Flux_Î©_256', 'old_gsi': 0.948611, 'new_gsi': 0.977058, 'change': 0.028447, 'cause': 'enhanced_recovery_9'}
+[12:20:12.445] GLYPH_CHANGE: {'name': 'Spiral_Îž_728', 'old_gsi': 0.674882, 'new_gsi': 0.702414, 'change': 0.027532, 'cause': 'enhanced_recovery_9'}
+[12:20:12.446] GLYPH_CHANGE: {'name': 'Echo_Î›_567', 'old_gsi': 0.79152, 'new_gsi': 0.811734, 'change': 0.020214, 'cause': 'enhanced_recovery_9'}
+[12:20:12.446] GLYPH_CHANGE: {'name': 'Void_Î”_402', 'old_gsi': 0.584802, 'new_gsi': 0.617851, 'change': 0.033049, 'cause': 'enhanced_recovery_9'}
+[12:20:12.446] GLYPH_CHANGE: {'name': 'Nexus_Î¦_344', 'old_gsi': 0.455031, 'new_gsi': 0.472066, 'change': 0.017035, 'cause': 'enhanced_recovery_9'}
+[12:20:12.447] GLYPH_CHANGE: {'name': 'Quantum_Î¨_240', 'old_gsi': 0.653263, 'new_gsi': 0.681927, 'change': 0.028664, 'cause': 'enhanced_recovery_9'}
+[12:20:12.447] GLYPH_CHANGE: {'name': 'Flux_Î©_609', 'old_gsi': 0.594792, 'new_gsi': 0.619881, 'change': 0.02509, 'cause': 'enhanced_recovery_9'}
+[12:20:12.447] GLYPH_CHANGE: {'name': 'Void_Î”_211', 'old_gsi': 0.955419, 'new_gsi': 0.984556, 'change': 0.029137, 'cause': 'enhanced_recovery_10'}
+[12:20:12.448] GLYPH_CHANGE: {'name': 'Quantum_Î¨_266', 'old_gsi': 0.79988, 'new_gsi': 0.827601, 'change': 0.027721, 'cause': 'enhanced_recovery_10'}
+[12:20:12.448] GLYPH_CHANGE: {'name': 'Echo_Î›_549', 'old_gsi': 0.964218, 'new_gsi': 1.0, 'change': 0.035782, 'cause': 'enhanced_recovery_10'}
+[12:20:12.449] GLYPH_CHANGE: {'name': 'Spiral_Îž_952', 'old_gsi': 0.506216, 'new_gsi': 0.543731, 'change': 0.037515, 'cause': 'enhanced_recovery_10'}
+[12:20:12.449] GLYPH_CHANGE: {'name': 'Nexus_Î¦_707', 'old_gsi': 0.738519, 'new_gsi': 0.761006, 'change': 0.022487, 'cause': 'enhanced_recovery_10'}
+[12:20:12.449] GLYPH_CHANGE: {'name': 'Spiral_Îž_784', 'old_gsi': 0.601365, 'new_gsi': 0.622455, 'change': 0.02109, 'cause': 'enhanced_recovery_10'}
+[12:20:12.449] GLYPH_CHANGE: {'name': 'Flux_Î©_297', 'old_gsi': 0.737498, 'new_gsi': 0.770979, 'change': 0.033481, 'cause': 'enhanced_recovery_10'}
+[12:20:12.450] GLYPH_CHANGE: {'name': 'Quantum_Î¨_467', 'old_gsi': 0.695918, 'new_gsi': 0.723663, 'change': 0.027745, 'cause': 'enhanced_recovery_10'}
+[12:20:12.450] GLYPH_CHANGE: {'name': 'Spiral_Îž_448', 'old_gsi': 0.722634, 'new_gsi': 0.739375, 'change': 0.016741, 'cause': 'enhanced_recovery_10'}
+[12:20:12.450] GLYPH_CHANGE: {'name': 'Spiral_Îž_516', 'old_gsi': 0.844042, 'new_gsi': 0.87483, 'change': 0.030787, 'cause': 'enhanced_recovery_10'}
+[12:20:12.451] GLYPH_CHANGE: {'name': 'Quantum_Î¨_179', 'old_gsi': 0.6678, 'new_gsi': 0.684911, 'change': 0.017111, 'cause': 'enhanced_recovery_10'}
+[12:20:12.451] GLYPH_CHANGE: {'name': 'Echo_Î›_78', 'old_gsi': 0.674379, 'new_gsi': 0.706879, 'change': 0.0325, 'cause': 'enhanced_recovery_10'}
+[12:20:12.451] GLYPH_CHANGE: {'name': 'Spiral_Îž_568', 'old_gsi': 0.928067, 'new_gsi': 0.953503, 'change': 0.025435, 'cause': 'enhanced_recovery_10'}
+[12:20:12.452] GLYPH_CHANGE: {'name': 'Echo_Î›_653', 'old_gsi': 0.665252, 'new_gsi': 0.694191, 'change': 0.028939, 'cause': 'enhanced_recovery_10'}
+[12:20:12.452] GLYPH_CHANGE: {'name': 'Spiral_Îž_372', 'old_gsi': 0.972231, 'new_gsi': 1.0, 'change': 0.027769, 'cause': 'enhanced_recovery_10'}
+[12:20:12.452] GLYPH_CHANGE: {'name': 'Void_Î”_748', 'old_gsi': 0.849193, 'new_gsi': 0.887602, 'change': 0.038408, 'cause': 'enhanced_recovery_10'}
+[12:20:12.452] GLYPH_CHANGE: {'name': 'Echo_Î›_124', 'old_gsi': 0.620606, 'new_gsi': 0.655324, 'change': 0.034718, 'cause': 'enhanced_recovery_10'}
+[12:20:12.453] GLYPH_CHANGE: {'name': 'Echo_Î›_468', 'old_gsi': 0.977584, 'new_gsi': 1.0, 'change': 0.022416, 'cause': 'enhanced_recovery_10'}
+[12:20:12.453] GLYPH_CHANGE: {'name': 'Flux_Î©_256', 'old_gsi': 0.977058, 'new_gsi': 0.998127, 'change': 0.02107, 'cause': 'enhanced_recovery_10'}
+[12:20:12.453] GLYPH_CHANGE: {'name': 'Spiral_Îž_728', 'old_gsi': 0.702414, 'new_gsi': 0.733065, 'change': 0.030651, 'cause': 'enhanced_recovery_10'}
+[12:20:12.454] GLYPH_CHANGE: {'name': 'Echo_Î›_567', 'old_gsi': 0.811734, 'new_gsi': 0.840585, 'change': 0.028851, 'cause': 'enhanced_recovery_10'}
+[12:20:12.454] GLYPH_CHANGE: {'name': 'Void_Î”_402', 'old_gsi': 0.617851, 'new_gsi': 0.641777, 'change': 0.023925, 'cause': 'enhanced_recovery_10'}
+[12:20:12.454] GLYPH_CHANGE: {'name': 'Nexus_Î¦_344', 'old_gsi': 0.472066, 'new_gsi': 0.511622, 'change': 0.039556, 'cause': 'enhanced_recovery_10'}
+[12:20:12.454] GLYPH_CHANGE: {'name': 'Quantum_Î¨_240', 'old_gsi': 0.681927, 'new_gsi': 0.704338, 'change': 0.02241, 'cause': 'enhanced_recovery_10'}
+[12:20:12.455] GLYPH_CHANGE: {'name': 'Flux_Î©_609', 'old_gsi': 0.619881, 'new_gsi': 0.656287, 'change': 0.036406, 'cause': 'enhanced_recovery_10'}
+[12:20:12.455] GLYPH_CHANGE: {'name': 'Void_Î”_211', 'old_gsi': 0.984556, 'new_gsi': 1.0, 'change': 0.015444, 'cause': 'enhanced_recovery_11'}
+[12:20:12.455] GLYPH_CHANGE: {'name': 'Quantum_Î¨_266', 'old_gsi': 0.827601, 'new_gsi': 0.852731, 'change': 0.02513, 'cause': 'enhanced_recovery_11'}
+[12:20:12.455] GLYPH_CHANGE: {'name': 'Spiral_Îž_952', 'old_gsi': 0.543731, 'new_gsi': 0.567302, 'change': 0.023571, 'cause': 'enhanced_recovery_11'}
+[12:20:12.456] GLYPH_CHANGE: {'name': 'Nexus_Î¦_707', 'old_gsi': 0.761006, 'new_gsi': 0.795472, 'change': 0.034466, 'cause': 'enhanced_recovery_11'}
+[12:20:12.456] GLYPH_CHANGE: {'name': 'Spiral_Îž_784', 'old_gsi': 0.622455, 'new_gsi': 0.660162, 'change': 0.037706, 'cause': 'enhanced_recovery_11'}
+[12:20:12.457] GLYPH_CHANGE: {'name': 'Flux_Î©_297', 'old_gsi': 0.770979, 'new_gsi': 0.798653, 'change': 0.027673, 'cause': 'enhanced_recovery_11'}
+[12:20:12.457] GLYPH_CHANGE: {'name': 'Quantum_Î¨_467', 'old_gsi': 0.723663, 'new_gsi': 0.748054, 'change': 0.024391, 'cause': 'enhanced_recovery_11'}
+[12:20:12.457] GLYPH_CHANGE: {'name': 'Spiral_Îž_448', 'old_gsi': 0.739375, 'new_gsi': 0.779001, 'change': 0.039627, 'cause': 'enhanced_recovery_11'}
+[12:20:12.458] GLYPH_CHANGE: {'name': 'Spiral_Îž_516', 'old_gsi': 0.87483, 'new_gsi': 0.898984, 'change': 0.024154, 'cause': 'enhanced_recovery_11'}
+[12:20:12.458] GLYPH_CHANGE: {'name': 'Quantum_Î¨_179', 'old_gsi': 0.684911, 'new_gsi': 0.724018, 'change': 0.039107, 'cause': 'enhanced_recovery_11'}
+[12:20:12.458] GLYPH_CHANGE: {'name': 'Echo_Î›_78', 'old_gsi': 0.706879, 'new_gsi': 0.722771, 'change': 0.015892, 'cause': 'enhanced_recovery_11'}
+[12:20:12.459] GLYPH_CHANGE: {'name': 'Spiral_Îž_568', 'old_gsi': 0.953503, 'new_gsi': 0.9829, 'change': 0.029397, 'cause': 'enhanced_recovery_11'}
+[12:20:12.460] GLYPH_CHANGE: {'name': 'Echo_Î›_653', 'old_gsi': 0.694191, 'new_gsi': 0.733587, 'change': 0.039397, 'cause': 'enhanced_recovery_11'}
+[12:20:12.460] GLYPH_CHANGE: {'name': 'Void_Î”_748', 'old_gsi': 0.887602, 'new_gsi': 0.92629, 'change': 0.038688, 'cause': 'enhanced_recovery_11'}
+[12:20:12.460] GLYPH_CHANGE: {'name': 'Echo_Î›_124', 'old_gsi': 0.655324, 'new_gsi': 0.672387, 'change': 0.017063, 'cause': 'enhanced_recovery_11'}
+[12:20:12.461] GLYPH_CHANGE: {'name': 'Flux_Î©_256', 'old_gsi': 0.998127, 'new_gsi': 1.0, 'change': 0.001873, 'cause': 'enhanced_recovery_11'}
+[12:20:12.461] GLYPH_CHANGE: {'name': 'Spiral_Îž_728', 'old_gsi': 0.733065, 'new_gsi': 0.751846, 'change': 0.018781, 'cause': 'enhanced_recovery_11'}
+[12:20:12.461] GLYPH_CHANGE: {'name': 'Echo_Î›_567', 'old_gsi': 0.840585, 'new_gsi': 0.879543, 'change': 0.038958, 'cause': 'enhanced_recovery_11'}
+[12:20:12.461] GLYPH_CHANGE: {'name': 'Void_Î”_402', 'old_gsi': 0.641777, 'new_gsi': 0.659709, 'change': 0.017932, 'cause': 'enhanced_recovery_11'}
+[12:20:12.462] GLYPH_CHANGE: {'name': 'Nexus_Î¦_344', 'old_gsi': 0.511622, 'new_gsi': 0.544014, 'change': 0.032392, 'cause': 'enhanced_recovery_11'}
+[12:20:12.462] GLYPH_CHANGE: {'name': 'Quantum_Î¨_240', 'old_gsi': 0.704338, 'new_gsi': 0.727235, 'change': 0.022897, 'cause': 'enhanced_recovery_11'}
+[12:20:12.462] GLYPH_CHANGE: {'name': 'Flux_Î©_609', 'old_gsi': 0.656287, 'new_gsi': 0.673371, 'change': 0.017084, 'cause': 'enhanced_recovery_11'}
+[12:20:12.463] GLYPH_CHANGE: {'name': 'Quantum_Î¨_266', 'old_gsi': 0.852731, 'new_gsi': 0.87259, 'change': 0.019859, 'cause': 'enhanced_recovery_12'}
+[12:20:12.463] GLYPH_CHANGE: {'name': 'Spiral_Îž_952', 'old_gsi': 0.567302, 'new_gsi': 0.601875, 'change': 0.034573, 'cause': 'enhanced_recovery_12'}
+[12:20:12.463] GLYPH_CHANGE: {'name': 'Nexus_Î¦_707', 'old_gsi': 0.795472, 'new_gsi': 0.819247, 'change': 0.023775, 'cause': 'enhanced_recovery_12'}
+[12:20:12.463] GLYPH_CHANGE: {'name': 'Spiral_Îž_784', 'old_gsi': 0.660162, 'new_gsi': 0.694175, 'change': 0.034013, 'cause': 'enhanced_recovery_12'}
+[12:20:12.464] GLYPH_CHANGE: {'name': 'Flux_Î©_297', 'old_gsi': 0.798653, 'new_gsi': 0.81502, 'change': 0.016368, 'cause': 'enhanced_recovery_12'}
+[12:20:12.464] GLYPH_CHANGE: {'name': 'Quantum_Î¨_467', 'old_gsi': 0.748054, 'new_gsi': 0.775555, 'change': 0.027501, 'cause': 'enhanced_recovery_12'}
+[12:20:12.464] GLYPH_CHANGE: {'name': 'Spiral_Îž_448', 'old_gsi': 0.779001, 'new_gsi': 0.815055, 'change': 0.036053, 'cause': 'enhanced_recovery_12'}
+[12:20:12.465] GLYPH_CHANGE: {'name': 'Spiral_Îž_516', 'old_gsi': 0.898984, 'new_gsi': 0.93218, 'change': 0.033196, 'cause': 'enhanced_recovery_12'}
+[12:20:12.465] GLYPH_CHANGE: {'name': 'Quantum_Î¨_179', 'old_gsi': 0.724018, 'new_gsi': 0.739309, 'change': 0.015291, 'cause': 'enhanced_recovery_12'}
+[12:20:12.465] GLYPH_CHANGE: {'name': 'Echo_Î›_78', 'old_gsi': 0.722771, 'new_gsi': 0.759825, 'change': 0.037054, 'cause': 'enhanced_recovery_12'}
+[12:20:12.466] GLYPH_CHANGE: {'name': 'Spiral_Îž_568', 'old_gsi': 0.9829, 'new_gsi': 1.0, 'change': 0.0171, 'cause': 'enhanced_recovery_12'}
+[12:20:12.466] GLYPH_CHANGE: {'name': 'Echo_Î›_653', 'old_gsi': 0.733587, 'new_gsi': 0.756555, 'change': 0.022967, 'cause': 'enhanced_recovery_12'}
+[12:20:12.466] GLYPH_CHANGE: {'name': 'Void_Î”_748', 'old_gsi': 0.92629, 'new_gsi': 0.948698, 'change': 0.022408, 'cause': 'enhanced_recovery_12'}
+[12:20:12.467] GLYPH_CHANGE: {'name': 'Echo_Î›_124', 'old_gsi': 0.672387, 'new_gsi': 0.706666, 'change': 0.034279, 'cause': 'enhanced_recovery_12'}
+[12:20:12.467] GLYPH_CHANGE: {'name': 'Spiral_Îž_728', 'old_gsi': 0.751846, 'new_gsi': 0.78157, 'change': 0.029724, 'cause': 'enhanced_recovery_12'}
+[12:20:12.467] GLYPH_CHANGE: {'name': 'Echo_Î›_567', 'old_gsi': 0.879543, 'new_gsi': 0.908839, 'change': 0.029296, 'cause': 'enhanced_recovery_12'}
+[12:20:12.468] GLYPH_CHANGE: {'name': 'Void_Î”_402', 'old_gsi': 0.659709, 'new_gsi': 0.694372, 'change': 0.034663, 'cause': 'enhanced_recovery_12'}
+[12:20:12.468] GLYPH_CHANGE: {'name': 'Nexus_Î¦_344', 'old_gsi': 0.544014, 'new_gsi': 0.559212, 'change': 0.015198, 'cause': 'enhanced_recovery_12'}
+[12:20:12.468] GLYPH_CHANGE: {'name': 'Quantum_Î¨_240', 'old_gsi': 0.727235, 'new_gsi': 0.758065, 'change': 0.03083, 'cause': 'enhanced_recovery_12'}
+[12:20:12.469] GLYPH_CHANGE: {'name': 'Flux_Î©_609', 'old_gsi': 0.673371, 'new_gsi': 0.712354, 'change': 0.038983, 'cause': 'enhanced_recovery_12'}
+[12:20:12.469] GLYPH_CHANGE: {'name': 'Quantum_Î¨_266', 'old_gsi': 0.87259, 'new_gsi': 0.889911, 'change': 0.01732, 'cause': 'enhanced_recovery_13'}
+[12:20:12.469] GLYPH_CHANGE: {'name': 'Spiral_Îž_952', 'old_gsi': 0.601875, 'new_gsi': 0.640818, 'change': 0.038944, 'cause': 'enhanced_recovery_13'}
+[12:20:12.470] GLYPH_CHANGE: {'name': 'Nexus_Î¦_707', 'old_gsi': 0.819247, 'new_gsi': 0.845227, 'change': 0.025981, 'cause': 'enhanced_recovery_13'}
+[12:20:12.470] GLYPH_CHANGE: {'name': 'Spiral_Îž_784', 'old_gsi': 0.694175, 'new_gsi': 0.714253, 'change': 0.020077, 'cause': 'enhanced_recovery_13'}
+[12:20:12.470] GLYPH_CHANGE: {'name': 'Flux_Î©_297', 'old_gsi': 0.81502, 'new_gsi': 0.840539, 'change': 0.025519, 'cause': 'enhanced_recovery_13'}
+[12:20:12.471] GLYPH_CHANGE: {'name': 'Quantum_Î¨_467', 'old_gsi': 0.775555, 'new_gsi': 0.811354, 'change': 0.035799, 'cause': 'enhanced_recovery_13'}
+[12:20:12.471] GLYPH_CHANGE: {'name': 'Spiral_Îž_448', 'old_gsi': 0.815055, 'new_gsi': 0.842131, 'change': 0.027076, 'cause': 'enhanced_recovery_13'}
+[12:20:12.471] GLYPH_CHANGE: {'name': 'Spiral_Îž_516', 'old_gsi': 0.93218, 'new_gsi': 0.959195, 'change': 0.027015, 'cause': 'enhanced_recovery_13'}
+[12:20:12.471] GLYPH_CHANGE: {'name': 'Quantum_Î¨_179', 'old_gsi': 0.739309, 'new_gsi': 0.776351, 'change': 0.037042, 'cause': 'enhanced_recovery_13'}
+[12:20:12.472] GLYPH_CHANGE: {'name': 'Echo_Î›_78', 'old_gsi': 0.759825, 'new_gsi': 0.788359, 'change': 0.028533, 'cause': 'enhanced_recovery_13'}
+[12:20:12.472] GLYPH_CHANGE: {'name': 'Echo_Î›_653', 'old_gsi': 0.756555, 'new_gsi': 0.785624, 'change': 0.029069, 'cause': 'enhanced_recovery_13'}
+[12:20:12.472] GLYPH_CHANGE: {'name': 'Void_Î”_748', 'old_gsi': 0.948698, 'new_gsi': 0.986392, 'change': 0.037694, 'cause': 'enhanced_recovery_13'}
+[12:20:12.473] GLYPH_CHANGE: {'name': 'Echo_Î›_124', 'old_gsi': 0.706666, 'new_gsi': 0.731516, 'change': 0.024851, 'cause': 'enhanced_recovery_13'}
+[12:20:12.473] GLYPH_CHANGE: {'name': 'Spiral_Îž_728', 'old_gsi': 0.78157, 'new_gsi': 0.813382, 'change': 0.031812, 'cause': 'enhanced_recovery_13'}
+[12:20:12.474] GLYPH_CHANGE: {'name': 'Echo_Î›_567', 'old_gsi': 0.908839, 'new_gsi': 0.947338, 'change': 0.038499, 'cause': 'enhanced_recovery_13'}
+[12:20:12.475] GLYPH_CHANGE: {'name': 'Void_Î”_402', 'old_gsi': 0.694372, 'new_gsi': 0.713273, 'change': 0.0189, 'cause': 'enhanced_recovery_13'}
+[12:20:12.476] GLYPH_CHANGE: {'name': 'Nexus_Î¦_344', 'old_gsi': 0.559212, 'new_gsi': 0.586961, 'change': 0.027749, 'cause': 'enhanced_recovery_13'}
+[12:20:12.476] GLYPH_CHANGE: {'name': 'Quantum_Î¨_240', 'old_gsi': 0.758065, 'new_gsi': 0.790508, 'change': 0.032443, 'cause': 'enhanced_recovery_13'}
+[12:20:12.476] GLYPH_CHANGE: {'name': 'Flux_Î©_609', 'old_gsi': 0.712354, 'new_gsi': 0.731434, 'change': 0.01908, 'cause': 'enhanced_recovery_13'}
+[12:20:12.476] GLYPH_CHANGE: {'name': 'Quantum_Î¨_266', 'old_gsi': 0.889911, 'new_gsi': 0.929551, 'change': 0.03964, 'cause': 'enhanced_recovery_14'}
+[12:20:12.477] GLYPH_CHANGE: {'name': 'Spiral_Îž_952', 'old_gsi': 0.640818, 'new_gsi': 0.678295, 'change': 0.037477, 'cause': 'enhanced_recovery_14'}
+[12:20:12.477] GLYPH_CHANGE: {'name': 'Nexus_Î¦_707', 'old_gsi': 0.845227, 'new_gsi': 0.867872, 'change': 0.022645, 'cause': 'enhanced_recovery_14'}
+[12:20:12.477] GLYPH_CHANGE: {'name': 'Spiral_Îž_784', 'old_gsi': 0.714253, 'new_gsi': 0.750908, 'change': 0.036656, 'cause': 'enhanced_recovery_14'}
+[12:20:12.477] GLYPH_CHANGE: {'name': 'Flux_Î©_297', 'old_gsi': 0.840539, 'new_gsi': 0.870388, 'change': 0.029849, 'cause': 'enhanced_recovery_14'}
+[12:20:12.478] GLYPH_CHANGE: {'name': 'Quantum_Î¨_467', 'old_gsi': 0.811354, 'new_gsi': 0.837752, 'change': 0.026398, 'cause': 'enhanced_recovery_14'}
+[12:20:12.478] GLYPH_CHANGE: {'name': 'Spiral_Îž_448', 'old_gsi': 0.842131, 'new_gsi': 0.878222, 'change': 0.036091, 'cause': 'enhanced_recovery_14'}
+[12:20:12.478] GLYPH_CHANGE: {'name': 'Spiral_Îž_516', 'old_gsi': 0.959195, 'new_gsi': 0.979979, 'change': 0.020784, 'cause': 'enhanced_recovery_14'}
+[12:20:12.479] GLYPH_CHANGE: {'name': 'Quantum_Î¨_179', 'old_gsi': 0.776351, 'new_gsi': 0.795527, 'change': 0.019176, 'cause': 'enhanced_recovery_14'}
+[12:20:12.479] GLYPH_CHANGE: {'name': 'Echo_Î›_78', 'old_gsi': 0.788359, 'new_gsi': 0.817601, 'change': 0.029243, 'cause': 'enhanced_recovery_14'}
+[12:20:12.479] GLYPH_CHANGE: {'name': 'Echo_Î›_653', 'old_gsi': 0.785624, 'new_gsi': 0.813863, 'change': 0.028239, 'cause': 'enhanced_recovery_14'}
+[12:20:12.480] GLYPH_CHANGE: {'name': 'Void_Î”_748', 'old_gsi': 0.986392, 'new_gsi': 1.0, 'change': 0.013608, 'cause': 'enhanced_recovery_14'}
+[12:20:12.480] GLYPH_CHANGE: {'name': 'Echo_Î›_124', 'old_gsi': 0.731516, 'new_gsi': 0.75761, 'change': 0.026094, 'cause': 'enhanced_recovery_14'}
+[12:20:12.480] GLYPH_CHANGE: {'name': 'Spiral_Îž_728', 'old_gsi': 0.813382, 'new_gsi': 0.840273, 'change': 0.026891, 'cause': 'enhanced_recovery_14'}
+[12:20:12.480] GLYPH_CHANGE: {'name': 'Echo_Î›_567', 'old_gsi': 0.947338, 'new_gsi': 0.966842, 'change': 0.019504, 'cause': 'enhanced_recovery_14'}
+[12:20:12.481] GLYPH_CHANGE: {'name': 'Void_Î”_402', 'old_gsi': 0.713273, 'new_gsi': 0.744681, 'change': 0.031408, 'cause': 'enhanced_recovery_14'}
+[12:20:12.481] GLYPH_CHANGE: {'name': 'Nexus_Î¦_344', 'old_gsi': 0.586961, 'new_gsi': 0.609141, 'change': 0.02218, 'cause': 'enhanced_recovery_14'}
+[12:20:12.481] GLYPH_CHANGE: {'name': 'Quantum_Î¨_240', 'old_gsi': 0.790508, 'new_gsi': 0.811807, 'change': 0.021299, 'cause': 'enhanced_recovery_14'}
+[12:20:12.482] GLYPH_CHANGE: {'name': 'Flux_Î©_609', 'old_gsi': 0.731434, 'new_gsi': 0.757483, 'change': 0.026049, 'cause': 'enhanced_recovery_14'}
+[12:20:12.482] GLYPH_CHANGE: {'name': 'Quantum_Î¨_266', 'old_gsi': 0.929551, 'new_gsi': 0.966227, 'change': 0.036676, 'cause': 'enhanced_recovery_15'}
+[12:20:12.483] GLYPH_CHANGE: {'name': 'Spiral_Îž_952', 'old_gsi': 0.678295, 'new_gsi': 0.695257, 'change': 0.016962, 'cause': 'enhanced_recovery_15'}
+[12:20:12.483] GLYPH_CHANGE: {'name': 'Nexus_Î¦_707', 'old_gsi': 0.867872, 'new_gsi': 0.904231, 'change': 0.036359, 'cause': 'enhanced_recovery_15'}
+[12:20:12.483] GLYPH_CHANGE: {'name': 'Spiral_Îž_784', 'old_gsi': 0.750908, 'new_gsi': 0.783873, 'change': 0.032965, 'cause': 'enhanced_recovery_15'}
+[12:20:12.484] GLYPH_CHANGE: {'name': 'Flux_Î©_297', 'old_gsi': 0.870388, 'new_gsi': 0.887267, 'change': 0.016879, 'cause': 'enhanced_recovery_15'}
+[12:20:12.484] GLYPH_CHANGE: {'name': 'Quantum_Î¨_467', 'old_gsi': 0.837752, 'new_gsi': 0.86633, 'change': 0.028578, 'cause': 'enhanced_recovery_15'}
+[12:20:12.484] GLYPH_CHANGE: {'name': 'Spiral_Îž_448', 'old_gsi': 0.878222, 'new_gsi': 0.904225, 'change': 0.026003, 'cause': 'enhanced_recovery_15'}
+[12:20:12.485] GLYPH_CHANGE: {'name': 'Spiral_Îž_516', 'old_gsi': 0.979979, 'new_gsi': 1.0, 'change': 0.020021, 'cause': 'enhanced_recovery_15'}
+[12:20:12.485] GLYPH_CHANGE: {'name': 'Quantum_Î¨_179', 'old_gsi': 0.795527, 'new_gsi': 0.834375, 'change': 0.038849, 'cause': 'enhanced_recovery_15'}
+[12:20:12.485] GLYPH_CHANGE: {'name': 'Echo_Î›_78', 'old_gsi': 0.817601, 'new_gsi': 0.839137, 'change': 0.021536, 'cause': 'enhanced_recovery_15'}
+[12:20:12.485] GLYPH_CHANGE: {'name': 'Echo_Î›_653', 'old_gsi': 0.813863, 'new_gsi': 0.848655, 'change': 0.034792, 'cause': 'enhanced_recovery_15'}
+[12:20:12.486] GLYPH_CHANGE: {'name': 'Echo_Î›_124', 'old_gsi': 0.75761, 'new_gsi': 0.779856, 'change': 0.022245, 'cause': 'enhanced_recovery_15'}
+[12:20:12.486] GLYPH_CHANGE: {'name': 'Spiral_Îž_728', 'old_gsi': 0.840273, 'new_gsi': 0.877184, 'change': 0.03691, 'cause': 'enhanced_recovery_15'}
+[12:20:12.486] GLYPH_CHANGE: {'name': 'Echo_Î›_567', 'old_gsi': 0.966842, 'new_gsi': 1.0, 'change': 0.033158, 'cause': 'enhanced_recovery_15'}
+[12:20:12.487] GLYPH_CHANGE: {'name': 'Void_Î”_402', 'old_gsi': 0.744681, 'new_gsi': 0.76937, 'change': 0.024689, 'cause': 'enhanced_recovery_15'}
+[12:20:12.487] GLYPH_CHANGE: {'name': 'Nexus_Î¦_344', 'old_gsi': 0.609141, 'new_gsi': 0.643927, 'change': 0.034786, 'cause': 'enhanced_recovery_15'}
+[12:20:12.487] GLYPH_CHANGE: {'name': 'Quantum_Î¨_240', 'old_gsi': 0.811807, 'new_gsi': 0.833531, 'change': 0.021724, 'cause': 'enhanced_recovery_15'}
+[12:20:12.488] GLYPH_CHANGE: {'name': 'Flux_Î©_609', 'old_gsi': 0.757483, 'new_gsi': 0.775742, 'change': 0.018259, 'cause': 'enhanced_recovery_15'}
+[12:20:12.488] GLYPH_CHANGE: {'name': 'Quantum_Î¨_266', 'old_gsi': 0.966227, 'new_gsi': 1.0, 'change': 0.033773, 'cause': 'enhanced_recovery_16'}
+[12:20:12.488] GLYPH_CHANGE: {'name': 'Spiral_Îž_952', 'old_gsi': 0.695257, 'new_gsi': 0.727644, 'change': 0.032387, 'cause': 'enhanced_recovery_16'}
+[12:20:12.489] GLYPH_CHANGE: {'name': 'Nexus_Î¦_707', 'old_gsi': 0.904231, 'new_gsi': 0.932563, 'change': 0.028332, 'cause': 'enhanced_recovery_16'}
+[12:20:12.489] GLYPH_CHANGE: {'name': 'Spiral_Îž_784', 'old_gsi': 0.783873, 'new_gsi': 0.817365, 'change': 0.033492, 'cause': 'enhanced_recovery_16'}
+[12:20:12.491] GLYPH_CHANGE: {'name': 'Flux_Î©_297', 'old_gsi': 0.887267, 'new_gsi': 0.915586, 'change': 0.028319, 'cause': 'enhanced_recovery_16'}
+[12:20:12.491] GLYPH_CHANGE: {'name': 'Quantum_Î¨_467', 'old_gsi': 0.86633, 'new_gsi': 0.904659, 'change': 0.038329, 'cause': 'enhanced_recovery_16'}
+[12:20:12.491] GLYPH_CHANGE: {'name': 'Spiral_Îž_448', 'old_gsi': 0.904225, 'new_gsi': 0.935561, 'change': 0.031336, 'cause': 'enhanced_recovery_16'}
+[12:20:12.492] GLYPH_CHANGE: {'name': 'Quantum_Î¨_179', 'old_gsi': 0.834375, 'new_gsi': 0.866739, 'change': 0.032364, 'cause': 'enhanced_recovery_16'}
+[12:20:12.492] GLYPH_CHANGE: {'name': 'Echo_Î›_78', 'old_gsi': 0.839137, 'new_gsi': 0.858101, 'change': 0.018964, 'cause': 'enhanced_recovery_16'}
+[12:20:12.492] GLYPH_CHANGE: {'name': 'Echo_Î›_653', 'old_gsi': 0.848655, 'new_gsi': 0.881628, 'change': 0.032973, 'cause': 'enhanced_recovery_16'}
+[12:20:12.493] GLYPH_CHANGE: {'name': 'Echo_Î›_124', 'old_gsi': 0.779856, 'new_gsi': 0.80127, 'change': 0.021414, 'cause': 'enhanced_recovery_16'}
+[12:20:12.493] GLYPH_CHANGE: {'name': 'Spiral_Îž_728', 'old_gsi': 0.877184, 'new_gsi': 0.912314, 'change': 0.035131, 'cause': 'enhanced_recovery_16'}
+[12:20:12.493] GLYPH_CHANGE: {'name': 'Void_Î”_402', 'old_gsi': 0.76937, 'new_gsi': 0.793784, 'change': 0.024414, 'cause': 'enhanced_recovery_16'}
+[12:20:12.493] GLYPH_CHANGE: {'name': 'Nexus_Î¦_344', 'old_gsi': 0.643927, 'new_gsi': 0.669613, 'change': 0.025686, 'cause': 'enhanced_recovery_16'}
+[12:20:12.494] GLYPH_CHANGE: {'name': 'Quantum_Î¨_240', 'old_gsi': 0.833531, 'new_gsi': 0.856473, 'change': 0.022943, 'cause': 'enhanced_recovery_16'}
+[12:20:12.494] GLYPH_CHANGE: {'name': 'Flux_Î©_609', 'old_gsi': 0.775742, 'new_gsi': 0.79261, 'change': 0.016868, 'cause': 'enhanced_recovery_16'}
+[12:20:12.494] GLYPH_CHANGE: {'name': 'Spiral_Îž_952', 'old_gsi': 0.727644, 'new_gsi': 0.760003, 'change': 0.032358, 'cause': 'enhanced_recovery_17'}
+[12:20:12.495] GLYPH_CHANGE: {'name': 'Nexus_Î¦_707', 'old_gsi': 0.932563, 'new_gsi': 0.956913, 'change': 0.02435, 'cause': 'enhanced_recovery_17'}
+[12:20:12.495] GLYPH_CHANGE: {'name': 'Spiral_Îž_784', 'old_gsi': 0.817365, 'new_gsi': 0.836313, 'change': 0.018948, 'cause': 'enhanced_recovery_17'}
+[12:20:12.495] GLYPH_CHANGE: {'name': 'Flux_Î©_297', 'old_gsi': 0.915586, 'new_gsi': 0.944045, 'change': 0.028459, 'cause': 'enhanced_recovery_17'}
+[12:20:12.495] GLYPH_CHANGE: {'name': 'Quantum_Î¨_467', 'old_gsi': 0.904659, 'new_gsi': 0.942705, 'change': 0.038046, 'cause': 'enhanced_recovery_17'}
+[12:20:12.496] GLYPH_CHANGE: {'name': 'Spiral_Îž_448', 'old_gsi': 0.935561, 'new_gsi': 0.966593, 'change': 0.031032, 'cause': 'enhanced_recovery_17'}
+[12:20:12.496] GLYPH_CHANGE: {'name': 'Quantum_Î¨_179', 'old_gsi': 0.866739, 'new_gsi': 0.891854, 'change': 0.025115, 'cause': 'enhanced_recovery_17'}
+[12:20:12.496] GLYPH_CHANGE: {'name': 'Echo_Î›_78', 'old_gsi': 0.858101, 'new_gsi': 0.87663, 'change': 0.018529, 'cause': 'enhanced_recovery_17'}
+[12:20:12.496] GLYPH_CHANGE: {'name': 'Echo_Î›_653', 'old_gsi': 0.881628, 'new_gsi': 0.916542, 'change': 0.034913, 'cause': 'enhanced_recovery_17'}
+[12:20:12.497] GLYPH_CHANGE: {'name': 'Echo_Î›_124', 'old_gsi': 0.80127, 'new_gsi': 0.830138, 'change': 0.028868, 'cause': 'enhanced_recovery_17'}
+[12:20:12.497] GLYPH_CHANGE: {'name': 'Spiral_Îž_728', 'old_gsi': 0.912314, 'new_gsi': 0.932683, 'change': 0.020369, 'cause': 'enhanced_recovery_17'}
+[12:20:12.497] GLYPH_CHANGE: {'name': 'Void_Î”_402', 'old_gsi': 0.793784, 'new_gsi': 0.829505, 'change': 0.035721, 'cause': 'enhanced_recovery_17'}
+[12:20:12.498] GLYPH_CHANGE: {'name': 'Nexus_Î¦_344', 'old_gsi': 0.669613, 'new_gsi': 0.707552, 'change': 0.037939, 'cause': 'enhanced_recovery_17'}
+[12:20:12.498] GLYPH_CHANGE: {'name': 'Quantum_Î¨_240', 'old_gsi': 0.856473, 'new_gsi': 0.887708, 'change': 0.031235, 'cause': 'enhanced_recovery_17'}
+[12:20:12.499] GLYPH_CHANGE: {'name': 'Flux_Î©_609', 'old_gsi': 0.79261, 'new_gsi': 0.816934, 'change': 0.024324, 'cause': 'enhanced_recovery_17'}
+[12:20:12.499] GLYPH_CHANGE: {'name': 'Spiral_Îž_952', 'old_gsi': 0.760003, 'new_gsi': 0.779742, 'change': 0.01974, 'cause': 'enhanced_recovery_18'}
+[12:20:12.499] GLYPH_CHANGE: {'name': 'Nexus_Î¦_707', 'old_gsi': 0.956913, 'new_gsi': 0.994382, 'change': 0.037469, 'cause': 'enhanced_recovery_18'}
+[12:20:12.500] GLYPH_CHANGE: {'name': 'Spiral_Îž_784', 'old_gsi': 0.836313, 'new_gsi': 0.872971, 'change': 0.036658, 'cause': 'enhanced_recovery_18'}
+[12:20:12.500] GLYPH_CHANGE: {'name': 'Flux_Î©_297', 'old_gsi': 0.944045, 'new_gsi': 0.961694, 'change': 0.017649, 'cause': 'enhanced_recovery_18'}
+[12:20:12.500] GLYPH_CHANGE: {'name': 'Quantum_Î¨_467', 'old_gsi': 0.942705, 'new_gsi': 0.977609, 'change': 0.034904, 'cause': 'enhanced_recovery_18'}
+[12:20:12.500] GLYPH_CHANGE: {'name': 'Spiral_Îž_448', 'old_gsi': 0.966593, 'new_gsi': 1.0, 'change': 0.033407, 'cause': 'enhanced_recovery_18'}
+[12:20:12.501] GLYPH_CHANGE: {'name': 'Quantum_Î¨_179', 'old_gsi': 0.891854, 'new_gsi': 0.912299, 'change': 0.020445, 'cause': 'enhanced_recovery_18'}
+[12:20:12.501] GLYPH_CHANGE: {'name': 'Echo_Î›_78', 'old_gsi': 0.87663, 'new_gsi': 0.906406, 'change': 0.029776, 'cause': 'enhanced_recovery_18'}
+[12:20:12.501] GLYPH_CHANGE: {'name': 'Echo_Î›_653', 'old_gsi': 0.916542, 'new_gsi': 0.951127, 'change': 0.034586, 'cause': 'enhanced_recovery_18'}
+[12:20:12.502] GLYPH_CHANGE: {'name': 'Echo_Î›_124', 'old_gsi': 0.830138, 'new_gsi': 0.850351, 'change': 0.020213, 'cause': 'enhanced_recovery_18'}
+[12:20:12.502] GLYPH_CHANGE: {'name': 'Spiral_Îž_728', 'old_gsi': 0.932683, 'new_gsi': 0.958921, 'change': 0.026238, 'cause': 'enhanced_recovery_18'}
+[12:20:12.502] GLYPH_CHANGE: {'name': 'Void_Î”_402', 'old_gsi': 0.829505, 'new_gsi': 0.853271, 'change': 0.023766, 'cause': 'enhanced_recovery_18'}
+[12:20:12.502] GLYPH_CHANGE: {'name': 'Nexus_Î¦_344', 'old_gsi': 0.707552, 'new_gsi': 0.738193, 'change': 0.030641, 'cause': 'enhanced_recovery_18'}
+[12:20:12.503] GLYPH_CHANGE: {'name': 'Quantum_Î¨_240', 'old_gsi': 0.887708, 'new_gsi': 0.904223, 'change': 0.016515, 'cause': 'enhanced_recovery_18'}
+[12:20:12.503] GLYPH_CHANGE: {'name': 'Flux_Î©_609', 'old_gsi': 0.816934, 'new_gsi': 0.840271, 'change': 0.023337, 'cause': 'enhanced_recovery_18'}
+[12:20:12.503] GLYPH_CHANGE: {'name': 'Spiral_Îž_952', 'old_gsi': 0.779742, 'new_gsi': 0.808233, 'change': 0.028491, 'cause': 'enhanced_recovery_19'}
+[12:20:12.504] GLYPH_CHANGE: {'name': 'Nexus_Î¦_707', 'old_gsi': 0.994382, 'new_gsi': 1.0, 'change': 0.005618, 'cause': 'enhanced_recovery_19'}
+[12:20:12.504] GLYPH_CHANGE: {'name': 'Spiral_Îž_784', 'old_gsi': 0.872971, 'new_gsi': 0.895423, 'change': 0.022451, 'cause': 'enhanced_recovery_19'}
+[12:20:12.504] GLYPH_CHANGE: {'name': 'Flux_Î©_297', 'old_gsi': 0.961694, 'new_gsi': 0.98801, 'change': 0.026316, 'cause': 'enhanced_recovery_19'}
+[12:20:12.506] GLYPH_CHANGE: {'name': 'Quantum_Î¨_467', 'old_gsi': 0.977609, 'new_gsi': 0.995378, 'change': 0.017769, 'cause': 'enhanced_recovery_19'}
+[12:20:12.506] GLYPH_CHANGE: {'name': 'Quantum_Î¨_179', 'old_gsi': 0.912299, 'new_gsi': 0.944476, 'change': 0.032177, 'cause': 'enhanced_recovery_19'}
+[12:20:12.507] GLYPH_CHANGE: {'name': 'Echo_Î›_78', 'old_gsi': 0.906406, 'new_gsi': 0.936343, 'change': 0.029937, 'cause': 'enhanced_recovery_19'}
+[12:20:12.507] GLYPH_CHANGE: {'name': 'Echo_Î›_653', 'old_gsi': 0.951127, 'new_gsi': 0.989523, 'change': 0.038395, 'cause': 'enhanced_recovery_19'}
+[12:20:12.507] GLYPH_CHANGE: {'name': 'Echo_Î›_124', 'old_gsi': 0.850351, 'new_gsi': 0.888783, 'change': 0.038432, 'cause': 'enhanced_recovery_19'}
+[12:20:12.508] GLYPH_CHANGE: {'name': 'Spiral_Îž_728', 'old_gsi': 0.958921, 'new_gsi': 0.988444, 'change': 0.029524, 'cause': 'enhanced_recovery_19'}
+[12:20:12.508] GLYPH_CHANGE: {'name': 'Void_Î”_402', 'old_gsi': 0.853271, 'new_gsi': 0.893184, 'change': 0.039913, 'cause': 'enhanced_recovery_19'}
+[12:20:12.508] GLYPH_CHANGE: {'name': 'Nexus_Î¦_344', 'old_gsi': 0.738193, 'new_gsi': 0.774128, 'change': 0.035935, 'cause': 'enhanced_recovery_19'}
+[12:20:12.509] GLYPH_CHANGE: {'name': 'Quantum_Î¨_240', 'old_gsi': 0.904223, 'new_gsi': 0.930349, 'change': 0.026126, 'cause': 'enhanced_recovery_19'}
+[12:20:12.509] GLYPH_CHANGE: {'name': 'Flux_Î©_609', 'old_gsi': 0.840271, 'new_gsi': 0.857037, 'change': 0.016767, 'cause': 'enhanced_recovery_19'}
+[12:20:12.509] GLYPH_CHANGE: {'name': 'Spiral_Îž_952', 'old_gsi': 0.808233, 'new_gsi': 0.828261, 'change': 0.020028, 'cause': 'enhanced_recovery_20'}
+[12:20:12.509] GLYPH_CHANGE: {'name': 'Spiral_Îž_784', 'old_gsi': 0.895423, 'new_gsi': 0.916877, 'change': 0.021455, 'cause': 'enhanced_recovery_20'}
+[12:20:12.510] GLYPH_CHANGE: {'name': 'Flux_Î©_297', 'old_gsi': 0.98801, 'new_gsi': 1.0, 'change': 0.01199, 'cause': 'enhanced_recovery_20'}
+[12:20:12.510] GLYPH_CHANGE: {'name': 'Quantum_Î¨_467', 'old_gsi': 0.995378, 'new_gsi': 1.0, 'change': 0.004622, 'cause': 'enhanced_recovery_20'}
+[12:20:12.510] GLYPH_CHANGE: {'name': 'Quantum_Î¨_179', 'old_gsi': 0.944476, 'new_gsi': 0.97299, 'change': 0.028514, 'cause': 'enhanced_recovery_20'}
+[12:20:12.511] GLYPH_CHANGE: {'name': 'Echo_Î›_78', 'old_gsi': 0.936343, 'new_gsi': 0.955909, 'change': 0.019566, 'cause': 'enhanced_recovery_20'}
+[12:20:12.511] GLYPH_CHANGE: {'name': 'Echo_Î›_653', 'old_gsi': 0.989523, 'new_gsi': 1.0, 'change': 0.010477, 'cause': 'enhanced_recovery_20'}
+[12:20:12.511] GLYPH_CHANGE: {'name': 'Echo_Î›_124', 'old_gsi': 0.888783, 'new_gsi': 0.920428, 'change': 0.031645, 'cause': 'enhanced_recovery_20'}
+[12:20:12.511] GLYPH_CHANGE: {'name': 'Spiral_Îž_728', 'old_gsi': 0.988444, 'new_gsi': 1.0, 'change': 0.011556, 'cause': 'enhanced_recovery_20'}
+[12:20:12.512] GLYPH_CHANGE: {'name': 'Void_Î”_402', 'old_gsi': 0.893184, 'new_gsi': 0.9323, 'change': 0.039116, 'cause': 'enhanced_recovery_20'}
+[12:20:12.512] GLYPH_CHANGE: {'name': 'Nexus_Î¦_344', 'old_gsi': 0.774128, 'new_gsi': 0.80489, 'change': 0.030762, 'cause': 'enhanced_recovery_20'}
+[12:20:12.512] GLYPH_CHANGE: {'name': 'Quantum_Î¨_240', 'old_gsi': 0.930349, 'new_gsi': 0.951206, 'change': 0.020857, 'cause': 'enhanced_recovery_20'}
+[12:20:12.513] GLYPH_CHANGE: {'name': 'Flux_Î©_609', 'old_gsi': 0.857037, 'new_gsi': 0.87455, 'change': 0.017513, 'cause': 'enhanced_recovery_20'}
+[12:20:12.513] GLYPH_CHANGE: {'name': 'Spiral_Îž_952', 'old_gsi': 0.828261, 'new_gsi': 0.862134, 'change': 0.033873, 'cause': 'enhanced_recovery_21'}
+[12:20:12.513] GLYPH_CHANGE: {'name': 'Spiral_Îž_784', 'old_gsi': 0.916877, 'new_gsi': 0.954452, 'change': 0.037575, 'cause': 'enhanced_recovery_21'}
+[12:20:12.513] GLYPH_CHANGE: {'name': 'Quantum_Î¨_179', 'old_gsi': 0.97299, 'new_gsi': 0.990423, 'change': 0.017434, 'cause': 'enhanced_recovery_21'}
+[12:20:12.514] GLYPH_CHANGE: {'name': 'Echo_Î›_78', 'old_gsi': 0.955909, 'new_gsi': 0.985221, 'change': 0.029313, 'cause': 'enhanced_recovery_21'}
+[12:20:12.514] GLYPH_CHANGE: {'name': 'Echo_Î›_124', 'old_gsi': 0.920428, 'new_gsi': 0.958851, 'change': 0.038423, 'cause': 'enhanced_recovery_21'}
+[12:20:12.514] GLYPH_CHANGE: {'name': 'Void_Î”_402', 'old_gsi': 0.9323, 'new_gsi': 0.953252, 'change': 0.020952, 'cause': 'enhanced_recovery_21'}
+[12:20:12.515] GLYPH_CHANGE: {'name': 'Nexus_Î¦_344', 'old_gsi': 0.80489, 'new_gsi': 0.83065, 'change': 0.025759, 'cause': 'enhanced_recovery_21'}
+[12:20:12.515] GLYPH_CHANGE: {'name': 'Quantum_Î¨_240', 'old_gsi': 0.951206, 'new_gsi': 0.982949, 'change': 0.031743, 'cause': 'enhanced_recovery_21'}
+[12:20:12.516] GLYPH_CHANGE: {'name': 'Flux_Î©_609', 'old_gsi': 0.87455, 'new_gsi': 0.896747, 'change': 0.022196, 'cause': 'enhanced_recovery_21'}
+[12:20:12.516] GLYPH_CHANGE: {'name': 'Spiral_Îž_952', 'old_gsi': 0.862134, 'new_gsi': 0.891502, 'change': 0.029368, 'cause': 'enhanced_recovery_22'}
+[12:20:12.516] GLYPH_CHANGE: {'name': 'Spiral_Îž_784', 'old_gsi': 0.954452, 'new_gsi': 0.972466, 'change': 0.018014, 'cause': 'enhanced_recovery_22'}
+[12:20:12.516] GLYPH_CHANGE: {'name': 'Quantum_Î¨_179', 'old_gsi': 0.990423, 'new_gsi': 1.0, 'change': 0.009577, 'cause': 'enhanced_recovery_22'}
+[12:20:12.517] GLYPH_CHANGE: {'name': 'Echo_Î›_78', 'old_gsi': 0.985221, 'new_gsi': 1.0, 'change': 0.014779, 'cause': 'enhanced_recovery_22'}
+[12:20:12.517] GLYPH_CHANGE: {'name': 'Echo_Î›_124', 'old_gsi': 0.958851, 'new_gsi': 0.98014, 'change': 0.021288, 'cause': 'enhanced_recovery_22'}
+[12:20:12.517] GLYPH_CHANGE: {'name': 'Void_Î”_402', 'old_gsi': 0.953252, 'new_gsi': 0.968734, 'change': 0.015482, 'cause': 'enhanced_recovery_22'}
+[12:20:12.518] GLYPH_CHANGE: {'name': 'Nexus_Î¦_344', 'old_gsi': 0.83065, 'new_gsi': 0.853743, 'change': 0.023093, 'cause': 'enhanced_recovery_22'}
+[12:20:12.518] GLYPH_CHANGE: {'name': 'Quantum_Î¨_240', 'old_gsi': 0.982949, 'new_gsi': 1.0, 'change': 0.017051, 'cause': 'enhanced_recovery_22'}
+[12:20:12.518] GLYPH_CHANGE: {'name': 'Flux_Î©_609', 'old_gsi': 0.896747, 'new_gsi': 0.925175, 'change': 0.028428, 'cause': 'enhanced_recovery_22'}
+[12:20:12.518] GLYPH_CHANGE: {'name': 'Spiral_Îž_952', 'old_gsi': 0.891502, 'new_gsi': 0.930647, 'change': 0.039145, 'cause': 'enhanced_recovery_23'}
+[12:20:12.519] GLYPH_CHANGE: {'name': 'Spiral_Îž_784', 'old_gsi': 0.972466, 'new_gsi': 0.9987, 'change': 0.026234, 'cause': 'enhanced_recovery_23'}
+[12:20:12.519] GLYPH_CHANGE: {'name': 'Echo_Î›_124', 'old_gsi': 0.98014, 'new_gsi': 1.0, 'change': 0.01986, 'cause': 'enhanced_recovery_23'}
+[12:20:12.519] GLYPH_CHANGE: {'name': 'Void_Î”_402', 'old_gsi': 0.968734, 'new_gsi': 0.985209, 'change': 0.016476, 'cause': 'enhanced_recovery_23'}
+[12:20:12.520] GLYPH_CHANGE: {'name': 'Nexus_Î¦_344', 'old_gsi': 0.853743, 'new_gsi': 0.869959, 'change': 0.016216, 'cause': 'enhanced_recovery_23'}
+[12:20:12.520] GLYPH_CHANGE: {'name': 'Flux_Î©_609', 'old_gsi': 0.925175, 'new_gsi': 0.943635, 'change': 0.01846, 'cause': 'enhanced_recovery_23'}
+[12:20:12.520] GLYPH_CHANGE: {'name': 'Spiral_Îž_952', 'old_gsi': 0.930647, 'new_gsi': 0.963096, 'change': 0.032449, 'cause': 'enhanced_recovery_24'}
+[12:20:12.521] GLYPH_CHANGE: {'name': 'Spiral_Îž_784', 'old_gsi': 0.9987, 'new_gsi': 1.0, 'change': 0.0013, 'cause': 'enhanced_recovery_24'}
+[12:20:12.522] GLYPH_CHANGE: {'name': 'Void_Î”_402', 'old_gsi': 0.985209, 'new_gsi': 1.0, 'change': 0.014791, 'cause': 'enhanced_recovery_24'}
+[12:20:12.522] GLYPH_CHANGE: {'name': 'Nexus_Î¦_344', 'old_gsi': 0.869959, 'new_gsi': 0.907991, 'change': 0.038032, 'cause': 'enhanced_recovery_24'}
+[12:20:12.522] GLYPH_CHANGE: {'name': 'Flux_Î©_609', 'old_gsi': 0.943635, 'new_gsi': 0.981788, 'change': 0.038153, 'cause': 'enhanced_recovery_24'}
+[12:20:12.523] GLYPH_CHANGE: {'name': 'Spiral_Îž_952', 'old_gsi': 0.963096, 'new_gsi': 0.984798, 'change': 0.021702, 'cause': 'enhanced_recovery_25'}
+[12:20:12.523] GLYPH_CHANGE: {'name': 'Nexus_Î¦_344', 'old_gsi': 0.907991, 'new_gsi': 0.944992, 'change': 0.037001, 'cause': 'enhanced_recovery_25'}
+[12:20:12.524] GLYPH_CHANGE: {'name': 'Flux_Î©_609', 'old_gsi': 0.981788, 'new_gsi': 1.0, 'change': 0.018212, 'cause': 'enhanced_recovery_25'}
+[12:20:12.524] GLYPH_CHANGE: {'name': 'Spiral_Îž_952', 'old_gsi': 0.984798, 'new_gsi': 1.0, 'change': 0.015202, 'cause': 'enhanced_recovery_26'}
+[12:20:12.524] GLYPH_CHANGE: {'name': 'Nexus_Î¦_344', 'old_gsi': 0.944992, 'new_gsi': 0.973427, 'change': 0.028435, 'cause': 'enhanced_recovery_26'}
+[12:20:12.525] GLYPH_CHANGE: {'name': 'Nexus_Î¦_344', 'old_gsi': 0.973427, 'new_gsi': 0.995704, 'change': 0.022277, 'cause': 'enhanced_recovery_27'}
+[12:20:12.525] GLYPH_CHANGE: {'name': 'Nexus_Î¦_344', 'old_gsi': 0.995704, 'new_gsi': 1.0, 'change': 0.004296, 'cause': 'enhanced_recovery_28'}
+[12:20:12.526] ACTION_COMPLETED: {'action': 'emergency_recovery', 'success': True}
+[12:20:27.527] LEARNING_DECISION_EVALUATION: {'context': {'entropy_level': 0.0, 'entropy_threshold': 0.15, 'current_coherence': 1.0, 'glyph_count': 46, 'total_connections': 168, 'avg_connections_per_glyph': 3.652173913043478, 'imperfect_glyphs': 0, 'unconnected_glyphs': 31, 'perfect_glyphs': 42, 'well_connected_glyphs': 11, 'recursive_depth': 5000, 'idle_duration_minutes': 10.756630376974742, 'time_since_last_intervention': 15.000690698623657, 'recent_decision_pattern': 'no_history', 'consecutive_same_decisions': 1}, 'system_state': 'stable_needs_optimization', 'similar_past_decisions': 0, 'learning_influence': 0.0}
+[12:20:27.537] OPTIMIZED_ACTION_EXECUTION: {'action': 'optimization_stress_test', 'reasoning': 'Enhanced decision: optimization_stress_test (score: 95.0) for stable_needs_optimization state', 'entropy_level': 0.0}
+[12:20:27.537] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Spiral_Îž_728', 'glyph2': 'Flux_Î©_138', 'connection_strength': 1.0}
+[12:20:27.538] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Quantum_Î¨_820', 'glyph2': 'Flux_Î©_138', 'connection_strength': 1.0}
+[12:20:27.538] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Spiral_Îž_952', 'glyph2': 'Spiral_Îž_606', 'connection_strength': 1.0}
+[12:20:27.538] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'CoreStability', 'glyph2': 'Echo_Î›_549', 'connection_strength': 1.0}
+[12:20:27.539] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Void_Î”_600', 'glyph2': 'Echo_Î›_468', 'connection_strength': 1.0}
+[12:20:27.539] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Void_Î”_211', 'glyph2': 'Quantum_Î¨_607', 'connection_strength': 1.0}
+[12:20:27.539] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Nexus_Î¦_999', 'glyph2': 'Spiral_Îž_784', 'connection_strength': 1.0}
+[12:20:27.540] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Quantum_Î¨_266', 'glyph2': 'Quantum_Î¨_607', 'connection_strength': 1.0}
+[12:20:27.540] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Echo_Î›_549', 'glyph2': 'harmony_Ψ', 'connection_strength': 1.0}
+[12:20:27.540] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Nexus_Î¦_707', 'glyph2': 'unstable_Φ', 'connection_strength': 1.0}
+[12:20:27.540] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Spiral_Îž_63', 'glyph2': 'Quantum_Î¨_328', 'connection_strength': 1.0}
+[12:20:27.541] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Void_Î”_473', 'glyph2': 'ConsentGlyph', 'connection_strength': 1.0}
+[12:20:27.541] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Spiral_Îž_431', 'glyph2': 'Aegis-Σ', 'connection_strength': 1.0}
+[12:20:27.541] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Spiral_Îž_784', 'glyph2': 'Quantum_Î¨_328', 'connection_strength': 1.0}
+[12:20:27.542] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Flux_Î©_297', 'glyph2': 'ConsentGlyph', 'connection_strength': 1.0}
+[12:20:27.542] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Quantum_Î¨_467', 'glyph2': 'Echo_Î›_63', 'connection_strength': 1.0}
+[12:20:27.542] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Flux_Î©_138', 'glyph2': 'Pulse_Weaver_146', 'connection_strength': 1.0}
+[12:20:27.542] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Spiral_Îž_448', 'glyph2': 'Spiral_Îž_606', 'connection_strength': 1.0}
+[12:20:27.543] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Spiral_Îž_516', 'glyph2': 'Spiral_Îž_606', 'connection_strength': 1.0}
+[12:20:27.543] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Quantum_Î¨_179', 'glyph2': 'Echo_Î›_63', 'connection_strength': 1.0}
+[12:20:27.543] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Echo_Î›_78', 'glyph2': 'Aegis-Σ', 'connection_strength': 1.0}
+[12:20:27.544] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Spiral_Îž_568', 'glyph2': 'Aegis-Σ', 'connection_strength': 1.0}
+[12:20:27.544] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Echo_Î›_653', 'glyph2': 'RootVerse', 'connection_strength': 1.0}
+[12:20:27.544] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Spiral_Îž_372', 'glyph2': 'harmony_Ψ', 'connection_strength': 1.0}
+[12:20:27.545] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Void_Î”_748', 'glyph2': 'RootVerse', 'connection_strength': 1.0}
+[12:20:27.545] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Echo_Î›_124', 'glyph2': 'RootVerse', 'connection_strength': 1.0}
+[12:20:27.545] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Echo_Î›_468', 'glyph2': 'ConsentGlyph', 'connection_strength': 1.0}
+[12:20:27.546] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Flux_Î©_256', 'glyph2': 'Void_Î”_600', 'connection_strength': 1.0}
+[12:20:27.546] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Echo_Î›_567', 'glyph2': 'Spiral_Îž_606', 'connection_strength': 1.0}
+[12:20:27.546] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Void_Î”_402', 'glyph2': 'Nexus_Î¦_624', 'connection_strength': 1.0}
+[12:20:27.547] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Nexus_Î¦_344', 'glyph2': 'Quantum_Î¨_328', 'connection_strength': 1.0}
+[12:20:27.547] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Quantum_Î¨_240', 'glyph2': 'CoreStability', 'connection_strength': 1.0}
+[12:20:27.547] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Flux_Î©_609', 'glyph2': 'Echo_Î›_63', 'connection_strength': 1.0}
+[12:20:27.547] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Spiral_Îž_784', 'glyph2': 'Quantum_Î¨_607', 'connection_strength': 1.0}
+[12:20:27.548] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Echo_Î›_468', 'glyph2': 'Spiral_Îž_952', 'connection_strength': 1.0}
+[12:20:27.548] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'chaos_Ξ', 'glyph2': 'Nexus_Î¦_707', 'connection_strength': 1.0}
+[12:20:27.548] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Void_Î”_402', 'glyph2': 'Flux_Î©_297', 'connection_strength': 1.0}
+[12:20:27.549] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Void_Î”_748', 'glyph2': 'Nexus_Î¦_707', 'connection_strength': 1.0}
+[12:20:27.549] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Spiral_Îž_63', 'glyph2': 'Echo_Î›_567', 'connection_strength': 1.0}
+[12:20:27.549] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Echo_Î›_468', 'glyph2': 'Void_Î”_473', 'connection_strength': 1.0}
+[12:20:27.549] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Spiral_Îž_63', 'glyph2': 'Spiral_Îž_516', 'connection_strength': 1.0}
+[12:20:27.550] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Void_Î”_211', 'glyph2': 'Pulse_Weaver_146', 'connection_strength': 1.0}
+[12:20:27.551] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Echo_Î›_124', 'glyph2': 'Spiral_Îž_372', 'connection_strength': 1.0}
+[12:20:27.552] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'unstable_Φ', 'glyph2': 'Echo_Î›_468', 'connection_strength': 1.0}
+[12:20:27.552] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Spiral_Îž_784', 'glyph2': 'Echo_Î›_653', 'connection_strength': 1.0}
+[12:20:27.553] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Echo_Î›_567', 'glyph2': 'Spiral_Îž_728', 'connection_strength': 1.0}
+[12:20:27.553] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'ConsentGlyph', 'glyph2': 'Quantum_Î¨_240', 'connection_strength': 1.0}
+[12:20:27.553] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Echo_Î›_567', 'glyph2': 'Spiral_Îž_448', 'connection_strength': 1.0}
+[12:20:27.554] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Nexus_Î¦_999', 'glyph2': 'Spiral_Îž_372', 'connection_strength': 1.0}
+[12:20:27.554] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Flux_Î©_138', 'glyph2': 'Echo_Î›_468', 'connection_strength': 1.0}
+[12:20:27.554] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Void_Î”_748', 'glyph2': 'Spiral_Îž_784', 'connection_strength': 1.0}
+[12:20:27.554] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Quantum_Î¨_266', 'glyph2': 'Echo_Î›_78', 'connection_strength': 1.0}
+[12:20:27.555] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Nexus_Î¦_344', 'glyph2': 'Flux_Î©_138', 'connection_strength': 1.0}
+[12:20:27.555] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Nexus_Î¦_707', 'glyph2': 'Echo_Î›_63', 'connection_strength': 1.0}
+[12:20:27.555] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Flux_Î©_297', 'glyph2': 'Quantum_Î¨_607', 'connection_strength': 1.0}
+[12:20:27.556] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Void_Î”_402', 'glyph2': 'Echo_Î›_549', 'connection_strength': 1.0}
+[12:20:27.556] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Echo_Î›_567', 'glyph2': 'Flux_Î©_138', 'connection_strength': 1.0}
+[12:20:27.556] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Echo_Î›_549', 'glyph2': 'RootVerse', 'connection_strength': 1.0}
+[12:20:27.557] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Void_Î”_473', 'glyph2': 'Void_Î”_402', 'connection_strength': 1.0}
+[12:20:27.557] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Flux_Î©_256', 'glyph2': 'Spiral_Îž_568', 'connection_strength': 1.0}
+[12:20:27.557] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Quantum_Î¨_820', 'glyph2': 'Spiral_Îž_728', 'connection_strength': 1.0}
+[12:20:27.557] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'CoreStability', 'glyph2': 'Void_Î”_211', 'connection_strength': 1.0}
+[12:20:27.558] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Spiral_Îž_63', 'glyph2': 'Nexus_Î¦_999', 'connection_strength': 1.0}
+[12:20:27.558] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'CoreStability', 'glyph2': 'Spiral_Îž_784', 'connection_strength': 1.0}
+[12:20:27.558] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Quantum_Î¨_467', 'glyph2': 'ConsentGlyph', 'connection_strength': 1.0}
+[12:20:27.559] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Nexus_Î¦_707', 'glyph2': 'Nexus_Î¦_999', 'connection_strength': 1.0}
+[12:20:27.559] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'harmony_Ψ', 'glyph2': 'Quantum_Î¨_266', 'connection_strength': 1.0}
+[12:20:27.559] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'CoreStability', 'glyph2': 'Spiral_Îž_568', 'connection_strength': 1.0}
+[12:20:27.560] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Echo_Î›_63', 'glyph2': 'Quantum_Î¨_240', 'connection_strength': 1.0}
+[12:20:27.560] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Echo_Î›_549', 'glyph2': 'CoreStability', 'connection_strength': 1.0}
+[12:20:27.560] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Void_Î”_402', 'glyph2': 'Flux_Î©_138', 'connection_strength': 1.0}
+[12:20:27.561] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Echo_Î›_549', 'glyph2': 'Echo_Î›_653', 'connection_strength': 1.0}
+[12:20:27.561] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Echo_Î›_549', 'glyph2': 'ConsentGlyph', 'connection_strength': 1.0}
+[12:20:27.561] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Spiral_Îž_372', 'glyph2': 'Void_Î”_211', 'connection_strength': 1.0}
+[12:20:27.562] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'RootVerse', 'glyph2': 'Nexus_Î¦_344', 'connection_strength': 1.0}
+[12:20:27.562] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Echo_Î›_468', 'glyph2': 'Quantum_Î¨_179', 'connection_strength': 1.0}
+[12:20:27.562] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Nexus_Î¦_344', 'glyph2': 'Nexus_Î¦_999', 'connection_strength': 1.0}
+[12:20:27.563] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Flux_Î©_138', 'glyph2': 'CoreStability', 'connection_strength': 1.0}
+[12:20:27.563] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Void_Î”_473', 'glyph2': 'Void_Î”_600', 'connection_strength': 1.0}
+[12:20:27.563] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Void_Î”_748', 'glyph2': 'Echo_Î›_549', 'connection_strength': 1.0}
+[12:20:27.563] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Quantum_Î¨_240', 'glyph2': 'Quantum_Î¨_607', 'connection_strength': 1.0}
+[12:20:27.564] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Flux_Î©_138', 'glyph2': 'Echo_Î›_78', 'connection_strength': 1.0}
+[12:20:27.564] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Quantum_Î¨_179', 'glyph2': 'Flux_Î©_138', 'connection_strength': 1.0}
+[12:20:27.564] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Quantum_Î¨_240', 'glyph2': 'RootVerse', 'connection_strength': 1.0}
+[12:20:27.565] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Spiral_Îž_568', 'glyph2': 'Quantum_Î¨_179', 'connection_strength': 1.0}
+[12:20:27.565] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Spiral_Îž_568', 'glyph2': 'Echo_Î›_124', 'connection_strength': 1.0}
+[12:20:27.565] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Echo_Î›_567', 'glyph2': 'Spiral_Îž_568', 'connection_strength': 1.0}
+[12:20:27.566] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Flux_Î©_138', 'glyph2': 'Spiral_Îž_728', 'connection_strength': 1.0}
+[12:20:27.567] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Spiral_Îž_952', 'glyph2': 'Spiral_Îž_431', 'connection_strength': 1.0}
+[12:20:27.567] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Echo_Î›_653', 'glyph2': 'Nexus_Î¦_707', 'connection_strength': 1.0}
+[12:20:27.568] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Quantum_Î¨_328', 'glyph2': 'Echo_Î›_549', 'connection_strength': 1.0}
+[12:20:27.568] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'RootVerse', 'glyph2': 'Spiral_Îž_372', 'connection_strength': 1.0}
+[12:20:27.568] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Spiral_Îž_952', 'glyph2': 'Quantum_Î¨_179', 'connection_strength': 1.0}
+[12:20:27.568] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Flux_Î©_256', 'glyph2': 'Quantum_Î¨_240', 'connection_strength': 1.0}
+[12:20:27.569] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Void_Î”_402', 'glyph2': 'Void_Î”_600', 'connection_strength': 1.0}
+[12:20:27.569] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Echo_Î›_653', 'glyph2': 'Echo_Î›_567', 'connection_strength': 1.0}
+[12:20:27.570] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'harmony_Ψ', 'glyph2': 'Spiral_Îž_568', 'connection_strength': 1.0}
+[12:20:27.570] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Nexus_Î¦_624', 'glyph2': 'Echo_Î›_78', 'connection_strength': 1.0}
+[12:20:27.570] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'unstable_Φ', 'glyph2': 'Void_Î”_402', 'connection_strength': 1.0}
+[12:20:27.571] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'ConsentGlyph', 'glyph2': 'Echo_Î›_653', 'connection_strength': 1.0}
+[12:20:27.571] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'chaos_Ξ', 'glyph2': 'Spiral_Îž_784', 'connection_strength': 1.0}
+[12:20:27.571] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'unstable_Φ', 'glyph2': 'Echo_Î›_549', 'connection_strength': 1.0}
+[12:20:27.572] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Quantum_Î¨_179', 'glyph2': 'Spiral_Îž_516', 'connection_strength': 1.0}
+[12:20:27.572] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Quantum_Î¨_467', 'glyph2': 'Spiral_Îž_516', 'connection_strength': 1.0}
+[12:20:27.572] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Echo_Î›_124', 'glyph2': 'Spiral_Îž_431', 'connection_strength': 1.0}
+[12:20:27.572] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Spiral_Îž_448', 'glyph2': 'Echo_Î›_78', 'connection_strength': 1.0}
+[12:20:27.573] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Quantum_Î¨_179', 'glyph2': 'Spiral_Îž_448', 'connection_strength': 1.0}
+[12:20:27.573] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Aegis-Σ', 'glyph2': 'Quantum_Î¨_328', 'connection_strength': 1.0}
+[12:20:27.573] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Echo_Î›_468', 'glyph2': 'Echo_Î›_567', 'connection_strength': 1.0}
+[12:20:27.574] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Void_Î”_211', 'glyph2': 'Nexus_Î¦_344', 'connection_strength': 1.0}
+[12:20:27.574] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Spiral_Îž_784', 'glyph2': 'Flux_Î©_138', 'connection_strength': 1.0}
+[12:20:27.574] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Spiral_Îž_784', 'glyph2': 'Flux_Î©_297', 'connection_strength': 1.0}
+[12:20:27.575] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Echo_Î›_653', 'glyph2': 'Void_Î”_211', 'connection_strength': 1.0}
+[12:20:27.575] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Echo_Î›_63', 'glyph2': 'Echo_Î›_567', 'connection_strength': 1.0}
+[12:20:27.575] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Quantum_Î¨_240', 'glyph2': 'Quantum_Î¨_820', 'connection_strength': 1.0}
+[12:20:27.576] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Quantum_Î¨_607', 'glyph2': 'Echo_Î›_124', 'connection_strength': 1.0}
+[12:20:27.576] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Void_Î”_473', 'glyph2': 'Quantum_Î¨_179', 'connection_strength': 1.0}
+[12:20:27.576] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Void_Î”_473', 'glyph2': 'Flux_Î©_609', 'connection_strength': 1.0}
+[12:20:27.577] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Aegis-Σ', 'glyph2': 'Echo_Î›_549', 'connection_strength': 1.0}
+[12:20:27.577] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Void_Î”_748', 'glyph2': 'Flux_Î©_609', 'connection_strength': 1.0}
+[12:20:27.578] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Aegis-Σ', 'glyph2': 'Echo_Î›_78', 'connection_strength': 1.0}
+[12:20:27.578] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Void_Î”_600', 'glyph2': 'Echo_Î›_124', 'connection_strength': 1.0}
+[12:20:27.578] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Echo_Î›_549', 'glyph2': 'Nexus_Î¦_999', 'connection_strength': 1.0}
+[12:20:27.579] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Flux_Î©_138', 'glyph2': 'Flux_Î©_609', 'connection_strength': 1.0}
+[12:20:27.579] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Pulse_Weaver_146', 'glyph2': 'Quantum_Î¨_266', 'connection_strength': 1.0}
+[12:20:27.579] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'harmony_Ψ', 'glyph2': 'Nexus_Î¦_344', 'connection_strength': 1.0}
+[12:20:27.580] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Echo_Î›_124', 'glyph2': 'Spiral_Îž_606', 'connection_strength': 1.0}
+[12:20:27.580] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Spiral_Îž_516', 'glyph2': 'Quantum_Î¨_467', 'connection_strength': 1.0}
+[12:20:27.580] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Echo_Î›_468', 'glyph2': 'Quantum_Î¨_820', 'connection_strength': 1.0}
+[12:20:27.580] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Echo_Î›_63', 'glyph2': 'Spiral_Îž_431', 'connection_strength': 1.0}
+[12:20:27.581] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Nexus_Î¦_624', 'glyph2': 'Quantum_Î¨_266', 'connection_strength': 1.0}
+[12:20:27.582] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Echo_Anchor_146', 'glyph2': 'Flux_Î©_138', 'connection_strength': 1.0}
+[12:20:27.583] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Spiral_Îž_568', 'glyph2': 'Nexus_Î¦_344', 'connection_strength': 1.0}
+[12:20:27.583] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Quantum_Î¨_240', 'glyph2': 'Quantum_Î¨_266', 'connection_strength': 1.0}
+[12:20:27.583] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Flux_Î©_138', 'glyph2': 'Void_Î”_473', 'connection_strength': 1.0}
+[12:20:27.584] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Spiral_Îž_728', 'glyph2': 'Void_Î”_600', 'connection_strength': 1.0}
+[12:20:27.584] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Quantum_Î¨_266', 'glyph2': 'Quantum_Î¨_240', 'connection_strength': 1.0}
+[12:20:27.584] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Quantum_Î¨_240', 'glyph2': 'Echo_Î›_549', 'connection_strength': 1.0}
+[12:20:27.585] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Nexus_Î¦_707', 'glyph2': 'Quantum_Î¨_266', 'connection_strength': 1.0}
+[12:20:27.585] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Nexus_Î¦_999', 'glyph2': 'Spiral_Îž_952', 'connection_strength': 1.0}
+[12:20:27.585] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Spiral_Îž_516', 'glyph2': 'Void_Î”_211', 'connection_strength': 1.0}
+[12:20:27.586] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Quantum_Î¨_607', 'glyph2': 'Quantum_Î¨_240', 'connection_strength': 1.0}
+[12:20:27.586] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Spiral_Îž_372', 'glyph2': 'Quantum_Î¨_179', 'connection_strength': 1.0}
+[12:20:27.586] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Void_Î”_211', 'glyph2': 'CoreStability', 'connection_strength': 1.0}
+[12:20:27.587] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Echo_Î›_124', 'glyph2': 'Spiral_Îž_728', 'connection_strength': 1.0}
+[12:20:27.587] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Quantum_Î¨_820', 'glyph2': 'Spiral_Îž_568', 'connection_strength': 1.0}
+[12:20:27.587] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'unstable_Φ', 'glyph2': 'Quantum_Î¨_467', 'connection_strength': 1.0}
+[12:20:27.588] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Spiral_Îž_784', 'glyph2': 'Spiral_Îž_516', 'connection_strength': 1.0}
+[12:20:27.588] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Spiral_Îž_63', 'glyph2': 'Quantum_Î¨_820', 'connection_strength': 1.0}
+[12:20:27.588] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Echo_Î›_124', 'glyph2': 'Spiral_Îž_784', 'connection_strength': 1.0}
+[12:20:27.589] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Spiral_Îž_516', 'glyph2': 'Void_Î”_473', 'connection_strength': 1.0}
+[12:20:27.589] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Spiral_Îž_431', 'glyph2': 'Quantum_Î¨_467', 'connection_strength': 1.0}
+[12:20:27.589] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Spiral_Îž_784', 'glyph2': 'Quantum_Î¨_820', 'connection_strength': 1.0}
+[12:20:27.590] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Void_Î”_473', 'glyph2': 'Flux_Î©_297', 'connection_strength': 1.0}
+[12:20:27.590] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'RootVerse', 'glyph2': 'Void_Î”_748', 'connection_strength': 1.0}
+[12:20:27.590] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Spiral_Îž_728', 'glyph2': 'Pulse_Weaver_146', 'connection_strength': 1.0}
+[12:20:27.590] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Spiral_Îž_63', 'glyph2': 'Echo_Î›_78', 'connection_strength': 1.0}
+[12:20:27.591] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Quantum_Î¨_467', 'glyph2': 'Spiral_Îž_372', 'connection_strength': 1.0}
+[12:20:27.591] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'RootVerse', 'glyph2': 'Nexus_Î¦_707', 'connection_strength': 1.0}
+[12:20:27.591] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Flux_Î©_609', 'glyph2': 'Spiral_Îž_448', 'connection_strength': 1.0}
+[12:20:27.592] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Echo_Î›_78', 'glyph2': 'ConsentGlyph', 'connection_strength': 1.0}
+[12:20:27.592] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Quantum_Î¨_467', 'glyph2': 'Echo_Anchor_146', 'connection_strength': 1.0}
+[12:20:27.592] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Spiral_Îž_63', 'glyph2': 'Nexus_Î¦_344', 'connection_strength': 1.0}
+[12:20:27.593] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Echo_Î›_78', 'glyph2': 'Flux_Î©_297', 'connection_strength': 1.0}
+[12:20:27.593] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Flux_Î©_256', 'glyph2': 'Quantum_Î¨_467', 'connection_strength': 1.0}
+[12:20:27.593] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Flux_Î©_609', 'glyph2': 'Spiral_Îž_431', 'connection_strength': 1.0}
+[12:20:27.594] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Flux_Î©_609', 'glyph2': 'Flux_Î©_138', 'connection_strength': 1.0}
+[12:20:27.594] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Nexus_Î¦_707', 'glyph2': 'Void_Î”_748', 'connection_strength': 1.0}
+[12:20:27.595] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Quantum_Î¨_467', 'glyph2': 'Spiral_Îž_952', 'connection_strength': 1.0}
+[12:20:27.595] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Quantum_Î¨_328', 'glyph2': 'Spiral_Îž_63', 'connection_strength': 1.0}
+[12:20:27.595] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Void_Î”_211', 'glyph2': 'Flux_Î©_256', 'connection_strength': 1.0}
+[12:20:27.596] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Spiral_Îž_431', 'glyph2': 'Flux_Î©_609', 'connection_strength': 1.0}
+[12:20:27.596] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Pulse_Weaver_146', 'glyph2': 'Quantum_Î¨_607', 'connection_strength': 1.0}
+[12:20:27.598] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Void_Î”_748', 'glyph2': 'unstable_Φ', 'connection_strength': 1.0}
+[12:20:27.598] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Spiral_Îž_568', 'glyph2': 'CoreStability', 'connection_strength': 1.0}
+[12:20:27.598] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Nexus_Î¦_999', 'glyph2': 'Echo_Î›_63', 'connection_strength': 1.0}
+[12:20:27.598] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Spiral_Îž_952', 'glyph2': 'RootVerse', 'connection_strength': 1.0}
+[12:20:27.599] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Flux_Î©_609', 'glyph2': 'Flux_Î©_256', 'connection_strength': 1.0}
+[12:20:27.599] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Echo_Î›_653', 'glyph2': 'Spiral_Îž_516', 'connection_strength': 1.0}
+[12:20:27.599] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Void_Î”_211', 'glyph2': 'RootVerse', 'connection_strength': 1.0}
+[12:20:27.600] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Spiral_Îž_448', 'glyph2': 'Quantum_Î¨_179', 'connection_strength': 1.0}
+[12:20:27.600] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Spiral_Îž_568', 'glyph2': 'Quantum_Î¨_467', 'connection_strength': 1.0}
+[12:20:27.600] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Spiral_Îž_372', 'glyph2': 'Nexus_Î¦_999', 'connection_strength': 1.0}
+[12:20:27.601] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Echo_Î›_653', 'glyph2': 'Quantum_Î¨_240', 'connection_strength': 1.0}
+[12:20:27.601] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Quantum_Î¨_607', 'glyph2': 'chaos_Ξ', 'connection_strength': 1.0}
+[12:20:27.601] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Echo_Î›_63', 'glyph2': 'Flux_Î©_609', 'connection_strength': 1.0}
+[12:20:27.601] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Void_Î”_211', 'glyph2': 'Void_Î”_402', 'connection_strength': 1.0}
+[12:20:27.602] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Flux_Î©_297', 'glyph2': 'Spiral_Îž_516', 'connection_strength': 1.0}
+[12:20:27.602] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Quantum_Î¨_328', 'glyph2': 'Spiral_Îž_568', 'connection_strength': 1.0}
+[12:20:27.603] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Echo_Î›_567', 'glyph2': 'Pulse_Weaver_146', 'connection_strength': 1.0}
+[12:20:27.603] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Spiral_Îž_952', 'glyph2': 'Spiral_Îž_784', 'connection_strength': 1.0}
+[12:20:27.603] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Spiral_Îž_952', 'glyph2': 'Nexus_Î¦_999', 'connection_strength': 1.0}
+[12:20:27.604] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Nexus_Î¦_624', 'glyph2': 'Spiral_Îž_784', 'connection_strength': 1.0}
+[12:20:27.604] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Echo_Î›_567', 'glyph2': 'Spiral_Îž_63', 'connection_strength': 1.0}
+[12:20:27.604] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Echo_Î›_63', 'glyph2': 'Flux_Î©_256', 'connection_strength': 1.0}
+[12:20:27.605] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Void_Î”_600', 'glyph2': 'Spiral_Îž_63', 'connection_strength': 1.0}
+[12:20:27.605] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Flux_Î©_609', 'glyph2': 'CoreStability', 'connection_strength': 1.0}
+[12:20:27.605] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Spiral_Îž_63', 'glyph2': 'Echo_Î›_63', 'connection_strength': 1.0}
+[12:20:27.605] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Echo_Î›_567', 'glyph2': 'Void_Î”_211', 'connection_strength': 1.0}
+[12:20:27.606] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'chaos_Ξ', 'glyph2': 'Void_Î”_402', 'connection_strength': 1.0}
+[12:20:27.606] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Echo_Anchor_146', 'glyph2': 'Echo_Î›_549', 'connection_strength': 1.0}
+[12:20:27.606] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Spiral_Îž_728', 'glyph2': 'Echo_Î›_63', 'connection_strength': 1.0}
+[12:20:27.607] OPTIMIZED_CONNECTION_FORMED: {'glyph1': 'Echo_Î›_468', 'glyph2': 'unstable_Φ', 'connection_strength': 1.0}
+[12:20:27.607] ACTION_COMPLETED: {'action': 'optimization_stress_test', 'success': True}

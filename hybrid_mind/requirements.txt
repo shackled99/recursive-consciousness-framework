@@ -1,0 +1,19 @@
+# Hybrid Mind Requirements
+
+# Core dependencies
+# None! Python standard library only
+
+# External requirements:
+# - Ollama running locally with llama3:8b model
+#   Install: https://ollama.ai
+#   Download model: ollama pull llama3:8b
+#   Start server: ollama serve
+
+# System Requirements:
+# - Python 3.8 or higher
+# - RAM: 8GB minimum (16GB recommended for llama3:8b)
+# - Disk: ~5GB for model storage
+# - OS: Mac, Linux, or Windows
+
+# Optional (for extended features):
+# requests  # If using HTTP API instead of subprocess calls

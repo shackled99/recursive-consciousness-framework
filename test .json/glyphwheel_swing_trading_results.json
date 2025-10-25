@@ -1,0 +1,614 @@
+{
+  "metadata": {
+    "start_date": "2020-01-01",
+    "end_date": "2020-12-14",
+    "starting_cash": 1000.0,
+    "tickers_traded": 49
+  },
+  "final_performance": {
+    "initial_value": 1000.0,
+    "final_value": 1195.2289772033691,
+    "total_return": 195.22897720336914,
+    "return_pct": 19.522897720336914,
+    "total_trades": 54,
+    "buy_trades": 41,
+    "sell_trades": 13,
+    "final_holdings": 1,
+    "final_cash": 996.1890296936035
+  },
+  "trading_log": [
+    {
+      "date": "2020-01-09",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 3,
+      "price": 77.40750122070312,
+      "reasoning": "Strong buy signal: GSI=1.000, Connections=3, Strength=0.720"
+    },
+    {
+      "date": "2020-01-16",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 2,
+      "price": 78.80999755859375,
+      "reasoning": "Strong buy signal: GSI=0.995, Connections=3, Strength=0.717"
+    },
+    {
+      "date": "2020-01-24",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 2,
+      "price": 79.57749938964844,
+      "reasoning": "Strong buy signal: GSI=0.997, Connections=3, Strength=0.718"
+    },
+    {
+      "date": "2020-01-31",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 1,
+      "price": 77.37750244140625,
+      "reasoning": "Strong buy signal: GSI=0.954, Connections=3, Strength=0.693"
+    },
+    {
+      "date": "2020-02-07",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 1,
+      "price": 80.00749969482422,
+      "reasoning": "Strong buy signal: GSI=0.984, Connections=3, Strength=0.710"
+    },
+    {
+      "date": "2020-02-14",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 1,
+      "price": 81.23750305175781,
+      "reasoning": "Strong buy signal: GSI=0.993, Connections=3, Strength=0.716"
+    },
+    {
+      "date": "2020-02-24",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 10,
+      "price": 74.54499816894531,
+      "entry_price": 78.7620002746582,
+      "profit_pct": -5.3541074261793735,
+      "days_held": 5,
+      "reasoning": "Stop loss (-5.4%)"
+    },
+    {
+      "date": "2020-02-24",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 3,
+      "price": 74.54499816894531,
+      "reasoning": "Strong buy signal: GSI=0.909, Connections=3, Strength=0.665"
+    },
+    {
+      "date": "2020-03-02",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 2,
+      "price": 74.70249938964844,
+      "reasoning": "Strong buy signal: GSI=0.918, Connections=3, Strength=0.671"
+    },
+    {
+      "date": "2020-03-09",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 5,
+      "price": 66.5425033569336,
+      "entry_price": 74.60799865722656,
+      "profit_pct": -10.810496790496254,
+      "days_held": 5,
+      "reasoning": "Stop loss (-10.8%)"
+    },
+    {
+      "date": "2020-03-09",
+      "action": "BUY",
+      "ticker": "MSFT",
+      "shares": 1,
+      "price": 150.6199951171875,
+      "reasoning": "Strong buy signal: GSI=0.787, Connections=5, Strength=0.672"
+    },
+    {
+      "date": "2020-03-16",
+      "action": "SELL",
+      "ticker": "MSFT",
+      "shares": 1,
+      "price": 135.4199981689453,
+      "entry_price": 150.6199951171875,
+      "profit_pct": -10.091619599652804,
+      "days_held": 5,
+      "reasoning": "Stop loss (-10.1%)"
+    },
+    {
+      "date": "2020-03-16",
+      "action": "BUY",
+      "ticker": "GOOGL",
+      "shares": 5,
+      "price": 53.650001525878906,
+      "reasoning": "Strong buy signal: GSI=0.691, Connections=7, Strength=0.694"
+    },
+    {
+      "date": "2020-03-23",
+      "action": "BUY",
+      "ticker": "GOOGL",
+      "shares": 3,
+      "price": 52.70650100708008,
+      "reasoning": "Strong buy signal: GSI=0.675, Connections=7, Strength=0.685"
+    },
+    {
+      "date": "2020-04-06",
+      "action": "SELL",
+      "ticker": "GOOGL",
+      "shares": 8,
+      "price": 59.15950012207031,
+      "entry_price": 53.296188831329346,
+      "profit_pct": 11.001370678299438,
+      "days_held": 10,
+      "reasoning": "Take profit (11.0%)"
+    },
+    {
+      "date": "2020-04-06",
+      "action": "BUY",
+      "ticker": "MSFT",
+      "shares": 1,
+      "price": 165.27000427246094,
+      "reasoning": "Strong buy signal: GSI=0.932, Connections=5, Strength=0.759"
+    },
+    {
+      "date": "2020-04-14",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 3,
+      "price": 71.76249694824219,
+      "reasoning": "Strong buy signal: GSI=0.934, Connections=3, Strength=0.680"
+    },
+    {
+      "date": "2020-04-21",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 3,
+      "price": 67.09249877929688,
+      "entry_price": 71.76249694824219,
+      "profit_pct": -6.5075748023560145,
+      "days_held": 5,
+      "reasoning": "Stop loss (-6.5%)"
+    },
+    {
+      "date": "2020-04-21",
+      "action": "BUY",
+      "ticker": "MSFT",
+      "shares": 1,
+      "price": 167.82000732421875,
+      "reasoning": "Strong buy signal: GSI=0.939, Connections=5, Strength=0.763"
+    },
+    {
+      "date": "2020-04-28",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 2,
+      "price": 69.6449966430664,
+      "reasoning": "Strong buy signal: GSI=0.906, Connections=3, Strength=0.664"
+    },
+    {
+      "date": "2020-05-05",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 1,
+      "price": 74.38999938964844,
+      "reasoning": "Strong buy signal: GSI=0.973, Connections=3, Strength=0.704"
+    },
+    {
+      "date": "2020-05-07",
+      "action": "SELL",
+      "ticker": "MSFT",
+      "shares": 2,
+      "price": 183.60000610351562,
+      "entry_price": 166.54500579833984,
+      "profit_pct": 10.24047537386185,
+      "days_held": 12,
+      "reasoning": "Take profit (10.2%)"
+    },
+    {
+      "date": "2020-05-12",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 2,
+      "price": 77.85250091552734,
+      "reasoning": "Strong buy signal: GSI=0.989, Connections=3, Strength=0.713"
+    },
+    {
+      "date": "2020-05-19",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 2,
+      "price": 78.28500366210938,
+      "reasoning": "Strong buy signal: GSI=0.994, Connections=3, Strength=0.717"
+    },
+    {
+      "date": "2020-05-27",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 1,
+      "price": 79.52749633789062,
+      "reasoning": "Strong buy signal: GSI=0.997, Connections=3, Strength=0.718"
+    },
+    {
+      "date": "2020-06-03",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 1,
+      "price": 81.27999877929688,
+      "reasoning": "Strong buy signal: GSI=1.000, Connections=3, Strength=0.720"
+    },
+    {
+      "date": "2020-06-10",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 9,
+      "price": 88.20999908447266,
+      "entry_price": 76.30694410536024,
+      "profit_pct": 15.598914513831607,
+      "days_held": 5,
+      "reasoning": "Take profit (15.6%)"
+    },
+    {
+      "date": "2020-06-10",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 3,
+      "price": 88.20999908447266,
+      "reasoning": "Strong buy signal: GSI=1.000, Connections=3, Strength=0.720"
+    },
+    {
+      "date": "2020-06-17",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 2,
+      "price": 87.89749908447266,
+      "reasoning": "Strong buy signal: GSI=0.998, Connections=3, Strength=0.719"
+    },
+    {
+      "date": "2020-06-24",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 2,
+      "price": 90.01499938964844,
+      "reasoning": "Strong buy signal: GSI=0.982, Connections=3, Strength=0.709"
+    },
+    {
+      "date": "2020-07-01",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 1,
+      "price": 91.02749633789062,
+      "reasoning": "Strong buy signal: GSI=0.994, Connections=3, Strength=0.717"
+    },
+    {
+      "date": "2020-07-09",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 1,
+      "price": 95.75250244140625,
+      "reasoning": "Strong buy signal: GSI=1.000, Connections=3, Strength=0.720"
+    },
+    {
+      "date": "2020-07-31",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 9,
+      "price": 106.26000213623047,
+      "entry_price": 89.69277699788411,
+      "profit_pct": 18.471080607457598,
+      "days_held": 16,
+      "reasoning": "Take profit (18.5%)"
+    },
+    {
+      "date": "2020-08-06",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 3,
+      "price": 113.90249633789062,
+      "reasoning": "Strong buy signal: GSI=1.000, Connections=3, Strength=0.720"
+    },
+    {
+      "date": "2020-08-13",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 2,
+      "price": 115.01000213623047,
+      "reasoning": "Strong buy signal: GSI=1.000, Connections=3, Strength=0.720"
+    },
+    {
+      "date": "2020-08-20",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 1,
+      "price": 118.2750015258789,
+      "reasoning": "Strong buy signal: GSI=1.000, Connections=3, Strength=0.720"
+    },
+    {
+      "date": "2020-08-27",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 1,
+      "price": 125.01000213623047,
+      "reasoning": "Strong buy signal: GSI=0.988, Connections=3, Strength=0.713"
+    },
+    {
+      "date": "2020-09-03",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 1,
+      "price": 120.87999725341797,
+      "reasoning": "Strong buy signal: GSI=0.899, Connections=3, Strength=0.660"
+    },
+    {
+      "date": "2020-09-17",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 8,
+      "price": 110.33999633789062,
+      "entry_price": 116.98656177520752,
+      "profit_pct": -5.681477715439171,
+      "days_held": 9,
+      "reasoning": "Stop loss (-5.7%)"
+    },
+    {
+      "date": "2020-09-18",
+      "action": "BUY",
+      "ticker": "MSFT",
+      "shares": 1,
+      "price": 200.38999938964844,
+      "reasoning": "Strong buy signal: GSI=0.860, Connections=5, Strength=0.716"
+    },
+    {
+      "date": "2020-09-25",
+      "action": "BUY",
+      "ticker": "MSFT",
+      "shares": 1,
+      "price": 207.82000732421875,
+      "reasoning": "Strong buy signal: GSI=0.898, Connections=5, Strength=0.739"
+    },
+    {
+      "date": "2020-10-02",
+      "action": "BUY",
+      "ticker": "MSFT",
+      "shares": 1,
+      "price": 206.19000244140625,
+      "reasoning": "Strong buy signal: GSI=0.891, Connections=5, Strength=0.735"
+    },
+    {
+      "date": "2020-10-16",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 1,
+      "price": 119.0199966430664,
+      "reasoning": "Strong buy signal: GSI=0.896, Connections=3, Strength=0.657"
+    },
+    {
+      "date": "2020-10-28",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 1,
+      "price": 111.19999694824219,
+      "entry_price": 119.0199966430664,
+      "profit_pct": -6.57032424414858,
+      "days_held": 8,
+      "reasoning": "Stop loss (-6.6%)"
+    },
+    {
+      "date": "2020-10-30",
+      "action": "SELL",
+      "ticker": "MSFT",
+      "shares": 3,
+      "price": 202.47000122070312,
+      "entry_price": 204.8000030517578,
+      "profit_pct": -1.1376961896166773,
+      "days_held": 20,
+      "reasoning": "Max hold time (20 days)"
+    },
+    {
+      "date": "2020-10-30",
+      "action": "BUY",
+      "ticker": "MSFT",
+      "shares": 1,
+      "price": 202.47000122070312,
+      "reasoning": "Strong buy signal: GSI=0.876, Connections=5, Strength=0.726"
+    },
+    {
+      "date": "2020-11-06",
+      "action": "SELL",
+      "ticker": "MSFT",
+      "shares": 1,
+      "price": 223.72000122070312,
+      "entry_price": 202.47000122070312,
+      "profit_pct": 10.495381968628708,
+      "days_held": 5,
+      "reasoning": "Take profit (10.5%)"
+    },
+    {
+      "date": "2020-11-06",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 2,
+      "price": 118.69000244140625,
+      "reasoning": "Strong buy signal: GSI=0.899, Connections=3, Strength=0.659"
+    },
+    {
+      "date": "2020-11-13",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 2,
+      "price": 119.26000213623047,
+      "reasoning": "Strong buy signal: GSI=0.904, Connections=3, Strength=0.662"
+    },
+    {
+      "date": "2020-11-20",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 1,
+      "price": 117.33999633789062,
+      "reasoning": "Strong buy signal: GSI=0.888, Connections=3, Strength=0.653"
+    },
+    {
+      "date": "2020-11-30",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 1,
+      "price": 119.05000305175781,
+      "reasoning": "Strong buy signal: GSI=0.903, Connections=3, Strength=0.662"
+    },
+    {
+      "date": "2020-12-07",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 1,
+      "price": 123.75,
+      "reasoning": "Strong buy signal: GSI=0.943, Connections=3, Strength=0.686"
+    },
+    {
+      "date": "2020-12-22",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 7,
+      "price": 131.8800048828125,
+      "entry_price": 119.43428693498883,
+      "profit_pct": 10.42055700018387,
+      "days_held": 11,
+      "reasoning": "Take profit (10.4%)"
+    },
+    {
+      "date": "2020-12-29",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 2,
+      "price": 134.8699951171875,
+      "reasoning": "Strong buy signal: GSI=0.987, Connections=3, Strength=0.712"
+    }
+  ],
+  "performance_history": [
+    {
+      "initial_value": 1000.0,
+      "current_value": 992.64501953125,
+      "total_return": -7.35498046875,
+      "return_percentage": -0.735498046875,
+      "cash": 373.625,
+      "holdings_count": 1,
+      "total_transactions": 4,
+      "date": "2020-01-31"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 958.3024826049805,
+      "total_return": -41.69751739501953,
+      "return_percentage": -4.169751739501954,
+      "cash": 584.7899856567383,
+      "holdings_count": 1,
+      "total_transactions": 9,
+      "date": "2020-03-02"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 934.4569816589355,
+      "total_return": -65.54301834106445,
+      "return_percentage": -6.554301834106445,
+      "cash": 475.9329948425293,
+      "holdings_count": 1,
+      "total_transactions": 14,
+      "date": "2020-03-30"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 941.7289848327637,
+      "total_return": -58.27101516723633,
+      "return_percentage": -5.8271015167236335,
+      "cash": 462.81899642944336,
+      "holdings_count": 2,
+      "total_transactions": 20,
+      "date": "2020-04-28"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 1000.0464744567871,
+      "total_return": 0.046474456787109375,
+      "return_percentage": 0.004647445678710937,
+      "cash": 363.8265037536621,
+      "holdings_count": 1,
+      "total_transactions": 25,
+      "date": "2020-05-27"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 1086.086498260498,
+      "total_return": 86.08649826049805,
+      "return_percentage": 8.608649826049804,
+      "cash": 455.981502532959,
+      "holdings_count": 1,
+      "total_transactions": 30,
+      "date": "2020-06-24"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 1104.8065147399902,
+      "total_return": 104.80651473999023,
+      "return_percentage": 10.480651473999023,
+      "cash": 269.2015037536621,
+      "holdings_count": 1,
+      "total_transactions": 32,
+      "date": "2020-07-23"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 1245.189037322998,
+      "total_return": 245.18903732299805,
+      "return_percentage": 24.518903732299805,
+      "cash": 535.5390281677246,
+      "holdings_count": 1,
+      "total_transactions": 36,
+      "date": "2020-08-20"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 1172.3689994812012,
+      "total_return": 172.36899948120117,
+      "return_percentage": 17.23689994812012,
+      "cash": 971.9790000915527,
+      "holdings_count": 1,
+      "total_transactions": 40,
+      "date": "2020-09-18"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 1216.9490013122559,
+      "total_return": 216.94900131225586,
+      "return_percentage": 21.694900131225587,
+      "cash": 438.9489936828613,
+      "holdings_count": 2,
+      "total_transactions": 43,
+      "date": "2020-10-16"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 1179.9489936828613,
+      "total_return": 179.94899368286133,
+      "return_percentage": 17.994899368286134,
+      "cash": 702.9089851379395,
+      "holdings_count": 1,
+      "total_transactions": 49,
+      "date": "2020-11-13"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 1195.2289772033691,
+      "total_return": 195.22897720336914,
+      "return_percentage": 19.522897720336914,
+      "cash": 342.768985748291,
+      "holdings_count": 1,
+      "total_transactions": 52,
+      "date": "2020-12-14"
+    }
+  ]
+}

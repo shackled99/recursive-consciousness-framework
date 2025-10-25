@@ -1,0 +1,1627 @@
+{
+  "metadata": {
+    "start_date": "2015-01-01",
+    "end_date": "2020-12-16",
+    "starting_cash": 1000.0,
+    "tickers_traded": 99
+  },
+  "final_performance": {
+    "initial_value": 1000.0,
+    "final_value": 3400.2218856811523,
+    "total_return": 2400.2218856811523,
+    "return_pct": 240.0221885681152,
+    "total_trades": 13,
+    "buy_trades": 13,
+    "sell_trades": 0,
+    "final_holdings": 2,
+    "final_cash": 85.6784896850586
+  },
+  "trading_log": [
+    {
+      "date": "2015-01-09",
+      "action": "BUY",
+      "ticker": "GOOGL",
+      "shares": 7,
+      "price": 25.035999298095703,
+      "reasoning": "Strong buy signal: GSI=0.945, Connections=4, Strength=0.727"
+    },
+    {
+      "date": "2015-01-16",
+      "action": "BUY",
+      "ticker": "GOOGL",
+      "shares": 6,
+      "price": 25.523000717163086,
+      "reasoning": "Strong buy signal: GSI=0.964, Connections=4, Strength=0.738"
+    },
+    {
+      "date": "2015-01-26",
+      "action": "BUY",
+      "ticker": "GOOGL",
+      "shares": 5,
+      "price": 26.836000442504883,
+      "reasoning": "Strong buy signal: GSI=0.990, Connections=4, Strength=0.754"
+    },
+    {
+      "date": "2015-02-02",
+      "action": "BUY",
+      "ticker": "GOOGL",
+      "shares": 4,
+      "price": 26.610000610351562,
+      "reasoning": "Strong buy signal: GSI=0.984, Connections=4, Strength=0.750"
+    },
+    {
+      "date": "2015-02-09",
+      "action": "BUY",
+      "ticker": "GOOGL",
+      "shares": 3,
+      "price": 26.464000701904297,
+      "reasoning": "Strong buy signal: GSI=0.978, Connections=4, Strength=0.747"
+    },
+    {
+      "date": "2015-02-17",
+      "action": "BUY",
+      "ticker": "GOOGL",
+      "shares": 2,
+      "price": 27.250499725341797,
+      "reasoning": "Strong buy signal: GSI=0.989, Connections=4, Strength=0.753"
+    },
+    {
+      "date": "2015-02-24",
+      "action": "BUY",
+      "ticker": "GOOGL",
+      "shares": 2,
+      "price": 26.9325008392334,
+      "reasoning": "Strong buy signal: GSI=0.977, Connections=4, Strength=0.746"
+    },
+    {
+      "date": "2015-03-03",
+      "action": "BUY",
+      "ticker": "GOOGL",
+      "shares": 1,
+      "price": 28.93950080871582,
+      "reasoning": "Strong buy signal: GSI=1.000, Connections=4, Strength=0.760"
+    },
+    {
+      "date": "2015-03-10",
+      "action": "BUY",
+      "ticker": "GOOGL",
+      "shares": 1,
+      "price": 27.99250030517578,
+      "reasoning": "Strong buy signal: GSI=0.963, Connections=4, Strength=0.738"
+    },
+    {
+      "date": "2015-03-17",
+      "action": "BUY",
+      "ticker": "GOOGL",
+      "shares": 1,
+      "price": 27.88050079345703,
+      "reasoning": "Strong buy signal: GSI=0.959, Connections=4, Strength=0.735"
+    },
+    {
+      "date": "2015-03-24",
+      "action": "BUY",
+      "ticker": "GOOGL",
+      "shares": 1,
+      "price": 28.87700080871582,
+      "reasoning": "Strong buy signal: GSI=0.994, Connections=4, Strength=0.757"
+    },
+    {
+      "date": "2018-11-21",
+      "action": "BUY",
+      "ticker": "TSLA",
+      "shares": 1,
+      "price": 22.54599952697754,
+      "reasoning": "Strong buy signal: GSI=0.873, Connections=4, Strength=0.684"
+    },
+    {
+      "date": "2018-12-21",
+      "action": "BUY",
+      "ticker": "TSLA",
+      "shares": 1,
+      "price": 21.31800079345703,
+      "reasoning": "Strong buy signal: GSI=0.825, Connections=4, Strength=0.655"
+    }
+  ],
+  "performance_history": [
+    {
+      "initial_value": 1000.0,
+      "current_value": 1003.4090099334717,
+      "total_return": 3.4090099334716797,
+      "return_percentage": 0.340900993347168,
+      "cash": 671.6100006103516,
+      "holdings_count": 1,
+      "total_transactions": 2,
+      "date": "2015-01-16"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 1016.4100093841553,
+      "total_return": 16.410009384155273,
+      "return_percentage": 1.6410009384155273,
+      "cash": 430.9899959564209,
+      "holdings_count": 1,
+      "total_transactions": 4,
+      "date": "2015-02-02"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 1032.860486984253,
+      "total_return": 32.86048698425293,
+      "return_percentage": 3.2860486984252932,
+      "cash": 297.0969944000244,
+      "holdings_count": 1,
+      "total_transactions": 6,
+      "date": "2015-02-17"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 1082.4775161743164,
+      "total_return": 82.4775161743164,
+      "return_percentage": 8.247751617431641,
+      "cash": 214.2924919128418,
+      "holdings_count": 1,
+      "total_transactions": 8,
+      "date": "2015-03-03"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 1050.595516204834,
+      "total_return": 50.595516204833984,
+      "return_percentage": 5.059551620483398,
+      "cash": 158.41949081420898,
+      "holdings_count": 1,
+      "total_transactions": 10,
+      "date": "2015-03-17"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 1044.7975101470947,
+      "total_return": 44.79751014709473,
+      "return_percentage": 4.479751014709472,
+      "cash": 129.54249000549316,
+      "holdings_count": 1,
+      "total_transactions": 11,
+      "date": "2015-03-31"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 1022.2584915161133,
+      "total_return": 22.25849151611328,
+      "return_percentage": 2.225849151611328,
+      "cash": 129.54249000549316,
+      "holdings_count": 1,
+      "total_transactions": 11,
+      "date": "2015-04-15"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 1055.835988998413,
+      "total_return": 55.835988998413086,
+      "return_percentage": 5.583598899841308,
+      "cash": 129.54249000549316,
+      "holdings_count": 1,
+      "total_transactions": 11,
+      "date": "2015-04-29"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 1019.7010116577148,
+      "total_return": 19.701011657714844,
+      "return_percentage": 1.9701011657714846,
+      "cash": 129.54249000549316,
+      "holdings_count": 1,
+      "total_transactions": 11,
+      "date": "2015-05-13"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 1043.9394779205322,
+      "total_return": 43.93947792053223,
+      "return_percentage": 4.393947792053223,
+      "cash": 129.54249000549316,
+      "holdings_count": 1,
+      "total_transactions": 11,
+      "date": "2015-05-28"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 1037.1085166931152,
+      "total_return": 37.108516693115234,
+      "return_percentage": 3.7108516693115234,
+      "cash": 129.54249000549316,
+      "holdings_count": 1,
+      "total_transactions": 11,
+      "date": "2015-06-11"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 1050.1599597930908,
+      "total_return": 50.15995979309082,
+      "return_percentage": 5.015995979309082,
+      "cash": 129.54249000549316,
+      "holdings_count": 1,
+      "total_transactions": 11,
+      "date": "2015-06-25"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 1047.1239910125732,
+      "total_return": 47.12399101257324,
+      "return_percentage": 4.712399101257325,
+      "cash": 129.54249000549316,
+      "holdings_count": 1,
+      "total_transactions": 11,
+      "date": "2015-07-10"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 1209.9129467010498,
+      "total_return": 209.9129467010498,
+      "return_percentage": 20.99129467010498,
+      "cash": 129.54249000549316,
+      "holdings_count": 1,
+      "total_transactions": 11,
+      "date": "2015-07-24"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 1225.786039352417,
+      "total_return": 225.786039352417,
+      "return_percentage": 22.5786039352417,
+      "cash": 129.54249000549316,
+      "holdings_count": 1,
+      "total_transactions": 11,
+      "date": "2015-08-07"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 1192.191987991333,
+      "total_return": 192.191987991333,
+      "return_percentage": 19.2191987991333,
+      "cash": 129.54249000549316,
+      "holdings_count": 1,
+      "total_transactions": 11,
+      "date": "2015-08-21"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 1167.326488494873,
+      "total_return": 167.32648849487305,
+      "return_percentage": 16.732648849487305,
+      "cash": 129.54249000549316,
+      "holdings_count": 1,
+      "total_transactions": 11,
+      "date": "2015-09-04"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 1230.0594577789307,
+      "total_return": 230.05945777893066,
+      "return_percentage": 23.005945777893068,
+      "cash": 129.54249000549316,
+      "holdings_count": 1,
+      "total_transactions": 11,
+      "date": "2015-09-21"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 1237.8144779205322,
+      "total_return": 237.81447792053223,
+      "return_percentage": 23.78144779205322,
+      "cash": 129.54249000549316,
+      "holdings_count": 1,
+      "total_transactions": 11,
+      "date": "2015-10-05"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 1284.4600353240967,
+      "total_return": 284.4600353240967,
+      "return_percentage": 28.44600353240967,
+      "cash": 129.54249000549316,
+      "holdings_count": 1,
+      "total_transactions": 11,
+      "date": "2015-10-19"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 1363.3135242462158,
+      "total_return": 363.3135242462158,
+      "return_percentage": 36.331352424621585,
+      "cash": 129.54249000549316,
+      "holdings_count": 1,
+      "total_transactions": 11,
+      "date": "2015-11-02"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 1367.735486984253,
+      "total_return": 367.73548698425293,
+      "return_percentage": 36.773548698425294,
+      "cash": 129.54249000549316,
+      "holdings_count": 1,
+      "total_transactions": 11,
+      "date": "2015-11-16"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 1422.7959537506104,
+      "total_return": 422.79595375061035,
+      "return_percentage": 42.279595375061035,
+      "cash": 129.54249000549316,
+      "holdings_count": 1,
+      "total_transactions": 11,
+      "date": "2015-12-01"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 1383.6910343170166,
+      "total_return": 383.6910343170166,
+      "return_percentage": 38.36910343170166,
+      "cash": 129.54249000549316,
+      "holdings_count": 1,
+      "total_transactions": 11,
+      "date": "2015-12-15"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 1433.5374698638916,
+      "total_return": 433.5374698638916,
+      "return_percentage": 43.353746986389154,
+      "cash": 129.54249000549316,
+      "holdings_count": 1,
+      "total_transactions": 11,
+      "date": "2015-12-30"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 1336.335988998413,
+      "total_return": 336.3359889984131,
+      "return_percentage": 33.63359889984131,
+      "cash": 129.54249000549316,
+      "holdings_count": 1,
+      "total_transactions": 11,
+      "date": "2016-01-14"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 1385.770025253296,
+      "total_return": 385.7700252532959,
+      "return_percentage": 38.57700252532959,
+      "cash": 129.54249000549316,
+      "holdings_count": 1,
+      "total_transactions": 11,
+      "date": "2016-01-29"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 1295.911039352417,
+      "total_return": 295.911039352417,
+      "return_percentage": 29.591103935241698,
+      "cash": 129.54249000549316,
+      "holdings_count": 1,
+      "total_transactions": 11,
+      "date": "2016-02-12"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 1312.9554920196533,
+      "total_return": 312.9554920196533,
+      "return_percentage": 31.295549201965333,
+      "cash": 129.54249000549316,
+      "holdings_count": 1,
+      "total_transactions": 11,
+      "date": "2016-02-29"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 1367.4385242462158,
+      "total_return": 367.4385242462158,
+      "return_percentage": 36.74385242462158,
+      "cash": 129.54249000549316,
+      "holdings_count": 1,
+      "total_transactions": 11,
+      "date": "2016-03-14"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 1393.2609386444092,
+      "total_return": 393.2609386444092,
+      "return_percentage": 39.32609386444092,
+      "cash": 129.54249000549316,
+      "holdings_count": 1,
+      "total_transactions": 11,
+      "date": "2016-03-29"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 1390.6704769134521,
+      "total_return": 390.67047691345215,
+      "return_percentage": 39.067047691345216,
+      "cash": 129.54249000549316,
+      "holdings_count": 1,
+      "total_transactions": 11,
+      "date": "2016-04-12"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 1326.4030323028564,
+      "total_return": 326.40303230285645,
+      "return_percentage": 32.640303230285646,
+      "cash": 129.54249000549316,
+      "holdings_count": 1,
+      "total_transactions": 11,
+      "date": "2016-04-26"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 1349.5195484161377,
+      "total_return": 349.5195484161377,
+      "return_percentage": 34.95195484161377,
+      "cash": 129.54249000549316,
+      "holdings_count": 1,
+      "total_transactions": 11,
+      "date": "2016-05-10"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 1339.042013168335,
+      "total_return": 339.04201316833496,
+      "return_percentage": 33.9042013168335,
+      "cash": 129.54249000549316,
+      "holdings_count": 1,
+      "total_transactions": 11,
+      "date": "2016-05-24"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 1355.3769779205322,
+      "total_return": 355.3769779205322,
+      "return_percentage": 35.53769779205322,
+      "cash": 129.54249000549316,
+      "holdings_count": 1,
+      "total_transactions": 11,
+      "date": "2016-06-08"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 1301.8179416656494,
+      "total_return": 301.8179416656494,
+      "return_percentage": 30.18179416656494,
+      "cash": 129.54249000549316,
+      "holdings_count": 1,
+      "total_transactions": 11,
+      "date": "2016-06-22"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 1296.5214557647705,
+      "total_return": 296.5214557647705,
+      "return_percentage": 29.65214557647705,
+      "cash": 129.54249000549316,
+      "holdings_count": 1,
+      "total_transactions": 11,
+      "date": "2016-07-07"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 1374.3190212249756,
+      "total_return": 374.3190212249756,
+      "return_percentage": 37.431902122497554,
+      "cash": 129.54249000549316,
+      "holdings_count": 1,
+      "total_transactions": 11,
+      "date": "2016-07-21"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 1445.0049648284912,
+      "total_return": 445.0049648284912,
+      "return_percentage": 44.50049648284912,
+      "cash": 129.54249000549316,
+      "holdings_count": 1,
+      "total_transactions": 11,
+      "date": "2016-08-04"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 1454.0800151824951,
+      "total_return": 454.0800151824951,
+      "return_percentage": 45.40800151824951,
+      "cash": 129.54249000549316,
+      "holdings_count": 1,
+      "total_transactions": 11,
+      "date": "2016-08-18"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 1435.3524799346924,
+      "total_return": 435.3524799346924,
+      "return_percentage": 43.53524799346924,
+      "cash": 129.54249000549316,
+      "holdings_count": 1,
+      "total_transactions": 11,
+      "date": "2016-09-01"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 1446.1929416656494,
+      "total_return": 446.1929416656494,
+      "return_percentage": 44.61929416656494,
+      "cash": 129.54249000549316,
+      "holdings_count": 1,
+      "total_transactions": 11,
+      "date": "2016-09-16"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 1456.241460800171,
+      "total_return": 456.2414608001709,
+      "return_percentage": 45.62414608001709,
+      "cash": 129.54249000549316,
+      "holdings_count": 1,
+      "total_transactions": 11,
+      "date": "2016-09-30"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 1457.132474899292,
+      "total_return": 457.132474899292,
+      "return_percentage": 45.7132474899292,
+      "cash": 129.54249000549316,
+      "holdings_count": 1,
+      "total_transactions": 11,
+      "date": "2016-10-14"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 1481.8165111541748,
+      "total_return": 481.8165111541748,
+      "return_percentage": 48.18165111541748,
+      "cash": 129.54249000549316,
+      "holdings_count": 1,
+      "total_transactions": 11,
+      "date": "2016-10-28"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 1402.930040359497,
+      "total_return": 402.93004035949707,
+      "return_percentage": 40.29300403594971,
+      "cash": 129.54249000549316,
+      "holdings_count": 1,
+      "total_transactions": 11,
+      "date": "2016-11-11"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 1426.0960292816162,
+      "total_return": 426.0960292816162,
+      "return_percentage": 42.60960292816162,
+      "cash": 129.54249000549316,
+      "holdings_count": 1,
+      "total_transactions": 11,
+      "date": "2016-11-28"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 1462.5775051116943,
+      "total_return": 462.57750511169434,
+      "return_percentage": 46.257750511169434,
+      "cash": 129.54249000549316,
+      "holdings_count": 1,
+      "total_transactions": 11,
+      "date": "2016-12-12"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 1465.9269275665283,
+      "total_return": 465.9269275665283,
+      "return_percentage": 46.59269275665283,
+      "cash": 129.54249000549316,
+      "holdings_count": 1,
+      "total_transactions": 11,
+      "date": "2016-12-27"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 1498.8114910125732,
+      "total_return": 498.81149101257324,
+      "return_percentage": 49.88114910125732,
+      "cash": 129.54249000549316,
+      "holdings_count": 1,
+      "total_transactions": 11,
+      "date": "2017-01-11"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 1543.5594577789307,
+      "total_return": 543.5594577789307,
+      "return_percentage": 54.35594577789307,
+      "cash": 129.54249000549316,
+      "holdings_count": 1,
+      "total_transactions": 11,
+      "date": "2017-01-26"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 1499.141435623169,
+      "total_return": 499.14143562316895,
+      "return_percentage": 49.914143562316895,
+      "cash": 129.54249000549316,
+      "holdings_count": 1,
+      "total_transactions": 11,
+      "date": "2017-02-09"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 1528.428960800171,
+      "total_return": 528.4289608001709,
+      "return_percentage": 52.842896080017084,
+      "cash": 129.54249000549316,
+      "holdings_count": 1,
+      "total_transactions": 11,
+      "date": "2017-02-24"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 1550.8689708709717,
+      "total_return": 550.8689708709717,
+      "return_percentage": 55.086897087097164,
+      "cash": 129.54249000549316,
+      "holdings_count": 1,
+      "total_transactions": 11,
+      "date": "2017-03-10"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 1507.523488998413,
+      "total_return": 507.5234889984131,
+      "return_percentage": 50.7523488998413,
+      "cash": 129.54249000549316,
+      "holdings_count": 1,
+      "total_transactions": 11,
+      "date": "2017-03-24"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 1519.007474899292,
+      "total_return": 519.007474899292,
+      "return_percentage": 51.9007474899292,
+      "cash": 129.54249000549316,
+      "holdings_count": 1,
+      "total_transactions": 11,
+      "date": "2017-04-07"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 1579.7769527435303,
+      "total_return": 579.7769527435303,
+      "return_percentage": 57.977695274353025,
+      "cash": 129.54249000549316,
+      "holdings_count": 1,
+      "total_transactions": 11,
+      "date": "2017-04-24"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 1711.3810443878174,
+      "total_return": 711.3810443878174,
+      "return_percentage": 71.13810443878174,
+      "cash": 129.54249000549316,
+      "holdings_count": 1,
+      "total_transactions": 11,
+      "date": "2017-05-08"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 1720.2579517364502,
+      "total_return": 720.2579517364502,
+      "return_percentage": 72.02579517364502,
+      "cash": 129.54249000549316,
+      "holdings_count": 1,
+      "total_transactions": 11,
+      "date": "2017-05-22"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 1774.0644779205322,
+      "total_return": 774.0644779205322,
+      "return_percentage": 77.40644779205323,
+      "cash": 129.54249000549316,
+      "holdings_count": 1,
+      "total_transactions": 11,
+      "date": "2017-06-06"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 1728.3760242462158,
+      "total_return": 728.3760242462158,
+      "return_percentage": 72.83760242462158,
+      "cash": 129.54249000549316,
+      "holdings_count": 1,
+      "total_transactions": 11,
+      "date": "2017-06-20"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 1667.7714557647705,
+      "total_return": 667.7714557647705,
+      "return_percentage": 66.77714557647705,
+      "cash": 129.54249000549316,
+      "holdings_count": 1,
+      "total_transactions": 11,
+      "date": "2017-07-05"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 1767.6129970550537,
+      "total_return": 767.6129970550537,
+      "return_percentage": 76.76129970550537,
+      "cash": 129.54249000549316,
+      "holdings_count": 1,
+      "total_transactions": 11,
+      "date": "2017-07-19"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 1693.148488998413,
+      "total_return": 693.1484889984131,
+      "return_percentage": 69.31484889984131,
+      "cash": 129.54249000549316,
+      "holdings_count": 1,
+      "total_transactions": 11,
+      "date": "2017-08-02"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 1687.5880222320557,
+      "total_return": 687.5880222320557,
+      "return_percentage": 68.75880222320556,
+      "cash": 129.54249000549316,
+      "holdings_count": 1,
+      "total_transactions": 11,
+      "date": "2017-08-16"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 1686.5319728851318,
+      "total_return": 686.5319728851318,
+      "return_percentage": 68.65319728851318,
+      "cash": 129.54249000549316,
+      "holdings_count": 1,
+      "total_transactions": 11,
+      "date": "2017-08-30"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 1680.7569980621338,
+      "total_return": 680.7569980621338,
+      "return_percentage": 68.07569980621338,
+      "cash": 129.54249000549316,
+      "holdings_count": 1,
+      "total_transactions": 11,
+      "date": "2017-09-14"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 1721.4790363311768,
+      "total_return": 721.4790363311768,
+      "return_percentage": 72.14790363311766,
+      "cash": 129.54249000549316,
+      "holdings_count": 1,
+      "total_transactions": 11,
+      "date": "2017-09-28"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 1788.8650302886963,
+      "total_return": 788.8650302886963,
+      "return_percentage": 78.88650302886963,
+      "cash": 129.54249000549316,
+      "holdings_count": 1,
+      "total_transactions": 11,
+      "date": "2017-10-12"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 1765.385461807251,
+      "total_return": 765.385461807251,
+      "return_percentage": 76.53854618072509,
+      "cash": 129.54249000549316,
+      "holdings_count": 1,
+      "total_transactions": 11,
+      "date": "2017-10-26"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 1858.2805423736572,
+      "total_return": 858.2805423736572,
+      "return_percentage": 85.82805423736572,
+      "cash": 129.54249000549316,
+      "holdings_count": 1,
+      "total_transactions": 11,
+      "date": "2017-11-09"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 1872.8004970550537,
+      "total_return": 872.8004970550537,
+      "return_percentage": 87.28004970550536,
+      "cash": 129.54249000549316,
+      "holdings_count": 1,
+      "total_transactions": 11,
+      "date": "2017-11-24"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 1861.0195484161377,
+      "total_return": 861.0195484161377,
+      "return_percentage": 86.10195484161378,
+      "cash": 129.54249000549316,
+      "holdings_count": 1,
+      "total_transactions": 11,
+      "date": "2017-12-08"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 1893.1615161895752,
+      "total_return": 893.1615161895752,
+      "return_percentage": 89.31615161895752,
+      "cash": 129.54249000549316,
+      "holdings_count": 1,
+      "total_transactions": 11,
+      "date": "2017-12-22"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 1965.6459789276123,
+      "total_return": 965.6459789276123,
+      "return_percentage": 96.56459789276123,
+      "cash": 129.54249000549316,
+      "holdings_count": 1,
+      "total_transactions": 11,
+      "date": "2018-01-09"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 2062.1709537506104,
+      "total_return": 1062.1709537506104,
+      "return_percentage": 106.21709537506104,
+      "cash": 129.54249000549316,
+      "holdings_count": 1,
+      "total_transactions": 11,
+      "date": "2018-01-24"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 1870.9689960479736,
+      "total_return": 870.9689960479736,
+      "return_percentage": 87.09689960479736,
+      "cash": 129.54249000549316,
+      "holdings_count": 1,
+      "total_transactions": 11,
+      "date": "2018-02-07"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 1960.8774547576904,
+      "total_return": 960.8774547576904,
+      "return_percentage": 96.08774547576904,
+      "cash": 129.54249000549316,
+      "holdings_count": 1,
+      "total_transactions": 11,
+      "date": "2018-02-22"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 1993.0195484161377,
+      "total_return": 993.0195484161377,
+      "return_percentage": 99.30195484161376,
+      "cash": 129.54249000549316,
+      "holdings_count": 1,
+      "total_transactions": 11,
+      "date": "2018-03-08"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 1867.2400302886963,
+      "total_return": 867.2400302886963,
+      "return_percentage": 86.72400302886963,
+      "cash": 129.54249000549316,
+      "holdings_count": 1,
+      "total_transactions": 11,
+      "date": "2018-03-22"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 1795.9600353240967,
+      "total_return": 795.9600353240967,
+      "return_percentage": 79.59600353240967,
+      "cash": 129.54249000549316,
+      "holdings_count": 1,
+      "total_transactions": 11,
+      "date": "2018-04-06"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 1907.120527267456,
+      "total_return": 907.120527267456,
+      "return_percentage": 90.71205272674561,
+      "cash": 129.54249000549316,
+      "holdings_count": 1,
+      "total_transactions": 11,
+      "date": "2018-04-20"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 1863.6924648284912,
+      "total_return": 863.6924648284912,
+      "return_percentage": 86.36924648284912,
+      "cash": 129.54249000549316,
+      "holdings_count": 1,
+      "total_transactions": 11,
+      "date": "2018-05-04"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 1894.4484386444092,
+      "total_return": 894.4484386444092,
+      "return_percentage": 89.44484386444091,
+      "cash": 129.54249000549316,
+      "holdings_count": 1,
+      "total_transactions": 11,
+      "date": "2018-05-18"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 2032.0585041046143,
+      "total_return": 1032.0585041046143,
+      "return_percentage": 103.20585041046142,
+      "cash": 129.54249000549316,
+      "holdings_count": 1,
+      "total_transactions": 11,
+      "date": "2018-06-04"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 2082.4495182037354,
+      "total_return": 1082.4495182037354,
+      "return_percentage": 108.24495182037353,
+      "cash": 129.54249000549316,
+      "holdings_count": 1,
+      "total_transactions": 11,
+      "date": "2018-06-18"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 2014.0239658355713,
+      "total_return": 1014.0239658355713,
+      "return_percentage": 101.40239658355712,
+      "cash": 129.54249000549316,
+      "holdings_count": 1,
+      "total_transactions": 11,
+      "date": "2018-07-02"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 2131.1244678497314,
+      "total_return": 1131.1244678497314,
+      "return_percentage": 113.11244678497314,
+      "cash": 129.54249000549316,
+      "holdings_count": 1,
+      "total_transactions": 11,
+      "date": "2018-07-17"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 2154.4554920196533,
+      "total_return": 1154.4554920196533,
+      "return_percentage": 115.44554920196532,
+      "cash": 129.54249000549316,
+      "holdings_count": 1,
+      "total_transactions": 11,
+      "date": "2018-07-31"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 2205.473539352417,
+      "total_return": 1205.473539352417,
+      "return_percentage": 120.5473539352417,
+      "cash": 129.54249000549316,
+      "holdings_count": 1,
+      "total_transactions": 11,
+      "date": "2018-08-14"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 2185.2114658355713,
+      "total_return": 1185.2114658355713,
+      "return_percentage": 118.52114658355713,
+      "cash": 129.54249000549316,
+      "holdings_count": 1,
+      "total_transactions": 11,
+      "date": "2018-08-28"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 2062.682550430298,
+      "total_return": 1062.6825504302979,
+      "return_percentage": 106.2682550430298,
+      "cash": 129.54249000549316,
+      "holdings_count": 1,
+      "total_transactions": 11,
+      "date": "2018-09-12"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 2099.741460800171,
+      "total_return": 1099.741460800171,
+      "return_percentage": 109.97414608001709,
+      "cash": 129.54249000549316,
+      "holdings_count": 1,
+      "total_transactions": 11,
+      "date": "2018-09-26"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 1931.6065464019775,
+      "total_return": 931.6065464019775,
+      "return_percentage": 93.16065464019775,
+      "cash": 129.54249000549316,
+      "holdings_count": 1,
+      "total_transactions": 11,
+      "date": "2018-10-10"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 1873.7904567718506,
+      "total_return": 873.7904567718506,
+      "return_percentage": 87.37904567718506,
+      "cash": 129.54249000549316,
+      "holdings_count": 1,
+      "total_transactions": 11,
+      "date": "2018-10-24"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 1958.13844871521,
+      "total_return": 958.13844871521,
+      "return_percentage": 95.813844871521,
+      "cash": 129.54249000549316,
+      "holdings_count": 1,
+      "total_transactions": 11,
+      "date": "2018-11-07"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 1851.2020282745361,
+      "total_return": 851.2020282745361,
+      "return_percentage": 85.12020282745361,
+      "cash": 106.99649047851562,
+      "holdings_count": 2,
+      "total_transactions": 12,
+      "date": "2018-11-21"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 1857.718111038208,
+      "total_return": 857.718111038208,
+      "return_percentage": 85.77181110382081,
+      "cash": 106.99649047851562,
+      "holdings_count": 2,
+      "total_transactions": 12,
+      "date": "2018-12-07"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 1763.8769912719727,
+      "total_return": 763.8769912719727,
+      "return_percentage": 76.38769912719727,
+      "cash": 85.6784896850586,
+      "holdings_count": 2,
+      "total_transactions": 13,
+      "date": "2018-12-21"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 1921.2523651123047,
+      "total_return": 921.2523651123047,
+      "return_percentage": 92.12523651123047,
+      "cash": 85.6784896850586,
+      "holdings_count": 2,
+      "total_transactions": 13,
+      "date": "2019-01-08"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 1913.3003540039062,
+      "total_return": 913.3003540039062,
+      "return_percentage": 91.33003540039063,
+      "cash": 85.6784896850586,
+      "holdings_count": 2,
+      "total_transactions": 13,
+      "date": "2019-01-23"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 1980.7430152893066,
+      "total_return": 980.7430152893066,
+      "return_percentage": 98.07430152893066,
+      "cash": 85.6784896850586,
+      "holdings_count": 2,
+      "total_transactions": 13,
+      "date": "2019-02-06"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 1946.4556159973145,
+      "total_return": 946.4556159973145,
+      "return_percentage": 94.64556159973144,
+      "cash": 85.6784896850586,
+      "holdings_count": 2,
+      "total_transactions": 13,
+      "date": "2019-02-21"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 2021.4596405029297,
+      "total_return": 1021.4596405029297,
+      "return_percentage": 102.14596405029297,
+      "cash": 85.6784896850586,
+      "holdings_count": 2,
+      "total_transactions": 13,
+      "date": "2019-03-07"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 2161.828971862793,
+      "total_return": 1161.828971862793,
+      "return_percentage": 116.1828971862793,
+      "cash": 85.6784896850586,
+      "holdings_count": 2,
+      "total_transactions": 13,
+      "date": "2019-03-21"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 2133.474983215332,
+      "total_return": 1133.474983215332,
+      "return_percentage": 113.34749832153321,
+      "cash": 85.6784896850586,
+      "holdings_count": 2,
+      "total_transactions": 13,
+      "date": "2019-04-04"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 2170.5387077331543,
+      "total_return": 1170.5387077331543,
+      "return_percentage": 117.05387077331544,
+      "cash": 85.6784896850586,
+      "holdings_count": 2,
+      "total_transactions": 13,
+      "date": "2019-04-18"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 2082.4400215148926,
+      "total_return": 1082.4400215148926,
+      "return_percentage": 108.24400215148925,
+      "cash": 85.6784896850586,
+      "holdings_count": 2,
+      "total_transactions": 13,
+      "date": "2019-05-03"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 2042.3027973175049,
+      "total_return": 1042.3027973175049,
+      "return_percentage": 104.2302797317505,
+      "cash": 85.6784896850586,
+      "holdings_count": 2,
+      "total_transactions": 13,
+      "date": "2019-05-17"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 1823.462163925171,
+      "total_return": 823.4621639251709,
+      "return_percentage": 82.34621639251709,
+      "cash": 85.6784896850586,
+      "holdings_count": 2,
+      "total_transactions": 13,
+      "date": "2019-06-03"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 1920.6009883880615,
+      "total_return": 920.6009883880615,
+      "return_percentage": 92.06009883880614,
+      "cash": 85.6784896850586,
+      "holdings_count": 2,
+      "total_transactions": 13,
+      "date": "2019-06-17"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 1930.9678230285645,
+      "total_return": 930.9678230285645,
+      "return_percentage": 93.09678230285644,
+      "cash": 85.6784896850586,
+      "holdings_count": 2,
+      "total_transactions": 13,
+      "date": "2019-07-01"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 2022.5381660461426,
+      "total_return": 1022.5381660461426,
+      "return_percentage": 102.25381660461426,
+      "cash": 85.6784896850586,
+      "holdings_count": 2,
+      "total_transactions": 13,
+      "date": "2019-07-16"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 2144.179874420166,
+      "total_return": 1144.179874420166,
+      "return_percentage": 114.41798744201661,
+      "cash": 85.6784896850586,
+      "holdings_count": 2,
+      "total_transactions": 13,
+      "date": "2019-07-30"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 2091.6162662506104,
+      "total_return": 1091.6162662506104,
+      "return_percentage": 109.16162662506103,
+      "cash": 85.6784896850586,
+      "holdings_count": 2,
+      "total_transactions": 13,
+      "date": "2019-08-13"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 2046.0755023956299,
+      "total_return": 1046.0755023956299,
+      "return_percentage": 104.60755023956298,
+      "cash": 85.6784896850586,
+      "holdings_count": 2,
+      "total_transactions": 13,
+      "date": "2019-08-27"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 2131.625156402588,
+      "total_return": 1131.625156402588,
+      "return_percentage": 113.16251564025879,
+      "cash": 85.6784896850586,
+      "holdings_count": 2,
+      "total_transactions": 13,
+      "date": "2019-09-11"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 2171.972852706909,
+      "total_return": 1171.9728527069092,
+      "return_percentage": 117.19728527069091,
+      "cash": 85.6784896850586,
+      "holdings_count": 2,
+      "total_transactions": 13,
+      "date": "2019-09-25"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 2102.2424545288086,
+      "total_return": 1102.2424545288086,
+      "return_percentage": 110.22424545288085,
+      "cash": 85.6784896850586,
+      "holdings_count": 2,
+      "total_transactions": 13,
+      "date": "2019-10-09"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 2194.725330352783,
+      "total_return": 1194.7253303527832,
+      "return_percentage": 119.47253303527832,
+      "cash": 85.6784896850586,
+      "holdings_count": 2,
+      "total_transactions": 13,
+      "date": "2019-10-23"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 2259.3889541625977,
+      "total_return": 1259.3889541625977,
+      "return_percentage": 125.93889541625975,
+      "cash": 85.6784896850586,
+      "holdings_count": 2,
+      "total_transactions": 13,
+      "date": "2019-11-06"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 2280.710231781006,
+      "total_return": 1280.7102317810059,
+      "return_percentage": 128.0710231781006,
+      "cash": 85.6784896850586,
+      "holdings_count": 2,
+      "total_transactions": 13,
+      "date": "2019-11-20"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 2319.211811065674,
+      "total_return": 1319.2118110656738,
+      "return_percentage": 131.9211811065674,
+      "cash": 85.6784896850586,
+      "holdings_count": 2,
+      "total_transactions": 13,
+      "date": "2019-12-05"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 2377.676445007324,
+      "total_return": 1377.6764450073242,
+      "return_percentage": 137.76764450073242,
+      "cash": 85.6784896850586,
+      "holdings_count": 2,
+      "total_transactions": 13,
+      "date": "2019-12-19"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 2452.270420074463,
+      "total_return": 1452.270420074463,
+      "return_percentage": 145.2270420074463,
+      "cash": 85.6784896850586,
+      "holdings_count": 2,
+      "total_transactions": 13,
+      "date": "2020-01-06"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 2604.351089477539,
+      "total_return": 1604.351089477539,
+      "return_percentage": 160.4351089477539,
+      "cash": 85.6784896850586,
+      "holdings_count": 2,
+      "total_transactions": 13,
+      "date": "2020-01-21"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 2588.8796615600586,
+      "total_return": 1588.8796615600586,
+      "return_percentage": 158.88796615600586,
+      "cash": 85.6784896850586,
+      "holdings_count": 2,
+      "total_transactions": 13,
+      "date": "2020-02-04"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 2724.0366439819336,
+      "total_return": 1724.0366439819336,
+      "return_percentage": 172.40366439819337,
+      "cash": 85.6784896850586,
+      "holdings_count": 2,
+      "total_transactions": 13,
+      "date": "2020-02-19"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 2465.251884460449,
+      "total_return": 1465.2518844604492,
+      "return_percentage": 146.52518844604492,
+      "cash": 85.6784896850586,
+      "holdings_count": 2,
+      "total_transactions": 13,
+      "date": "2020-03-04"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 1934.3047103881836,
+      "total_return": 934.3047103881836,
+      "return_percentage": 93.43047103881837,
+      "cash": 85.6784896850586,
+      "holdings_count": 2,
+      "total_transactions": 13,
+      "date": "2020-03-18"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 1968.351474761963,
+      "total_return": 968.3514747619629,
+      "return_percentage": 96.8351474761963,
+      "cash": 85.6784896850586,
+      "holdings_count": 2,
+      "total_transactions": 13,
+      "date": "2020-04-01"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 2259.7992630004883,
+      "total_return": 1259.7992630004883,
+      "return_percentage": 125.97992630004885,
+      "cash": 85.6784896850586,
+      "holdings_count": 2,
+      "total_transactions": 13,
+      "date": "2020-04-16"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 2411.9841232299805,
+      "total_return": 1411.9841232299805,
+      "return_percentage": 141.19841232299805,
+      "cash": 85.6784896850586,
+      "holdings_count": 2,
+      "total_transactions": 13,
+      "date": "2020-04-30"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 2431.6082305908203,
+      "total_return": 1431.6082305908203,
+      "return_percentage": 143.16082305908202,
+      "cash": 85.6784896850586,
+      "holdings_count": 2,
+      "total_transactions": 13,
+      "date": "2020-05-14"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 2562.31990814209,
+      "total_return": 1562.3199081420898,
+      "return_percentage": 156.23199081420898,
+      "cash": 85.6784896850586,
+      "holdings_count": 2,
+      "total_transactions": 13,
+      "date": "2020-05-29"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 2541.700614929199,
+      "total_return": 1541.7006149291992,
+      "return_percentage": 154.17006149291993,
+      "cash": 85.6784896850586,
+      "holdings_count": 2,
+      "total_transactions": 13,
+      "date": "2020-06-12"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 2461.834785461426,
+      "total_return": 1461.8347854614258,
+      "return_percentage": 146.18347854614257,
+      "cash": 85.6784896850586,
+      "holdings_count": 2,
+      "total_transactions": 13,
+      "date": "2020-06-26"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 2780.466110229492,
+      "total_return": 1780.4661102294922,
+      "return_percentage": 178.0466110229492,
+      "cash": 85.6784896850586,
+      "holdings_count": 2,
+      "total_transactions": 13,
+      "date": "2020-07-13"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 2814.5178756713867,
+      "total_return": 1814.5178756713867,
+      "return_percentage": 181.45178756713867,
+      "cash": 85.6784896850586,
+      "holdings_count": 2,
+      "total_transactions": 13,
+      "date": "2020-07-27"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 2744.5742721557617,
+      "total_return": 1744.5742721557617,
+      "return_percentage": 174.4574272155762,
+      "cash": 85.6784896850586,
+      "holdings_count": 2,
+      "total_transactions": 13,
+      "date": "2020-08-10"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 2969.7359771728516,
+      "total_return": 1969.7359771728516,
+      "return_percentage": 196.97359771728514,
+      "cash": 85.6784896850586,
+      "holdings_count": 2,
+      "total_transactions": 13,
+      "date": "2020-08-24"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 2819.758499145508,
+      "total_return": 1819.7584991455078,
+      "return_percentage": 181.9758499145508,
+      "cash": 85.6784896850586,
+      "holdings_count": 2,
+      "total_transactions": 13,
+      "date": "2020-09-08"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 2777.2014083862305,
+      "total_return": 1777.2014083862305,
+      "return_percentage": 177.72014083862305,
+      "cash": 85.6784896850586,
+      "holdings_count": 2,
+      "total_transactions": 13,
+      "date": "2020-09-22"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 2755.8482360839844,
+      "total_return": 1755.8482360839844,
+      "return_percentage": 175.58482360839844,
+      "cash": 85.6784896850586,
+      "holdings_count": 2,
+      "total_transactions": 13,
+      "date": "2020-10-06"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 2926.2538528442383,
+      "total_return": 1926.2538528442383,
+      "return_percentage": 192.62538528442383,
+      "cash": 85.6784896850586,
+      "holdings_count": 2,
+      "total_transactions": 13,
+      "date": "2020-10-20"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 3083.617401123047,
+      "total_return": 2083.617401123047,
+      "return_percentage": 208.36174011230472,
+      "cash": 85.6784896850586,
+      "holdings_count": 2,
+      "total_transactions": 13,
+      "date": "2020-11-03"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 3286.824172973633,
+      "total_return": 2286.824172973633,
+      "return_percentage": 228.6824172973633,
+      "cash": 85.6784896850586,
+      "holdings_count": 2,
+      "total_transactions": 13,
+      "date": "2020-11-17"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 3476.092239379883,
+      "total_return": 2476.092239379883,
+      "return_percentage": 247.6092239379883,
+      "cash": 85.6784896850586,
+      "holdings_count": 2,
+      "total_transactions": 13,
+      "date": "2020-12-02"
+    },
+    {
+      "initial_value": 1000.0,
+      "current_value": 3400.2218856811523,
+      "total_return": 2400.2218856811523,
+      "return_percentage": 240.0221885681152,
+      "cash": 85.6784896850586,
+      "holdings_count": 2,
+      "total_transactions": 13,
+      "date": "2020-12-16"
+    }
+  ]
+}

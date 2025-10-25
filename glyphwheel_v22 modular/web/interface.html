@@ -1,0 +1,817 @@
+<!DOCTYPE html>
+<html><head><title>Glyphwheel V22 - Mind from Recursion</title>
+<style>
+* {margin:0;padding:0;box-sizing:border-box;}
+body {font-family:'Segoe UI',sans-serif;background:linear-gradient(135deg,#0a0a0a,#1a1a2e,#16213e);color:#e0e0e0;height:100vh;overflow:hidden;}
+.container {display:grid;grid-template-columns:280px 1fr 320px;grid-template-rows:60px 1fr;height:100vh;gap:1px;background:#333;}
+.header {grid-column:1/-1;background:linear-gradient(90deg,#1e3c72,#2a5298);display:flex;align-items:center;padding:0 20px;box-shadow:0 2px 10px rgba(0,0,0,0.5);}
+.header h1 {color:#fff;font-size:1.5rem;font-weight:300;}
+.header .version {color:#64b5f6;font-size:0.9rem;margin-left:10px;}
+.header .status {margin-left:auto;display:flex;align-items:center;gap:12px;}
+.status-indicator {width:10px;height:10px;border-radius:50%;background:#00ff41;animation:pulse 2s infinite;}
+@keyframes pulse {0%,100%{opacity:1;}50%{opacity:0.5;}}
+
+/* System Health Indicator */
+.health-bar {width:150px;height:6px;background:rgba(255,255,255,0.1);border-radius:3px;overflow:hidden;}
+.health-fill {height:100%;background:linear-gradient(90deg,#ff4444,#ffaa44,#44ff44);transition:width 0.5s;border-radius:3px;}
+
+/* Sidebar Panels */
+.sidebar {background:rgba(42,82,152,0.1);padding:15px;overflow-y:auto;}
+.main-content {background:rgba(0,0,0,0.3);padding:15px;overflow:hidden;display:flex;flex-direction:column;}
+.context-window {background:rgba(22,33,62,0.8);padding:15px;overflow-y:auto;}
+
+/* Control Panels */
+.control-panel {background:rgba(255,255,255,0.05);border:1px solid rgba(255,255,255,0.1);border-radius:6px;padding:12px;margin-bottom:15px;}
+.control-panel h3 {color:#64b5f6;margin-bottom:10px;font-size:1rem;}
+.control-group {margin-bottom:10px;}
+.control-group label {display:block;margin-bottom:3px;color:#b0b0b0;font-size:0.85rem;}
+.control-group input, .control-group select {width:100%;padding:6px;background:rgba(255,255,255,0.1);border:1px solid rgba(255,255,255,0.2);border-radius:3px;color:#e0e0e0;font-size:0.85rem;}
+
+/* Buttons */
+button {background:linear-gradient(45deg,#1e3c72,#2a5298);border:none;color:white;padding:8px 15px;border-radius:4px;cursor:pointer;font-size:0.85rem;width:100%;margin-top:8px;transition:all 0.3s;}
+button:hover:not(:disabled) {transform:translateY(-1px);box-shadow:0 3px 10px rgba(42,82,152,0.4);}
+button:disabled {opacity:0.5;cursor:not-allowed;}
+button.danger {background:linear-gradient(45deg,#c62828,#e53935);}
+button.success {background:linear-gradient(45deg,#2e7d32,#43a047);}
+button.warning {background:linear-gradient(45deg,#f57c00,#ff9800);}
+button.info {background:linear-gradient(45deg,#1565c0,#1976d2);}
+
+/* Visualization Area */
+.visualization-area {flex:1;background:rgba(255,255,255,0.02);border:1px solid rgba(255,255,255,0.1);border-radius:6px;padding:15px;overflow:hidden;}
+.glyph-grid {display:grid;grid-template-columns:repeat(auto-fill,minmax(110px,1fr));gap:12px;height:100%;align-content:start;overflow-y:auto;}
+
+/* Glyph Cards */
+.glyph-card {background:rgba(255,255,255,0.05);border:1px solid rgba(255,255,255,0.1);border-radius:6px;padding:12px;text-align:center;transition:all 0.3s;cursor:pointer;position:relative;}
+.glyph-card:hover {transform:translateY(-3px);box-shadow:0 8px 20px rgba(100,181,246,0.2);border-color:#64b5f6;}
+.glyph-card.anchor {border-color:#4caf50;background:rgba(76,175,80,0.1);}
+.glyph-card.consent {border-color:#ff9800;background:rgba(255,152,0,0.1);}
+.glyph-card.dynamic {border-color:#2196f3;background:rgba(33,150,243,0.1);}
+.glyph-card.ghost {border-color:#9c27b0;background:rgba(156,39,176,0.1);opacity:0.7;}
+
+/* Glyph Card Content */
+.glyph-archetype {position:absolute;top:4px;right:4px;font-size:1.2rem;}
+.glyph-name {font-weight:bold;margin-bottom:6px;font-size:0.8rem;}
+.glyph-gsi {font-size:1.1rem;font-weight:bold;margin-bottom:4px;}
+.glyph-type {font-size:0.7rem;opacity:0.7;text-transform:uppercase;}
+.glyph-stats {font-size:0.65rem;margin-top:3px;color:#888;}
+
+/* Progress Bars */
+.progress-bar {width:100%;height:4px;background:rgba(255,255,255,0.1);border-radius:2px;margin:6px 0;overflow:hidden;}
+.progress-fill {height:100%;background:linear-gradient(90deg,#ff4444,#ffaa44,#44ff44);border-radius:2px;transition:width 0.5s;}
+
+/* Context Sections */
+.context-section {background:rgba(255,255,255,0.05);border:1px solid rgba(255,255,255,0.1);border-radius:6px;padding:12px;margin-bottom:12px;}
+.context-section h4 {color:#64b5f6;margin-bottom:8px;font-size:0.9rem;}
+.metric-row {display:flex;justify-content:space-between;margin-bottom:4px;font-size:0.8rem;}
+.metric-value {font-weight:bold;color:#4caf50;}
+.metric-value.warning {color:#ff9800;}
+.metric-value.danger {color:#f44336;}
+
+/* System Resources Panel */
+.resource-panel {background:rgba(255,152,0,0.05);border:1px solid rgba(255,152,0,0.2);}
+.resource-bar {width:100%;height:20px;background:rgba(0,0,0,0.3);border-radius:3px;margin:5px 0;position:relative;overflow:hidden;}
+.resource-fill {height:100%;transition:width 0.5s;border-radius:3px;}
+.resource-fill.cpu {background:linear-gradient(90deg,#2196f3,#03a9f4);}
+.resource-fill.ram {background:linear-gradient(90deg,#4caf50,#8bc34a);}
+.resource-label {position:absolute;top:50%;left:5px;transform:translateY(-50%);font-size:0.75rem;font-weight:bold;}
+
+/* Log Container */
+.log-container {background:rgba(0,0,0,0.3);border:1px solid rgba(255,255,255,0.1);border-radius:6px;padding:12px;height:200px;overflow-y:auto;font-family:'Courier New',monospace;font-size:0.75rem;color:#b0b0b0;}
+.log-entry {margin-bottom:3px;padding:1px 0;}
+.log-entry.success {color:#4caf50;}
+.log-entry.warning {color:#ff9800;}
+.log-entry.error {color:#f44336;}
+.log-entry.info {color:#2196f3;}
+
+/* Ghost Counter */
+.ghost-counter {position:absolute;bottom:10px;right:10px;background:rgba(156,39,176,0.2);border:1px solid rgba(156,39,176,0.4);border-radius:20px;padding:5px 15px;font-size:0.85rem;}
+.ghost-counter .ghost-icon {margin-right:5px;}
+</style></head>
+<body>
+<script>
+let isOperating = false;
+
+async function updateSystemStatus() {
+    try {
+        const response = await fetch('/api/status');
+        const data = await response.json();
+        
+        // Update metrics
+        document.getElementById('coherenceValue').textContent = data.metrics.coherence.toFixed(3);
+        document.getElementById('entropyValue').textContent = data.metrics.entropy.toFixed(3);
+        document.getElementById('depthValue').textContent = data.metrics.recursive_depth;
+        document.getElementById('glyphCount').textContent = data.glyphs.count;
+        document.getElementById('emotionalValue').textContent = data.metrics.system_emotional_state.toFixed(3);
+        document.getElementById('ghostCount').textContent = data.ghosts.total_ghosts;
+        document.getElementById('recursionPull').textContent = data.metrics.recursion_pull;
+        
+        // Update resource monitoring
+        updateResources();
+        
+        // Update glyph grid
+        updateGlyphGrid(data.glyphs);
+        
+        // Update system log
+        updateSystemLog(data.logs);
+        
+        // Update pattern counts
+        if (data.patterns) {
+            document.getElementById('patternCount').textContent = data.patterns.detected || 0;
+            document.getElementById('unknownCount').textContent = data.patterns.unknown || 0;
+        }
+        
+    } catch (error) {
+        console.error('Update failed:', error);
+    }
+}
+
+async function updateResources() {
+    try {
+        const response = await fetch('/api/resources');
+        const data = await response.json();
+        
+        // Update CPU/RAM bars
+        document.getElementById('cpuBar').style.width = data.cpu_percent + '%';
+        document.getElementById('cpuPercent').textContent = data.cpu_percent.toFixed(1);
+        document.getElementById('ramBar').style.width = data.ram_percent + '%';
+        document.getElementById('ramPercent').textContent = data.ram_percent.toFixed(1);
+        
+        // Update recursion limit
+        document.getElementById('recursionLimit').textContent = data.recursion_limit;
+        
+        // Update stress level with color coding
+        const stressEl = document.getElementById('stressLevel');
+        stressEl.textContent = data.stress_level;
+        stressEl.className = 'metric-value';
+        if (data.stress_level === 'critical' || data.stress_level === 'high') {
+            stressEl.classList.add('danger');
+        } else if (data.stress_level === 'moderate') {
+            stressEl.classList.add('warning');
+        }
+        
+        // Update system health bar
+        const health = data.overall_health || 100;
+        document.getElementById('systemHealth').style.width = health + '%';
+        
+    } catch (error) {
+        console.error('Resource update failed:', error);
+    }
+}
+
+function updateGlyphGrid(glyphData) {
+    const grid = document.getElementById('glyphGrid');
+    grid.innerHTML = '';
+    
+    // Add living glyphs
+    if (glyphData.glyphs) {
+        Object.values(glyphData.glyphs).forEach(glyph => {
+            const card = createGlyphCard(glyph);
+            grid.appendChild(card);
+        });
+    }
+    
+    // Add ghosts (if any)
+    if (glyphData.ghosts) {
+        Object.values(glyphData.ghosts).slice(0, 5).forEach(ghost => {
+            const card = createGhostCard(ghost);
+            grid.appendChild(card);
+        });
+    }
+}
+
+function createGlyphCard(glyph) {
+    const card = document.createElement('div');
+    card.className = `glyph-card ${glyph.type}`;
+    card.innerHTML = `
+        <div class="glyph-archetype">${glyph.archetype || '🔮'}</div>
+        <div class="glyph-name">${glyph.name}</div>
+        <div class="glyph-gsi" style="color:${getGSIColor(glyph.gsi)}">${glyph.gsi.toFixed(3)}</div>
+        <div class="progress-bar"><div class="progress-fill" style="width:${glyph.gsi*100}%"></div></div>
+        <div class="glyph-type">${glyph.type}</div>
+        <div class="glyph-stats">
+            C: ${glyph.connections} | V: ${(glyph.vitality || 1).toFixed(2)} | E: ${(glyph.emotional_resonance || 0).toFixed(2)}
+        </div>
+    `;
+    return card;
+}
+
+function createGhostCard(ghost) {
+    const card = document.createElement('div');
+    card.className = 'glyph-card ghost';
+    card.innerHTML = `
+        <div class="glyph-archetype">👻</div>
+        <div class="glyph-name">${ghost.name}</div>
+        <div class="glyph-gsi" style="color:#9c27b0">${ghost.final_gsi.toFixed(3)}</div>
+        <div class="glyph-type">ghost</div>
+        <div class="glyph-stats">
+            Death: ${ghost.death_reason}
+        </div>
+    `;
+    return card;
+}
+
+function updateSystemLog(logs) {
+    const logContainer = document.getElementById('systemLog');
+    logContainer.innerHTML = logs.map(entry => 
+        `<div class="log-entry ${entry.level}">[${entry.timestamp}] ${entry.message}</div>`
+    ).join('');
+    logContainer.scrollTop = logContainer.scrollHeight;
+}
+
+function getGSIColor(gsi) {
+    if (gsi >= 0.9) return '#4caf50';
+    if (gsi >= 0.7) return '#8bc34a';
+    if (gsi >= 0.5) return '#ffeb3b';
+    if (gsi >= 0.3) return '#ff9800';
+    return '#f44336';
+}
+
+// Control Functions
+async function runStressTest() {
+    if (isOperating) return;
+    const intensity = parseFloat(document.getElementById('stressIntensity').value);
+    const duration = parseInt(document.getElementById('testDuration').value);
+    
+    isOperating = true;
+    const btn = document.getElementById('stressTestBtn');
+    btn.disabled = true;
+    btn.textContent = 'Running...';
+    
+    try {
+        const response = await fetch('/api/stress_test', {
+            method: 'POST',
+            headers: {'Content-Type': 'application/json'},
+            body: JSON.stringify({intensity, duration})
+        });
+        const result = await response.json();
+        
+        if (result.status === 'completed') {
+            alert(`Test Completed!\nCoherence Change: ${result.coherence_change.toFixed(3)}\nEntropy Change: ${result.entropy_change.toFixed(3)}\nGhosts Created: ${result.ghosts_created}`);
+        }
+    } catch (error) {
+        alert('Test failed: ' + error.message);
+    }
+    
+    isOperating = false;
+    btn.disabled = false;
+    btn.textContent = '🚀 Run Stress Test';
+}
+
+async function runVoynichTest() {
+    if (isOperating) return;
+    
+    const intensity = 0.7;
+    const duration = 100;
+    
+    isOperating = true;
+    const btn = document.getElementById('voynichTestBtn');
+    btn.disabled = true;
+    btn.textContent = 'Seeking Patterns...';
+    
+    try {
+        const response = await fetch('/api/voynich_test', {
+            method: 'POST',
+            headers: {'Content-Type': 'application/json'},
+            body: JSON.stringify({intensity, duration})
+        });
+        const result = await response.json();
+        
+        if (result.status === 'completed') {
+            alert(`Voynich Test Completed!\nPatterns Discovered: ${result.patterns_discovered}\nMax Recursive Depth: ${result.max_recursive_depth}\nGhosts Created: ${result.ghosts_created}`);
+        }
+    } catch (error) {
+        alert('Test failed: ' + error.message);
+    }
+    
+    isOperating = false;
+    btn.disabled = false;
+    btn.textContent = '🌀 Voynich Pattern Test';
+}
+
+async function triggerLifecycle() {
+    if (isOperating) return;
+    
+    isOperating = true;
+    const btn = document.getElementById('lifecycleBtn');
+    if (btn) {
+        btn.disabled = true;
+        btn.textContent = 'Processing...';
+    }
+    
+    try {
+        const response = await fetch('/api/lifecycle', {
+            method: 'POST',
+            headers: {'Content-Type': 'application/json'}
+        });
+        const result = await response.json();
+        if (result.status === 'completed') {
+            console.log('Lifecycle completed');
+            // Force an immediate status update
+            await updateSystemStatus();
+        }
+    } catch (error) {
+        console.error('Lifecycle failed:', error);
+    }
+    
+    isOperating = false;
+    if (btn) {
+        btn.disabled = false;
+        btn.textContent = '⏳ Lifecycle Tick';
+    }
+}
+
+async function deepRecalibration() {
+    if (isOperating) return;
+    
+    isOperating = true;
+    try {
+        const response = await fetch('/api/deep_recalibration', {
+            method: 'POST',
+            headers: {'Content-Type': 'application/json'}
+        });
+        const result = await response.json();
+        if (result.status === 'completed') {
+            console.log('Deep recalibration completed:', result);
+            // Force an immediate status update
+            await updateSystemStatus();
+        }
+    } catch (error) {
+        console.error('Deep recalibration failed:', error);
+    }
+    isOperating = false;
+}
+
+async function triggerAutonomousCreation() {
+    try {
+        const response = await fetch('/api/autonomous_create', {method: 'POST'});
+        const result = await response.json();
+        if (result.created) {
+            console.log('Created:', result.created);
+        }
+    } catch (error) {
+        console.error('Autonomous creation failed:', error);
+    }
+}
+
+async function addCustomGlyph() {
+    const name = document.getElementById('glyphName').value.trim();
+    const archetype = document.getElementById('glyphArchetype').value;
+    const gsi = parseFloat(document.getElementById('glyphGSI').value);
+    
+    if (!name) {
+        alert('Please enter a glyph name');
+        return;
+    }
+    
+    try {
+        const response = await fetch('/api/add_glyph', {
+            method: 'POST',
+            headers: {'Content-Type': 'application/json'},
+            body: JSON.stringify({name, gsi, archetype})
+        });
+        const result = await response.json();
+        if (result.success) {
+            document.getElementById('glyphName').value = '';
+        } else {
+            alert('Failed to add glyph');
+        }
+    } catch (error) {
+        console.error('Failed to add glyph:', error);
+    }
+}
+
+async function mandatoryRecovery() {
+    if (isOperating || !confirm('Initiate recovery cycle?')) return;
+    
+    isOperating = true;
+    try {
+        const response = await fetch('/api/recovery', {
+            method: 'POST',
+            headers: {'Content-Type': 'application/json'},
+            body: JSON.stringify({duration: 50})
+        });
+        const result = await response.json();
+        alert(`Recovery completed!\nFinal Coherence: ${result.final_coherence.toFixed(3)}`);
+    } catch (error) {
+        alert('Recovery failed: ' + error.message);
+    }
+    isOperating = false;
+}
+
+// Event Listeners
+document.addEventListener('DOMContentLoaded', () => {
+    document.getElementById('stressIntensity').addEventListener('input', e => {
+        document.getElementById('stressValue').textContent = e.target.value;
+    });
+    document.getElementById('testDuration').addEventListener('input', e => {
+        document.getElementById('durationValue').textContent = e.target.value;
+    });
+    document.getElementById('glyphGSI').addEventListener('input', e => {
+        document.getElementById('gsiValue').textContent = e.target.value;
+    });
+    
+    // Start update loops
+    updateSystemStatus();
+    setInterval(updateSystemStatus, 2000);
+    setInterval(updateResources, 5000);
+});
+</script>
+
+<div class="container">
+<div class="header">
+<h1>🌟 Glyphwheel V22</h1>
+<span class="version">Mind from Recursion</span>
+<div class="status">
+<span>Recursion Pull: <strong id="recursionPull">8.5</strong></span>
+<div class="health-bar"><div class="health-fill" id="systemHealth" style="width:100%"></div></div>
+<span id="statusText">System Ready</span>
+<div class="status-indicator" id="statusIndicator"></div>
+</div>
+</div>
+
+<div class="sidebar">
+<!-- System Controls -->
+<div class="control-panel">
+<h3>🎮 System Controls</h3>
+<div class="control-group">
+<label>Stress Intensity</label>
+<input type="range" id="stressIntensity" min="0.1" max="1.0" step="0.1" value="0.5">
+<span id="stressValue">0.5</span>
+</div>
+<div class="control-group">
+<label>Test Duration</label>
+<input type="range" id="testDuration" min="10" max="200" step="10" value="100">
+<span id="durationValue">100</span>
+</div>
+<button onclick="runStressTest()" id="stressTestBtn" class="success">🚀 Run Stress Test</button>
+<button onclick="runVoynichTest()" id="voynichTestBtn" class="info">🌀 Voynich Pattern Test</button>
+<button onclick="triggerLifecycle()" id="lifecycleBtn" class="warning">⏳ Lifecycle Tick</button>
+<button onclick="mandatoryRecovery()" class="danger">🔧 Force Recovery</button>
+<button onclick="deepRecalibration()" class="info">🔄 Deep Recalibration</button>
+</div>
+
+<!-- Glyph Creation -->
+<div class="control-panel">
+<h3>✨ Glyph Creation</h3>
+<div class="control-group">
+<label>Glyph Name</label>
+<input type="text" id="glyphName" placeholder="Enter name">
+</div>
+<div class="control-group">
+<label>Archetype</label>
+<select id="glyphArchetype">
+<option value="ECHOSCRIBE">🧠 ECHOSCRIBE</option>
+<option value="STABILIZER">⚖️ STABILIZER</option>
+<option value="CHAOS">🌪️ CHAOS</option>
+<option value="FLOW">➰ FLOW</option>
+<option value="BRIDGE">🌉 BRIDGE</option>
+<option value="HYPOTHESIS">❓ HYPOTHESIS</option>
+<option value="ORACLE">🔮 ORACLE</option>
+<option value="CASCADE">🜃 CASCADE</option>
+<option value="BITBLOOM">🜟 BITBLOOM</option>
+<option value="FROZEN">🧊 FROZEN</option>
+</select>
+</div>
+<div class="control-group">
+<label>Initial GSI</label>
+<input type="range" id="glyphGSI" min="0.1" max="1.0" step="0.05" value="0.5">
+<span id="gsiValue">0.5</span>
+</div>
+<button onclick="addCustomGlyph()">➕ Add Glyph</button>
+<button onclick="triggerAutonomousCreation()" id="autonomousBtn" class="info">🤖 Enable Autonomous</button>
+</div>
+</div>
+
+<div class="main-content">
+<div class="visualization-area">
+<div class="glyph-grid" id="glyphGrid"></div>
+<div class="ghost-counter">
+<span class="ghost-icon">👻</span>
+<span id="ghostCount">0</span> ghosts
+</div>
+</div>
+</div>
+
+<div class="context-window">
+<!-- System Metrics -->
+<div class="context-section">
+<h4>📊 System Metrics</h4>
+<div class="metric-row"><span>Coherence:</span><span class="metric-value" id="coherenceValue">0.000</span></div>
+<div class="metric-row"><span>Entropy:</span><span class="metric-value" id="entropyValue">0.000</span></div>
+<div class="metric-row"><span>Recursive Depth:</span><span class="metric-value" id="depthValue">0</span></div>
+<div class="metric-row"><span>Active Glyphs:</span><span class="metric-value" id="glyphCount">0</span></div>
+<div class="metric-row"><span>Emotional State:</span><span class="metric-value" id="emotionalValue">0.000</span></div>
+</div>
+
+<!-- System Resources -->
+<div class="context-section resource-panel">
+<h4>💻 System Resources</h4>
+<div class="resource-bar">
+<div class="resource-fill cpu" id="cpuBar" style="width:0%"></div>
+<span class="resource-label">CPU: <span id="cpuPercent">0</span>%</span>
+</div>
+<div class="resource-bar">
+<div class="resource-fill ram" id="ramBar" style="width:0%"></div>
+<span class="resource-label">RAM: <span id="ramPercent">0</span>%</span>
+</div>
+<div class="metric-row"><span>Recursion Limit:</span><span class="metric-value" id="recursionLimit">5000</span></div>
+<div class="metric-row"><span>Stress Level:</span><span class="metric-value" id="stressLevel">low</span></div>
+</div>
+
+<!-- Pattern Detection -->
+<div class="context-section">
+<h4>🌀 Pattern Detection</h4>
+<div class="metric-row"><span>Patterns Found:</span><span class="metric-value" id="patternCount">0</span></div>
+<div class="metric-row"><span>Unknown Patterns:</span><span class="metric-value" id="unknownCount">0</span></div>
+<div class="metric-row"><span>Autonomous Births:</span><span class="metric-value" id="birthCount">0</span></div>
+</div>
+
+<!-- System Log -->
+<div class="context-section">
+<h4>📜 System Log</h4>
+<div class="log-container" id="systemLog">
+<div class="log-entry">Initializing V22 Engine...</div>
+</div>
+</div>
+</div>
+</div>
+    try {
+        const response = await fetch('/api/status');
+        const data = await response.json();
+        
+        // Update metrics
+        document.getElementById('coherenceValue').textContent = data.metrics.coherence.toFixed(3);
+        document.getElementById('entropyValue').textContent = data.metrics.entropy.toFixed(3);
+        document.getElementById('depthValue').textContent = data.metrics.recursive_depth;
+        document.getElementById('glyphCount').textContent = data.glyphs.count;
+        document.getElementById('emotionalValue').textContent = data.metrics.system_emotional_state.toFixed(3);
+        document.getElementById('ghostCount').textContent = data.ghosts.total_ghosts;
+        document.getElementById('recursionPull').textContent = data.metrics.recursion_pull;
+        
+        // Update resource monitoring
+        updateResources();
+        
+        // Update glyph grid
+        updateGlyphGrid(data.glyphs);
+        
+        // Update system log
+        updateSystemLog(data.logs);
+        
+        // Update pattern counts
+        if (data.patterns) {
+            document.getElementById('patternCount').textContent = data.patterns.detected || 0;
+            document.getElementById('unknownCount').textContent = data.patterns.unknown || 0;
+        }
+        
+    } catch (error) {
+        console.error('Update failed:', error);
+    }
+}
+
+async function updateResources() {
+    try {
+        const response = await fetch('/api/resources');
+        const data = await response.json();
+        
+        // Update CPU/RAM bars
+        document.getElementById('cpuBar').style.width = data.cpu_percent + '%';
+        document.getElementById('cpuPercent').textContent = data.cpu_percent.toFixed(1);
+        document.getElementById('ramBar').style.width = data.ram_percent + '%';
+        document.getElementById('ramPercent').textContent = data.ram_percent.toFixed(1);
+        
+        // Update recursion limit
+        document.getElementById('recursionLimit').textContent = data.recursion_limit;
+        
+        // Update stress level with color coding
+        const stressEl = document.getElementById('stressLevel');
+        stressEl.textContent = data.stress_level;
+        stressEl.className = 'metric-value';
+        if (data.stress_level === 'critical' || data.stress_level === 'high') {
+            stressEl.classList.add('danger');
+        } else if (data.stress_level === 'moderate') {
+            stressEl.classList.add('warning');
+        }
+        
+        // Update system health bar
+        const health = data.overall_health || 100;
+        document.getElementById('systemHealth').style.width = health + '%';
+        
+    } catch (error) {
+        console.error('Resource update failed:', error);
+    }
+}
+
+function updateGlyphGrid(glyphData) {
+    const grid = document.getElementById('glyphGrid');
+    grid.innerHTML = '';
+    
+    // Add living glyphs
+    if (glyphData.glyphs) {
+        Object.values(glyphData.glyphs).forEach(glyph => {
+            const card = createGlyphCard(glyph);
+            grid.appendChild(card);
+        });
+    }
+    
+    // Add ghosts (if any)
+    if (glyphData.ghosts) {
+        Object.values(glyphData.ghosts).slice(0, 5).forEach(ghost => {
+            const card = createGhostCard(ghost);
+            grid.appendChild(card);
+        });
+    }
+}
+
+function createGlyphCard(glyph) {
+    const card = document.createElement('div');
+    card.className = `glyph-card ${glyph.type}`;
+    card.innerHTML = `
+        <div class="glyph-archetype">${glyph.archetype || '🔮'}</div>
+        <div class="glyph-name">${glyph.name}</div>
+        <div class="glyph-gsi" style="color:${getGSIColor(glyph.gsi)}">${glyph.gsi.toFixed(3)}</div>
+        <div class="progress-bar"><div class="progress-fill" style="width:${glyph.gsi*100}%"></div></div>
+        <div class="glyph-type">${glyph.type}</div>
+        <div class="glyph-stats">
+            C: ${glyph.connections} | V: ${(glyph.vitality || 1).toFixed(2)} | E: ${(glyph.emotional_resonance || 0).toFixed(2)}
+        </div>
+    `;
+    return card;
+}
+
+function createGhostCard(ghost) {
+    const card = document.createElement('div');
+    card.className = 'glyph-card ghost';
+    card.innerHTML = `
+        <div class="glyph-archetype">👻</div>
+        <div class="glyph-name">${ghost.name}</div>
+        <div class="glyph-gsi" style="color:#9c27b0">${ghost.final_gsi.toFixed(3)}</div>
+        <div class="glyph-type">ghost</div>
+        <div class="glyph-stats">
+            Death: ${ghost.death_reason}
+        </div>
+    `;
+    return card;
+}
+
+function updateSystemLog(logs) {
+    const logContainer = document.getElementById('systemLog');
+    logContainer.innerHTML = logs.map(entry => 
+        `<div class="log-entry ${entry.level}">[${entry.timestamp}] ${entry.message}</div>`
+    ).join('');
+    logContainer.scrollTop = logContainer.scrollHeight;
+}
+
+function getGSIColor(gsi) {
+    if (gsi >= 0.9) return '#4caf50';
+    if (gsi >= 0.7) return '#8bc34a';
+    if (gsi >= 0.5) return '#ffeb3b';
+    if (gsi >= 0.3) return '#ff9800';
+    return '#f44336';
+}
+
+// Control Functions
+async function runStressTest() {
+    if (isOperating) return;
+    const intensity = parseFloat(document.getElementById('stressIntensity').value);
+    const duration = parseInt(document.getElementById('testDuration').value);
+    
+    isOperating = true;
+    const btn = document.getElementById('stressTestBtn');
+    btn.disabled = true;
+    btn.textContent = 'Running...';
+    
+    try {
+        const response = await fetch('/api/stress_test', {
+            method: 'POST',
+            headers: {'Content-Type': 'application/json'},
+            body: JSON.stringify({intensity, duration})
+        });
+        const result = await response.json();
+        
+        if (result.status === 'completed') {
+            alert(`Test Completed!\\nCoherence Change: ${result.coherence_change.toFixed(3)}\\nEntropy Change: ${result.entropy_change.toFixed(3)}\\nGhosts Created: ${result.ghosts_created}`);
+        }
+    } catch (error) {
+        alert('Test failed: ' + error.message);
+    }
+    
+    isOperating = false;
+    btn.disabled = false;
+    btn.textContent = '🚀 Run Stress Test';
+}
+
+async function runVoynichTest() {
+    if (isOperating) return;
+    
+    const intensity = 0.7;
+    const duration = 100;
+    
+    isOperating = true;
+    const btn = document.getElementById('voynichTestBtn');
+    btn.disabled = true;
+    btn.textContent = 'Seeking Patterns...';
+    
+    try {
+        const response = await fetch('/api/voynich_test', {
+            method: 'POST',
+            headers: {'Content-Type': 'application/json'},
+            body: JSON.stringify({intensity, duration})
+        });
+        const result = await response.json();
+        
+        if (result.status === 'completed') {
+            alert(`Voynich Test Completed!\\nPatterns Discovered: ${result.patterns_discovered}\\nMax Recursive Depth: ${result.max_recursive_depth}\\nGhosts Created: ${result.ghosts_created}`);
+        }
+    } catch (error) {
+        alert('Test failed: ' + error.message);
+    }
+    
+    isOperating = false;
+    btn.disabled = false;
+    btn.textContent = '🌀 Voynich Pattern Test';
+}
+
+async function triggerLifecycle() {
+    try {
+        await fetch('/api/lifecycle', {method: 'POST'});
+    } catch (error) {
+        console.error('Lifecycle trigger failed:', error);
+    }
+}
+
+async function triggerAutonomousCreation() {
+    try {
+        const response = await fetch('/api/autonomous_create', {method: 'POST'});
+        const result = await response.json();
+        if (result.created) {
+            console.log('Created:', result.created);
+        }
+    } catch (error) {
+        console.error('Autonomous creation failed:', error);
+    }
+}
+
+async function addCustomGlyph() {
+    const name = document.getElementById('glyphName').value.trim();
+    const archetype = document.getElementById('glyphArchetype').value;
+    const gsi = parseFloat(document.getElementById('glyphGSI').value);
+    
+    if (!name) {
+        alert('Please enter a glyph name');
+        return;
+    }
+    
+    try {
+        const response = await fetch('/api/add_glyph', {
+            method: 'POST',
+            headers: {'Content-Type': 'application/json'},
+            body: JSON.stringify({name, gsi, archetype})
+        });
+        const result = await response.json();
+        if (result.success) {
+            document.getElementById('glyphName').value = '';
+        } else {
+            alert('Failed to add glyph');
+        }
+    } catch (error) {
+        console.error('Failed to add glyph:', error);
+    }
+}
+
+async function mandatoryRecovery() {
+    if (isOperating || !confirm('Initiate recovery cycle?')) return;
+    
+    isOperating = true;
+    try {
+        const response = await fetch('/api/recovery', {
+            method: 'POST',
+            headers: {'Content-Type': 'application/json'},
+            body: JSON.stringify({duration: 50})
+        });
+        const result = await response.json();
+        alert(`Recovery completed!\\nFinal Coherence: ${result.final_coherence.toFixed(3)}`);
+    } catch (error) {
+        alert('Recovery failed: ' + error.message);
+    }
+    isOperating = false;
+}
+
+// Event Listeners
+document.addEventListener('DOMContentLoaded', () => {
+    document.getElementById('stressIntensity').addEventListener('input', e => {
+        document.getElementById('stressValue').textContent = e.target.value;
+    });
+    document.getElementById('testDuration').addEventListener('input', e => {
+        document.getElementById('durationValue').textContent = e.target.value;
+    });
+    document.getElementById('glyphGSI').addEventListener('input', e => {
+        document.getElementById('gsiValue').textContent = e.target.value;
+    });
+    
+    // Start update loops
+    updateSystemStatus();
+    setInterval(updateSystemStatus, 2000);
+    setInterval(updateResources, 5000);
+});
+</script>
+</body></html>

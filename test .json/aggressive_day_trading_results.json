@@ -1,0 +1,4288 @@
+{
+  "metadata": {
+    "strategy": "day_trading",
+    "start_date": "2020-01-01",
+    "starting_cash": 1000.0,
+    "tickers_traded": 49
+  },
+  "final_performance": {
+    "initial_value": 1000.0,
+    "final_value": 1000.0,
+    "total_return": 0.0,
+    "return_pct": 0.0,
+    "total_trades": 502,
+    "winning_days": 0,
+    "losing_days": 0,
+    "win_rate": 0.0,
+    "daily_returns": []
+  },
+  "day_trade_log": [
+    {
+      "date": "2020-01-03",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 6,
+      "entry_price": 74.35749816894531,
+      "reasoning": "AGGRESSIVE buy: GSI=0.990, Connections=6, Strength=0.834"
+    },
+    {
+      "date": "2020-01-03",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 6,
+      "exit_price": 74.35749816894531,
+      "entry_price": 74.35749816894531,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-01-06",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 6,
+      "entry_price": 74.94999694824219,
+      "reasoning": "AGGRESSIVE buy: GSI=0.998, Connections=6, Strength=0.839"
+    },
+    {
+      "date": "2020-01-06",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 6,
+      "exit_price": 74.94999694824219,
+      "entry_price": 74.94999694824219,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-01-07",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 6,
+      "entry_price": 74.59750366210938,
+      "reasoning": "AGGRESSIVE buy: GSI=0.994, Connections=6, Strength=0.836"
+    },
+    {
+      "date": "2020-01-07",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 6,
+      "exit_price": 74.59750366210938,
+      "entry_price": 74.59750366210938,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-01-08",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 6,
+      "entry_price": 75.79750061035156,
+      "reasoning": "AGGRESSIVE buy: GSI=1.000, Connections=6, Strength=0.840"
+    },
+    {
+      "date": "2020-01-08",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 6,
+      "exit_price": 75.79750061035156,
+      "entry_price": 75.79750061035156,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-01-09",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 6,
+      "entry_price": 77.40750122070312,
+      "reasoning": "AGGRESSIVE buy: GSI=1.000, Connections=6, Strength=0.840"
+    },
+    {
+      "date": "2020-01-09",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 6,
+      "exit_price": 77.40750122070312,
+      "entry_price": 77.40750122070312,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-01-10",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 6,
+      "entry_price": 77.5824966430664,
+      "reasoning": "AGGRESSIVE buy: GSI=1.000, Connections=6, Strength=0.840"
+    },
+    {
+      "date": "2020-01-10",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 6,
+      "exit_price": 77.5824966430664,
+      "entry_price": 77.5824966430664,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-01-13",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 6,
+      "entry_price": 79.23999786376953,
+      "reasoning": "AGGRESSIVE buy: GSI=1.000, Connections=6, Strength=0.840"
+    },
+    {
+      "date": "2020-01-13",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 6,
+      "exit_price": 79.23999786376953,
+      "entry_price": 79.23999786376953,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-01-14",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 6,
+      "entry_price": 78.16999816894531,
+      "reasoning": "AGGRESSIVE buy: GSI=0.986, Connections=6, Strength=0.832"
+    },
+    {
+      "date": "2020-01-14",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 6,
+      "exit_price": 78.16999816894531,
+      "entry_price": 78.16999816894531,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-01-15",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 6,
+      "entry_price": 77.83499908447266,
+      "reasoning": "AGGRESSIVE buy: GSI=0.982, Connections=6, Strength=0.829"
+    },
+    {
+      "date": "2020-01-15",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 6,
+      "exit_price": 77.83499908447266,
+      "entry_price": 77.83499908447266,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-01-16",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 6,
+      "entry_price": 78.80999755859375,
+      "reasoning": "AGGRESSIVE buy: GSI=0.995, Connections=6, Strength=0.837"
+    },
+    {
+      "date": "2020-01-16",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 6,
+      "exit_price": 78.80999755859375,
+      "entry_price": 78.80999755859375,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-01-17",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 6,
+      "entry_price": 79.68250274658203,
+      "reasoning": "AGGRESSIVE buy: GSI=1.000, Connections=6, Strength=0.840"
+    },
+    {
+      "date": "2020-01-17",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 6,
+      "exit_price": 79.68250274658203,
+      "entry_price": 79.68250274658203,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-01-21",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 6,
+      "entry_price": 79.14250183105469,
+      "reasoning": "AGGRESSIVE buy: GSI=0.993, Connections=6, Strength=0.836"
+    },
+    {
+      "date": "2020-01-21",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 6,
+      "exit_price": 79.14250183105469,
+      "entry_price": 79.14250183105469,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-01-22",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 6,
+      "entry_price": 79.42500305175781,
+      "reasoning": "AGGRESSIVE buy: GSI=0.997, Connections=6, Strength=0.838"
+    },
+    {
+      "date": "2020-01-22",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 6,
+      "exit_price": 79.42500305175781,
+      "entry_price": 79.42500305175781,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-01-23",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 6,
+      "entry_price": 79.80750274658203,
+      "reasoning": "AGGRESSIVE buy: GSI=1.000, Connections=6, Strength=0.840"
+    },
+    {
+      "date": "2020-01-23",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 6,
+      "exit_price": 79.80750274658203,
+      "entry_price": 79.80750274658203,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-01-24",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 6,
+      "entry_price": 79.57749938964844,
+      "reasoning": "AGGRESSIVE buy: GSI=0.997, Connections=6, Strength=0.838"
+    },
+    {
+      "date": "2020-01-24",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 6,
+      "exit_price": 79.57749938964844,
+      "entry_price": 79.57749938964844,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-01-27",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 6,
+      "entry_price": 77.23750305175781,
+      "reasoning": "AGGRESSIVE buy: GSI=0.968, Connections=6, Strength=0.821"
+    },
+    {
+      "date": "2020-01-27",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 6,
+      "exit_price": 77.23750305175781,
+      "entry_price": 77.23750305175781,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-01-28",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 6,
+      "entry_price": 79.42250061035156,
+      "reasoning": "AGGRESSIVE buy: GSI=0.996, Connections=6, Strength=0.838"
+    },
+    {
+      "date": "2020-01-28",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 6,
+      "exit_price": 79.42250061035156,
+      "entry_price": 79.42250061035156,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-01-29",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 6,
+      "entry_price": 81.08499908447266,
+      "reasoning": "AGGRESSIVE buy: GSI=1.000, Connections=6, Strength=0.840"
+    },
+    {
+      "date": "2020-01-29",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 6,
+      "exit_price": 81.08499908447266,
+      "entry_price": 81.08499908447266,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-01-30",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 6,
+      "entry_price": 80.96749877929688,
+      "reasoning": "AGGRESSIVE buy: GSI=0.999, Connections=6, Strength=0.839"
+    },
+    {
+      "date": "2020-01-30",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 6,
+      "exit_price": 80.96749877929688,
+      "entry_price": 80.96749877929688,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-01-31",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 6,
+      "entry_price": 77.37750244140625,
+      "reasoning": "AGGRESSIVE buy: GSI=0.954, Connections=6, Strength=0.813"
+    },
+    {
+      "date": "2020-01-31",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 6,
+      "exit_price": 77.37750244140625,
+      "entry_price": 77.37750244140625,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-02-03",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 6,
+      "entry_price": 77.16500091552734,
+      "reasoning": "AGGRESSIVE buy: GSI=0.951, Connections=6, Strength=0.811"
+    },
+    {
+      "date": "2020-02-03",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 6,
+      "exit_price": 77.16500091552734,
+      "entry_price": 77.16500091552734,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-02-04",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 6,
+      "entry_price": 79.7125015258789,
+      "reasoning": "AGGRESSIVE buy: GSI=0.984, Connections=6, Strength=0.831"
+    },
+    {
+      "date": "2020-02-04",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 6,
+      "exit_price": 79.7125015258789,
+      "entry_price": 79.7125015258789,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-02-05",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 6,
+      "entry_price": 80.36250305175781,
+      "reasoning": "AGGRESSIVE buy: GSI=0.993, Connections=6, Strength=0.836"
+    },
+    {
+      "date": "2020-02-05",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 6,
+      "exit_price": 80.36250305175781,
+      "entry_price": 80.36250305175781,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-02-06",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 6,
+      "entry_price": 81.30249786376953,
+      "reasoning": "AGGRESSIVE buy: GSI=1.000, Connections=6, Strength=0.840"
+    },
+    {
+      "date": "2020-02-06",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 6,
+      "exit_price": 81.30249786376953,
+      "entry_price": 81.30249786376953,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-02-07",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 6,
+      "entry_price": 80.00749969482422,
+      "reasoning": "AGGRESSIVE buy: GSI=0.984, Connections=6, Strength=0.830"
+    },
+    {
+      "date": "2020-02-07",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 6,
+      "exit_price": 80.00749969482422,
+      "entry_price": 80.00749969482422,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-02-10",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 6,
+      "entry_price": 80.38749694824219,
+      "reasoning": "AGGRESSIVE buy: GSI=0.989, Connections=6, Strength=0.833"
+    },
+    {
+      "date": "2020-02-10",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 6,
+      "exit_price": 80.38749694824219,
+      "entry_price": 80.38749694824219,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-02-11",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 6,
+      "entry_price": 79.90249633789062,
+      "reasoning": "AGGRESSIVE buy: GSI=0.983, Connections=6, Strength=0.830"
+    },
+    {
+      "date": "2020-02-11",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 6,
+      "exit_price": 79.90249633789062,
+      "entry_price": 79.90249633789062,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-02-12",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 6,
+      "entry_price": 81.80000305175781,
+      "reasoning": "AGGRESSIVE buy: GSI=1.000, Connections=6, Strength=0.840"
+    },
+    {
+      "date": "2020-02-12",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 6,
+      "exit_price": 81.80000305175781,
+      "entry_price": 81.80000305175781,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-02-13",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 6,
+      "entry_price": 81.21749877929688,
+      "reasoning": "AGGRESSIVE buy: GSI=0.993, Connections=6, Strength=0.836"
+    },
+    {
+      "date": "2020-02-13",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 6,
+      "exit_price": 81.21749877929688,
+      "entry_price": 81.21749877929688,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-02-14",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 6,
+      "entry_price": 81.23750305175781,
+      "reasoning": "AGGRESSIVE buy: GSI=0.993, Connections=6, Strength=0.836"
+    },
+    {
+      "date": "2020-02-14",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 6,
+      "exit_price": 81.23750305175781,
+      "entry_price": 81.23750305175781,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-02-18",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 6,
+      "entry_price": 79.75,
+      "reasoning": "AGGRESSIVE buy: GSI=0.975, Connections=6, Strength=0.825"
+    },
+    {
+      "date": "2020-02-18",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 6,
+      "exit_price": 79.75,
+      "entry_price": 79.75,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-02-19",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 6,
+      "entry_price": 80.90499877929688,
+      "reasoning": "AGGRESSIVE buy: GSI=0.989, Connections=6, Strength=0.834"
+    },
+    {
+      "date": "2020-02-19",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 6,
+      "exit_price": 80.90499877929688,
+      "entry_price": 80.90499877929688,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-02-20",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 6,
+      "entry_price": 80.07499694824219,
+      "reasoning": "AGGRESSIVE buy: GSI=0.979, Connections=6, Strength=0.827"
+    },
+    {
+      "date": "2020-02-20",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 6,
+      "exit_price": 80.07499694824219,
+      "entry_price": 80.07499694824219,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-02-21",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 6,
+      "entry_price": 78.26249694824219,
+      "reasoning": "AGGRESSIVE buy: GSI=0.956, Connections=6, Strength=0.814"
+    },
+    {
+      "date": "2020-02-21",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 6,
+      "exit_price": 78.26249694824219,
+      "entry_price": 78.26249694824219,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-02-24",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 6,
+      "entry_price": 74.54499816894531,
+      "reasoning": "AGGRESSIVE buy: GSI=0.909, Connections=6, Strength=0.785"
+    },
+    {
+      "date": "2020-02-24",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 6,
+      "exit_price": 74.54499816894531,
+      "entry_price": 74.54499816894531,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-02-25",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 6,
+      "entry_price": 72.0199966430664,
+      "reasoning": "AGGRESSIVE buy: GSI=0.875, Connections=6, Strength=0.765"
+    },
+    {
+      "date": "2020-02-25",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 6,
+      "exit_price": 72.0199966430664,
+      "entry_price": 72.0199966430664,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-02-26",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 6,
+      "entry_price": 73.1624984741211,
+      "reasoning": "AGGRESSIVE buy: GSI=0.891, Connections=6, Strength=0.775"
+    },
+    {
+      "date": "2020-02-26",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 6,
+      "exit_price": 73.1624984741211,
+      "entry_price": 73.1624984741211,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-02-27",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 7,
+      "entry_price": 68.37999725341797,
+      "reasoning": "AGGRESSIVE buy: GSI=0.826, Connections=6, Strength=0.735"
+    },
+    {
+      "date": "2020-02-27",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 7,
+      "exit_price": 68.37999725341797,
+      "entry_price": 68.37999725341797,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-02-28",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 7,
+      "entry_price": 68.33999633789062,
+      "reasoning": "AGGRESSIVE buy: GSI=0.825, Connections=6, Strength=0.735"
+    },
+    {
+      "date": "2020-02-28",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 7,
+      "exit_price": 68.33999633789062,
+      "entry_price": 68.33999633789062,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-03-02",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 6,
+      "entry_price": 74.70249938964844,
+      "reasoning": "AGGRESSIVE buy: GSI=0.918, Connections=6, Strength=0.791"
+    },
+    {
+      "date": "2020-03-02",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 6,
+      "exit_price": 74.70249938964844,
+      "entry_price": 74.70249938964844,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-03-03",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 6,
+      "entry_price": 72.33000183105469,
+      "reasoning": "AGGRESSIVE buy: GSI=0.886, Connections=6, Strength=0.772"
+    },
+    {
+      "date": "2020-03-03",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 6,
+      "exit_price": 72.33000183105469,
+      "entry_price": 72.33000183105469,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-03-04",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 6,
+      "entry_price": 75.68499755859375,
+      "reasoning": "AGGRESSIVE buy: GSI=0.933, Connections=6, Strength=0.800"
+    },
+    {
+      "date": "2020-03-04",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 6,
+      "exit_price": 75.68499755859375,
+      "entry_price": 75.68499755859375,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-03-05",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 6,
+      "entry_price": 73.2300033569336,
+      "reasoning": "AGGRESSIVE buy: GSI=0.900, Connections=6, Strength=0.780"
+    },
+    {
+      "date": "2020-03-05",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 6,
+      "exit_price": 73.2300033569336,
+      "entry_price": 73.2300033569336,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-03-06",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 6,
+      "entry_price": 72.25749969482422,
+      "reasoning": "AGGRESSIVE buy: GSI=0.887, Connections=6, Strength=0.772"
+    },
+    {
+      "date": "2020-03-06",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 6,
+      "exit_price": 72.25749969482422,
+      "entry_price": 72.25749969482422,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-03-09",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 7,
+      "entry_price": 66.5425033569336,
+      "reasoning": "AGGRESSIVE buy: GSI=0.808, Connections=6, Strength=0.725"
+    },
+    {
+      "date": "2020-03-09",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 7,
+      "exit_price": 66.5425033569336,
+      "entry_price": 66.5425033569336,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-03-10",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 7,
+      "entry_price": 71.33499908447266,
+      "reasoning": "AGGRESSIVE buy: GSI=0.880, Connections=6, Strength=0.768"
+    },
+    {
+      "date": "2020-03-10",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 7,
+      "exit_price": 71.33499908447266,
+      "entry_price": 71.33499908447266,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-03-11",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 7,
+      "entry_price": 68.85749816894531,
+      "reasoning": "AGGRESSIVE buy: GSI=0.845, Connections=6, Strength=0.747"
+    },
+    {
+      "date": "2020-03-11",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 7,
+      "exit_price": 68.85749816894531,
+      "entry_price": 68.85749816894531,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-03-12",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 8,
+      "entry_price": 62.057498931884766,
+      "reasoning": "AGGRESSIVE buy: GSI=0.746, Connections=6, Strength=0.688"
+    },
+    {
+      "date": "2020-03-12",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 8,
+      "exit_price": 62.057498931884766,
+      "entry_price": 62.057498931884766,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-03-13",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 7,
+      "entry_price": 69.49250030517578,
+      "reasoning": "AGGRESSIVE buy: GSI=0.846, Connections=6, Strength=0.748"
+    },
+    {
+      "date": "2020-03-13",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 7,
+      "exit_price": 69.49250030517578,
+      "entry_price": 69.49250030517578,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-03-16",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 8,
+      "entry_price": 60.5525016784668,
+      "reasoning": "AGGRESSIVE buy: GSI=0.746, Connections=6, Strength=0.688"
+    },
+    {
+      "date": "2020-03-16",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 8,
+      "exit_price": 60.5525016784668,
+      "entry_price": 60.5525016784668,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-03-17",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 7,
+      "entry_price": 63.21500015258789,
+      "reasoning": "AGGRESSIVE buy: GSI=0.790, Connections=6, Strength=0.714"
+    },
+    {
+      "date": "2020-03-17",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 7,
+      "exit_price": 63.21500015258789,
+      "entry_price": 63.21500015258789,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-03-18",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 8,
+      "entry_price": 61.66749954223633,
+      "reasoning": "AGGRESSIVE buy: GSI=0.766, Connections=6, Strength=0.700"
+    },
+    {
+      "date": "2020-03-18",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 8,
+      "exit_price": 61.66749954223633,
+      "entry_price": 61.66749954223633,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-03-19",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 8,
+      "entry_price": 61.19499969482422,
+      "reasoning": "AGGRESSIVE buy: GSI=0.758, Connections=6, Strength=0.695"
+    },
+    {
+      "date": "2020-03-19",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 8,
+      "exit_price": 61.19499969482422,
+      "entry_price": 61.19499969482422,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-03-20",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 8,
+      "entry_price": 57.310001373291016,
+      "reasoning": "AGGRESSIVE buy: GSI=0.695, Connections=6, Strength=0.657"
+    },
+    {
+      "date": "2020-03-20",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 8,
+      "exit_price": 57.310001373291016,
+      "entry_price": 57.310001373291016,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-03-23",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 8,
+      "entry_price": 56.092498779296875,
+      "reasoning": "AGGRESSIVE buy: GSI=0.673, Connections=6, Strength=0.644"
+    },
+    {
+      "date": "2020-03-23",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 8,
+      "exit_price": 56.092498779296875,
+      "entry_price": 56.092498779296875,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-03-24",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 8,
+      "entry_price": 61.720001220703125,
+      "reasoning": "AGGRESSIVE buy: GSI=0.773, Connections=6, Strength=0.704"
+    },
+    {
+      "date": "2020-03-24",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 8,
+      "exit_price": 61.720001220703125,
+      "entry_price": 61.720001220703125,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-03-25",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 8,
+      "entry_price": 61.380001068115234,
+      "reasoning": "AGGRESSIVE buy: GSI=0.768, Connections=6, Strength=0.701"
+    },
+    {
+      "date": "2020-03-25",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 8,
+      "exit_price": 61.380001068115234,
+      "entry_price": 61.380001068115234,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-03-26",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 7,
+      "entry_price": 64.61000061035156,
+      "reasoning": "AGGRESSIVE buy: GSI=0.821, Connections=6, Strength=0.732"
+    },
+    {
+      "date": "2020-03-26",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 7,
+      "exit_price": 64.61000061035156,
+      "entry_price": 64.61000061035156,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-03-27",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 8,
+      "entry_price": 61.935001373291016,
+      "reasoning": "AGGRESSIVE buy: GSI=0.779, Connections=6, Strength=0.708"
+    },
+    {
+      "date": "2020-03-27",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 8,
+      "exit_price": 61.935001373291016,
+      "entry_price": 61.935001373291016,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-03-30",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 7,
+      "entry_price": 63.70249938964844,
+      "reasoning": "AGGRESSIVE buy: GSI=0.808, Connections=6, Strength=0.725"
+    },
+    {
+      "date": "2020-03-30",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 7,
+      "exit_price": 63.70249938964844,
+      "entry_price": 63.70249938964844,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-03-31",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 7,
+      "entry_price": 63.5724983215332,
+      "reasoning": "AGGRESSIVE buy: GSI=0.806, Connections=6, Strength=0.723"
+    },
+    {
+      "date": "2020-03-31",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 7,
+      "exit_price": 63.5724983215332,
+      "entry_price": 63.5724983215332,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-04-01",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 8,
+      "entry_price": 60.227500915527344,
+      "reasoning": "AGGRESSIVE buy: GSI=0.753, Connections=6, Strength=0.692"
+    },
+    {
+      "date": "2020-04-01",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 8,
+      "exit_price": 60.227500915527344,
+      "entry_price": 60.227500915527344,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-04-02",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 8,
+      "entry_price": 61.23249816894531,
+      "reasoning": "AGGRESSIVE buy: GSI=0.770, Connections=6, Strength=0.702"
+    },
+    {
+      "date": "2020-04-02",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 8,
+      "exit_price": 61.23249816894531,
+      "entry_price": 61.23249816894531,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-04-03",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 8,
+      "entry_price": 60.352500915527344,
+      "reasoning": "AGGRESSIVE buy: GSI=0.755, Connections=6, Strength=0.693"
+    },
+    {
+      "date": "2020-04-03",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 8,
+      "exit_price": 60.352500915527344,
+      "entry_price": 60.352500915527344,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-04-06",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 7,
+      "entry_price": 65.61750030517578,
+      "reasoning": "AGGRESSIVE buy: GSI=0.843, Connections=6, Strength=0.746"
+    },
+    {
+      "date": "2020-04-06",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 7,
+      "exit_price": 65.61750030517578,
+      "entry_price": 65.61750030517578,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-04-07",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 7,
+      "entry_price": 64.85749816894531,
+      "reasoning": "AGGRESSIVE buy: GSI=0.831, Connections=6, Strength=0.739"
+    },
+    {
+      "date": "2020-04-07",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 7,
+      "exit_price": 64.85749816894531,
+      "entry_price": 64.85749816894531,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-04-08",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 7,
+      "entry_price": 66.51750183105469,
+      "reasoning": "AGGRESSIVE buy: GSI=0.857, Connections=6, Strength=0.754"
+    },
+    {
+      "date": "2020-04-08",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 7,
+      "exit_price": 66.51750183105469,
+      "entry_price": 66.51750183105469,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-04-09",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 7,
+      "entry_price": 66.99749755859375,
+      "reasoning": "AGGRESSIVE buy: GSI=0.864, Connections=6, Strength=0.758"
+    },
+    {
+      "date": "2020-04-09",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 7,
+      "exit_price": 66.99749755859375,
+      "entry_price": 66.99749755859375,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-04-13",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 7,
+      "entry_price": 68.3125,
+      "reasoning": "AGGRESSIVE buy: GSI=0.883, Connections=6, Strength=0.770"
+    },
+    {
+      "date": "2020-04-13",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 7,
+      "exit_price": 68.3125,
+      "entry_price": 68.3125,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-04-14",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 6,
+      "entry_price": 71.76249694824219,
+      "reasoning": "AGGRESSIVE buy: GSI=0.934, Connections=6, Strength=0.800"
+    },
+    {
+      "date": "2020-04-14",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 6,
+      "exit_price": 71.76249694824219,
+      "entry_price": 71.76249694824219,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-04-15",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 7,
+      "entry_price": 71.10749816894531,
+      "reasoning": "AGGRESSIVE buy: GSI=0.925, Connections=6, Strength=0.795"
+    },
+    {
+      "date": "2020-04-15",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 7,
+      "exit_price": 71.10749816894531,
+      "entry_price": 71.10749816894531,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-04-16",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 6,
+      "entry_price": 71.67250061035156,
+      "reasoning": "AGGRESSIVE buy: GSI=0.933, Connections=6, Strength=0.800"
+    },
+    {
+      "date": "2020-04-16",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 6,
+      "exit_price": 71.67250061035156,
+      "entry_price": 71.67250061035156,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-04-17",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 7,
+      "entry_price": 70.69999694824219,
+      "reasoning": "AGGRESSIVE buy: GSI=0.919, Connections=6, Strength=0.792"
+    },
+    {
+      "date": "2020-04-17",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 7,
+      "exit_price": 70.69999694824219,
+      "entry_price": 70.69999694824219,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-04-20",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 7,
+      "entry_price": 69.23249816894531,
+      "reasoning": "AGGRESSIVE buy: GSI=0.898, Connections=6, Strength=0.779"
+    },
+    {
+      "date": "2020-04-20",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 7,
+      "exit_price": 69.23249816894531,
+      "entry_price": 69.23249816894531,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-04-21",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 7,
+      "entry_price": 67.09249877929688,
+      "reasoning": "AGGRESSIVE buy: GSI=0.868, Connections=6, Strength=0.761"
+    },
+    {
+      "date": "2020-04-21",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 7,
+      "exit_price": 67.09249877929688,
+      "entry_price": 67.09249877929688,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-04-22",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 7,
+      "entry_price": 69.0250015258789,
+      "reasoning": "AGGRESSIVE buy: GSI=0.896, Connections=6, Strength=0.778"
+    },
+    {
+      "date": "2020-04-22",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 7,
+      "exit_price": 69.0250015258789,
+      "entry_price": 69.0250015258789,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-04-23",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 7,
+      "entry_price": 68.75749969482422,
+      "reasoning": "AGGRESSIVE buy: GSI=0.893, Connections=6, Strength=0.776"
+    },
+    {
+      "date": "2020-04-23",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 7,
+      "exit_price": 68.75749969482422,
+      "entry_price": 68.75749969482422,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-04-24",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 7,
+      "entry_price": 70.74250030517578,
+      "reasoning": "AGGRESSIVE buy: GSI=0.921, Connections=6, Strength=0.793"
+    },
+    {
+      "date": "2020-04-24",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 7,
+      "exit_price": 70.74250030517578,
+      "entry_price": 70.74250030517578,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-04-27",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 7,
+      "entry_price": 70.7925033569336,
+      "reasoning": "AGGRESSIVE buy: GSI=0.922, Connections=6, Strength=0.793"
+    },
+    {
+      "date": "2020-04-27",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 7,
+      "exit_price": 70.7925033569336,
+      "entry_price": 70.7925033569336,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-04-28",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 7,
+      "entry_price": 69.6449966430664,
+      "reasoning": "AGGRESSIVE buy: GSI=0.906, Connections=6, Strength=0.784"
+    },
+    {
+      "date": "2020-04-28",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 7,
+      "exit_price": 69.6449966430664,
+      "entry_price": 69.6449966430664,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-04-29",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 6,
+      "entry_price": 71.93250274658203,
+      "reasoning": "AGGRESSIVE buy: GSI=0.939, Connections=6, Strength=0.803"
+    },
+    {
+      "date": "2020-04-29",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 6,
+      "exit_price": 71.93250274658203,
+      "entry_price": 71.93250274658203,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-04-30",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 6,
+      "entry_price": 73.44999694824219,
+      "reasoning": "AGGRESSIVE buy: GSI=0.960, Connections=6, Strength=0.816"
+    },
+    {
+      "date": "2020-04-30",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 6,
+      "exit_price": 73.44999694824219,
+      "entry_price": 73.44999694824219,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-05-01",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 6,
+      "entry_price": 72.26750183105469,
+      "reasoning": "AGGRESSIVE buy: GSI=0.944, Connections=6, Strength=0.806"
+    },
+    {
+      "date": "2020-05-01",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 6,
+      "exit_price": 72.26750183105469,
+      "entry_price": 72.26750183105469,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-05-04",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 6,
+      "entry_price": 73.29000091552734,
+      "reasoning": "AGGRESSIVE buy: GSI=0.958, Connections=6, Strength=0.815"
+    },
+    {
+      "date": "2020-05-04",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 6,
+      "exit_price": 73.29000091552734,
+      "entry_price": 73.29000091552734,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-05-05",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 6,
+      "entry_price": 74.38999938964844,
+      "reasoning": "AGGRESSIVE buy: GSI=0.973, Connections=6, Strength=0.824"
+    },
+    {
+      "date": "2020-05-05",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 6,
+      "exit_price": 74.38999938964844,
+      "entry_price": 74.38999938964844,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-05-06",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 6,
+      "entry_price": 75.15750122070312,
+      "reasoning": "AGGRESSIVE buy: GSI=0.983, Connections=6, Strength=0.830"
+    },
+    {
+      "date": "2020-05-06",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 6,
+      "exit_price": 75.15750122070312,
+      "entry_price": 75.15750122070312,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-05-07",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 6,
+      "entry_price": 75.93499755859375,
+      "reasoning": "AGGRESSIVE buy: GSI=0.994, Connections=6, Strength=0.836"
+    },
+    {
+      "date": "2020-05-07",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 6,
+      "exit_price": 75.93499755859375,
+      "entry_price": 75.93499755859375,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-05-08",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 6,
+      "entry_price": 77.53250122070312,
+      "reasoning": "AGGRESSIVE buy: GSI=1.000, Connections=6, Strength=0.840"
+    },
+    {
+      "date": "2020-05-08",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 6,
+      "exit_price": 77.53250122070312,
+      "entry_price": 77.53250122070312,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-05-11",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 6,
+      "entry_price": 78.75250244140625,
+      "reasoning": "AGGRESSIVE buy: GSI=1.000, Connections=6, Strength=0.840"
+    },
+    {
+      "date": "2020-05-11",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 6,
+      "exit_price": 78.75250244140625,
+      "entry_price": 78.75250244140625,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-05-12",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 6,
+      "entry_price": 77.85250091552734,
+      "reasoning": "AGGRESSIVE buy: GSI=0.989, Connections=6, Strength=0.833"
+    },
+    {
+      "date": "2020-05-12",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 6,
+      "exit_price": 77.85250091552734,
+      "entry_price": 77.85250091552734,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-05-13",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 6,
+      "entry_price": 76.9124984741211,
+      "reasoning": "AGGRESSIVE buy: GSI=0.976, Connections=6, Strength=0.826"
+    },
+    {
+      "date": "2020-05-13",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 6,
+      "exit_price": 76.9124984741211,
+      "entry_price": 76.9124984741211,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-05-14",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 6,
+      "entry_price": 77.38500213623047,
+      "reasoning": "AGGRESSIVE buy: GSI=0.983, Connections=6, Strength=0.830"
+    },
+    {
+      "date": "2020-05-14",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 6,
+      "exit_price": 77.38500213623047,
+      "entry_price": 77.38500213623047,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-05-15",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 6,
+      "entry_price": 76.92749786376953,
+      "reasoning": "AGGRESSIVE buy: GSI=0.977, Connections=6, Strength=0.826"
+    },
+    {
+      "date": "2020-05-15",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 6,
+      "exit_price": 76.92749786376953,
+      "entry_price": 76.92749786376953,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-05-18",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 6,
+      "entry_price": 78.73999786376953,
+      "reasoning": "AGGRESSIVE buy: GSI=1.000, Connections=6, Strength=0.840"
+    },
+    {
+      "date": "2020-05-18",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 6,
+      "exit_price": 78.73999786376953,
+      "entry_price": 78.73999786376953,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-05-19",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 6,
+      "entry_price": 78.28500366210938,
+      "reasoning": "AGGRESSIVE buy: GSI=0.994, Connections=6, Strength=0.837"
+    },
+    {
+      "date": "2020-05-19",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 6,
+      "exit_price": 78.28500366210938,
+      "entry_price": 78.28500366210938,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-05-20",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 6,
+      "entry_price": 79.80750274658203,
+      "reasoning": "AGGRESSIVE buy: GSI=1.000, Connections=6, Strength=0.840"
+    },
+    {
+      "date": "2020-05-20",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 6,
+      "exit_price": 79.80750274658203,
+      "entry_price": 79.80750274658203,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-05-21",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 6,
+      "entry_price": 79.2125015258789,
+      "reasoning": "AGGRESSIVE buy: GSI=0.993, Connections=6, Strength=0.836"
+    },
+    {
+      "date": "2020-05-21",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 6,
+      "exit_price": 79.2125015258789,
+      "entry_price": 79.2125015258789,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-05-22",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 6,
+      "entry_price": 79.72250366210938,
+      "reasoning": "AGGRESSIVE buy: GSI=0.999, Connections=6, Strength=0.839"
+    },
+    {
+      "date": "2020-05-22",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 6,
+      "exit_price": 79.72250366210938,
+      "entry_price": 79.72250366210938,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-05-26",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 6,
+      "entry_price": 79.18250274658203,
+      "reasoning": "AGGRESSIVE buy: GSI=0.992, Connections=6, Strength=0.835"
+    },
+    {
+      "date": "2020-05-26",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 6,
+      "exit_price": 79.18250274658203,
+      "entry_price": 79.18250274658203,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-05-27",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 6,
+      "entry_price": 79.52749633789062,
+      "reasoning": "AGGRESSIVE buy: GSI=0.997, Connections=6, Strength=0.838"
+    },
+    {
+      "date": "2020-05-27",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 6,
+      "exit_price": 79.52749633789062,
+      "entry_price": 79.52749633789062,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-05-28",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 6,
+      "entry_price": 79.5625,
+      "reasoning": "AGGRESSIVE buy: GSI=0.997, Connections=6, Strength=0.838"
+    },
+    {
+      "date": "2020-05-28",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 6,
+      "exit_price": 79.5625,
+      "entry_price": 79.5625,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-05-29",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 6,
+      "entry_price": 79.48500061035156,
+      "reasoning": "AGGRESSIVE buy: GSI=0.996, Connections=6, Strength=0.838"
+    },
+    {
+      "date": "2020-05-29",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 6,
+      "exit_price": 79.48500061035156,
+      "entry_price": 79.48500061035156,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-06-01",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 6,
+      "entry_price": 80.4625015258789,
+      "reasoning": "AGGRESSIVE buy: GSI=1.000, Connections=6, Strength=0.840"
+    },
+    {
+      "date": "2020-06-01",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 6,
+      "exit_price": 80.4625015258789,
+      "entry_price": 80.4625015258789,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-06-02",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 6,
+      "entry_price": 80.83499908447266,
+      "reasoning": "AGGRESSIVE buy: GSI=1.000, Connections=6, Strength=0.840"
+    },
+    {
+      "date": "2020-06-02",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 6,
+      "exit_price": 80.83499908447266,
+      "entry_price": 80.83499908447266,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-06-03",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 6,
+      "entry_price": 81.27999877929688,
+      "reasoning": "AGGRESSIVE buy: GSI=1.000, Connections=6, Strength=0.840"
+    },
+    {
+      "date": "2020-06-03",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 6,
+      "exit_price": 81.27999877929688,
+      "entry_price": 81.27999877929688,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-06-04",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 6,
+      "entry_price": 80.58000183105469,
+      "reasoning": "AGGRESSIVE buy: GSI=0.991, Connections=6, Strength=0.835"
+    },
+    {
+      "date": "2020-06-04",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 6,
+      "exit_price": 80.58000183105469,
+      "entry_price": 80.58000183105469,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-06-05",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 6,
+      "entry_price": 82.875,
+      "reasoning": "AGGRESSIVE buy: GSI=1.000, Connections=6, Strength=0.840"
+    },
+    {
+      "date": "2020-06-05",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 6,
+      "exit_price": 82.875,
+      "entry_price": 82.875,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-06-08",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 5,
+      "entry_price": 83.36499786376953,
+      "reasoning": "AGGRESSIVE buy: GSI=1.000, Connections=6, Strength=0.840"
+    },
+    {
+      "date": "2020-06-08",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 5,
+      "exit_price": 83.36499786376953,
+      "entry_price": 83.36499786376953,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-06-09",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 5,
+      "entry_price": 85.99749755859375,
+      "reasoning": "AGGRESSIVE buy: GSI=1.000, Connections=6, Strength=0.840"
+    },
+    {
+      "date": "2020-06-09",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 5,
+      "exit_price": 85.99749755859375,
+      "entry_price": 85.99749755859375,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-06-10",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 5,
+      "entry_price": 88.20999908447266,
+      "reasoning": "AGGRESSIVE buy: GSI=1.000, Connections=6, Strength=0.840"
+    },
+    {
+      "date": "2020-06-10",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 5,
+      "exit_price": 88.20999908447266,
+      "entry_price": 88.20999908447266,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-06-11",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 5,
+      "entry_price": 83.9749984741211,
+      "reasoning": "AGGRESSIVE buy: GSI=0.952, Connections=6, Strength=0.811"
+    },
+    {
+      "date": "2020-06-11",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 5,
+      "exit_price": 83.9749984741211,
+      "entry_price": 83.9749984741211,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-06-12",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 5,
+      "entry_price": 84.69999694824219,
+      "reasoning": "AGGRESSIVE buy: GSI=0.961, Connections=6, Strength=0.816"
+    },
+    {
+      "date": "2020-06-12",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 5,
+      "exit_price": 84.69999694824219,
+      "entry_price": 84.69999694824219,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-06-15",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 5,
+      "entry_price": 85.74749755859375,
+      "reasoning": "AGGRESSIVE buy: GSI=0.973, Connections=6, Strength=0.824"
+    },
+    {
+      "date": "2020-06-15",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 5,
+      "exit_price": 85.74749755859375,
+      "entry_price": 85.74749755859375,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-06-16",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 5,
+      "entry_price": 88.0199966430664,
+      "reasoning": "AGGRESSIVE buy: GSI=0.999, Connections=6, Strength=0.840"
+    },
+    {
+      "date": "2020-06-16",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 5,
+      "exit_price": 88.0199966430664,
+      "entry_price": 88.0199966430664,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-06-17",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 5,
+      "entry_price": 87.89749908447266,
+      "reasoning": "AGGRESSIVE buy: GSI=0.998, Connections=6, Strength=0.839"
+    },
+    {
+      "date": "2020-06-17",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 5,
+      "exit_price": 87.89749908447266,
+      "entry_price": 87.89749908447266,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-06-18",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 5,
+      "entry_price": 87.93250274658203,
+      "reasoning": "AGGRESSIVE buy: GSI=0.998, Connections=6, Strength=0.839"
+    },
+    {
+      "date": "2020-06-18",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 5,
+      "exit_price": 87.93250274658203,
+      "entry_price": 87.93250274658203,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-06-19",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 5,
+      "entry_price": 87.43000030517578,
+      "reasoning": "AGGRESSIVE buy: GSI=0.993, Connections=6, Strength=0.836"
+    },
+    {
+      "date": "2020-06-19",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 5,
+      "exit_price": 87.43000030517578,
+      "entry_price": 87.43000030517578,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-06-22",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 5,
+      "entry_price": 89.71749877929688,
+      "reasoning": "AGGRESSIVE buy: GSI=1.000, Connections=6, Strength=0.840"
+    },
+    {
+      "date": "2020-06-22",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 5,
+      "exit_price": 89.71749877929688,
+      "entry_price": 89.71749877929688,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-06-23",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 5,
+      "entry_price": 91.63249969482422,
+      "reasoning": "AGGRESSIVE buy: GSI=1.000, Connections=6, Strength=0.840"
+    },
+    {
+      "date": "2020-06-23",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 5,
+      "exit_price": 91.63249969482422,
+      "entry_price": 91.63249969482422,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-06-24",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 5,
+      "entry_price": 90.01499938964844,
+      "reasoning": "AGGRESSIVE buy: GSI=0.982, Connections=6, Strength=0.829"
+    },
+    {
+      "date": "2020-06-24",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 5,
+      "exit_price": 90.01499938964844,
+      "entry_price": 90.01499938964844,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-06-25",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 5,
+      "entry_price": 91.20999908447266,
+      "reasoning": "AGGRESSIVE buy: GSI=0.996, Connections=6, Strength=0.837"
+    },
+    {
+      "date": "2020-06-25",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 5,
+      "exit_price": 91.20999908447266,
+      "entry_price": 91.20999908447266,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-06-26",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 5,
+      "entry_price": 88.40750122070312,
+      "reasoning": "AGGRESSIVE buy: GSI=0.965, Connections=6, Strength=0.819"
+    },
+    {
+      "date": "2020-06-26",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 5,
+      "exit_price": 88.40750122070312,
+      "entry_price": 88.40750122070312,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-06-29",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 5,
+      "entry_price": 90.44499969482422,
+      "reasoning": "AGGRESSIVE buy: GSI=0.988, Connections=6, Strength=0.833"
+    },
+    {
+      "date": "2020-06-29",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 5,
+      "exit_price": 90.44499969482422,
+      "entry_price": 90.44499969482422,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-06-30",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 5,
+      "entry_price": 91.19999694824219,
+      "reasoning": "AGGRESSIVE buy: GSI=0.996, Connections=6, Strength=0.838"
+    },
+    {
+      "date": "2020-06-30",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 5,
+      "exit_price": 91.19999694824219,
+      "entry_price": 91.19999694824219,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-07-01",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 5,
+      "entry_price": 91.02749633789062,
+      "reasoning": "AGGRESSIVE buy: GSI=0.994, Connections=6, Strength=0.837"
+    },
+    {
+      "date": "2020-07-01",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 5,
+      "exit_price": 91.02749633789062,
+      "entry_price": 91.02749633789062,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-07-02",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 5,
+      "entry_price": 91.02749633789062,
+      "reasoning": "AGGRESSIVE buy: GSI=0.994, Connections=6, Strength=0.837"
+    },
+    {
+      "date": "2020-07-02",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 5,
+      "exit_price": 91.02749633789062,
+      "entry_price": 91.02749633789062,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-07-06",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 5,
+      "entry_price": 93.4625015258789,
+      "reasoning": "AGGRESSIVE buy: GSI=1.000, Connections=6, Strength=0.840"
+    },
+    {
+      "date": "2020-07-06",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 5,
+      "exit_price": 93.4625015258789,
+      "entry_price": 93.4625015258789,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-07-07",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 5,
+      "entry_price": 93.17250061035156,
+      "reasoning": "AGGRESSIVE buy: GSI=0.997, Connections=6, Strength=0.838"
+    },
+    {
+      "date": "2020-07-07",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 5,
+      "exit_price": 93.17250061035156,
+      "entry_price": 93.17250061035156,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-07-08",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 5,
+      "entry_price": 95.34249877929688,
+      "reasoning": "AGGRESSIVE buy: GSI=1.000, Connections=6, Strength=0.840"
+    },
+    {
+      "date": "2020-07-08",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 5,
+      "exit_price": 95.34249877929688,
+      "entry_price": 95.34249877929688,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-07-09",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 5,
+      "entry_price": 95.75250244140625,
+      "reasoning": "AGGRESSIVE buy: GSI=1.000, Connections=6, Strength=0.840"
+    },
+    {
+      "date": "2020-07-09",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 5,
+      "exit_price": 95.75250244140625,
+      "entry_price": 95.75250244140625,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-07-10",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 5,
+      "entry_price": 95.91999816894531,
+      "reasoning": "AGGRESSIVE buy: GSI=1.000, Connections=6, Strength=0.840"
+    },
+    {
+      "date": "2020-07-10",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 5,
+      "exit_price": 95.91999816894531,
+      "entry_price": 95.91999816894531,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-07-13",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 5,
+      "entry_price": 95.47750091552734,
+      "reasoning": "AGGRESSIVE buy: GSI=0.995, Connections=6, Strength=0.837"
+    },
+    {
+      "date": "2020-07-13",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 5,
+      "exit_price": 95.47750091552734,
+      "entry_price": 95.47750091552734,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-07-14",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 5,
+      "entry_price": 97.05750274658203,
+      "reasoning": "AGGRESSIVE buy: GSI=1.000, Connections=6, Strength=0.840"
+    },
+    {
+      "date": "2020-07-14",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 5,
+      "exit_price": 97.05750274658203,
+      "entry_price": 97.05750274658203,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-07-15",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 5,
+      "entry_price": 97.7249984741211,
+      "reasoning": "AGGRESSIVE buy: GSI=1.000, Connections=6, Strength=0.840"
+    },
+    {
+      "date": "2020-07-15",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 5,
+      "exit_price": 97.7249984741211,
+      "entry_price": 97.7249984741211,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-07-16",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 5,
+      "entry_price": 96.52249908447266,
+      "reasoning": "AGGRESSIVE buy: GSI=0.988, Connections=6, Strength=0.833"
+    },
+    {
+      "date": "2020-07-16",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 5,
+      "exit_price": 96.52249908447266,
+      "entry_price": 96.52249908447266,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-07-17",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 5,
+      "entry_price": 96.32749938964844,
+      "reasoning": "AGGRESSIVE buy: GSI=0.986, Connections=6, Strength=0.831"
+    },
+    {
+      "date": "2020-07-17",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 5,
+      "exit_price": 96.32749938964844,
+      "entry_price": 96.32749938964844,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-07-20",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 5,
+      "entry_price": 98.35749816894531,
+      "reasoning": "AGGRESSIVE buy: GSI=1.000, Connections=6, Strength=0.840"
+    },
+    {
+      "date": "2020-07-20",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 5,
+      "exit_price": 98.35749816894531,
+      "entry_price": 98.35749816894531,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-07-21",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 5,
+      "entry_price": 97.0,
+      "reasoning": "AGGRESSIVE buy: GSI=0.986, Connections=6, Strength=0.832"
+    },
+    {
+      "date": "2020-07-21",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 5,
+      "exit_price": 97.0,
+      "entry_price": 97.0,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-07-22",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 5,
+      "entry_price": 97.27249908447266,
+      "reasoning": "AGGRESSIVE buy: GSI=0.989, Connections=6, Strength=0.833"
+    },
+    {
+      "date": "2020-07-22",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 5,
+      "exit_price": 97.27249908447266,
+      "entry_price": 97.27249908447266,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-07-23",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 5,
+      "entry_price": 92.84500122070312,
+      "reasoning": "AGGRESSIVE buy: GSI=0.943, Connections=6, Strength=0.806"
+    },
+    {
+      "date": "2020-07-23",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 5,
+      "exit_price": 92.84500122070312,
+      "entry_price": 92.84500122070312,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-07-24",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 5,
+      "entry_price": 92.61499786376953,
+      "reasoning": "AGGRESSIVE buy: GSI=0.941, Connections=6, Strength=0.805"
+    },
+    {
+      "date": "2020-07-24",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 5,
+      "exit_price": 92.61499786376953,
+      "entry_price": 92.61499786376953,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-07-27",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 5,
+      "entry_price": 94.80999755859375,
+      "reasoning": "AGGRESSIVE buy: GSI=0.965, Connections=6, Strength=0.819"
+    },
+    {
+      "date": "2020-07-27",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 5,
+      "exit_price": 94.80999755859375,
+      "entry_price": 94.80999755859375,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-07-28",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 5,
+      "entry_price": 93.25250244140625,
+      "reasoning": "AGGRESSIVE buy: GSI=0.948, Connections=6, Strength=0.809"
+    },
+    {
+      "date": "2020-07-28",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 5,
+      "exit_price": 93.25250244140625,
+      "entry_price": 93.25250244140625,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-07-29",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 5,
+      "entry_price": 95.04000091552734,
+      "reasoning": "AGGRESSIVE buy: GSI=0.967, Connections=6, Strength=0.820"
+    },
+    {
+      "date": "2020-07-29",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 5,
+      "exit_price": 95.04000091552734,
+      "entry_price": 95.04000091552734,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-07-30",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 5,
+      "entry_price": 96.19000244140625,
+      "reasoning": "AGGRESSIVE buy: GSI=0.980, Connections=6, Strength=0.828"
+    },
+    {
+      "date": "2020-07-30",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 5,
+      "exit_price": 96.19000244140625,
+      "entry_price": 96.19000244140625,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-07-31",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 4,
+      "entry_price": 106.26000213623047,
+      "reasoning": "AGGRESSIVE buy: GSI=1.000, Connections=6, Strength=0.840"
+    },
+    {
+      "date": "2020-07-31",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 4,
+      "exit_price": 106.26000213623047,
+      "entry_price": 106.26000213623047,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-08-03",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 4,
+      "entry_price": 108.9375,
+      "reasoning": "AGGRESSIVE buy: GSI=1.000, Connections=6, Strength=0.840"
+    },
+    {
+      "date": "2020-08-03",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 4,
+      "exit_price": 108.9375,
+      "entry_price": 108.9375,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-08-04",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 4,
+      "entry_price": 109.66500091552734,
+      "reasoning": "AGGRESSIVE buy: GSI=1.000, Connections=6, Strength=0.840"
+    },
+    {
+      "date": "2020-08-04",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 4,
+      "exit_price": 109.66500091552734,
+      "entry_price": 109.66500091552734,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-08-05",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 4,
+      "entry_price": 110.0625,
+      "reasoning": "AGGRESSIVE buy: GSI=1.000, Connections=6, Strength=0.840"
+    },
+    {
+      "date": "2020-08-05",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 4,
+      "exit_price": 110.0625,
+      "entry_price": 110.0625,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-08-06",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 4,
+      "entry_price": 113.90249633789062,
+      "reasoning": "AGGRESSIVE buy: GSI=1.000, Connections=6, Strength=0.840"
+    },
+    {
+      "date": "2020-08-06",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 4,
+      "exit_price": 113.90249633789062,
+      "entry_price": 113.90249633789062,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-08-07",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 4,
+      "entry_price": 111.11250305175781,
+      "reasoning": "AGGRESSIVE buy: GSI=0.976, Connections=6, Strength=0.825"
+    },
+    {
+      "date": "2020-08-07",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 4,
+      "exit_price": 111.11250305175781,
+      "entry_price": 111.11250305175781,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-08-10",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 4,
+      "entry_price": 112.72750091552734,
+      "reasoning": "AGGRESSIVE buy: GSI=0.990, Connections=6, Strength=0.834"
+    },
+    {
+      "date": "2020-08-10",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 4,
+      "exit_price": 112.72750091552734,
+      "entry_price": 112.72750091552734,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-08-11",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 4,
+      "entry_price": 109.375,
+      "reasoning": "AGGRESSIVE buy: GSI=0.960, Connections=6, Strength=0.816"
+    },
+    {
+      "date": "2020-08-11",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 4,
+      "exit_price": 109.375,
+      "entry_price": 109.375,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-08-12",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 4,
+      "entry_price": 113.01000213623047,
+      "reasoning": "AGGRESSIVE buy: GSI=0.994, Connections=6, Strength=0.836"
+    },
+    {
+      "date": "2020-08-12",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 4,
+      "exit_price": 113.01000213623047,
+      "entry_price": 113.01000213623047,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-08-13",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 4,
+      "entry_price": 115.01000213623047,
+      "reasoning": "AGGRESSIVE buy: GSI=1.000, Connections=6, Strength=0.840"
+    },
+    {
+      "date": "2020-08-13",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 4,
+      "exit_price": 115.01000213623047,
+      "entry_price": 115.01000213623047,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-08-14",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 4,
+      "entry_price": 114.90750122070312,
+      "reasoning": "AGGRESSIVE buy: GSI=0.999, Connections=6, Strength=0.839"
+    },
+    {
+      "date": "2020-08-14",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 4,
+      "exit_price": 114.90750122070312,
+      "entry_price": 114.90750122070312,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-08-17",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 4,
+      "entry_price": 114.60749816894531,
+      "reasoning": "AGGRESSIVE buy: GSI=0.996, Connections=6, Strength=0.838"
+    },
+    {
+      "date": "2020-08-17",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 4,
+      "exit_price": 114.60749816894531,
+      "entry_price": 114.60749816894531,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-08-18",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 4,
+      "entry_price": 115.5625,
+      "reasoning": "AGGRESSIVE buy: GSI=1.000, Connections=6, Strength=0.840"
+    },
+    {
+      "date": "2020-08-18",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 4,
+      "exit_price": 115.5625,
+      "entry_price": 115.5625,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-08-19",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 4,
+      "entry_price": 115.7074966430664,
+      "reasoning": "AGGRESSIVE buy: GSI=1.000, Connections=6, Strength=0.840"
+    },
+    {
+      "date": "2020-08-19",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 4,
+      "exit_price": 115.7074966430664,
+      "entry_price": 115.7074966430664,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-08-20",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 4,
+      "entry_price": 118.2750015258789,
+      "reasoning": "AGGRESSIVE buy: GSI=1.000, Connections=6, Strength=0.840"
+    },
+    {
+      "date": "2020-08-20",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 4,
+      "exit_price": 118.2750015258789,
+      "entry_price": 118.2750015258789,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-08-21",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 4,
+      "entry_price": 124.37000274658203,
+      "reasoning": "AGGRESSIVE buy: GSI=1.000, Connections=6, Strength=0.840"
+    },
+    {
+      "date": "2020-08-21",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 4,
+      "exit_price": 124.37000274658203,
+      "entry_price": 124.37000274658203,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-08-24",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 3,
+      "entry_price": 125.85749816894531,
+      "reasoning": "AGGRESSIVE buy: GSI=1.000, Connections=6, Strength=0.840"
+    },
+    {
+      "date": "2020-08-24",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 3,
+      "exit_price": 125.85749816894531,
+      "entry_price": 125.85749816894531,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-08-25",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 4,
+      "entry_price": 124.82499694824219,
+      "reasoning": "AGGRESSIVE buy: GSI=0.992, Connections=6, Strength=0.835"
+    },
+    {
+      "date": "2020-08-25",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 4,
+      "exit_price": 124.82499694824219,
+      "entry_price": 124.82499694824219,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-08-26",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 3,
+      "entry_price": 126.52249908447266,
+      "reasoning": "AGGRESSIVE buy: GSI=1.000, Connections=6, Strength=0.840"
+    },
+    {
+      "date": "2020-08-26",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 3,
+      "exit_price": 126.52249908447266,
+      "entry_price": 126.52249908447266,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-08-27",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 3,
+      "entry_price": 125.01000213623047,
+      "reasoning": "AGGRESSIVE buy: GSI=0.988, Connections=6, Strength=0.833"
+    },
+    {
+      "date": "2020-08-27",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 3,
+      "exit_price": 125.01000213623047,
+      "entry_price": 125.01000213623047,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-08-28",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 4,
+      "entry_price": 124.80750274658203,
+      "reasoning": "AGGRESSIVE buy: GSI=0.986, Connections=6, Strength=0.832"
+    },
+    {
+      "date": "2020-08-28",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 4,
+      "exit_price": 124.80750274658203,
+      "entry_price": 124.80750274658203,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-08-31",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 3,
+      "entry_price": 129.0399932861328,
+      "reasoning": "AGGRESSIVE buy: GSI=1.000, Connections=6, Strength=0.840"
+    },
+    {
+      "date": "2020-08-31",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 3,
+      "exit_price": 129.0399932861328,
+      "entry_price": 129.0399932861328,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-09-01",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 3,
+      "entry_price": 134.17999267578125,
+      "reasoning": "AGGRESSIVE buy: GSI=1.000, Connections=6, Strength=0.840"
+    },
+    {
+      "date": "2020-09-01",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 3,
+      "exit_price": 134.17999267578125,
+      "entry_price": 134.17999267578125,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-09-02",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 3,
+      "entry_price": 131.39999389648438,
+      "reasoning": "AGGRESSIVE buy: GSI=0.979, Connections=6, Strength=0.828"
+    },
+    {
+      "date": "2020-09-02",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 3,
+      "exit_price": 131.39999389648438,
+      "entry_price": 131.39999389648438,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-09-03",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 4,
+      "entry_price": 120.87999725341797,
+      "reasoning": "AGGRESSIVE buy: GSI=0.899, Connections=6, Strength=0.780"
+    },
+    {
+      "date": "2020-09-03",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 4,
+      "exit_price": 120.87999725341797,
+      "entry_price": 120.87999725341797,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-09-04",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 4,
+      "entry_price": 120.95999908447266,
+      "reasoning": "AGGRESSIVE buy: GSI=0.900, Connections=6, Strength=0.780"
+    },
+    {
+      "date": "2020-09-04",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 4,
+      "exit_price": 120.95999908447266,
+      "entry_price": 120.95999908447266,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-09-08",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 4,
+      "entry_price": 112.81999969482422,
+      "reasoning": "AGGRESSIVE buy: GSI=0.833, Connections=6, Strength=0.740"
+    },
+    {
+      "date": "2020-09-08",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 4,
+      "exit_price": 112.81999969482422,
+      "entry_price": 112.81999969482422,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-09-09",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 4,
+      "entry_price": 117.31999969482422,
+      "reasoning": "AGGRESSIVE buy: GSI=0.872, Connections=6, Strength=0.763"
+    },
+    {
+      "date": "2020-09-09",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 4,
+      "exit_price": 117.31999969482422,
+      "entry_price": 117.31999969482422,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-09-10",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 4,
+      "entry_price": 113.48999786376953,
+      "reasoning": "AGGRESSIVE buy: GSI=0.840, Connections=6, Strength=0.744"
+    },
+    {
+      "date": "2020-09-10",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 4,
+      "exit_price": 113.48999786376953,
+      "entry_price": 113.48999786376953,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-09-11",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 4,
+      "entry_price": 112.0,
+      "reasoning": "AGGRESSIVE buy: GSI=0.827, Connections=6, Strength=0.736"
+    },
+    {
+      "date": "2020-09-11",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 4,
+      "exit_price": 112.0,
+      "entry_price": 112.0,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-09-14",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 4,
+      "entry_price": 115.36000061035156,
+      "reasoning": "AGGRESSIVE buy: GSI=0.857, Connections=6, Strength=0.754"
+    },
+    {
+      "date": "2020-09-14",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 4,
+      "exit_price": 115.36000061035156,
+      "entry_price": 115.36000061035156,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-09-15",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 4,
+      "entry_price": 115.54000091552734,
+      "reasoning": "AGGRESSIVE buy: GSI=0.858, Connections=6, Strength=0.755"
+    },
+    {
+      "date": "2020-09-15",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 4,
+      "exit_price": 115.54000091552734,
+      "entry_price": 115.54000091552734,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-09-16",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 4,
+      "entry_price": 112.12999725341797,
+      "reasoning": "AGGRESSIVE buy: GSI=0.829, Connections=6, Strength=0.737"
+    },
+    {
+      "date": "2020-09-16",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 4,
+      "exit_price": 112.12999725341797,
+      "entry_price": 112.12999725341797,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-09-17",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 4,
+      "entry_price": 110.33999633789062,
+      "reasoning": "AGGRESSIVE buy: GSI=0.813, Connections=6, Strength=0.728"
+    },
+    {
+      "date": "2020-09-17",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 4,
+      "exit_price": 110.33999633789062,
+      "entry_price": 110.33999633789062,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-09-18",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 4,
+      "entry_price": 106.83999633789062,
+      "reasoning": "AGGRESSIVE buy: GSI=0.781, Connections=6, Strength=0.709"
+    },
+    {
+      "date": "2020-09-18",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 4,
+      "exit_price": 106.83999633789062,
+      "entry_price": 106.83999633789062,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-09-21",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 4,
+      "entry_price": 110.08000183105469,
+      "reasoning": "AGGRESSIVE buy: GSI=0.811, Connections=6, Strength=0.727"
+    },
+    {
+      "date": "2020-09-21",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 4,
+      "exit_price": 110.08000183105469,
+      "entry_price": 110.08000183105469,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-09-22",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 4,
+      "entry_price": 111.80999755859375,
+      "reasoning": "AGGRESSIVE buy: GSI=0.827, Connections=6, Strength=0.736"
+    },
+    {
+      "date": "2020-09-22",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 4,
+      "exit_price": 111.80999755859375,
+      "entry_price": 111.80999755859375,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-09-23",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 4,
+      "entry_price": 107.12000274658203,
+      "reasoning": "AGGRESSIVE buy: GSI=0.785, Connections=6, Strength=0.711"
+    },
+    {
+      "date": "2020-09-23",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 4,
+      "exit_price": 107.12000274658203,
+      "entry_price": 107.12000274658203,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-09-24",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 4,
+      "entry_price": 108.22000122070312,
+      "reasoning": "AGGRESSIVE buy: GSI=0.795, Connections=6, Strength=0.717"
+    },
+    {
+      "date": "2020-09-24",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 4,
+      "exit_price": 108.22000122070312,
+      "entry_price": 108.22000122070312,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-09-25",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 4,
+      "entry_price": 112.27999877929688,
+      "reasoning": "AGGRESSIVE buy: GSI=0.833, Connections=6, Strength=0.740"
+    },
+    {
+      "date": "2020-09-25",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 4,
+      "exit_price": 112.27999877929688,
+      "entry_price": 112.27999877929688,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-09-28",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 4,
+      "entry_price": 114.95999908447266,
+      "reasoning": "AGGRESSIVE buy: GSI=0.857, Connections=6, Strength=0.754"
+    },
+    {
+      "date": "2020-09-28",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 4,
+      "exit_price": 114.95999908447266,
+      "entry_price": 114.95999908447266,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-09-29",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 4,
+      "entry_price": 114.08999633789062,
+      "reasoning": "AGGRESSIVE buy: GSI=0.849, Connections=6, Strength=0.750"
+    },
+    {
+      "date": "2020-09-29",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 4,
+      "exit_price": 114.08999633789062,
+      "entry_price": 114.08999633789062,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-09-30",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 4,
+      "entry_price": 115.80999755859375,
+      "reasoning": "AGGRESSIVE buy: GSI=0.864, Connections=6, Strength=0.759"
+    },
+    {
+      "date": "2020-09-30",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 4,
+      "exit_price": 115.80999755859375,
+      "entry_price": 115.80999755859375,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-10-01",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 4,
+      "entry_price": 116.79000091552734,
+      "reasoning": "AGGRESSIVE buy: GSI=0.873, Connections=6, Strength=0.764"
+    },
+    {
+      "date": "2020-10-01",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 4,
+      "exit_price": 116.79000091552734,
+      "entry_price": 116.79000091552734,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-10-02",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 4,
+      "entry_price": 113.0199966430664,
+      "reasoning": "AGGRESSIVE buy: GSI=0.841, Connections=6, Strength=0.744"
+    },
+    {
+      "date": "2020-10-02",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 4,
+      "exit_price": 113.0199966430664,
+      "entry_price": 113.0199966430664,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-10-05",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 4,
+      "entry_price": 116.5,
+      "reasoning": "AGGRESSIVE buy: GSI=0.871, Connections=6, Strength=0.763"
+    },
+    {
+      "date": "2020-10-05",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 4,
+      "exit_price": 116.5,
+      "entry_price": 116.5,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-10-06",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 4,
+      "entry_price": 113.16000366210938,
+      "reasoning": "AGGRESSIVE buy: GSI=0.843, Connections=6, Strength=0.746"
+    },
+    {
+      "date": "2020-10-06",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 4,
+      "exit_price": 113.16000366210938,
+      "entry_price": 113.16000366210938,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-10-07",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 4,
+      "entry_price": 115.08000183105469,
+      "reasoning": "AGGRESSIVE buy: GSI=0.860, Connections=6, Strength=0.756"
+    },
+    {
+      "date": "2020-10-07",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 4,
+      "exit_price": 115.08000183105469,
+      "entry_price": 115.08000183105469,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-10-08",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 4,
+      "entry_price": 114.97000122070312,
+      "reasoning": "AGGRESSIVE buy: GSI=0.859, Connections=6, Strength=0.755"
+    },
+    {
+      "date": "2020-10-08",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 4,
+      "exit_price": 114.97000122070312,
+      "entry_price": 114.97000122070312,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-10-09",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 4,
+      "entry_price": 116.97000122070312,
+      "reasoning": "AGGRESSIVE buy: GSI=0.876, Connections=6, Strength=0.766"
+    },
+    {
+      "date": "2020-10-09",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 4,
+      "exit_price": 116.97000122070312,
+      "entry_price": 116.97000122070312,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-10-12",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 4,
+      "entry_price": 124.4000015258789,
+      "reasoning": "AGGRESSIVE buy: GSI=0.940, Connections=6, Strength=0.804"
+    },
+    {
+      "date": "2020-10-12",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 4,
+      "exit_price": 124.4000015258789,
+      "entry_price": 124.4000015258789,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-10-13",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 4,
+      "entry_price": 121.0999984741211,
+      "reasoning": "AGGRESSIVE buy: GSI=0.913, Connections=6, Strength=0.788"
+    },
+    {
+      "date": "2020-10-13",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 4,
+      "exit_price": 121.0999984741211,
+      "entry_price": 121.0999984741211,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-10-14",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 4,
+      "entry_price": 121.19000244140625,
+      "reasoning": "AGGRESSIVE buy: GSI=0.914, Connections=6, Strength=0.788"
+    },
+    {
+      "date": "2020-10-14",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 4,
+      "exit_price": 121.19000244140625,
+      "entry_price": 121.19000244140625,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-10-15",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 4,
+      "entry_price": 120.70999908447266,
+      "reasoning": "AGGRESSIVE buy: GSI=0.910, Connections=6, Strength=0.786"
+    },
+    {
+      "date": "2020-10-15",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 4,
+      "exit_price": 120.70999908447266,
+      "entry_price": 120.70999908447266,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-10-16",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 4,
+      "entry_price": 119.0199966430664,
+      "reasoning": "AGGRESSIVE buy: GSI=0.896, Connections=6, Strength=0.777"
+    },
+    {
+      "date": "2020-10-16",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 4,
+      "exit_price": 119.0199966430664,
+      "entry_price": 119.0199966430664,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-10-19",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 4,
+      "entry_price": 115.9800033569336,
+      "reasoning": "AGGRESSIVE buy: GSI=0.870, Connections=6, Strength=0.762"
+    },
+    {
+      "date": "2020-10-19",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 4,
+      "exit_price": 115.9800033569336,
+      "entry_price": 115.9800033569336,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-10-20",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 4,
+      "entry_price": 117.51000213623047,
+      "reasoning": "AGGRESSIVE buy: GSI=0.883, Connections=6, Strength=0.770"
+    },
+    {
+      "date": "2020-10-20",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 4,
+      "exit_price": 117.51000213623047,
+      "entry_price": 117.51000213623047,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-10-21",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 4,
+      "entry_price": 116.87000274658203,
+      "reasoning": "AGGRESSIVE buy: GSI=0.878, Connections=6, Strength=0.767"
+    },
+    {
+      "date": "2020-10-21",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 4,
+      "exit_price": 116.87000274658203,
+      "entry_price": 116.87000274658203,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-10-22",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 4,
+      "entry_price": 115.75,
+      "reasoning": "AGGRESSIVE buy: GSI=0.868, Connections=6, Strength=0.761"
+    },
+    {
+      "date": "2020-10-22",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 4,
+      "exit_price": 115.75,
+      "entry_price": 115.75,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-10-23",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 4,
+      "entry_price": 115.04000091552734,
+      "reasoning": "AGGRESSIVE buy: GSI=0.862, Connections=6, Strength=0.757"
+    },
+    {
+      "date": "2020-10-23",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 4,
+      "exit_price": 115.04000091552734,
+      "entry_price": 115.04000091552734,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-10-26",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 4,
+      "entry_price": 115.05000305175781,
+      "reasoning": "AGGRESSIVE buy: GSI=0.862, Connections=6, Strength=0.757"
+    },
+    {
+      "date": "2020-10-26",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 4,
+      "exit_price": 115.05000305175781,
+      "entry_price": 115.05000305175781,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-10-27",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 4,
+      "entry_price": 116.5999984741211,
+      "reasoning": "AGGRESSIVE buy: GSI=0.876, Connections=6, Strength=0.766"
+    },
+    {
+      "date": "2020-10-27",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 4,
+      "exit_price": 116.5999984741211,
+      "entry_price": 116.5999984741211,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-10-28",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 4,
+      "entry_price": 111.19999694824219,
+      "reasoning": "AGGRESSIVE buy: GSI=0.830, Connections=6, Strength=0.738"
+    },
+    {
+      "date": "2020-10-28",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 4,
+      "exit_price": 111.19999694824219,
+      "entry_price": 111.19999694824219,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-10-29",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 4,
+      "entry_price": 115.31999969482422,
+      "reasoning": "AGGRESSIVE buy: GSI=0.867, Connections=6, Strength=0.760"
+    },
+    {
+      "date": "2020-10-29",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 4,
+      "exit_price": 115.31999969482422,
+      "entry_price": 115.31999969482422,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-10-30",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 4,
+      "entry_price": 108.86000061035156,
+      "reasoning": "AGGRESSIVE buy: GSI=0.811, Connections=6, Strength=0.726"
+    },
+    {
+      "date": "2020-10-30",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 4,
+      "exit_price": 108.86000061035156,
+      "entry_price": 108.86000061035156,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-11-02",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 4,
+      "entry_price": 108.7699966430664,
+      "reasoning": "AGGRESSIVE buy: GSI=0.810, Connections=6, Strength=0.726"
+    },
+    {
+      "date": "2020-11-02",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 4,
+      "exit_price": 108.7699966430664,
+      "entry_price": 108.7699966430664,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-11-03",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 4,
+      "entry_price": 110.44000244140625,
+      "reasoning": "AGGRESSIVE buy: GSI=0.825, Connections=6, Strength=0.735"
+    },
+    {
+      "date": "2020-11-03",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 4,
+      "exit_price": 110.44000244140625,
+      "entry_price": 110.44000244140625,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-11-04",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 4,
+      "entry_price": 114.94999694824219,
+      "reasoning": "AGGRESSIVE buy: GSI=0.866, Connections=6, Strength=0.760"
+    },
+    {
+      "date": "2020-11-04",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 4,
+      "exit_price": 114.94999694824219,
+      "entry_price": 114.94999694824219,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-11-05",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 4,
+      "entry_price": 119.02999877929688,
+      "reasoning": "AGGRESSIVE buy: GSI=0.901, Connections=6, Strength=0.781"
+    },
+    {
+      "date": "2020-11-05",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 4,
+      "exit_price": 119.02999877929688,
+      "entry_price": 119.02999877929688,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-11-06",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 4,
+      "entry_price": 118.69000244140625,
+      "reasoning": "AGGRESSIVE buy: GSI=0.899, Connections=6, Strength=0.779"
+    },
+    {
+      "date": "2020-11-06",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 4,
+      "exit_price": 118.69000244140625,
+      "entry_price": 118.69000244140625,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-11-09",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 4,
+      "entry_price": 116.31999969482422,
+      "reasoning": "AGGRESSIVE buy: GSI=0.879, Connections=6, Strength=0.767"
+    },
+    {
+      "date": "2020-11-09",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 4,
+      "exit_price": 116.31999969482422,
+      "entry_price": 116.31999969482422,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-11-10",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 4,
+      "entry_price": 115.97000122070312,
+      "reasoning": "AGGRESSIVE buy: GSI=0.876, Connections=6, Strength=0.765"
+    },
+    {
+      "date": "2020-11-10",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 4,
+      "exit_price": 115.97000122070312,
+      "entry_price": 115.97000122070312,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-11-11",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 4,
+      "entry_price": 119.48999786376953,
+      "reasoning": "AGGRESSIVE buy: GSI=0.906, Connections=6, Strength=0.784"
+    },
+    {
+      "date": "2020-11-11",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 4,
+      "exit_price": 119.48999786376953,
+      "entry_price": 119.48999786376953,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-11-12",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 4,
+      "entry_price": 119.20999908447266,
+      "reasoning": "AGGRESSIVE buy: GSI=0.904, Connections=6, Strength=0.782"
+    },
+    {
+      "date": "2020-11-12",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 4,
+      "exit_price": 119.20999908447266,
+      "entry_price": 119.20999908447266,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-11-13",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 4,
+      "entry_price": 119.26000213623047,
+      "reasoning": "AGGRESSIVE buy: GSI=0.904, Connections=6, Strength=0.782"
+    },
+    {
+      "date": "2020-11-13",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 4,
+      "exit_price": 119.26000213623047,
+      "entry_price": 119.26000213623047,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-11-16",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 4,
+      "entry_price": 120.30000305175781,
+      "reasoning": "AGGRESSIVE buy: GSI=0.913, Connections=6, Strength=0.788"
+    },
+    {
+      "date": "2020-11-16",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 4,
+      "exit_price": 120.30000305175781,
+      "entry_price": 120.30000305175781,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-11-17",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 4,
+      "entry_price": 119.38999938964844,
+      "reasoning": "AGGRESSIVE buy: GSI=0.905, Connections=6, Strength=0.783"
+    },
+    {
+      "date": "2020-11-17",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 4,
+      "exit_price": 119.38999938964844,
+      "entry_price": 119.38999938964844,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-11-18",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 4,
+      "entry_price": 118.02999877929688,
+      "reasoning": "AGGRESSIVE buy: GSI=0.894, Connections=6, Strength=0.776"
+    },
+    {
+      "date": "2020-11-18",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 4,
+      "exit_price": 118.02999877929688,
+      "entry_price": 118.02999877929688,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-11-19",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 4,
+      "entry_price": 118.63999938964844,
+      "reasoning": "AGGRESSIVE buy: GSI=0.899, Connections=6, Strength=0.779"
+    },
+    {
+      "date": "2020-11-19",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 4,
+      "exit_price": 118.63999938964844,
+      "entry_price": 118.63999938964844,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-11-20",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 4,
+      "entry_price": 117.33999633789062,
+      "reasoning": "AGGRESSIVE buy: GSI=0.888, Connections=6, Strength=0.773"
+    },
+    {
+      "date": "2020-11-20",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 4,
+      "exit_price": 117.33999633789062,
+      "entry_price": 117.33999633789062,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-11-23",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 4,
+      "entry_price": 113.8499984741211,
+      "reasoning": "AGGRESSIVE buy: GSI=0.858, Connections=6, Strength=0.755"
+    },
+    {
+      "date": "2020-11-23",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 4,
+      "exit_price": 113.8499984741211,
+      "entry_price": 113.8499984741211,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-11-24",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 4,
+      "entry_price": 115.16999816894531,
+      "reasoning": "AGGRESSIVE buy: GSI=0.870, Connections=6, Strength=0.762"
+    },
+    {
+      "date": "2020-11-24",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 4,
+      "exit_price": 115.16999816894531,
+      "entry_price": 115.16999816894531,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-11-25",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 4,
+      "entry_price": 116.02999877929688,
+      "reasoning": "AGGRESSIVE buy: GSI=0.877, Connections=6, Strength=0.766"
+    },
+    {
+      "date": "2020-11-25",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 4,
+      "exit_price": 116.02999877929688,
+      "entry_price": 116.02999877929688,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-11-27",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 4,
+      "entry_price": 116.58999633789062,
+      "reasoning": "AGGRESSIVE buy: GSI=0.882, Connections=6, Strength=0.769"
+    },
+    {
+      "date": "2020-11-27",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 4,
+      "exit_price": 116.58999633789062,
+      "entry_price": 116.58999633789062,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-11-30",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 4,
+      "entry_price": 119.05000305175781,
+      "reasoning": "AGGRESSIVE buy: GSI=0.903, Connections=6, Strength=0.782"
+    },
+    {
+      "date": "2020-11-30",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 4,
+      "exit_price": 119.05000305175781,
+      "entry_price": 119.05000305175781,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-12-01",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 4,
+      "entry_price": 122.72000122070312,
+      "reasoning": "AGGRESSIVE buy: GSI=0.934, Connections=6, Strength=0.800"
+    },
+    {
+      "date": "2020-12-01",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 4,
+      "exit_price": 122.72000122070312,
+      "entry_price": 122.72000122070312,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-12-02",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 4,
+      "entry_price": 123.08000183105469,
+      "reasoning": "AGGRESSIVE buy: GSI=0.937, Connections=6, Strength=0.802"
+    },
+    {
+      "date": "2020-12-02",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 4,
+      "exit_price": 123.08000183105469,
+      "entry_price": 123.08000183105469,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-12-03",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 4,
+      "entry_price": 122.94000244140625,
+      "reasoning": "AGGRESSIVE buy: GSI=0.936, Connections=6, Strength=0.802"
+    },
+    {
+      "date": "2020-12-03",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 4,
+      "exit_price": 122.94000244140625,
+      "entry_price": 122.94000244140625,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-12-04",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 4,
+      "entry_price": 122.25,
+      "reasoning": "AGGRESSIVE buy: GSI=0.930, Connections=6, Strength=0.798"
+    },
+    {
+      "date": "2020-12-04",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 4,
+      "exit_price": 122.25,
+      "entry_price": 122.25,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-12-07",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 4,
+      "entry_price": 123.75,
+      "reasoning": "AGGRESSIVE buy: GSI=0.943, Connections=6, Strength=0.806"
+    },
+    {
+      "date": "2020-12-07",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 4,
+      "exit_price": 123.75,
+      "entry_price": 123.75,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-12-08",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 4,
+      "entry_price": 124.37999725341797,
+      "reasoning": "AGGRESSIVE buy: GSI=0.948, Connections=6, Strength=0.809"
+    },
+    {
+      "date": "2020-12-08",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 4,
+      "exit_price": 124.37999725341797,
+      "entry_price": 124.37999725341797,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-12-09",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 4,
+      "entry_price": 121.77999877929688,
+      "reasoning": "AGGRESSIVE buy: GSI=0.927, Connections=6, Strength=0.796"
+    },
+    {
+      "date": "2020-12-09",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 4,
+      "exit_price": 121.77999877929688,
+      "entry_price": 121.77999877929688,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-12-10",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 4,
+      "entry_price": 123.23999786376953,
+      "reasoning": "AGGRESSIVE buy: GSI=0.939, Connections=6, Strength=0.803"
+    },
+    {
+      "date": "2020-12-10",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 4,
+      "exit_price": 123.23999786376953,
+      "entry_price": 123.23999786376953,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-12-11",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 4,
+      "entry_price": 122.41000366210938,
+      "reasoning": "AGGRESSIVE buy: GSI=0.932, Connections=6, Strength=0.799"
+    },
+    {
+      "date": "2020-12-11",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 4,
+      "exit_price": 122.41000366210938,
+      "entry_price": 122.41000366210938,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-12-14",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 4,
+      "entry_price": 121.77999877929688,
+      "reasoning": "AGGRESSIVE buy: GSI=0.927, Connections=6, Strength=0.796"
+    },
+    {
+      "date": "2020-12-14",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 4,
+      "exit_price": 121.77999877929688,
+      "entry_price": 121.77999877929688,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-12-15",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 3,
+      "entry_price": 127.87999725341797,
+      "reasoning": "AGGRESSIVE buy: GSI=0.977, Connections=6, Strength=0.826"
+    },
+    {
+      "date": "2020-12-15",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 3,
+      "exit_price": 127.87999725341797,
+      "entry_price": 127.87999725341797,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-12-16",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 3,
+      "entry_price": 127.80999755859375,
+      "reasoning": "AGGRESSIVE buy: GSI=0.976, Connections=6, Strength=0.826"
+    },
+    {
+      "date": "2020-12-16",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 3,
+      "exit_price": 127.80999755859375,
+      "entry_price": 127.80999755859375,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-12-17",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 3,
+      "entry_price": 128.6999969482422,
+      "reasoning": "AGGRESSIVE buy: GSI=0.983, Connections=6, Strength=0.830"
+    },
+    {
+      "date": "2020-12-17",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 3,
+      "exit_price": 128.6999969482422,
+      "entry_price": 128.6999969482422,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-12-18",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 3,
+      "entry_price": 126.66000366210938,
+      "reasoning": "AGGRESSIVE buy: GSI=0.967, Connections=6, Strength=0.820"
+    },
+    {
+      "date": "2020-12-18",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 3,
+      "exit_price": 126.66000366210938,
+      "entry_price": 126.66000366210938,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-12-21",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 3,
+      "entry_price": 128.22999572753906,
+      "reasoning": "AGGRESSIVE buy: GSI=0.980, Connections=6, Strength=0.828"
+    },
+    {
+      "date": "2020-12-21",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 3,
+      "exit_price": 128.22999572753906,
+      "entry_price": 128.22999572753906,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-12-22",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 3,
+      "entry_price": 131.8800048828125,
+      "reasoning": "AGGRESSIVE buy: GSI=1.000, Connections=6, Strength=0.840"
+    },
+    {
+      "date": "2020-12-22",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 3,
+      "exit_price": 131.8800048828125,
+      "entry_price": 131.8800048828125,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-12-23",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 3,
+      "entry_price": 130.9600067138672,
+      "reasoning": "AGGRESSIVE buy: GSI=0.993, Connections=6, Strength=0.836"
+    },
+    {
+      "date": "2020-12-23",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 3,
+      "exit_price": 130.9600067138672,
+      "entry_price": 130.9600067138672,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-12-24",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 3,
+      "entry_price": 131.97000122070312,
+      "reasoning": "AGGRESSIVE buy: GSI=1.000, Connections=6, Strength=0.840"
+    },
+    {
+      "date": "2020-12-24",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 3,
+      "exit_price": 131.97000122070312,
+      "entry_price": 131.97000122070312,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-12-28",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 3,
+      "entry_price": 136.69000244140625,
+      "reasoning": "AGGRESSIVE buy: GSI=1.000, Connections=6, Strength=0.840"
+    },
+    {
+      "date": "2020-12-28",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 3,
+      "exit_price": 136.69000244140625,
+      "entry_price": 136.69000244140625,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-12-29",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 3,
+      "entry_price": 134.8699951171875,
+      "reasoning": "AGGRESSIVE buy: GSI=0.987, Connections=6, Strength=0.832"
+    },
+    {
+      "date": "2020-12-29",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 3,
+      "exit_price": 134.8699951171875,
+      "entry_price": 134.8699951171875,
+      "profit_pct": 0.0
+    },
+    {
+      "date": "2020-12-30",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 3,
+      "entry_price": 133.72000122070312,
+      "reasoning": "AGGRESSIVE buy: GSI=0.978, Connections=6, Strength=0.827"
+    },
+    {
+      "date": "2020-12-30",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 3,
+      "exit_price": 133.72000122070312,
+      "entry_price": 133.72000122070312,
+      "profit_pct": 0.0
+    }
+  ]
+}
