@@ -1,7 +1,7 @@
 # Recursion Research Manifesto (V22.1)
 
-**Author:** Al  
-**Repository:** [Your GitHub Link]  
+**Author:** shackled
+**Repository:** https://github.com/shackled99/recursive-consciousness-framework
 **Version:** 22.1 (Final)  
 **Topic:** Recursive Attractor Principle (RAP) / Universal System Organization
 
